@@ -1,0 +1,83 @@
+Module(
+    body=[
+        ImportFrom(
+            lineno=4,
+            col_offset=0,
+            end_lineno=4,
+            end_col_offset=36,
+            module='odoo',
+            names=[
+                alias(name='models', asname=None),
+                alias(name='fields', asname=None),
+                alias(name='api', asname=None),
+            ],
+            level=0,
+        ),
+        ClassDef(
+            lineno=7,
+            col_offset=0,
+            end_lineno=10,
+            end_col_offset=87,
+            name='Stock',
+            bases=[
+                Attribute(
+                    lineno=7,
+                    col_offset=12,
+                    end_lineno=7,
+                    end_col_offset=24,
+                    value=Name(lineno=7, col_offset=12, end_lineno=7, end_col_offset=18, id='models', ctx=Load()),
+                    attr='Model',
+                    ctx=Load(),
+                ),
+            ],
+            keywords=[],
+            body=[
+                Assign(
+                    lineno=8,
+                    col_offset=4,
+                    end_lineno=8,
+                    end_col_offset=32,
+                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
+                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=32, value='stock.warehouse', kind=None),
+                    type_comment=None,
+                ),
+                Assign(
+                    lineno=10,
+                    col_offset=4,
+                    end_lineno=10,
+                    end_col_offset=87,
+                    targets=[Name(lineno=10, col_offset=4, end_lineno=10, end_col_offset=27, id='l10n_in_sale_journal_id', ctx=Store())],
+                    value=Call(
+                        lineno=10,
+                        col_offset=30,
+                        end_lineno=10,
+                        end_col_offset=87,
+                        func=Attribute(
+                            lineno=10,
+                            col_offset=30,
+                            end_lineno=10,
+                            end_col_offset=45,
+                            value=Name(lineno=10, col_offset=30, end_lineno=10, end_col_offset=36, id='fields', ctx=Load()),
+                            attr='Many2one',
+                            ctx=Load(),
+                        ),
+                        args=[Constant(lineno=10, col_offset=46, end_lineno=10, end_col_offset=63, value='account.journal', kind=None)],
+                        keywords=[
+                            keyword(
+                                lineno=10,
+                                col_offset=65,
+                                end_lineno=10,
+                                end_col_offset=86,
+                                arg='string',
+                                value=Constant(lineno=10, col_offset=72, end_lineno=10, end_col_offset=86, value='Sale Journal', kind=None),
+                            ),
+                        ],
+                    ),
+                    type_comment=None,
+                ),
+            ],
+            decorator_list=[],
+        ),
+    ],
+    type_ignores=[],
+)

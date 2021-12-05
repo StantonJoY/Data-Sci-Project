@@ -1,0 +1,93 @@
+Module(
+    body=[
+        ImportFrom(
+            lineno=4,
+            col_offset=0,
+            end_lineno=4,
+            end_col_offset=31,
+            module='odoo',
+            names=[
+                alias(name='fields', asname=None),
+                alias(name='models', asname=None),
+            ],
+            level=0,
+        ),
+        ClassDef(
+            lineno=6,
+            col_offset=0,
+            end_lineno=10,
+            end_col_offset=135,
+            name='MrpBom',
+            bases=[
+                Attribute(
+                    lineno=6,
+                    col_offset=13,
+                    end_lineno=6,
+                    end_col_offset=25,
+                    value=Name(lineno=6, col_offset=13, end_lineno=6, end_col_offset=19, id='models', ctx=Load()),
+                    attr='Model',
+                    ctx=Load(),
+                ),
+            ],
+            keywords=[],
+            body=[
+                Assign(
+                    lineno=7,
+                    col_offset=4,
+                    end_lineno=7,
+                    end_col_offset=24,
+                    targets=[Name(lineno=7, col_offset=4, end_lineno=7, end_col_offset=12, id='_inherit', ctx=Store())],
+                    value=Constant(lineno=7, col_offset=15, end_lineno=7, end_col_offset=24, value='mrp.bom', kind=None),
+                    type_comment=None,
+                ),
+                Assign(
+                    lineno=9,
+                    col_offset=4,
+                    end_lineno=10,
+                    end_col_offset=135,
+                    targets=[Name(lineno=9, col_offset=4, end_lineno=9, end_col_offset=23, id='analytic_account_id', ctx=Store())],
+                    value=Call(
+                        lineno=9,
+                        col_offset=26,
+                        end_lineno=10,
+                        end_col_offset=135,
+                        func=Attribute(
+                            lineno=9,
+                            col_offset=26,
+                            end_lineno=9,
+                            end_col_offset=41,
+                            value=Name(lineno=9, col_offset=26, end_lineno=9, end_col_offset=32, id='fields', ctx=Load()),
+                            attr='Many2one',
+                            ctx=Load(),
+                        ),
+                        args=[
+                            Constant(lineno=9, col_offset=42, end_lineno=9, end_col_offset=68, value='account.analytic.account', kind=None),
+                            Constant(lineno=9, col_offset=70, end_lineno=9, end_col_offset=88, value='Analytic Account', kind=None),
+                        ],
+                        keywords=[
+                            keyword(
+                                lineno=9,
+                                col_offset=90,
+                                end_lineno=9,
+                                end_col_offset=112,
+                                arg='company_dependent',
+                                value=Constant(lineno=9, col_offset=108, end_lineno=9, end_col_offset=112, value=True, kind=None),
+                            ),
+                            keyword(
+                                lineno=10,
+                                col_offset=8,
+                                end_lineno=10,
+                                end_col_offset=134,
+                                arg='help',
+                                value=Constant(lineno=10, col_offset=13, end_lineno=10, end_col_offset=134, value='Analytic account in which cost and revenue entries will take place for financial management of the manufacturing order.', kind=None),
+                            ),
+                        ],
+                    ),
+                    type_comment=None,
+                ),
+            ],
+            decorator_list=[],
+        ),
+    ],
+    type_ignores=[],
+)

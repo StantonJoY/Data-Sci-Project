@@ -1,0 +1,59 @@
+Module(
+    body=[
+        FunctionDef(
+            lineno=4,
+            col_offset=0,
+            end_lineno=20,
+            end_col_offset=8,
+            name='migrate',
+            args=arguments(
+                posonlyargs=[],
+                args=[
+                    arg(lineno=4, col_offset=12, end_lineno=4, end_col_offset=14, arg='cr', annotation=None, type_comment=None),
+                    arg(lineno=4, col_offset=16, end_lineno=4, end_col_offset=23, arg='version', annotation=None, type_comment=None),
+                ],
+                vararg=None,
+                kwonlyargs=[],
+                kw_defaults=[],
+                kwarg=None,
+                defaults=[],
+            ),
+            body=[
+                Expr(
+                    lineno=5,
+                    col_offset=4,
+                    end_lineno=10,
+                    end_col_offset=7,
+                    value=Constant(lineno=5, col_offset=4, end_lineno=10, end_col_offset=7, value=" From 12.0, to saas-13.3, l10n_ch_swissqr_template\n    used to inherit from another template. This isn't the case\n    anymore since https://github.com/odoo/odoo/commit/719f087b1b5be5f1f276a0f87670830d073f6ef4\n    (made in 12.0, and forward-ported). The module will not be updatable if we\n    don't manually clean inherit_id.\n    ", kind=None),
+                ),
+                Expr(
+                    lineno=11,
+                    col_offset=4,
+                    end_lineno=20,
+                    end_col_offset=8,
+                    value=Call(
+                        lineno=11,
+                        col_offset=4,
+                        end_lineno=20,
+                        end_col_offset=8,
+                        func=Attribute(
+                            lineno=11,
+                            col_offset=4,
+                            end_lineno=11,
+                            end_col_offset=14,
+                            value=Name(lineno=11, col_offset=4, end_lineno=11, end_col_offset=6, id='cr', ctx=Load()),
+                            attr='execute',
+                            ctx=Load(),
+                        ),
+                        args=[Constant(lineno=11, col_offset=15, end_lineno=20, end_col_offset=7, value="\n        update ir_ui_view v\n        set inherit_id = NULL, mode='primary'\n        from ir_model_data mdata\n        where\n        v.id = mdata.res_id\n        and mdata.model= 'ir.ui.view'\n        and mdata.name = 'l10n_ch_swissqr_template'\n        and mdata.module='l10n_ch';\n    ", kind=None)],
+                        keywords=[],
+                    ),
+                ),
+            ],
+            decorator_list=[],
+            returns=None,
+            type_comment=None,
+        ),
+    ],
+    type_ignores=[],
+)

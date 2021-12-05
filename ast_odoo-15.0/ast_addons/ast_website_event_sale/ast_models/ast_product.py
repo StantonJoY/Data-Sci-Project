@@ -1,0 +1,85 @@
+Module(
+    body=[
+        ImportFrom(
+            lineno=3,
+            col_offset=0,
+            end_lineno=3,
+            end_col_offset=31,
+            module='odoo',
+            names=[
+                alias(name='fields', asname=None),
+                alias(name='models', asname=None),
+            ],
+            level=0,
+        ),
+        ClassDef(
+            lineno=7,
+            col_offset=0,
+            end_lineno=10,
+            end_col_offset=98,
+            name='Product',
+            bases=[
+                Attribute(
+                    lineno=7,
+                    col_offset=14,
+                    end_lineno=7,
+                    end_col_offset=26,
+                    value=Name(lineno=7, col_offset=14, end_lineno=7, end_col_offset=20, id='models', ctx=Load()),
+                    attr='Model',
+                    ctx=Load(),
+                ),
+            ],
+            keywords=[],
+            body=[
+                Assign(
+                    lineno=8,
+                    col_offset=4,
+                    end_lineno=8,
+                    end_col_offset=32,
+                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
+                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=32, value='product.product', kind=None),
+                    type_comment=None,
+                ),
+                Assign(
+                    lineno=10,
+                    col_offset=4,
+                    end_lineno=10,
+                    end_col_offset=98,
+                    targets=[Name(lineno=10, col_offset=4, end_lineno=10, end_col_offset=20, id='event_ticket_ids', ctx=Store())],
+                    value=Call(
+                        lineno=10,
+                        col_offset=23,
+                        end_lineno=10,
+                        end_col_offset=98,
+                        func=Attribute(
+                            lineno=10,
+                            col_offset=23,
+                            end_lineno=10,
+                            end_col_offset=38,
+                            value=Name(lineno=10, col_offset=23, end_lineno=10, end_col_offset=29, id='fields', ctx=Load()),
+                            attr='One2many',
+                            ctx=Load(),
+                        ),
+                        args=[
+                            Constant(lineno=10, col_offset=39, end_lineno=10, end_col_offset=59, value='event.event.ticket', kind=None),
+                            Constant(lineno=10, col_offset=61, end_lineno=10, end_col_offset=73, value='product_id', kind=None),
+                        ],
+                        keywords=[
+                            keyword(
+                                lineno=10,
+                                col_offset=75,
+                                end_lineno=10,
+                                end_col_offset=97,
+                                arg='string',
+                                value=Constant(lineno=10, col_offset=82, end_lineno=10, end_col_offset=97, value='Event Tickets', kind=None),
+                            ),
+                        ],
+                    ),
+                    type_comment=None,
+                ),
+            ],
+            decorator_list=[],
+        ),
+    ],
+    type_ignores=[],
+)

@@ -1,0 +1,111 @@
+Module(
+    body=[
+        ImportFrom(
+            lineno=4,
+            col_offset=0,
+            end_lineno=4,
+            end_col_offset=86,
+            module='odoo.addons.base.tests.common',
+            names=[
+                alias(name='HttpCaseWithUserDemo', asname=None),
+                alias(name='HttpCaseWithUserPortal', asname=None),
+            ],
+            level=0,
+        ),
+        ImportFrom(
+            lineno=5,
+            col_offset=0,
+            end_lineno=5,
+            end_col_offset=29,
+            module='odoo.tests',
+            names=[alias(name='tagged', asname=None)],
+            level=0,
+        ),
+        ClassDef(
+            lineno=9,
+            col_offset=0,
+            end_lineno=17,
+            end_col_offset=9,
+            name='TestWEventBoothExhibitorCommon',
+            bases=[
+                Name(lineno=9, col_offset=37, end_lineno=9, end_col_offset=57, id='HttpCaseWithUserDemo', ctx=Load()),
+                Name(lineno=9, col_offset=59, end_lineno=9, end_col_offset=81, id='HttpCaseWithUserPortal', ctx=Load()),
+            ],
+            keywords=[],
+            body=[
+                FunctionDef(
+                    lineno=11,
+                    col_offset=4,
+                    end_lineno=17,
+                    end_col_offset=9,
+                    name='test_register',
+                    args=arguments(
+                        posonlyargs=[],
+                        args=[arg(lineno=11, col_offset=22, end_lineno=11, end_col_offset=26, arg='self', annotation=None, type_comment=None)],
+                        vararg=None,
+                        kwonlyargs=[],
+                        kw_defaults=[],
+                        kwarg=None,
+                        defaults=[],
+                    ),
+                    body=[
+                        Expr(
+                            lineno=12,
+                            col_offset=8,
+                            end_lineno=17,
+                            end_col_offset=9,
+                            value=Call(
+                                lineno=12,
+                                col_offset=8,
+                                end_lineno=17,
+                                end_col_offset=9,
+                                func=Attribute(
+                                    lineno=12,
+                                    col_offset=8,
+                                    end_lineno=12,
+                                    end_col_offset=23,
+                                    value=Name(lineno=12, col_offset=8, end_lineno=12, end_col_offset=12, id='self', ctx=Load()),
+                                    attr='browser_js',
+                                    ctx=Load(),
+                                ),
+                                args=[
+                                    Constant(lineno=13, col_offset=12, end_lineno=13, end_col_offset=20, value='/event', kind=None),
+                                    Constant(lineno=14, col_offset=12, end_lineno=14, end_col_offset=88, value='odoo.__DEBUG__.services["web_tour.tour"].run("webooth_exhibitor_register")', kind=None),
+                                    Constant(lineno=15, col_offset=12, end_lineno=15, end_col_offset=93, value='odoo.__DEBUG__.services["web_tour.tour"].tours.webooth_exhibitor_register.ready', kind=None),
+                                ],
+                                keywords=[
+                                    keyword(
+                                        lineno=16,
+                                        col_offset=12,
+                                        end_lineno=16,
+                                        end_col_offset=25,
+                                        arg='login',
+                                        value=Constant(lineno=16, col_offset=18, end_lineno=16, end_col_offset=25, value='admin', kind=None),
+                                    ),
+                                ],
+                            ),
+                        ),
+                    ],
+                    decorator_list=[],
+                    returns=None,
+                    type_comment=None,
+                ),
+            ],
+            decorator_list=[
+                Call(
+                    lineno=8,
+                    col_offset=1,
+                    end_lineno=8,
+                    end_col_offset=38,
+                    func=Name(lineno=8, col_offset=1, end_lineno=8, end_col_offset=7, id='tagged', ctx=Load()),
+                    args=[
+                        Constant(lineno=8, col_offset=8, end_lineno=8, end_col_offset=22, value='post_install', kind=None),
+                        Constant(lineno=8, col_offset=24, end_lineno=8, end_col_offset=37, value='-at_install', kind=None),
+                    ],
+                    keywords=[],
+                ),
+            ],
+        ),
+    ],
+    type_ignores=[],
+)

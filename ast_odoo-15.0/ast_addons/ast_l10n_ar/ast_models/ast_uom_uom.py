@@ -1,0 +1,82 @@
+Module(
+    body=[
+        ImportFrom(
+            lineno=2,
+            col_offset=0,
+            end_lineno=2,
+            end_col_offset=31,
+            module='odoo',
+            names=[
+                alias(name='fields', asname=None),
+                alias(name='models', asname=None),
+            ],
+            level=0,
+        ),
+        ClassDef(
+            lineno=5,
+            col_offset=0,
+            end_lineno=9,
+            end_col_offset=101,
+            name='Uom',
+            bases=[
+                Attribute(
+                    lineno=5,
+                    col_offset=10,
+                    end_lineno=5,
+                    end_col_offset=22,
+                    value=Name(lineno=5, col_offset=10, end_lineno=5, end_col_offset=16, id='models', ctx=Load()),
+                    attr='Model',
+                    ctx=Load(),
+                ),
+            ],
+            keywords=[],
+            body=[
+                Assign(
+                    lineno=7,
+                    col_offset=4,
+                    end_lineno=7,
+                    end_col_offset=24,
+                    targets=[Name(lineno=7, col_offset=4, end_lineno=7, end_col_offset=12, id='_inherit', ctx=Store())],
+                    value=Constant(lineno=7, col_offset=15, end_lineno=7, end_col_offset=24, value='uom.uom', kind=None),
+                    type_comment=None,
+                ),
+                Assign(
+                    lineno=9,
+                    col_offset=4,
+                    end_lineno=9,
+                    end_col_offset=101,
+                    targets=[Name(lineno=9, col_offset=4, end_lineno=9, end_col_offset=21, id='l10n_ar_afip_code', ctx=Store())],
+                    value=Call(
+                        lineno=9,
+                        col_offset=24,
+                        end_lineno=9,
+                        end_col_offset=101,
+                        func=Attribute(
+                            lineno=9,
+                            col_offset=24,
+                            end_lineno=9,
+                            end_col_offset=35,
+                            value=Name(lineno=9, col_offset=24, end_lineno=9, end_col_offset=30, id='fields', ctx=Load()),
+                            attr='Char',
+                            ctx=Load(),
+                        ),
+                        args=[Constant(lineno=9, col_offset=36, end_lineno=9, end_col_offset=47, value='AFIP Code', kind=None)],
+                        keywords=[
+                            keyword(
+                                lineno=9,
+                                col_offset=49,
+                                end_lineno=9,
+                                end_col_offset=100,
+                                arg='help',
+                                value=Constant(lineno=9, col_offset=54, end_lineno=9, end_col_offset=100, value='This code will be used on electronic invoice', kind=None),
+                            ),
+                        ],
+                    ),
+                    type_comment=None,
+                ),
+            ],
+            decorator_list=[],
+        ),
+    ],
+    type_ignores=[],
+)

@@ -1,0 +1,73 @@
+Module(
+    body=[
+        ImportFrom(
+            lineno=3,
+            col_offset=0,
+            end_lineno=3,
+            end_col_offset=31,
+            module='odoo',
+            names=[
+                alias(name='fields', asname=None),
+                alias(name='models', asname=None),
+            ],
+            level=0,
+        ),
+        ClassDef(
+            lineno=6,
+            col_offset=0,
+            end_lineno=9,
+            end_col_offset=71,
+            name='ResConfigSettings',
+            bases=[
+                Attribute(
+                    lineno=6,
+                    col_offset=24,
+                    end_lineno=6,
+                    end_col_offset=45,
+                    value=Name(lineno=6, col_offset=24, end_lineno=6, end_col_offset=30, id='models', ctx=Load()),
+                    attr='TransientModel',
+                    ctx=Load(),
+                ),
+            ],
+            keywords=[],
+            body=[
+                Assign(
+                    lineno=7,
+                    col_offset=4,
+                    end_lineno=7,
+                    end_col_offset=36,
+                    targets=[Name(lineno=7, col_offset=4, end_lineno=7, end_col_offset=12, id='_inherit', ctx=Store())],
+                    value=Constant(lineno=7, col_offset=15, end_lineno=7, end_col_offset=36, value='res.config.settings', kind=None),
+                    type_comment=None,
+                ),
+                Assign(
+                    lineno=9,
+                    col_offset=4,
+                    end_lineno=9,
+                    end_col_offset=71,
+                    targets=[Name(lineno=9, col_offset=4, end_lineno=9, end_col_offset=22, id='module_l10n_mx_edi', ctx=Store())],
+                    value=Call(
+                        lineno=9,
+                        col_offset=25,
+                        end_lineno=9,
+                        end_col_offset=71,
+                        func=Attribute(
+                            lineno=9,
+                            col_offset=25,
+                            end_lineno=9,
+                            end_col_offset=39,
+                            value=Name(lineno=9, col_offset=25, end_lineno=9, end_col_offset=31, id='fields', ctx=Load()),
+                            attr='Boolean',
+                            ctx=Load(),
+                        ),
+                        args=[Constant(lineno=9, col_offset=40, end_lineno=9, end_col_offset=70, value='Mexican Electronic Invoicing', kind=None)],
+                        keywords=[],
+                    ),
+                    type_comment=None,
+                ),
+            ],
+            decorator_list=[],
+        ),
+    ],
+    type_ignores=[],
+)

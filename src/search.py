@@ -7,7 +7,7 @@ import shutil
 
 def search(filepath):
     code = open(filepath, "r", encoding='utf-8').read()
-    if (re.search("cloud", code) != None):
+    if (re.search("write", code) != None):
     # if (re.search(".py$", filepath) != None):
         print(filepath)
 

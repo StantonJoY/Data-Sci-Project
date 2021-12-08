@@ -22,7 +22,6 @@ def getAllFile(filepath):
             if (os.path.isdir(filepath + '/' + file)): # 递归遍历目录
                 getAllFile(filepath + "/" + file)
 
-
 if __name__ == '__main__':
     current_filepath = os.getcwd()
     ast_filepath = current_filepath + "/" + "ast_odoo-15.0"

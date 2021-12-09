@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.5.29)  9 DEC 2021 17:42
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.5.29)  9 DEC 2021 22:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/hare/Desktop/Data-Sci-Project/Data-Sci-Project
-(/Users/hare/Desktop/Data-Sci-Project/Data-Sci-Project.tex
+**"/Users/hare/Documents/GitHub/Data-Sci-Project/Data-Sci-Project 中期汇报/Data-Sci-Project"
+(/Users/hare/Documents/GitHub/Data-Sci-Project/Data-Sci-Project 中期汇报/Data-Sci-Project.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/ctex/ctexbeamer.cls (/usr/local/texlive/2021/texmf-dist/tex/latex/ctex/config/ctexbackend.cfg
 File: ctexbackend.cfg 2021/03/14 v2.5.6 Backend configuration file (CTEX)
@@ -1391,6 +1391,14 @@ Missing character: There is no 7 ("37) in font nullfont!
  [28
 
 ]
+File: crawler.png Graphic file (type bmp)
+<crawler.png>
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no 2 ("32) in font nullfont!
+ [29
+
+]
 \tf@nav=\write7
 \openout7 = `Data-Sci-Project.nav'.
 
@@ -1408,12 +1416,12 @@ Package logreq Info: Writing requests to 'Data-Sci-Project.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33230 strings out of 476919
- 707141 string characters out of 5821840
- 1260948 words of memory out of 5000000
- 52592 multiletter control sequences out of 15000+600000
+ 33244 strings out of 476919
+ 707587 string characters out of 5821840
+ 1261004 words of memory out of 5000000
+ 52605 multiletter control sequences out of 15000+600000
  403990 words of font info for 53 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 145i,16n,146p,1863b,759s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 145i,16n,146p,1896b,759s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Data-Sci-Project.pdf (28 pages).
+Output written on Data-Sci-Project.pdf (29 pages).

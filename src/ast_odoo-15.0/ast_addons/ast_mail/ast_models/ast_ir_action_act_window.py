@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=2,
-            col_offset=0,
-            end_lineno=2,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=5,
-            col_offset=0,
-            end_lineno=10,
-            end_col_offset=40,
             name='ActWindowView',
             bases=[
                 Attribute(
-                    lineno=5,
-                    col_offset=20,
-                    end_lineno=5,
-                    end_col_offset=32,
-                    value=Name(lineno=5, col_offset=20, end_lineno=5, end_col_offset=26, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,56 +20,28 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=6,
-                    col_offset=4,
-                    end_lineno=6,
-                    end_col_offset=43,
-                    targets=[Name(lineno=6, col_offset=4, end_lineno=6, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=6, col_offset=15, end_lineno=6, end_col_offset=43, value='ir.actions.act_window.view', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='ir.actions.act_window.view', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=10,
-                    end_col_offset=40,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=13, id='view_mode', ctx=Store())],
+                    targets=[Name(id='view_mode', ctx=Store())],
                     value=Call(
-                        lineno=8,
-                        col_offset=16,
-                        end_lineno=10,
-                        end_col_offset=40,
                         func=Attribute(
-                            lineno=8,
-                            col_offset=16,
-                            end_lineno=8,
-                            end_col_offset=32,
-                            value=Name(lineno=8, col_offset=16, end_lineno=8, end_col_offset=22, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Selection',
                             ctx=Load(),
                         ),
                         args=[],
                         keywords=[
                             keyword(
-                                lineno=8,
-                                col_offset=33,
-                                end_lineno=10,
-                                end_col_offset=5,
                                 arg='selection_add',
                                 value=List(
-                                    lineno=8,
-                                    col_offset=47,
-                                    end_lineno=10,
-                                    end_col_offset=5,
                                     elts=[
                                         Tuple(
-                                            lineno=9,
-                                            col_offset=8,
-                                            end_lineno=9,
-                                            end_col_offset=32,
                                             elts=[
-                                                Constant(lineno=9, col_offset=9, end_lineno=9, end_col_offset=19, value='activity', kind=None),
-                                                Constant(lineno=9, col_offset=21, end_lineno=9, end_col_offset=31, value='Activity', kind=None),
+                                                Constant(value='activity', kind=None),
+                                                Constant(value='Activity', kind=None),
                                             ],
                                             ctx=Load(),
                                         ),
@@ -90,18 +50,10 @@ Module(
                                 ),
                             ),
                             keyword(
-                                lineno=10,
-                                col_offset=7,
-                                end_lineno=10,
-                                end_col_offset=39,
                                 arg='ondelete',
                                 value=Dict(
-                                    lineno=10,
-                                    col_offset=16,
-                                    end_lineno=10,
-                                    end_col_offset=39,
-                                    keys=[Constant(lineno=10, col_offset=17, end_lineno=10, end_col_offset=27, value='activity', kind=None)],
-                                    values=[Constant(lineno=10, col_offset=29, end_lineno=10, end_col_offset=38, value='cascade', kind=None)],
+                                    keys=[Constant(value='activity', kind=None)],
+                                    values=[Constant(value='cascade', kind=None)],
                                 ),
                             ),
                         ],

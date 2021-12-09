@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=3,
-            col_offset=0,
-            end_lineno=3,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=6,
-            col_offset=0,
-            end_lineno=16,
-            end_col_offset=5,
             name='BusPresence',
             bases=[
                 Attribute(
-                    lineno=6,
-                    col_offset=18,
-                    end_lineno=6,
-                    end_col_offset=30,
-                    value=Name(lineno=6, col_offset=18, end_lineno=6, end_col_offset=24, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,67 +20,39 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=7,
-                    col_offset=4,
-                    end_lineno=7,
-                    end_col_offset=31,
-                    targets=[Name(lineno=7, col_offset=4, end_lineno=7, end_col_offset=12, id='_inherit', ctx=Store())],
+                    targets=[Name(id='_inherit', ctx=Store())],
                     value=List(
-                        lineno=7,
-                        col_offset=15,
-                        end_lineno=7,
-                        end_col_offset=31,
-                        elts=[Constant(lineno=7, col_offset=16, end_lineno=7, end_col_offset=30, value='bus.presence', kind=None)],
+                        elts=[Constant(value='bus.presence', kind=None)],
                         ctx=Load(),
                     ),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=9,
-                    col_offset=4,
-                    end_lineno=9,
-                    end_col_offset=73,
-                    targets=[Name(lineno=9, col_offset=4, end_lineno=9, end_col_offset=12, id='guest_id', ctx=Store())],
+                    targets=[Name(id='guest_id', ctx=Store())],
                     value=Call(
-                        lineno=9,
-                        col_offset=15,
-                        end_lineno=9,
-                        end_col_offset=73,
                         func=Attribute(
-                            lineno=9,
-                            col_offset=15,
-                            end_lineno=9,
-                            end_col_offset=30,
-                            value=Name(lineno=9, col_offset=15, end_lineno=9, end_col_offset=21, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Many2one',
                             ctx=Load(),
                         ),
                         args=[
-                            Constant(lineno=9, col_offset=31, end_lineno=9, end_col_offset=43, value='mail.guest', kind=None),
-                            Constant(lineno=9, col_offset=45, end_lineno=9, end_col_offset=52, value='Guest', kind=None),
+                            Constant(value='mail.guest', kind=None),
+                            Constant(value='Guest', kind=None),
                         ],
                         keywords=[
                             keyword(
-                                lineno=9,
-                                col_offset=54,
-                                end_lineno=9,
-                                end_col_offset=72,
                                 arg='ondelete',
-                                value=Constant(lineno=9, col_offset=63, end_lineno=9, end_col_offset=72, value='cascade', kind=None),
+                                value=Constant(value='cascade', kind=None),
                             ),
                         ],
                     ),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=11,
-                    col_offset=4,
-                    end_lineno=12,
-                    end_col_offset=148,
                     name='init',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=11, col_offset=13, end_lineno=11, end_col_offset=17, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -101,31 +61,11 @@ Module(
                     ),
                     body=[
                         Expr(
-                            lineno=12,
-                            col_offset=8,
-                            end_lineno=12,
-                            end_col_offset=148,
                             value=Call(
-                                lineno=12,
-                                col_offset=8,
-                                end_lineno=12,
-                                end_col_offset=148,
                                 func=Attribute(
-                                    lineno=12,
-                                    col_offset=8,
-                                    end_lineno=12,
-                                    end_col_offset=27,
                                     value=Attribute(
-                                        lineno=12,
-                                        col_offset=8,
-                                        end_lineno=12,
-                                        end_col_offset=19,
                                         value=Attribute(
-                                            lineno=12,
-                                            col_offset=8,
-                                            end_lineno=12,
-                                            end_col_offset=16,
-                                            value=Name(lineno=12, col_offset=8, end_lineno=12, end_col_offset=12, id='self', ctx=Load()),
+                                            value=Name(id='self', ctx=Load()),
                                             attr='env',
                                             ctx=Load(),
                                         ),
@@ -137,18 +77,10 @@ Module(
                                 ),
                                 args=[
                                     BinOp(
-                                        lineno=12,
-                                        col_offset=28,
-                                        end_lineno=12,
-                                        end_col_offset=147,
-                                        left=Constant(lineno=12, col_offset=28, end_lineno=12, end_col_offset=133, value='CREATE UNIQUE INDEX IF NOT EXISTS bus_presence_guest_unique ON %s (guest_id) WHERE guest_id IS NOT NULL', kind=None),
+                                        left=Constant(value='CREATE UNIQUE INDEX IF NOT EXISTS bus_presence_guest_unique ON %s (guest_id) WHERE guest_id IS NOT NULL', kind=None),
                                         op=Mod(),
                                         right=Attribute(
-                                            lineno=12,
-                                            col_offset=136,
-                                            end_lineno=12,
-                                            end_col_offset=147,
-                                            value=Name(lineno=12, col_offset=136, end_lineno=12, end_col_offset=140, id='self', ctx=Load()),
+                                            value=Name(id='self', ctx=Load()),
                                             attr='_table',
                                             ctx=Load(),
                                         ),
@@ -163,26 +95,14 @@ Module(
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=14,
-                    col_offset=4,
-                    end_lineno=16,
-                    end_col_offset=5,
-                    targets=[Name(lineno=14, col_offset=4, end_lineno=14, end_col_offset=20, id='_sql_constraints', ctx=Store())],
+                    targets=[Name(id='_sql_constraints', ctx=Store())],
                     value=List(
-                        lineno=14,
-                        col_offset=23,
-                        end_lineno=16,
-                        end_col_offset=5,
                         elts=[
                             Tuple(
-                                lineno=15,
-                                col_offset=8,
-                                end_lineno=15,
-                                end_col_offset=181,
                                 elts=[
-                                    Constant(lineno=15, col_offset=9, end_lineno=15, end_col_offset=34, value='partner_or_guest_exists', kind=None),
-                                    Constant(lineno=15, col_offset=36, end_lineno=15, end_col_offset=133, value='CHECK((user_id IS NOT NULL AND guest_id IS NULL) OR (user_id IS NULL AND guest_id IS NOT NULL))', kind=None),
-                                    Constant(lineno=15, col_offset=135, end_lineno=15, end_col_offset=180, value='A bus presence must have a user or a guest.', kind=None),
+                                    Constant(value='partner_or_guest_exists', kind=None),
+                                    Constant(value='CHECK((user_id IS NOT NULL AND guest_id IS NULL) OR (user_id IS NULL AND guest_id IS NOT NULL))', kind=None),
+                                    Constant(value='A bus presence must have a user or a guest.', kind=None),
                                 ],
                                 ctx=Load(),
                             ),

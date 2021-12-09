@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=2,
-            col_offset=0,
-            end_lineno=2,
-            end_col_offset=39,
             module='odoo',
             names=[
                 alias(name='api', asname=None),
@@ -15,27 +11,15 @@ Module(
             level=0,
         ),
         ImportFrom(
-            lineno=3,
-            col_offset=0,
-            end_lineno=3,
-            end_col_offset=37,
             module='odoo.exceptions',
             names=[alias(name='UserError', asname=None)],
             level=0,
         ),
         ClassDef(
-            lineno=6,
-            col_offset=0,
-            end_lineno=14,
-            end_col_offset=110,
             name='IrAttachment',
             bases=[
                 Attribute(
-                    lineno=6,
-                    col_offset=19,
-                    end_lineno=6,
-                    end_col_offset=31,
-                    value=Name(lineno=6, col_offset=19, end_lineno=6, end_col_offset=25, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -43,23 +27,15 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=7,
-                    col_offset=4,
-                    end_lineno=7,
-                    end_col_offset=30,
-                    targets=[Name(lineno=7, col_offset=4, end_lineno=7, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=7, col_offset=15, end_lineno=7, end_col_offset=30, value='ir.attachment', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='ir.attachment', kind=None),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=14,
-                    end_col_offset=110,
                     name='_unlink_except_government_document',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=10, col_offset=43, end_lineno=10, end_col_offset=47, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -68,36 +44,16 @@ Module(
                     ),
                     body=[
                         Assign(
-                            lineno=11,
-                            col_offset=8,
-                            end_lineno=11,
-                            end_col_offset=107,
-                            targets=[Name(lineno=11, col_offset=8, end_lineno=11, end_col_offset=28, id='linked_edi_documents', ctx=Store())],
+                            targets=[Name(id='linked_edi_documents', ctx=Store())],
                             value=Call(
-                                lineno=11,
-                                col_offset=31,
-                                end_lineno=11,
-                                end_col_offset=107,
                                 func=Attribute(
-                                    lineno=11,
-                                    col_offset=31,
-                                    end_lineno=11,
-                                    end_col_offset=70,
                                     value=Subscript(
-                                        lineno=11,
-                                        col_offset=31,
-                                        end_lineno=11,
-                                        end_col_offset=63,
                                         value=Attribute(
-                                            lineno=11,
-                                            col_offset=31,
-                                            end_lineno=11,
-                                            end_col_offset=39,
-                                            value=Name(lineno=11, col_offset=31, end_lineno=11, end_col_offset=35, id='self', ctx=Load()),
+                                            value=Name(id='self', ctx=Load()),
                                             attr='env',
                                             ctx=Load(),
                                         ),
-                                        slice=Constant(lineno=11, col_offset=40, end_lineno=11, end_col_offset=62, value='account.edi.document', kind=None),
+                                        slice=Constant(value='account.edi.document', kind=None),
                                         ctx=Load(),
                                     ),
                                     attr='search',
@@ -105,25 +61,13 @@ Module(
                                 ),
                                 args=[
                                     List(
-                                        lineno=11,
-                                        col_offset=71,
-                                        end_lineno=11,
-                                        end_col_offset=106,
                                         elts=[
                                             Tuple(
-                                                lineno=11,
-                                                col_offset=72,
-                                                end_lineno=11,
-                                                end_col_offset=105,
                                                 elts=[
-                                                    Constant(lineno=11, col_offset=73, end_lineno=11, end_col_offset=88, value='attachment_id', kind=None),
-                                                    Constant(lineno=11, col_offset=90, end_lineno=11, end_col_offset=94, value='in', kind=None),
+                                                    Constant(value='attachment_id', kind=None),
+                                                    Constant(value='in', kind=None),
                                                     Attribute(
-                                                        lineno=11,
-                                                        col_offset=96,
-                                                        end_lineno=11,
-                                                        end_col_offset=104,
-                                                        value=Name(lineno=11, col_offset=96, end_lineno=11, end_col_offset=100, id='self', ctx=Load()),
+                                                        value=Name(id='self', ctx=Load()),
                                                         attr='ids',
                                                         ctx=Load(),
                                                     ),
@@ -139,27 +83,11 @@ Module(
                             type_comment=None,
                         ),
                         Assign(
-                            lineno=12,
-                            col_offset=8,
-                            end_lineno=12,
-                            end_col_offset=128,
-                            targets=[Name(lineno=12, col_offset=8, end_lineno=12, end_col_offset=29, id='linked_edi_formats_ws', ctx=Store())],
+                            targets=[Name(id='linked_edi_formats_ws', ctx=Store())],
                             value=Call(
-                                lineno=12,
-                                col_offset=32,
-                                end_lineno=12,
-                                end_col_offset=128,
                                 func=Attribute(
-                                    lineno=12,
-                                    col_offset=32,
-                                    end_lineno=12,
-                                    end_col_offset=75,
                                     value=Attribute(
-                                        lineno=12,
-                                        col_offset=32,
-                                        end_lineno=12,
-                                        end_col_offset=66,
-                                        value=Name(lineno=12, col_offset=32, end_lineno=12, end_col_offset=52, id='linked_edi_documents', ctx=Load()),
+                                        value=Name(id='linked_edi_documents', ctx=Load()),
                                         attr='edi_format_id',
                                         ctx=Load(),
                                     ),
@@ -168,13 +96,9 @@ Module(
                                 ),
                                 args=[
                                     Lambda(
-                                        lineno=12,
-                                        col_offset=76,
-                                        end_lineno=12,
-                                        end_col_offset=127,
                                         args=arguments(
                                             posonlyargs=[],
-                                            args=[arg(lineno=12, col_offset=83, end_lineno=12, end_col_offset=93, arg='edi_format', annotation=None, type_comment=None)],
+                                            args=[arg(arg='edi_format', annotation=None, type_comment=None)],
                                             vararg=None,
                                             kwonlyargs=[],
                                             kw_defaults=[],
@@ -182,16 +106,8 @@ Module(
                                             defaults=[],
                                         ),
                                         body=Call(
-                                            lineno=12,
-                                            col_offset=95,
-                                            end_lineno=12,
-                                            end_col_offset=127,
                                             func=Attribute(
-                                                lineno=12,
-                                                col_offset=95,
-                                                end_lineno=12,
-                                                end_col_offset=125,
-                                                value=Name(lineno=12, col_offset=95, end_lineno=12, end_col_offset=105, id='edi_format', ctx=Load()),
+                                                value=Name(id='edi_format', ctx=Load()),
                                                 attr='_needs_web_services',
                                                 ctx=Load(),
                                             ),
@@ -205,31 +121,15 @@ Module(
                             type_comment=None,
                         ),
                         If(
-                            lineno=13,
-                            col_offset=8,
-                            end_lineno=14,
-                            end_col_offset=110,
-                            test=Name(lineno=13, col_offset=11, end_lineno=13, end_col_offset=32, id='linked_edi_formats_ws', ctx=Load()),
+                            test=Name(id='linked_edi_formats_ws', ctx=Load()),
                             body=[
                                 Raise(
-                                    lineno=14,
-                                    col_offset=12,
-                                    end_lineno=14,
-                                    end_col_offset=110,
                                     exc=Call(
-                                        lineno=14,
-                                        col_offset=18,
-                                        end_lineno=14,
-                                        end_col_offset=110,
-                                        func=Name(lineno=14, col_offset=18, end_lineno=14, end_col_offset=27, id='UserError', ctx=Load()),
+                                        func=Name(id='UserError', ctx=Load()),
                                         args=[
                                             Call(
-                                                lineno=14,
-                                                col_offset=28,
-                                                end_lineno=14,
-                                                end_col_offset=109,
-                                                func=Name(lineno=14, col_offset=28, end_lineno=14, end_col_offset=29, id='_', ctx=Load()),
-                                                args=[Constant(lineno=14, col_offset=30, end_lineno=14, end_col_offset=108, value="You can't unlink an attachment being an EDI document sent to the government.", kind=None)],
+                                                func=Name(id='_', ctx=Load()),
+                                                args=[Constant(value="You can't unlink an attachment being an EDI document sent to the government.", kind=None)],
                                                 keywords=[],
                                             ),
                                         ],
@@ -243,28 +143,16 @@ Module(
                     ],
                     decorator_list=[
                         Call(
-                            lineno=9,
-                            col_offset=5,
-                            end_lineno=9,
-                            end_col_offset=37,
                             func=Attribute(
-                                lineno=9,
-                                col_offset=5,
-                                end_lineno=9,
-                                end_col_offset=17,
-                                value=Name(lineno=9, col_offset=5, end_lineno=9, end_col_offset=8, id='api', ctx=Load()),
+                                value=Name(id='api', ctx=Load()),
                                 attr='ondelete',
                                 ctx=Load(),
                             ),
                             args=[],
                             keywords=[
                                 keyword(
-                                    lineno=9,
-                                    col_offset=18,
-                                    end_lineno=9,
-                                    end_col_offset=36,
                                     arg='at_uninstall',
-                                    value=Constant(lineno=9, col_offset=31, end_lineno=9, end_col_offset=36, value=False, kind=None),
+                                    value=Constant(value=False, kind=None),
                                 ),
                             ],
                         ),

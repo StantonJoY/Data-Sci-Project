@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=12,
-            end_col_offset=52,
             name='EventType',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=16,
-                    end_lineno=7,
-                    end_col_offset=28,
-                    value=Name(lineno=7, col_offset=16, end_lineno=7, end_col_offset=22, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,62 +20,34 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=27,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=27, value='event.type', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='event.type', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=12,
-                    end_col_offset=52,
-                    targets=[Name(lineno=10, col_offset=4, end_lineno=10, end_col_offset=24, id='event_type_booth_ids', ctx=Store())],
+                    targets=[Name(id='event_type_booth_ids', ctx=Store())],
                     value=Call(
-                        lineno=10,
-                        col_offset=27,
-                        end_lineno=12,
-                        end_col_offset=52,
                         func=Attribute(
-                            lineno=10,
-                            col_offset=27,
-                            end_lineno=10,
-                            end_col_offset=42,
-                            value=Name(lineno=10, col_offset=27, end_lineno=10, end_col_offset=33, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='One2many',
                             ctx=Load(),
                         ),
                         args=[
-                            Constant(lineno=11, col_offset=8, end_lineno=11, end_col_offset=26, value='event.type.booth', kind=None),
-                            Constant(lineno=11, col_offset=28, end_lineno=11, end_col_offset=43, value='event_type_id', kind=None),
+                            Constant(value='event.type.booth', kind=None),
+                            Constant(value='event_type_id', kind=None),
                         ],
                         keywords=[
                             keyword(
-                                lineno=12,
-                                col_offset=8,
-                                end_lineno=12,
-                                end_col_offset=23,
                                 arg='string',
-                                value=Constant(lineno=12, col_offset=15, end_lineno=12, end_col_offset=23, value='Booths', kind=None),
+                                value=Constant(value='Booths', kind=None),
                             ),
                             keyword(
-                                lineno=12,
-                                col_offset=25,
-                                end_lineno=12,
-                                end_col_offset=39,
                                 arg='readonly',
-                                value=Constant(lineno=12, col_offset=34, end_lineno=12, end_col_offset=39, value=False, kind=None),
+                                value=Constant(value=False, kind=None),
                             ),
                             keyword(
-                                lineno=12,
-                                col_offset=41,
-                                end_lineno=12,
-                                end_col_offset=51,
                                 arg='store',
-                                value=Constant(lineno=12, col_offset=47, end_lineno=12, end_col_offset=51, value=True, kind=None),
+                                value=Constant(value=True, kind=None),
                             ),
                         ],
                     ),

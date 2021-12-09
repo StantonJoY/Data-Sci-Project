@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=26,
             module='odoo',
             names=[
                 alias(name='models', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=14,
-            end_col_offset=38,
             name='AccountMove',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=18,
-                    end_lineno=7,
-                    end_col_offset=30,
-                    value=Name(lineno=7, col_offset=18, end_lineno=7, end_col_offset=24, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,23 +20,15 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=29,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=29, value='account.move', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='account.move', kind=None),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=14,
-                    end_col_offset=38,
                     name='button_cancel',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=10, col_offset=22, end_lineno=10, end_col_offset=26, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -57,57 +37,25 @@ Module(
                     ),
                     body=[
                         For(
-                            lineno=11,
-                            col_offset=8,
-                            end_lineno=13,
-                            end_col_offset=74,
-                            target=Name(lineno=11, col_offset=12, end_lineno=11, end_col_offset=13, id='l', ctx=Store()),
+                            target=Name(id='l', ctx=Store()),
                             iter=Attribute(
-                                lineno=11,
-                                col_offset=17,
-                                end_lineno=11,
-                                end_col_offset=30,
-                                value=Name(lineno=11, col_offset=17, end_lineno=11, end_col_offset=21, id='self', ctx=Load()),
+                                value=Name(id='self', ctx=Load()),
                                 attr='line_ids',
                                 ctx=Load(),
                             ),
                             body=[
                                 If(
-                                    lineno=12,
-                                    col_offset=12,
-                                    end_lineno=13,
-                                    end_col_offset=74,
                                     test=Attribute(
-                                        lineno=12,
-                                        col_offset=15,
-                                        end_lineno=12,
-                                        end_col_offset=27,
-                                        value=Name(lineno=12, col_offset=15, end_lineno=12, end_col_offset=16, id='l', ctx=Load()),
+                                        value=Name(id='l', ctx=Load()),
                                         attr='expense_id',
                                         ctx=Load(),
                                     ),
                                     body=[
                                         Expr(
-                                            lineno=13,
-                                            col_offset=16,
-                                            end_lineno=13,
-                                            end_col_offset=74,
                                             value=Call(
-                                                lineno=13,
-                                                col_offset=16,
-                                                end_lineno=13,
-                                                end_col_offset=74,
                                                 func=Attribute(
-                                                    lineno=13,
-                                                    col_offset=16,
-                                                    end_lineno=13,
-                                                    end_col_offset=43,
                                                     value=Attribute(
-                                                        lineno=13,
-                                                        col_offset=16,
-                                                        end_lineno=13,
-                                                        end_col_offset=28,
-                                                        value=Name(lineno=13, col_offset=16, end_lineno=13, end_col_offset=17, id='l', ctx=Load()),
+                                                        value=Name(id='l', ctx=Load()),
                                                         attr='expense_id',
                                                         ctx=Load(),
                                                     ),
@@ -117,18 +65,10 @@ Module(
                                                 args=[],
                                                 keywords=[
                                                     keyword(
-                                                        lineno=13,
-                                                        col_offset=44,
-                                                        end_lineno=13,
-                                                        end_col_offset=73,
                                                         arg='reason',
                                                         value=Call(
-                                                            lineno=13,
-                                                            col_offset=51,
-                                                            end_lineno=13,
-                                                            end_col_offset=73,
-                                                            func=Name(lineno=13, col_offset=51, end_lineno=13, end_col_offset=52, id='_', ctx=Load()),
-                                                            args=[Constant(lineno=13, col_offset=53, end_lineno=13, end_col_offset=72, value='Payment Cancelled', kind=None)],
+                                                            func=Name(id='_', ctx=Load()),
+                                                            args=[Constant(value='Payment Cancelled', kind=None)],
                                                             keywords=[],
                                                         ),
                                                     ),
@@ -143,26 +83,10 @@ Module(
                             type_comment=None,
                         ),
                         Return(
-                            lineno=14,
-                            col_offset=8,
-                            end_lineno=14,
-                            end_col_offset=38,
                             value=Call(
-                                lineno=14,
-                                col_offset=15,
-                                end_lineno=14,
-                                end_col_offset=38,
                                 func=Attribute(
-                                    lineno=14,
-                                    col_offset=15,
-                                    end_lineno=14,
-                                    end_col_offset=36,
                                     value=Call(
-                                        lineno=14,
-                                        col_offset=15,
-                                        end_lineno=14,
-                                        end_col_offset=22,
-                                        func=Name(lineno=14, col_offset=15, end_lineno=14, end_col_offset=20, id='super', ctx=Load()),
+                                        func=Name(id='super', ctx=Load()),
                                         args=[],
                                         keywords=[],
                                     ),

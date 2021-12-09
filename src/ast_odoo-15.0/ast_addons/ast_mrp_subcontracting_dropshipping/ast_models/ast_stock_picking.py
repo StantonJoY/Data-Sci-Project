@@ -1,27 +1,15 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=23,
             module='odoo',
             names=[alias(name='models', asname=None)],
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=13,
-            end_col_offset=73,
             name='StockPicking',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=19,
-                    end_lineno=7,
-                    end_col_offset=31,
-                    value=Name(lineno=7, col_offset=19, end_lineno=7, end_col_offset=25, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -29,25 +17,17 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=30,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=30, value='stock.picking', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='stock.picking', kind=None),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=13,
-                    end_col_offset=73,
                     name='_get_warehouse',
                     args=arguments(
                         posonlyargs=[],
                         args=[
-                            arg(lineno=10, col_offset=23, end_lineno=10, end_col_offset=27, arg='self', annotation=None, type_comment=None),
-                            arg(lineno=10, col_offset=29, end_lineno=10, end_col_offset=45, arg='subcontract_move', annotation=None, type_comment=None),
+                            arg(arg='self', annotation=None, type_comment=None),
+                            arg(arg='subcontract_move', annotation=None, type_comment=None),
                         ],
                         vararg=None,
                         kwonlyargs=[],
@@ -57,41 +37,17 @@ Module(
                     ),
                     body=[
                         If(
-                            lineno=11,
-                            col_offset=8,
-                            end_lineno=12,
-                            end_col_offset=70,
                             test=Attribute(
-                                lineno=11,
-                                col_offset=11,
-                                end_lineno=11,
-                                end_col_offset=40,
-                                value=Name(lineno=11, col_offset=11, end_lineno=11, end_col_offset=27, id='subcontract_move', ctx=Load()),
+                                value=Name(id='subcontract_move', ctx=Load()),
                                 attr='sale_line_id',
                                 ctx=Load(),
                             ),
                             body=[
                                 Return(
-                                    lineno=12,
-                                    col_offset=12,
-                                    end_lineno=12,
-                                    end_col_offset=70,
                                     value=Attribute(
-                                        lineno=12,
-                                        col_offset=19,
-                                        end_lineno=12,
-                                        end_col_offset=70,
                                         value=Attribute(
-                                            lineno=12,
-                                            col_offset=19,
-                                            end_lineno=12,
-                                            end_col_offset=57,
                                             value=Attribute(
-                                                lineno=12,
-                                                col_offset=19,
-                                                end_lineno=12,
-                                                end_col_offset=48,
-                                                value=Name(lineno=12, col_offset=19, end_lineno=12, end_col_offset=35, id='subcontract_move', ctx=Load()),
+                                                value=Name(id='subcontract_move', ctx=Load()),
                                                 attr='sale_line_id',
                                                 ctx=Load(),
                                             ),
@@ -106,36 +62,20 @@ Module(
                             orelse=[],
                         ),
                         Return(
-                            lineno=13,
-                            col_offset=8,
-                            end_lineno=13,
-                            end_col_offset=73,
                             value=Call(
-                                lineno=13,
-                                col_offset=15,
-                                end_lineno=13,
-                                end_col_offset=73,
                                 func=Attribute(
-                                    lineno=13,
-                                    col_offset=15,
-                                    end_lineno=13,
-                                    end_col_offset=55,
                                     value=Call(
-                                        lineno=13,
-                                        col_offset=15,
-                                        end_lineno=13,
-                                        end_col_offset=40,
-                                        func=Name(lineno=13, col_offset=15, end_lineno=13, end_col_offset=20, id='super', ctx=Load()),
+                                        func=Name(id='super', ctx=Load()),
                                         args=[
-                                            Name(lineno=13, col_offset=21, end_lineno=13, end_col_offset=33, id='StockPicking', ctx=Load()),
-                                            Name(lineno=13, col_offset=35, end_lineno=13, end_col_offset=39, id='self', ctx=Load()),
+                                            Name(id='StockPicking', ctx=Load()),
+                                            Name(id='self', ctx=Load()),
                                         ],
                                         keywords=[],
                                     ),
                                     attr='_get_warehouse',
                                     ctx=Load(),
                                 ),
-                                args=[Name(lineno=13, col_offset=56, end_lineno=13, end_col_offset=72, id='subcontract_move', ctx=Load())],
+                                args=[Name(id='subcontract_move', ctx=Load())],
                                 keywords=[],
                             ),
                         ),

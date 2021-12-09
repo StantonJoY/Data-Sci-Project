@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=28,
             module='odoo',
             names=[
                 alias(name='api', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=23,
-            end_col_offset=9,
             name='Lead',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=11,
-                    end_lineno=7,
-                    end_col_offset=23,
-                    value=Name(lineno=7, col_offset=11, end_lineno=7, end_col_offset=17, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,23 +20,15 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=25,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=25, value='crm.lead', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='crm.lead', kind=None),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=11,
-                    col_offset=4,
-                    end_lineno=23,
-                    end_col_offset=9,
                     name='_form_view_auto_fill',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=11, col_offset=29, end_lineno=11, end_col_offset=33, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -57,70 +37,30 @@ Module(
                     ),
                     body=[
                         Expr(
-                            lineno=12,
-                            col_offset=8,
-                            end_lineno=15,
-                            end_col_offset=11,
-                            value=Constant(lineno=12, col_offset=8, end_lineno=15, end_col_offset=11, value='\n            deprecated as of saas-14.3, not needed for newer versions of the mail plugin but necessary\n            for supporting older versions\n        ', kind=None),
+                            value=Constant(value='\n            deprecated as of saas-14.3, not needed for newer versions of the mail plugin but necessary\n            for supporting older versions\n        ', kind=None),
                         ),
                         Return(
-                            lineno=16,
-                            col_offset=8,
-                            end_lineno=23,
-                            end_col_offset=9,
                             value=Dict(
-                                lineno=16,
-                                col_offset=15,
-                                end_lineno=23,
-                                end_col_offset=9,
                                 keys=[
-                                    Constant(lineno=17, col_offset=12, end_lineno=17, end_col_offset=18, value='type', kind=None),
-                                    Constant(lineno=18, col_offset=12, end_lineno=18, end_col_offset=23, value='view_mode', kind=None),
-                                    Constant(lineno=19, col_offset=12, end_lineno=19, end_col_offset=23, value='res_model', kind=None),
-                                    Constant(lineno=20, col_offset=12, end_lineno=20, end_col_offset=21, value='context', kind=None),
+                                    Constant(value='type', kind=None),
+                                    Constant(value='view_mode', kind=None),
+                                    Constant(value='res_model', kind=None),
+                                    Constant(value='context', kind=None),
                                 ],
                                 values=[
-                                    Constant(lineno=17, col_offset=20, end_lineno=17, end_col_offset=43, value='ir.actions.act_window', kind=None),
-                                    Constant(lineno=18, col_offset=25, end_lineno=18, end_col_offset=31, value='form', kind=None),
-                                    Constant(lineno=19, col_offset=25, end_lineno=19, end_col_offset=35, value='crm.lead', kind=None),
+                                    Constant(value='ir.actions.act_window', kind=None),
+                                    Constant(value='form', kind=None),
+                                    Constant(value='crm.lead', kind=None),
                                     Dict(
-                                        lineno=20,
-                                        col_offset=23,
-                                        end_lineno=22,
-                                        end_col_offset=13,
-                                        keys=[Constant(lineno=21, col_offset=16, end_lineno=21, end_col_offset=36, value='default_partner_id', kind=None)],
+                                        keys=[Constant(value='default_partner_id', kind=None)],
                                         values=[
                                             Call(
-                                                lineno=21,
-                                                col_offset=38,
-                                                end_lineno=21,
-                                                end_col_offset=90,
                                                 func=Attribute(
-                                                    lineno=21,
-                                                    col_offset=38,
-                                                    end_lineno=21,
-                                                    end_col_offset=76,
                                                     value=Call(
-                                                        lineno=21,
-                                                        col_offset=38,
-                                                        end_lineno=21,
-                                                        end_col_offset=72,
                                                         func=Attribute(
-                                                            lineno=21,
-                                                            col_offset=38,
-                                                            end_lineno=21,
-                                                            end_col_offset=58,
                                                             value=Attribute(
-                                                                lineno=21,
-                                                                col_offset=38,
-                                                                end_lineno=21,
-                                                                end_col_offset=54,
                                                                 value=Attribute(
-                                                                    lineno=21,
-                                                                    col_offset=38,
-                                                                    end_lineno=21,
-                                                                    end_col_offset=46,
-                                                                    value=Name(lineno=21, col_offset=38, end_lineno=21, end_col_offset=42, id='self', ctx=Load()),
+                                                                    value=Name(id='self', ctx=Load()),
                                                                     attr='env',
                                                                     ctx=Load(),
                                                                 ),
@@ -131,15 +71,15 @@ Module(
                                                             ctx=Load(),
                                                         ),
                                                         args=[
-                                                            Constant(lineno=21, col_offset=59, end_lineno=21, end_col_offset=67, value='params', kind=None),
-                                                            Dict(lineno=21, col_offset=69, end_lineno=21, end_col_offset=71, keys=[], values=[]),
+                                                            Constant(value='params', kind=None),
+                                                            Dict(keys=[], values=[]),
                                                         ],
                                                         keywords=[],
                                                     ),
                                                     attr='get',
                                                     ctx=Load(),
                                                 ),
-                                                args=[Constant(lineno=21, col_offset=77, end_lineno=21, end_col_offset=89, value='partner_id', kind=None)],
+                                                args=[Constant(value='partner_id', kind=None)],
                                                 keywords=[],
                                             ),
                                         ],
@@ -150,11 +90,7 @@ Module(
                     ],
                     decorator_list=[
                         Attribute(
-                            lineno=10,
-                            col_offset=5,
-                            end_lineno=10,
-                            end_col_offset=14,
-                            value=Name(lineno=10, col_offset=5, end_lineno=10, end_col_offset=8, id='api', ctx=Load()),
+                            value=Name(id='api', ctx=Load()),
                             attr='model',
                             ctx=Load(),
                         ),

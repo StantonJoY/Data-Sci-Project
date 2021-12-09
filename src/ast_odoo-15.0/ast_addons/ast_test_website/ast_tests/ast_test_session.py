@@ -1,39 +1,19 @@
 Module(
     body=[
         Import(
-            lineno=1,
-            col_offset=0,
-            end_lineno=1,
-            end_col_offset=17,
             names=[alias(name='odoo.tests', asname=None)],
         ),
         ImportFrom(
-            lineno=2,
-            col_offset=0,
-            end_lineno=2,
-            end_col_offset=34,
             module='odoo.tools',
             names=[alias(name='mute_logger', asname=None)],
             level=0,
         ),
         ClassDef(
-            lineno=6,
-            col_offset=0,
-            end_lineno=9,
-            end_col_offset=46,
             name='TestWebsiteSession',
             bases=[
                 Attribute(
-                    lineno=6,
-                    col_offset=25,
-                    end_lineno=6,
-                    end_col_offset=44,
                     value=Attribute(
-                        lineno=6,
-                        col_offset=25,
-                        end_lineno=6,
-                        end_col_offset=35,
-                        value=Name(lineno=6, col_offset=25, end_lineno=6, end_col_offset=29, id='odoo', ctx=Load()),
+                        value=Name(id='odoo', ctx=Load()),
                         attr='tests',
                         ctx=Load(),
                     ),
@@ -44,14 +24,10 @@ Module(
             keywords=[],
             body=[
                 FunctionDef(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=9,
-                    end_col_offset=46,
                     name='test_01_run_test',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=8, col_offset=25, end_lineno=8, end_col_offset=29, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -60,27 +36,15 @@ Module(
                     ),
                     body=[
                         Expr(
-                            lineno=9,
-                            col_offset=8,
-                            end_lineno=9,
-                            end_col_offset=46,
                             value=Call(
-                                lineno=9,
-                                col_offset=8,
-                                end_lineno=9,
-                                end_col_offset=46,
                                 func=Attribute(
-                                    lineno=9,
-                                    col_offset=8,
-                                    end_lineno=9,
-                                    end_col_offset=23,
-                                    value=Name(lineno=9, col_offset=8, end_lineno=9, end_col_offset=12, id='self', ctx=Load()),
+                                    value=Name(id='self', ctx=Load()),
                                     attr='start_tour',
                                     ctx=Load(),
                                 ),
                                 args=[
-                                    Constant(lineno=9, col_offset=24, end_lineno=9, end_col_offset=27, value='/', kind=None),
-                                    Constant(lineno=9, col_offset=29, end_lineno=9, end_col_offset=45, value='test_json_auth', kind=None),
+                                    Constant(value='/', kind=None),
+                                    Constant(value='test_json_auth', kind=None),
                                 ],
                                 keywords=[],
                             ),
@@ -93,26 +57,10 @@ Module(
             ],
             decorator_list=[
                 Call(
-                    lineno=5,
-                    col_offset=1,
-                    end_lineno=5,
-                    end_col_offset=56,
                     func=Attribute(
-                        lineno=5,
-                        col_offset=1,
-                        end_lineno=5,
-                        end_col_offset=25,
                         value=Attribute(
-                            lineno=5,
-                            col_offset=1,
-                            end_lineno=5,
-                            end_col_offset=18,
                             value=Attribute(
-                                lineno=5,
-                                col_offset=1,
-                                end_lineno=5,
-                                end_col_offset=11,
-                                value=Name(lineno=5, col_offset=1, end_lineno=5, end_col_offset=5, id='odoo', ctx=Load()),
+                                value=Name(id='odoo', ctx=Load()),
                                 attr='tests',
                                 ctx=Load(),
                             ),
@@ -123,8 +71,8 @@ Module(
                         ctx=Load(),
                     ),
                     args=[
-                        Constant(lineno=5, col_offset=26, end_lineno=5, end_col_offset=40, value='post_install', kind=None),
-                        Constant(lineno=5, col_offset=42, end_lineno=5, end_col_offset=55, value='-at_install', kind=None),
+                        Constant(value='post_install', kind=None),
+                        Constant(value='-at_install', kind=None),
                     ],
                     keywords=[],
                 ),

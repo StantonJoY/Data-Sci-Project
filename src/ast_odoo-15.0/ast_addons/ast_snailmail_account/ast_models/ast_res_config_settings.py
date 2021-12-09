@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=10,
-            end_col_offset=123,
             name='ResConfigSettings',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=24,
-                    end_lineno=7,
-                    end_col_offset=45,
-                    value=Name(lineno=7, col_offset=24, end_lineno=7, end_col_offset=30, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='TransientModel',
                     ctx=Load(),
                 ),
@@ -32,59 +20,31 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=36,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=36, value='res.config.settings', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='res.config.settings', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=10,
-                    end_col_offset=123,
-                    targets=[Name(lineno=10, col_offset=4, end_lineno=10, end_col_offset=24, id='invoice_is_snailmail', ctx=Store())],
+                    targets=[Name(id='invoice_is_snailmail', ctx=Store())],
                     value=Call(
-                        lineno=10,
-                        col_offset=27,
-                        end_lineno=10,
-                        end_col_offset=123,
                         func=Attribute(
-                            lineno=10,
-                            col_offset=27,
-                            end_lineno=10,
-                            end_col_offset=41,
-                            value=Name(lineno=10, col_offset=27, end_lineno=10, end_col_offset=33, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Boolean',
                             ctx=Load(),
                         ),
                         args=[],
                         keywords=[
                             keyword(
-                                lineno=10,
-                                col_offset=42,
-                                end_lineno=10,
-                                end_col_offset=63,
                                 arg='string',
-                                value=Constant(lineno=10, col_offset=49, end_lineno=10, end_col_offset=63, value='Send by Post', kind=None),
+                                value=Constant(value='Send by Post', kind=None),
                             ),
                             keyword(
-                                lineno=10,
-                                col_offset=65,
-                                end_lineno=10,
-                                end_col_offset=106,
                                 arg='related',
-                                value=Constant(lineno=10, col_offset=73, end_lineno=10, end_col_offset=106, value='company_id.invoice_is_snailmail', kind=None),
+                                value=Constant(value='company_id.invoice_is_snailmail', kind=None),
                             ),
                             keyword(
-                                lineno=10,
-                                col_offset=108,
-                                end_lineno=10,
-                                end_col_offset=122,
                                 arg='readonly',
-                                value=Constant(lineno=10, col_offset=117, end_lineno=10, end_col_offset=122, value=False, kind=None),
+                                value=Constant(value=False, kind=None),
                             ),
                         ],
                     ),

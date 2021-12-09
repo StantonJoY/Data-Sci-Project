@@ -1,41 +1,25 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=64,
             module='odoo.addons.base.tests.common',
             names=[alias(name='HttpCaseWithUserPortal', asname=None)],
             level=0,
         ),
         ImportFrom(
-            lineno=5,
-            col_offset=0,
-            end_lineno=5,
-            end_col_offset=29,
             module='odoo.tests',
             names=[alias(name='tagged', asname=None)],
             level=0,
         ),
         ClassDef(
-            lineno=9,
-            col_offset=0,
-            end_lineno=11,
-            end_col_offset=68,
             name='TestUi',
-            bases=[Name(lineno=9, col_offset=13, end_lineno=9, end_col_offset=35, id='HttpCaseWithUserPortal', ctx=Load())],
+            bases=[Name(id='HttpCaseWithUserPortal', ctx=Load())],
             keywords=[],
             body=[
                 FunctionDef(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=11,
-                    end_col_offset=68,
                     name='test_01_portal_load_tour',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=10, col_offset=33, end_lineno=10, end_col_offset=37, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -44,36 +28,20 @@ Module(
                     ),
                     body=[
                         Expr(
-                            lineno=11,
-                            col_offset=8,
-                            end_lineno=11,
-                            end_col_offset=68,
                             value=Call(
-                                lineno=11,
-                                col_offset=8,
-                                end_lineno=11,
-                                end_col_offset=68,
                                 func=Attribute(
-                                    lineno=11,
-                                    col_offset=8,
-                                    end_lineno=11,
-                                    end_col_offset=23,
-                                    value=Name(lineno=11, col_offset=8, end_lineno=11, end_col_offset=12, id='self', ctx=Load()),
+                                    value=Name(id='self', ctx=Load()),
                                     attr='start_tour',
                                     ctx=Load(),
                                 ),
                                 args=[
-                                    Constant(lineno=11, col_offset=24, end_lineno=11, end_col_offset=27, value='/', kind=None),
-                                    Constant(lineno=11, col_offset=29, end_lineno=11, end_col_offset=51, value='portal_load_homepage', kind=None),
+                                    Constant(value='/', kind=None),
+                                    Constant(value='portal_load_homepage', kind=None),
                                 ],
                                 keywords=[
                                     keyword(
-                                        lineno=11,
-                                        col_offset=53,
-                                        end_lineno=11,
-                                        end_col_offset=67,
                                         arg='login',
-                                        value=Constant(lineno=11, col_offset=59, end_lineno=11, end_col_offset=67, value='portal', kind=None),
+                                        value=Constant(value='portal', kind=None),
                                     ),
                                 ],
                             ),
@@ -86,14 +54,10 @@ Module(
             ],
             decorator_list=[
                 Call(
-                    lineno=8,
-                    col_offset=1,
-                    end_lineno=8,
-                    end_col_offset=38,
-                    func=Name(lineno=8, col_offset=1, end_lineno=8, end_col_offset=7, id='tagged', ctx=Load()),
+                    func=Name(id='tagged', ctx=Load()),
                     args=[
-                        Constant(lineno=8, col_offset=8, end_lineno=8, end_col_offset=22, value='post_install', kind=None),
-                        Constant(lineno=8, col_offset=24, end_lineno=8, end_col_offset=37, value='-at_install', kind=None),
+                        Constant(value='post_install', kind=None),
+                        Constant(value='-at_install', kind=None),
                     ],
                     keywords=[],
                 ),

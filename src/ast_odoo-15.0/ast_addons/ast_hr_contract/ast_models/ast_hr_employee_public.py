@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=10,
-            end_col_offset=106,
             name='HrEmployeePublic',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=23,
-                    end_lineno=7,
-                    end_col_offset=35,
-                    value=Name(lineno=7, col_offset=23, end_lineno=7, end_col_offset=29, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,51 +20,27 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=35,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=35, value='hr.employee.public', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='hr.employee.public', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=10,
-                    end_col_offset=106,
-                    targets=[Name(lineno=10, col_offset=4, end_lineno=10, end_col_offset=23, id='first_contract_date', ctx=Store())],
+                    targets=[Name(id='first_contract_date', ctx=Store())],
                     value=Call(
-                        lineno=10,
-                        col_offset=26,
-                        end_lineno=10,
-                        end_col_offset=106,
                         func=Attribute(
-                            lineno=10,
-                            col_offset=26,
-                            end_lineno=10,
-                            end_col_offset=37,
-                            value=Name(lineno=10, col_offset=26, end_lineno=10, end_col_offset=32, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Date',
                             ctx=Load(),
                         ),
                         args=[],
                         keywords=[
                             keyword(
-                                lineno=10,
-                                col_offset=38,
-                                end_lineno=10,
-                                end_col_offset=79,
                                 arg='related',
-                                value=Constant(lineno=10, col_offset=46, end_lineno=10, end_col_offset=79, value='employee_id.first_contract_date', kind=None),
+                                value=Constant(value='employee_id.first_contract_date', kind=None),
                             ),
                             keyword(
-                                lineno=10,
-                                col_offset=81,
-                                end_lineno=10,
-                                end_col_offset=105,
                                 arg='groups',
-                                value=Constant(lineno=10, col_offset=88, end_lineno=10, end_col_offset=105, value='base.group_user', kind=None),
+                                value=Constant(value='base.group_user', kind=None),
                             ),
                         ],
                     ),

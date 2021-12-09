@@ -1,27 +1,15 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=23,
             module='odoo',
             names=[alias(name='models', asname=None)],
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=9,
-            end_col_offset=27,
             name='CrmLead',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=14,
-                    end_lineno=7,
-                    end_col_offset=26,
-                    value=Name(lineno=7, col_offset=14, end_lineno=7, end_col_offset=20, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -29,21 +17,13 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=25,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=25, value='crm.lead', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='crm.lead', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=9,
-                    col_offset=4,
-                    end_lineno=9,
-                    end_col_offset=27,
-                    targets=[Name(lineno=9, col_offset=4, end_lineno=9, end_col_offset=20, id='_mailing_enabled', ctx=Store())],
-                    value=Constant(lineno=9, col_offset=23, end_lineno=9, end_col_offset=27, value=True, kind=None),
+                    targets=[Name(id='_mailing_enabled', ctx=Store())],
+                    value=Constant(value=True, kind=None),
                     type_comment=None,
                 ),
             ],

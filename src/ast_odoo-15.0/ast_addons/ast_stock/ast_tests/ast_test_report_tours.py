@@ -1,17 +1,9 @@
 Module(
     body=[
         Import(
-            lineno=2,
-            col_offset=0,
-            end_lineno=2,
-            end_col_offset=11,
             names=[alias(name='odoo', asname=None)],
         ),
         ImportFrom(
-            lineno=3,
-            col_offset=0,
-            end_lineno=3,
-            end_col_offset=45,
             module='odoo.tests',
             names=[
                 alias(name='Form', asname=None),
@@ -21,23 +13,15 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=19,
-            end_col_offset=91,
             name='TestStockReportTour',
-            bases=[Name(lineno=7, col_offset=26, end_lineno=7, end_col_offset=34, id='HttpCase', ctx=Load())],
+            bases=[Name(id='HttpCase', ctx=Load())],
             keywords=[],
             body=[
                 FunctionDef(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=9,
-                    end_col_offset=23,
                     name='setUp',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=8, col_offset=14, end_lineno=8, end_col_offset=18, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -46,26 +30,10 @@ Module(
                     ),
                     body=[
                         Expr(
-                            lineno=9,
-                            col_offset=8,
-                            end_lineno=9,
-                            end_col_offset=23,
                             value=Call(
-                                lineno=9,
-                                col_offset=8,
-                                end_lineno=9,
-                                end_col_offset=23,
                                 func=Attribute(
-                                    lineno=9,
-                                    col_offset=8,
-                                    end_lineno=9,
-                                    end_col_offset=21,
                                     value=Call(
-                                        lineno=9,
-                                        col_offset=8,
-                                        end_lineno=9,
-                                        end_col_offset=15,
-                                        func=Name(lineno=9, col_offset=8, end_lineno=9, end_col_offset=13, id='super', ctx=Load()),
+                                        func=Name(id='super', ctx=Load()),
                                         args=[],
                                         keywords=[],
                                     ),
@@ -82,14 +50,10 @@ Module(
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=11,
-                    col_offset=4,
-                    end_lineno=12,
-                    end_col_offset=90,
                     name='_get_report_url',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=11, col_offset=24, end_lineno=11, end_col_offset=28, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -98,11 +62,7 @@ Module(
                     ),
                     body=[
                         Return(
-                            lineno=12,
-                            col_offset=8,
-                            end_lineno=12,
-                            end_col_offset=90,
-                            value=Constant(lineno=12, col_offset=15, end_lineno=12, end_col_offset=90, value='/web#&model=product.template&action=stock.product_template_action_product', kind=None),
+                            value=Constant(value='/web#&model=product.template&action=stock.product_template_action_product', kind=None),
                         ),
                     ],
                     decorator_list=[],
@@ -110,14 +70,10 @@ Module(
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=15,
-                    col_offset=4,
-                    end_lineno=19,
-                    end_col_offset=91,
                     name='test_stock_route_diagram_report',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=15, col_offset=40, end_lineno=15, end_col_offset=44, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -126,29 +82,13 @@ Module(
                     ),
                     body=[
                         Expr(
-                            lineno=16,
-                            col_offset=8,
-                            end_lineno=16,
-                            end_col_offset=45,
-                            value=Constant(lineno=16, col_offset=8, end_lineno=16, end_col_offset=45, value=' Open the route diagram report.', kind=None),
+                            value=Constant(value=' Open the route diagram report.', kind=None),
                         ),
                         Assign(
-                            lineno=17,
-                            col_offset=8,
-                            end_lineno=17,
-                            end_col_offset=36,
-                            targets=[Name(lineno=17, col_offset=8, end_lineno=17, end_col_offset=11, id='url', ctx=Store())],
+                            targets=[Name(id='url', ctx=Store())],
                             value=Call(
-                                lineno=17,
-                                col_offset=14,
-                                end_lineno=17,
-                                end_col_offset=36,
                                 func=Attribute(
-                                    lineno=17,
-                                    col_offset=14,
-                                    end_lineno=17,
-                                    end_col_offset=34,
-                                    value=Name(lineno=17, col_offset=14, end_lineno=17, end_col_offset=18, id='self', ctx=Load()),
+                                    value=Name(id='self', ctx=Load()),
                                     attr='_get_report_url',
                                     ctx=Load(),
                                 ),
@@ -158,44 +98,24 @@ Module(
                             type_comment=None,
                         ),
                         Expr(
-                            lineno=19,
-                            col_offset=8,
-                            end_lineno=19,
-                            end_col_offset=91,
                             value=Call(
-                                lineno=19,
-                                col_offset=8,
-                                end_lineno=19,
-                                end_col_offset=91,
                                 func=Attribute(
-                                    lineno=19,
-                                    col_offset=8,
-                                    end_lineno=19,
-                                    end_col_offset=23,
-                                    value=Name(lineno=19, col_offset=8, end_lineno=19, end_col_offset=12, id='self', ctx=Load()),
+                                    value=Name(id='self', ctx=Load()),
                                     attr='start_tour',
                                     ctx=Load(),
                                 ),
                                 args=[
-                                    Name(lineno=19, col_offset=24, end_lineno=19, end_col_offset=27, id='url', ctx=Load()),
-                                    Constant(lineno=19, col_offset=29, end_lineno=19, end_col_offset=62, value='test_stock_route_diagram_report', kind=None),
+                                    Name(id='url', ctx=Load()),
+                                    Constant(value='test_stock_route_diagram_report', kind=None),
                                 ],
                                 keywords=[
                                     keyword(
-                                        lineno=19,
-                                        col_offset=64,
-                                        end_lineno=19,
-                                        end_col_offset=77,
                                         arg='login',
-                                        value=Constant(lineno=19, col_offset=70, end_lineno=19, end_col_offset=77, value='admin', kind=None),
+                                        value=Constant(value='admin', kind=None),
                                     ),
                                     keyword(
-                                        lineno=19,
-                                        col_offset=79,
-                                        end_lineno=19,
-                                        end_col_offset=90,
                                         arg='timeout',
-                                        value=Constant(lineno=19, col_offset=87, end_lineno=19, end_col_offset=90, value=180, kind=None),
+                                        value=Constant(value=180, kind=None),
                                     ),
                                 ],
                             ),
@@ -208,14 +128,10 @@ Module(
             ],
             decorator_list=[
                 Call(
-                    lineno=6,
-                    col_offset=1,
-                    end_lineno=6,
-                    end_col_offset=38,
-                    func=Name(lineno=6, col_offset=1, end_lineno=6, end_col_offset=7, id='tagged', ctx=Load()),
+                    func=Name(id='tagged', ctx=Load()),
                     args=[
-                        Constant(lineno=6, col_offset=8, end_lineno=6, end_col_offset=21, value='-at_install', kind=None),
-                        Constant(lineno=6, col_offset=23, end_lineno=6, end_col_offset=37, value='post_install', kind=None),
+                        Constant(value='-at_install', kind=None),
+                        Constant(value='post_install', kind=None),
                     ],
                     keywords=[],
                 ),

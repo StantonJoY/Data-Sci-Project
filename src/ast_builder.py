@@ -23,9 +23,10 @@ def build(filePath, file, outputpath):
     if os.path.exists(outputpath + "/" + "ast_" + file):
         os.remove(outputpath + "/" + "ast_" + file)
     sys.stdout = open(outputpath + "/" + "ast_" + file, "w+")
-    astpretty.pprint(ast_code)
+    astpretty.pprint(ast_code, show_offsets=False)
     sys.stdout.close()
     sys.stdout = standard_output
+    print(ast.iter_fields(ast_code))
 
 
 def getAllFile(filepath, ast_filepath):
@@ -59,4 +60,5 @@ if __name__ == '__main__':
         shutil.rmtree(ast_filepath)
     os.mkdir(ast_filepath)
     getAllFile(filepath, ast_filepath)
+
     # print(filecnt)

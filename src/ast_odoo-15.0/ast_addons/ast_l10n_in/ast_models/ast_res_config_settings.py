@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=36,
             module='odoo',
             names=[
                 alias(name='api', asname=None),
@@ -14,18 +10,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=10,
-            end_col_offset=129,
             name='ResConfigSettings',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=24,
-                    end_lineno=7,
-                    end_col_offset=45,
-                    value=Name(lineno=7, col_offset=24, end_lineno=7, end_col_offset=30, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='TransientModel',
                     ctx=Load(),
                 ),
@@ -33,51 +21,27 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=36,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=36, value='res.config.settings', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='res.config.settings', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=10,
-                    end_col_offset=129,
-                    targets=[Name(lineno=10, col_offset=4, end_lineno=10, end_col_offset=26, id='group_l10n_in_reseller', ctx=Store())],
+                    targets=[Name(id='group_l10n_in_reseller', ctx=Store())],
                     value=Call(
-                        lineno=10,
-                        col_offset=29,
-                        end_lineno=10,
-                        end_col_offset=129,
                         func=Attribute(
-                            lineno=10,
-                            col_offset=29,
-                            end_lineno=10,
-                            end_col_offset=43,
-                            value=Name(lineno=10, col_offset=29, end_lineno=10, end_col_offset=35, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Boolean',
                             ctx=Load(),
                         ),
                         args=[],
                         keywords=[
                             keyword(
-                                lineno=10,
-                                col_offset=44,
-                                end_lineno=10,
-                                end_col_offset=90,
                                 arg='implied_group',
-                                value=Constant(lineno=10, col_offset=58, end_lineno=10, end_col_offset=90, value='l10n_in.group_l10n_in_reseller', kind=None),
+                                value=Constant(value='l10n_in.group_l10n_in_reseller', kind=None),
                             ),
                             keyword(
-                                lineno=10,
-                                col_offset=92,
-                                end_lineno=10,
-                                end_col_offset=128,
                                 arg='string',
-                                value=Constant(lineno=10, col_offset=99, end_lineno=10, end_col_offset=128, value='Manage Reseller(E-Commerce)', kind=None),
+                                value=Constant(value='Manage Reseller(E-Commerce)', kind=None),
                             ),
                         ],
                     ),

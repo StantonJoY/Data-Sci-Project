@@ -1,25 +1,17 @@
 Module(
     body=[
         ImportFrom(
-            lineno=1,
-            col_offset=0,
-            end_lineno=1,
-            end_col_offset=52,
             module='openerp.modules.registry',
             names=[alias(name='RegistryManager', asname=None)],
             level=0,
         ),
         FunctionDef(
-            lineno=3,
-            col_offset=0,
-            end_lineno=6,
-            end_col_offset=65,
             name='migrate',
             args=arguments(
                 posonlyargs=[],
                 args=[
-                    arg(lineno=3, col_offset=12, end_lineno=3, end_col_offset=14, arg='cr', annotation=None, type_comment=None),
-                    arg(lineno=3, col_offset=16, end_lineno=3, end_col_offset=23, arg='version', annotation=None, type_comment=None),
+                    arg(arg='cr', annotation=None, type_comment=None),
+                    arg(arg='version', annotation=None, type_comment=None),
                 ],
                 vararg=None,
                 kwonlyargs=[],
@@ -29,32 +21,16 @@ Module(
             ),
             body=[
                 Assign(
-                    lineno=4,
-                    col_offset=4,
-                    end_lineno=4,
-                    end_col_offset=45,
-                    targets=[Name(lineno=4, col_offset=4, end_lineno=4, end_col_offset=12, id='registry', ctx=Store())],
+                    targets=[Name(id='registry', ctx=Store())],
                     value=Call(
-                        lineno=4,
-                        col_offset=15,
-                        end_lineno=4,
-                        end_col_offset=45,
                         func=Attribute(
-                            lineno=4,
-                            col_offset=15,
-                            end_lineno=4,
-                            end_col_offset=34,
-                            value=Name(lineno=4, col_offset=15, end_lineno=4, end_col_offset=30, id='RegistryManager', ctx=Load()),
+                            value=Name(id='RegistryManager', ctx=Load()),
                             attr='get',
                             ctx=Load(),
                         ),
                         args=[
                             Attribute(
-                                lineno=4,
-                                col_offset=35,
-                                end_lineno=4,
-                                end_col_offset=44,
-                                value=Name(lineno=4, col_offset=35, end_lineno=4, end_col_offset=37, id='cr', ctx=Load()),
+                                value=Name(id='cr', ctx=Load()),
                                 attr='dbname',
                                 ctx=Load(),
                             ),
@@ -64,29 +40,17 @@ Module(
                     type_comment=None,
                 ),
                 ImportFrom(
-                    lineno=5,
-                    col_offset=4,
-                    end_lineno=5,
-                    end_col_offset=97,
                     module='openerp.addons.account.models.chart_template',
                     names=[alias(name='migrate_set_tags_and_taxes_updatable', asname=None)],
                     level=0,
                 ),
                 Expr(
-                    lineno=6,
-                    col_offset=4,
-                    end_lineno=6,
-                    end_col_offset=65,
                     value=Call(
-                        lineno=6,
-                        col_offset=4,
-                        end_lineno=6,
-                        end_col_offset=65,
-                        func=Name(lineno=6, col_offset=4, end_lineno=6, end_col_offset=40, id='migrate_set_tags_and_taxes_updatable', ctx=Load()),
+                        func=Name(id='migrate_set_tags_and_taxes_updatable', ctx=Load()),
                         args=[
-                            Name(lineno=6, col_offset=41, end_lineno=6, end_col_offset=43, id='cr', ctx=Load()),
-                            Name(lineno=6, col_offset=45, end_lineno=6, end_col_offset=53, id='registry', ctx=Load()),
-                            Constant(lineno=6, col_offset=55, end_lineno=6, end_col_offset=64, value='l10n_sg', kind=None),
+                            Name(id='cr', ctx=Load()),
+                            Name(id='registry', ctx=Load()),
+                            Constant(value='l10n_sg', kind=None),
                         ],
                         keywords=[],
                     ),

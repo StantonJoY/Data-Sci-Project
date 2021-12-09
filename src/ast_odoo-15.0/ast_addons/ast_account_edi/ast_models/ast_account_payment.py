@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=39,
             module='odoo',
             names=[
                 alias(name='models', asname=None),
@@ -15,18 +11,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=15,
-            end_col_offset=62,
             name='AccountPayment',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=21,
-                    end_lineno=7,
-                    end_col_offset=33,
-                    value=Name(lineno=7, col_offset=21, end_lineno=7, end_col_offset=27, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -34,23 +22,15 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=32,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=32, value='account.payment', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='account.payment', kind=None),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=11,
-                    end_col_offset=61,
                     name='action_process_edi_web_services',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=10, col_offset=40, end_lineno=10, end_col_offset=44, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -59,26 +39,10 @@ Module(
                     ),
                     body=[
                         Return(
-                            lineno=11,
-                            col_offset=8,
-                            end_lineno=11,
-                            end_col_offset=61,
                             value=Call(
-                                lineno=11,
-                                col_offset=15,
-                                end_lineno=11,
-                                end_col_offset=61,
                                 func=Attribute(
-                                    lineno=11,
-                                    col_offset=15,
-                                    end_lineno=11,
-                                    end_col_offset=59,
                                     value=Attribute(
-                                        lineno=11,
-                                        col_offset=15,
-                                        end_lineno=11,
-                                        end_col_offset=27,
-                                        value=Name(lineno=11, col_offset=15, end_lineno=11, end_col_offset=19, id='self', ctx=Load()),
+                                        value=Name(id='self', ctx=Load()),
                                         attr='move_id',
                                         ctx=Load(),
                                     ),
@@ -95,14 +59,10 @@ Module(
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=13,
-                    col_offset=4,
-                    end_lineno=15,
-                    end_col_offset=62,
                     name='action_retry_edi_documents_error',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=13, col_offset=41, end_lineno=13, end_col_offset=45, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -111,21 +71,9 @@ Module(
                     ),
                     body=[
                         Expr(
-                            lineno=14,
-                            col_offset=8,
-                            end_lineno=14,
-                            end_col_offset=25,
                             value=Call(
-                                lineno=14,
-                                col_offset=8,
-                                end_lineno=14,
-                                end_col_offset=25,
                                 func=Attribute(
-                                    lineno=14,
-                                    col_offset=8,
-                                    end_lineno=14,
-                                    end_col_offset=23,
-                                    value=Name(lineno=14, col_offset=8, end_lineno=14, end_col_offset=12, id='self', ctx=Load()),
+                                    value=Name(id='self', ctx=Load()),
                                     attr='ensure_one',
                                     ctx=Load(),
                                 ),
@@ -134,26 +82,10 @@ Module(
                             ),
                         ),
                         Return(
-                            lineno=15,
-                            col_offset=8,
-                            end_lineno=15,
-                            end_col_offset=62,
                             value=Call(
-                                lineno=15,
-                                col_offset=15,
-                                end_lineno=15,
-                                end_col_offset=62,
                                 func=Attribute(
-                                    lineno=15,
-                                    col_offset=15,
-                                    end_lineno=15,
-                                    end_col_offset=60,
                                     value=Attribute(
-                                        lineno=15,
-                                        col_offset=15,
-                                        end_lineno=15,
-                                        end_col_offset=27,
-                                        value=Name(lineno=15, col_offset=15, end_lineno=15, end_col_offset=19, id='self', ctx=Load()),
+                                        value=Name(id='self', ctx=Load()),
                                         attr='move_id',
                                         ctx=Load(),
                                     ),

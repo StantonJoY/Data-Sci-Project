@@ -1,19 +1,11 @@
 Module(
     body=[
         ImportFrom(
-            lineno=3,
-            col_offset=0,
-            end_lineno=3,
-            end_col_offset=29,
             module='functools',
             names=[alias(name='partial', asname=None)],
             level=0,
         ),
         ImportFrom(
-            lineno=5,
-            col_offset=0,
-            end_lineno=5,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='models', asname=None),
@@ -22,18 +14,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=8,
-            col_offset=0,
-            end_lineno=13,
-            end_col_offset=74,
             name='PosConfig',
             bases=[
                 Attribute(
-                    lineno=8,
-                    col_offset=16,
-                    end_lineno=8,
-                    end_col_offset=28,
-                    value=Name(lineno=8, col_offset=16, end_lineno=8, end_col_offset=22, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -41,51 +25,27 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=9,
-                    col_offset=4,
-                    end_lineno=9,
-                    end_col_offset=27,
-                    targets=[Name(lineno=9, col_offset=4, end_lineno=9, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=9, col_offset=15, end_lineno=9, end_col_offset=27, value='pos.config', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='pos.config', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=11,
-                    col_offset=4,
-                    end_lineno=13,
-                    end_col_offset=74,
-                    targets=[Name(lineno=11, col_offset=4, end_lineno=11, end_col_offset=16, id='employee_ids', ctx=Store())],
+                    targets=[Name(id='employee_ids', ctx=Store())],
                     value=Call(
-                        lineno=11,
-                        col_offset=19,
-                        end_lineno=13,
-                        end_col_offset=74,
                         func=Attribute(
-                            lineno=11,
-                            col_offset=19,
-                            end_lineno=11,
-                            end_col_offset=35,
-                            value=Name(lineno=11, col_offset=19, end_lineno=11, end_col_offset=25, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Many2many',
                             ctx=Load(),
                         ),
-                        args=[Constant(lineno=12, col_offset=8, end_lineno=12, end_col_offset=21, value='hr.employee', kind=None)],
+                        args=[Constant(value='hr.employee', kind=None)],
                         keywords=[
                             keyword(
-                                lineno=12,
-                                col_offset=23,
-                                end_lineno=12,
-                                end_col_offset=53,
                                 arg='string',
-                                value=Constant(lineno=12, col_offset=30, end_lineno=12, end_col_offset=53, value='Employees with access', kind=None),
+                                value=Constant(value='Employees with access', kind=None),
                             ),
                             keyword(
-                                lineno=13,
-                                col_offset=8,
-                                end_lineno=13,
-                                end_col_offset=73,
                                 arg='help',
-                                value=Constant(lineno=13, col_offset=13, end_lineno=13, end_col_offset=73, value='If left empty, all employees can log in to the PoS session', kind=None),
+                                value=Constant(value='If left empty, all employees can log in to the PoS session', kind=None),
                             ),
                         ],
                     ),

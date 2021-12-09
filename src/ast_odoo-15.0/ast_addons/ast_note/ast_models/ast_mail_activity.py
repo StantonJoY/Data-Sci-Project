@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='models', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=10,
-            end_col_offset=73,
             name='MailActivityType',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=23,
-                    end_lineno=7,
-                    end_col_offset=35,
-                    value=Name(lineno=7, col_offset=23, end_lineno=7, end_col_offset=29, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,56 +20,28 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=35,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=35, value='mail.activity.type', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='mail.activity.type', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=10,
-                    end_col_offset=73,
-                    targets=[Name(lineno=10, col_offset=4, end_lineno=10, end_col_offset=12, id='category', ctx=Store())],
+                    targets=[Name(id='category', ctx=Store())],
                     value=Call(
-                        lineno=10,
-                        col_offset=15,
-                        end_lineno=10,
-                        end_col_offset=73,
                         func=Attribute(
-                            lineno=10,
-                            col_offset=15,
-                            end_lineno=10,
-                            end_col_offset=31,
-                            value=Name(lineno=10, col_offset=15, end_lineno=10, end_col_offset=21, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Selection',
                             ctx=Load(),
                         ),
                         args=[],
                         keywords=[
                             keyword(
-                                lineno=10,
-                                col_offset=32,
-                                end_lineno=10,
-                                end_col_offset=72,
                                 arg='selection_add',
                                 value=List(
-                                    lineno=10,
-                                    col_offset=46,
-                                    end_lineno=10,
-                                    end_col_offset=72,
                                     elts=[
                                         Tuple(
-                                            lineno=10,
-                                            col_offset=47,
-                                            end_lineno=10,
-                                            end_col_offset=71,
                                             elts=[
-                                                Constant(lineno=10, col_offset=48, end_lineno=10, end_col_offset=58, value='reminder', kind=None),
-                                                Constant(lineno=10, col_offset=60, end_lineno=10, end_col_offset=70, value='Reminder', kind=None),
+                                                Constant(value='reminder', kind=None),
+                                                Constant(value='Reminder', kind=None),
                                             ],
                                             ctx=Load(),
                                         ),
@@ -97,18 +57,10 @@ Module(
             decorator_list=[],
         ),
         ClassDef(
-            lineno=13,
-            col_offset=0,
-            end_lineno=16,
-            end_col_offset=85,
             name='MailActivity',
             bases=[
                 Attribute(
-                    lineno=13,
-                    col_offset=19,
-                    end_lineno=13,
-                    end_col_offset=31,
-                    value=Name(lineno=13, col_offset=19, end_lineno=13, end_col_offset=25, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -116,51 +68,27 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=14,
-                    col_offset=4,
-                    end_lineno=14,
-                    end_col_offset=30,
-                    targets=[Name(lineno=14, col_offset=4, end_lineno=14, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=14, col_offset=15, end_lineno=14, end_col_offset=30, value='mail.activity', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='mail.activity', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=16,
-                    col_offset=4,
-                    end_lineno=16,
-                    end_col_offset=85,
-                    targets=[Name(lineno=16, col_offset=4, end_lineno=16, end_col_offset=11, id='note_id', ctx=Store())],
+                    targets=[Name(id='note_id', ctx=Store())],
                     value=Call(
-                        lineno=16,
-                        col_offset=14,
-                        end_lineno=16,
-                        end_col_offset=85,
                         func=Attribute(
-                            lineno=16,
-                            col_offset=14,
-                            end_lineno=16,
-                            end_col_offset=29,
-                            value=Name(lineno=16, col_offset=14, end_lineno=16, end_col_offset=20, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Many2one',
                             ctx=Load(),
                         ),
-                        args=[Constant(lineno=16, col_offset=30, end_lineno=16, end_col_offset=41, value='note.note', kind=None)],
+                        args=[Constant(value='note.note', kind=None)],
                         keywords=[
                             keyword(
-                                lineno=16,
-                                col_offset=43,
-                                end_lineno=16,
-                                end_col_offset=64,
                                 arg='string',
-                                value=Constant(lineno=16, col_offset=50, end_lineno=16, end_col_offset=64, value='Related Note', kind=None),
+                                value=Constant(value='Related Note', kind=None),
                             ),
                             keyword(
-                                lineno=16,
-                                col_offset=66,
-                                end_lineno=16,
-                                end_col_offset=84,
                                 arg='ondelete',
-                                value=Constant(lineno=16, col_offset=75, end_lineno=16, end_col_offset=84, value='cascade', kind=None),
+                                value=Constant(value='cascade', kind=None),
                             ),
                         ],
                     ),

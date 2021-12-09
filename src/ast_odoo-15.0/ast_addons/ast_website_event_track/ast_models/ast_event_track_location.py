@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=11,
-            end_col_offset=49,
             name='TrackLocation',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=20,
-                    end_lineno=7,
-                    end_col_offset=32,
-                    value=Name(lineno=7, col_offset=20, end_lineno=7, end_col_offset=26, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,52 +20,28 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=34,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=9, id='_name', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=12, end_lineno=8, end_col_offset=34, value='event.track.location', kind=None),
+                    targets=[Name(id='_name', ctx=Store())],
+                    value=Constant(value='event.track.location', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=9,
-                    col_offset=4,
-                    end_lineno=9,
-                    end_col_offset=41,
-                    targets=[Name(lineno=9, col_offset=4, end_lineno=9, end_col_offset=16, id='_description', ctx=Store())],
-                    value=Constant(lineno=9, col_offset=19, end_lineno=9, end_col_offset=41, value='Event Track Location', kind=None),
+                    targets=[Name(id='_description', ctx=Store())],
+                    value=Constant(value='Event Track Location', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=11,
-                    col_offset=4,
-                    end_lineno=11,
-                    end_col_offset=49,
-                    targets=[Name(lineno=11, col_offset=4, end_lineno=11, end_col_offset=8, id='name', ctx=Store())],
+                    targets=[Name(id='name', ctx=Store())],
                     value=Call(
-                        lineno=11,
-                        col_offset=11,
-                        end_lineno=11,
-                        end_col_offset=49,
                         func=Attribute(
-                            lineno=11,
-                            col_offset=11,
-                            end_lineno=11,
-                            end_col_offset=22,
-                            value=Name(lineno=11, col_offset=11, end_lineno=11, end_col_offset=17, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Char',
                             ctx=Load(),
                         ),
-                        args=[Constant(lineno=11, col_offset=23, end_lineno=11, end_col_offset=33, value='Location', kind=None)],
+                        args=[Constant(value='Location', kind=None)],
                         keywords=[
                             keyword(
-                                lineno=11,
-                                col_offset=35,
-                                end_lineno=11,
-                                end_col_offset=48,
                                 arg='required',
-                                value=Constant(lineno=11, col_offset=44, end_lineno=11, end_col_offset=48, value=True, kind=None),
+                                value=Constant(value=True, kind=None),
                             ),
                         ],
                     ),

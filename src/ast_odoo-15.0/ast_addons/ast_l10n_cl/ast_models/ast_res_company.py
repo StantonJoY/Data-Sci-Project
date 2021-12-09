@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=3,
-            col_offset=0,
-            end_lineno=3,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='models', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=6,
-            col_offset=0,
-            end_lineno=12,
-            end_col_offset=99,
             name='ResCompany',
             bases=[
                 Attribute(
-                    lineno=6,
-                    col_offset=17,
-                    end_lineno=6,
-                    end_col_offset=29,
-                    value=Name(lineno=6, col_offset=17, end_lineno=6, end_col_offset=23, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,23 +20,15 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=7,
-                    col_offset=4,
-                    end_lineno=7,
-                    end_col_offset=28,
-                    targets=[Name(lineno=7, col_offset=4, end_lineno=7, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=7, col_offset=15, end_lineno=7, end_col_offset=28, value='res.company', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='res.company', kind=None),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=9,
-                    col_offset=4,
-                    end_lineno=12,
-                    end_col_offset=99,
                     name='_localization_use_documents',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=9, col_offset=36, end_lineno=9, end_col_offset=40, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -57,28 +37,12 @@ Module(
                     ),
                     body=[
                         Expr(
-                            lineno=10,
-                            col_offset=8,
-                            end_lineno=10,
-                            end_col_offset=50,
-                            value=Constant(lineno=10, col_offset=8, end_lineno=10, end_col_offset=50, value=' Chilean localization use documents ', kind=None),
+                            value=Constant(value=' Chilean localization use documents ', kind=None),
                         ),
                         Expr(
-                            lineno=11,
-                            col_offset=8,
-                            end_lineno=11,
-                            end_col_offset=25,
                             value=Call(
-                                lineno=11,
-                                col_offset=8,
-                                end_lineno=11,
-                                end_col_offset=25,
                                 func=Attribute(
-                                    lineno=11,
-                                    col_offset=8,
-                                    end_lineno=11,
-                                    end_col_offset=23,
-                                    value=Name(lineno=11, col_offset=8, end_lineno=11, end_col_offset=12, id='self', ctx=Load()),
+                                    value=Name(id='self', ctx=Load()),
                                     attr='ensure_one',
                                     ctx=Load(),
                                 ),
@@ -87,33 +51,13 @@ Module(
                             ),
                         ),
                         Return(
-                            lineno=12,
-                            col_offset=8,
-                            end_lineno=12,
-                            end_col_offset=99,
                             value=BoolOp(
-                                lineno=12,
-                                col_offset=15,
-                                end_lineno=12,
-                                end_col_offset=99,
                                 op=Or(),
                                 values=[
                                     Compare(
-                                        lineno=12,
-                                        col_offset=15,
-                                        end_lineno=12,
-                                        end_col_offset=58,
                                         left=Attribute(
-                                            lineno=12,
-                                            col_offset=15,
-                                            end_lineno=12,
-                                            end_col_offset=50,
                                             value=Attribute(
-                                                lineno=12,
-                                                col_offset=15,
-                                                end_lineno=12,
-                                                end_col_offset=45,
-                                                value=Name(lineno=12, col_offset=15, end_lineno=12, end_col_offset=19, id='self', ctx=Load()),
+                                                value=Name(id='self', ctx=Load()),
                                                 attr='account_fiscal_country_id',
                                                 ctx=Load(),
                                             ),
@@ -121,24 +65,12 @@ Module(
                                             ctx=Load(),
                                         ),
                                         ops=[Eq()],
-                                        comparators=[Constant(lineno=12, col_offset=54, end_lineno=12, end_col_offset=58, value='CL', kind=None)],
+                                        comparators=[Constant(value='CL', kind=None)],
                                     ),
                                     Call(
-                                        lineno=12,
-                                        col_offset=62,
-                                        end_lineno=12,
-                                        end_col_offset=99,
                                         func=Attribute(
-                                            lineno=12,
-                                            col_offset=62,
-                                            end_lineno=12,
-                                            end_col_offset=97,
                                             value=Call(
-                                                lineno=12,
-                                                col_offset=62,
-                                                end_lineno=12,
-                                                end_col_offset=69,
-                                                func=Name(lineno=12, col_offset=62, end_lineno=12, end_col_offset=67, id='super', ctx=Load()),
+                                                func=Name(id='super', ctx=Load()),
                                                 args=[],
                                                 keywords=[],
                                             ),

@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=28,
             module='odoo',
             names=[
                 alias(name='api', asname=None),
@@ -13,10 +9,6 @@ Module(
             level=0,
         ),
         ImportFrom(
-            lineno=5,
-            col_offset=0,
-            end_lineno=5,
-            end_col_offset=68,
             module='odoo.addons.http_routing.models.ir_http',
             names=[
                 alias(name='slug', asname=None),
@@ -25,18 +17,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=8,
-            col_offset=0,
-            end_lineno=16,
-            end_col_offset=23,
             name='IrUiView',
             bases=[
                 Attribute(
-                    lineno=8,
-                    col_offset=15,
-                    end_lineno=8,
-                    end_col_offset=27,
-                    value=Name(lineno=8, col_offset=15, end_lineno=8, end_col_offset=21, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -44,30 +28,18 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=9,
-                    col_offset=4,
-                    end_lineno=9,
-                    end_col_offset=29,
-                    targets=[Name(lineno=9, col_offset=4, end_lineno=9, end_col_offset=12, id='_inherit', ctx=Store())],
+                    targets=[Name(id='_inherit', ctx=Store())],
                     value=List(
-                        lineno=9,
-                        col_offset=15,
-                        end_lineno=9,
-                        end_col_offset=29,
-                        elts=[Constant(lineno=9, col_offset=16, end_lineno=9, end_col_offset=28, value='ir.ui.view', kind=None)],
+                        elts=[Constant(value='ir.ui.view', kind=None)],
                         ctx=Load(),
                     ),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=12,
-                    col_offset=4,
-                    end_lineno=16,
-                    end_col_offset=23,
                     name='_prepare_qcontext',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=12, col_offset=26, end_lineno=12, end_col_offset=30, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -76,30 +48,14 @@ Module(
                     ),
                     body=[
                         Assign(
-                            lineno=13,
-                            col_offset=8,
-                            end_lineno=13,
-                            end_col_offset=60,
-                            targets=[Name(lineno=13, col_offset=8, end_lineno=13, end_col_offset=16, id='qcontext', ctx=Store())],
+                            targets=[Name(id='qcontext', ctx=Store())],
                             value=Call(
-                                lineno=13,
-                                col_offset=19,
-                                end_lineno=13,
-                                end_col_offset=60,
                                 func=Attribute(
-                                    lineno=13,
-                                    col_offset=19,
-                                    end_lineno=13,
-                                    end_col_offset=58,
                                     value=Call(
-                                        lineno=13,
-                                        col_offset=19,
-                                        end_lineno=13,
-                                        end_col_offset=40,
-                                        func=Name(lineno=13, col_offset=19, end_lineno=13, end_col_offset=24, id='super', ctx=Load()),
+                                        func=Name(id='super', ctx=Load()),
                                         args=[
-                                            Name(lineno=13, col_offset=25, end_lineno=13, end_col_offset=33, id='IrUiView', ctx=Load()),
-                                            Name(lineno=13, col_offset=35, end_lineno=13, end_col_offset=39, id='self', ctx=Load()),
+                                            Name(id='IrUiView', ctx=Load()),
+                                            Name(id='self', ctx=Load()),
                                         ],
                                         keywords=[],
                                     ),
@@ -112,58 +68,34 @@ Module(
                             type_comment=None,
                         ),
                         Assign(
-                            lineno=14,
-                            col_offset=8,
-                            end_lineno=14,
-                            end_col_offset=31,
                             targets=[
                                 Subscript(
-                                    lineno=14,
-                                    col_offset=8,
-                                    end_lineno=14,
-                                    end_col_offset=24,
-                                    value=Name(lineno=14, col_offset=8, end_lineno=14, end_col_offset=16, id='qcontext', ctx=Load()),
-                                    slice=Constant(lineno=14, col_offset=17, end_lineno=14, end_col_offset=23, value='slug', kind=None),
+                                    value=Name(id='qcontext', ctx=Load()),
+                                    slice=Constant(value='slug', kind=None),
                                     ctx=Store(),
                                 ),
                             ],
-                            value=Name(lineno=14, col_offset=27, end_lineno=14, end_col_offset=31, id='slug', ctx=Load()),
+                            value=Name(id='slug', ctx=Load()),
                             type_comment=None,
                         ),
                         Assign(
-                            lineno=15,
-                            col_offset=8,
-                            end_lineno=15,
-                            end_col_offset=43,
                             targets=[
                                 Subscript(
-                                    lineno=15,
-                                    col_offset=8,
-                                    end_lineno=15,
-                                    end_col_offset=30,
-                                    value=Name(lineno=15, col_offset=8, end_lineno=15, end_col_offset=16, id='qcontext', ctx=Load()),
-                                    slice=Constant(lineno=15, col_offset=17, end_lineno=15, end_col_offset=29, value='unslug_url', kind=None),
+                                    value=Name(id='qcontext', ctx=Load()),
+                                    slice=Constant(value='unslug_url', kind=None),
                                     ctx=Store(),
                                 ),
                             ],
-                            value=Name(lineno=15, col_offset=33, end_lineno=15, end_col_offset=43, id='unslug_url', ctx=Load()),
+                            value=Name(id='unslug_url', ctx=Load()),
                             type_comment=None,
                         ),
                         Return(
-                            lineno=16,
-                            col_offset=8,
-                            end_lineno=16,
-                            end_col_offset=23,
-                            value=Name(lineno=16, col_offset=15, end_lineno=16, end_col_offset=23, id='qcontext', ctx=Load()),
+                            value=Name(id='qcontext', ctx=Load()),
                         ),
                     ],
                     decorator_list=[
                         Attribute(
-                            lineno=11,
-                            col_offset=5,
-                            end_lineno=11,
-                            end_col_offset=14,
-                            value=Name(lineno=11, col_offset=5, end_lineno=11, end_col_offset=8, id='api', ctx=Load()),
+                            value=Name(id='api', ctx=Load()),
                             attr='model',
                             ctx=Load(),
                         ),

@@ -1,27 +1,15 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=23,
             module='odoo',
             names=[alias(name='models', asname=None)],
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=13,
-            end_col_offset=42,
             name='SaleOrder',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=16,
-                    end_lineno=7,
-                    end_col_offset=28,
-                    value=Name(lineno=7, col_offset=16, end_lineno=7, end_col_offset=22, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -29,34 +17,22 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=27,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=27, value='sale.order', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='sale.order', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=9,
-                    col_offset=4,
-                    end_lineno=9,
-                    end_col_offset=27,
-                    targets=[Name(lineno=9, col_offset=4, end_lineno=9, end_col_offset=20, id='_mailing_enabled', ctx=Store())],
-                    value=Constant(lineno=9, col_offset=23, end_lineno=9, end_col_offset=27, value=True, kind=None),
+                    targets=[Name(id='_mailing_enabled', ctx=Store())],
+                    value=Constant(value=True, kind=None),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=11,
-                    col_offset=4,
-                    end_lineno=13,
-                    end_col_offset=42,
                     name='_mailing_get_default_domain',
                     args=arguments(
                         posonlyargs=[],
                         args=[
-                            arg(lineno=11, col_offset=36, end_lineno=11, end_col_offset=40, arg='self', annotation=None, type_comment=None),
-                            arg(lineno=11, col_offset=42, end_lineno=11, end_col_offset=49, arg='mailing', annotation=None, type_comment=None),
+                            arg(arg='self', annotation=None, type_comment=None),
+                            arg(arg='mailing', annotation=None, type_comment=None),
                         ],
                         vararg=None,
                         kwonlyargs=[],
@@ -66,32 +42,16 @@ Module(
                     ),
                     body=[
                         Expr(
-                            lineno=12,
-                            col_offset=8,
-                            end_lineno=12,
-                            end_col_offset=82,
-                            value=Constant(lineno=12, col_offset=8, end_lineno=12, end_col_offset=82, value=' Exclude by default canceled orders when performing a mass mailing. ', kind=None),
+                            value=Constant(value=' Exclude by default canceled orders when performing a mass mailing. ', kind=None),
                         ),
                         Return(
-                            lineno=13,
-                            col_offset=8,
-                            end_lineno=13,
-                            end_col_offset=42,
                             value=List(
-                                lineno=13,
-                                col_offset=15,
-                                end_lineno=13,
-                                end_col_offset=42,
                                 elts=[
                                     Tuple(
-                                        lineno=13,
-                                        col_offset=16,
-                                        end_lineno=13,
-                                        end_col_offset=41,
                                         elts=[
-                                            Constant(lineno=13, col_offset=17, end_lineno=13, end_col_offset=24, value='state', kind=None),
-                                            Constant(lineno=13, col_offset=26, end_lineno=13, end_col_offset=30, value='!=', kind=None),
-                                            Constant(lineno=13, col_offset=32, end_lineno=13, end_col_offset=40, value='cancel', kind=None),
+                                            Constant(value='state', kind=None),
+                                            Constant(value='!=', kind=None),
+                                            Constant(value='cancel', kind=None),
                                         ],
                                         ctx=Load(),
                                     ),

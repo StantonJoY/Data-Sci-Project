@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=2,
-            col_offset=0,
-            end_lineno=2,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=5,
-            col_offset=0,
-            end_lineno=9,
-            end_col_offset=70,
             name='City',
             bases=[
                 Attribute(
-                    lineno=5,
-                    col_offset=11,
-                    end_lineno=5,
-                    end_col_offset=23,
-                    value=Name(lineno=5, col_offset=11, end_lineno=5, end_col_offset=17, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,43 +20,23 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=6,
-                    col_offset=4,
-                    end_lineno=6,
-                    end_col_offset=25,
-                    targets=[Name(lineno=6, col_offset=4, end_lineno=6, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=6, col_offset=15, end_lineno=6, end_col_offset=25, value='res.city', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='res.city', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=9,
-                    end_col_offset=70,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=16, id='l10n_pe_code', ctx=Store())],
+                    targets=[Name(id='l10n_pe_code', ctx=Store())],
                     value=Call(
-                        lineno=8,
-                        col_offset=19,
-                        end_lineno=9,
-                        end_col_offset=70,
                         func=Attribute(
-                            lineno=8,
-                            col_offset=19,
-                            end_lineno=8,
-                            end_col_offset=30,
-                            value=Name(lineno=8, col_offset=19, end_lineno=8, end_col_offset=25, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Char',
                             ctx=Load(),
                         ),
-                        args=[Constant(lineno=8, col_offset=31, end_lineno=8, end_col_offset=37, value='Code', kind=None)],
+                        args=[Constant(value='Code', kind=None)],
                         keywords=[
                             keyword(
-                                lineno=8,
-                                col_offset=39,
-                                end_lineno=9,
-                                end_col_offset=69,
                                 arg='help',
-                                value=Constant(lineno=8, col_offset=44, end_lineno=9, end_col_offset=69, value='This code will help with the identification of each city in Peru.', kind=None),
+                                value=Constant(value='This code will help with the identification of each city in Peru.', kind=None),
                             ),
                         ],
                     ),

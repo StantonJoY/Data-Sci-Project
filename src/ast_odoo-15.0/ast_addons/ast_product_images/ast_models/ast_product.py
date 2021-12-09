@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=3,
-            col_offset=0,
-            end_lineno=3,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=6,
-            col_offset=0,
-            end_lineno=11,
-            end_col_offset=5,
             name='ProductProduct',
             bases=[
                 Attribute(
-                    lineno=6,
-                    col_offset=21,
-                    end_lineno=6,
-                    end_col_offset=33,
-                    value=Name(lineno=6, col_offset=21, end_lineno=6, end_col_offset=27, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,43 +20,23 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=7,
-                    col_offset=4,
-                    end_lineno=7,
-                    end_col_offset=32,
-                    targets=[Name(lineno=7, col_offset=4, end_lineno=7, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=7, col_offset=15, end_lineno=7, end_col_offset=32, value='product.product', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='product.product', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=9,
-                    col_offset=4,
-                    end_lineno=11,
-                    end_col_offset=5,
-                    targets=[Name(lineno=9, col_offset=4, end_lineno=9, end_col_offset=23, id='image_fetch_pending', ctx=Store())],
+                    targets=[Name(id='image_fetch_pending', ctx=Store())],
                     value=Call(
-                        lineno=9,
-                        col_offset=26,
-                        end_lineno=11,
-                        end_col_offset=5,
                         func=Attribute(
-                            lineno=9,
-                            col_offset=26,
-                            end_lineno=9,
-                            end_col_offset=40,
-                            value=Name(lineno=9, col_offset=26, end_lineno=9, end_col_offset=32, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Boolean',
                             ctx=Load(),
                         ),
                         args=[],
                         keywords=[
                             keyword(
-                                lineno=10,
-                                col_offset=8,
-                                end_lineno=10,
-                                end_col_offset=84,
                                 arg='help',
-                                value=Constant(lineno=10, col_offset=13, end_lineno=10, end_col_offset=84, value='Whether an image must be fetched for this product. Handled by a cron.', kind=None),
+                                value=Constant(value='Whether an image must be fetched for this product. Handled by a cron.', kind=None),
                             ),
                         ],
                     ),

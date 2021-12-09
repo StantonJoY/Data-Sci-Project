@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=3,
-            col_offset=0,
-            end_lineno=3,
-            end_col_offset=39,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -15,18 +11,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=6,
-            col_offset=0,
-            end_lineno=9,
-            end_col_offset=48,
             name='ResPartner',
             bases=[
                 Attribute(
-                    lineno=6,
-                    col_offset=17,
-                    end_lineno=6,
-                    end_col_offset=29,
-                    value=Name(lineno=6, col_offset=17, end_lineno=6, end_col_offset=23, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -34,51 +22,27 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=7,
-                    col_offset=4,
-                    end_lineno=7,
-                    end_col_offset=28,
-                    targets=[Name(lineno=7, col_offset=4, end_lineno=7, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=7, col_offset=15, end_lineno=7, end_col_offset=28, value='res.partner', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='res.partner', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=9,
-                    col_offset=4,
-                    end_lineno=9,
-                    end_col_offset=48,
-                    targets=[Name(lineno=9, col_offset=4, end_lineno=9, end_col_offset=9, id='siret', ctx=Store())],
+                    targets=[Name(id='siret', ctx=Store())],
                     value=Call(
-                        lineno=9,
-                        col_offset=12,
-                        end_lineno=9,
-                        end_col_offset=48,
                         func=Attribute(
-                            lineno=9,
-                            col_offset=12,
-                            end_lineno=9,
-                            end_col_offset=23,
-                            value=Name(lineno=9, col_offset=12, end_lineno=9, end_col_offset=18, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Char',
                             ctx=Load(),
                         ),
                         args=[],
                         keywords=[
                             keyword(
-                                lineno=9,
-                                col_offset=24,
-                                end_lineno=9,
-                                end_col_offset=38,
                                 arg='string',
-                                value=Constant(lineno=9, col_offset=31, end_lineno=9, end_col_offset=38, value='SIRET', kind=None),
+                                value=Constant(value='SIRET', kind=None),
                             ),
                             keyword(
-                                lineno=9,
-                                col_offset=40,
-                                end_lineno=9,
-                                end_col_offset=47,
                                 arg='size',
-                                value=Constant(lineno=9, col_offset=45, end_lineno=9, end_col_offset=47, value=14, kind=None),
+                                value=Constant(value=14, kind=None),
                             ),
                         ],
                     ),

@@ -1,30 +1,14 @@
 Module(
     body=[
         Import(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=17,
             names=[alias(name='odoo.tests', asname=None)],
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=10,
-            end_col_offset=105,
             name='TestOdooEditor',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=21,
-                    end_lineno=7,
-                    end_col_offset=40,
                     value=Attribute(
-                        lineno=7,
-                        col_offset=21,
-                        end_lineno=7,
-                        end_col_offset=31,
-                        value=Name(lineno=7, col_offset=21, end_lineno=7, end_col_offset=25, id='odoo', ctx=Load()),
+                        value=Name(id='odoo', ctx=Load()),
                         attr='tests',
                         ctx=Load(),
                     ),
@@ -35,14 +19,10 @@ Module(
             keywords=[],
             body=[
                 FunctionDef(
-                    lineno=9,
-                    col_offset=4,
-                    end_lineno=10,
-                    end_col_offset=105,
                     name='test_odoo_editor_suite',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=9, col_offset=31, end_lineno=9, end_col_offset=35, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -51,37 +31,21 @@ Module(
                     ),
                     body=[
                         Expr(
-                            lineno=10,
-                            col_offset=8,
-                            end_lineno=10,
-                            end_col_offset=105,
                             value=Call(
-                                lineno=10,
-                                col_offset=8,
-                                end_lineno=10,
-                                end_col_offset=105,
                                 func=Attribute(
-                                    lineno=10,
-                                    col_offset=8,
-                                    end_lineno=10,
-                                    end_col_offset=23,
-                                    value=Name(lineno=10, col_offset=8, end_lineno=10, end_col_offset=12, id='self', ctx=Load()),
+                                    value=Name(id='self', ctx=Load()),
                                     attr='browser_js',
                                     ctx=Load(),
                                 ),
                                 args=[
-                                    Constant(lineno=10, col_offset=24, end_lineno=10, end_col_offset=82, value='/web_editor/static/lib/odoo-editor/test/editor-test.html', kind=None),
-                                    Constant(lineno=10, col_offset=84, end_lineno=10, end_col_offset=86, value='', kind=None),
-                                    Constant(lineno=10, col_offset=88, end_lineno=10, end_col_offset=90, value='', kind=None),
+                                    Constant(value='/web_editor/static/lib/odoo-editor/test/editor-test.html', kind=None),
+                                    Constant(value='', kind=None),
+                                    Constant(value='', kind=None),
                                 ],
                                 keywords=[
                                     keyword(
-                                        lineno=10,
-                                        col_offset=92,
-                                        end_lineno=10,
-                                        end_col_offset=104,
                                         arg='timeout',
-                                        value=Constant(lineno=10, col_offset=100, end_lineno=10, end_col_offset=104, value=1800, kind=None),
+                                        value=Constant(value=1800, kind=None),
                                     ),
                                 ],
                             ),
@@ -94,21 +58,9 @@ Module(
             ],
             decorator_list=[
                 Call(
-                    lineno=6,
-                    col_offset=1,
-                    end_lineno=6,
-                    end_col_offset=49,
                     func=Attribute(
-                        lineno=6,
-                        col_offset=1,
-                        end_lineno=6,
-                        end_col_offset=18,
                         value=Attribute(
-                            lineno=6,
-                            col_offset=1,
-                            end_lineno=6,
-                            end_col_offset=11,
-                            value=Name(lineno=6, col_offset=1, end_lineno=6, end_col_offset=5, id='odoo', ctx=Load()),
+                            value=Name(id='odoo', ctx=Load()),
                             attr='tests',
                             ctx=Load(),
                         ),
@@ -116,8 +68,8 @@ Module(
                         ctx=Load(),
                     ),
                     args=[
-                        Constant(lineno=6, col_offset=19, end_lineno=6, end_col_offset=33, value='post_install', kind=None),
-                        Constant(lineno=6, col_offset=35, end_lineno=6, end_col_offset=48, value='-at_install', kind=None),
+                        Constant(value='post_install', kind=None),
+                        Constant(value='-at_install', kind=None),
                     ],
                     keywords=[],
                 ),

@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=3,
-            col_offset=0,
-            end_lineno=3,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='_', asname=None),
@@ -14,27 +10,15 @@ Module(
             level=0,
         ),
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=37,
             module='odoo.exceptions',
             names=[alias(name='UserError', asname=None)],
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=16,
-            end_col_offset=94,
             name='IrUiView',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=15,
-                    end_lineno=7,
-                    end_col_offset=27,
-                    value=Name(lineno=7, col_offset=15, end_lineno=7, end_col_offset=21, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -42,23 +26,15 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=27,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=27, value='ir.ui.view', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='ir.ui.view', kind=None),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=11,
-                    col_offset=4,
-                    end_lineno=16,
-                    end_col_offset=94,
                     name='_unlink_if_not_referenced_by_acquirer',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=11, col_offset=46, end_lineno=11, end_col_offset=50, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -67,36 +43,16 @@ Module(
                     ),
                     body=[
                         Assign(
-                            lineno=12,
-                            col_offset=8,
-                            end_lineno=14,
-                            end_col_offset=10,
-                            targets=[Name(lineno=12, col_offset=8, end_lineno=12, end_col_offset=29, id='referencing_acquirers', ctx=Store())],
+                            targets=[Name(id='referencing_acquirers', ctx=Store())],
                             value=Call(
-                                lineno=12,
-                                col_offset=32,
-                                end_lineno=14,
-                                end_col_offset=10,
                                 func=Attribute(
-                                    lineno=12,
-                                    col_offset=32,
-                                    end_lineno=12,
-                                    end_col_offset=67,
                                     value=Subscript(
-                                        lineno=12,
-                                        col_offset=32,
-                                        end_lineno=12,
-                                        end_col_offset=60,
                                         value=Attribute(
-                                            lineno=12,
-                                            col_offset=32,
-                                            end_lineno=12,
-                                            end_col_offset=40,
-                                            value=Name(lineno=12, col_offset=32, end_lineno=12, end_col_offset=36, id='self', ctx=Load()),
+                                            value=Name(id='self', ctx=Load()),
                                             attr='env',
                                             ctx=Load(),
                                         ),
-                                        slice=Constant(lineno=12, col_offset=41, end_lineno=12, end_col_offset=59, value='payment.acquirer', kind=None),
+                                        slice=Constant(value='payment.acquirer', kind=None),
                                         ctx=Load(),
                                     ),
                                     attr='search',
@@ -104,26 +60,14 @@ Module(
                                 ),
                                 args=[
                                     List(
-                                        lineno=12,
-                                        col_offset=68,
-                                        end_lineno=14,
-                                        end_col_offset=9,
                                         elts=[
-                                            Constant(lineno=13, col_offset=12, end_lineno=13, end_col_offset=15, value='|', kind=None),
+                                            Constant(value='|', kind=None),
                                             Tuple(
-                                                lineno=13,
-                                                col_offset=17,
-                                                end_lineno=13,
-                                                end_col_offset=58,
                                                 elts=[
-                                                    Constant(lineno=13, col_offset=18, end_lineno=13, end_col_offset=41, value='redirect_form_view_id', kind=None),
-                                                    Constant(lineno=13, col_offset=43, end_lineno=13, end_col_offset=47, value='in', kind=None),
+                                                    Constant(value='redirect_form_view_id', kind=None),
+                                                    Constant(value='in', kind=None),
                                                     Attribute(
-                                                        lineno=13,
-                                                        col_offset=49,
-                                                        end_lineno=13,
-                                                        end_col_offset=57,
-                                                        value=Name(lineno=13, col_offset=49, end_lineno=13, end_col_offset=53, id='self', ctx=Load()),
+                                                        value=Name(id='self', ctx=Load()),
                                                         attr='ids',
                                                         ctx=Load(),
                                                     ),
@@ -131,19 +75,11 @@ Module(
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=13,
-                                                col_offset=60,
-                                                end_lineno=13,
-                                                end_col_offset=99,
                                                 elts=[
-                                                    Constant(lineno=13, col_offset=61, end_lineno=13, end_col_offset=82, value='inline_form_view_id', kind=None),
-                                                    Constant(lineno=13, col_offset=84, end_lineno=13, end_col_offset=88, value='in', kind=None),
+                                                    Constant(value='inline_form_view_id', kind=None),
+                                                    Constant(value='in', kind=None),
                                                     Attribute(
-                                                        lineno=13,
-                                                        col_offset=90,
-                                                        end_lineno=13,
-                                                        end_col_offset=98,
-                                                        value=Name(lineno=13, col_offset=90, end_lineno=13, end_col_offset=94, id='self', ctx=Load()),
+                                                        value=Name(id='self', ctx=Load()),
                                                         attr='ids',
                                                         ctx=Load(),
                                                     ),
@@ -159,31 +95,15 @@ Module(
                             type_comment=None,
                         ),
                         If(
-                            lineno=15,
-                            col_offset=8,
-                            end_lineno=16,
-                            end_col_offset=94,
-                            test=Name(lineno=15, col_offset=11, end_lineno=15, end_col_offset=32, id='referencing_acquirers', ctx=Load()),
+                            test=Name(id='referencing_acquirers', ctx=Load()),
                             body=[
                                 Raise(
-                                    lineno=16,
-                                    col_offset=12,
-                                    end_lineno=16,
-                                    end_col_offset=94,
                                     exc=Call(
-                                        lineno=16,
-                                        col_offset=18,
-                                        end_lineno=16,
-                                        end_col_offset=94,
-                                        func=Name(lineno=16, col_offset=18, end_lineno=16, end_col_offset=27, id='UserError', ctx=Load()),
+                                        func=Name(id='UserError', ctx=Load()),
                                         args=[
                                             Call(
-                                                lineno=16,
-                                                col_offset=28,
-                                                end_lineno=16,
-                                                end_col_offset=93,
-                                                func=Name(lineno=16, col_offset=28, end_lineno=16, end_col_offset=29, id='_', ctx=Load()),
-                                                args=[Constant(lineno=16, col_offset=30, end_lineno=16, end_col_offset=92, value='You cannot delete a view that is used by a payment acquirer.', kind=None)],
+                                                func=Name(id='_', ctx=Load()),
+                                                args=[Constant(value='You cannot delete a view that is used by a payment acquirer.', kind=None)],
                                                 keywords=[],
                                             ),
                                         ],
@@ -197,28 +117,16 @@ Module(
                     ],
                     decorator_list=[
                         Call(
-                            lineno=10,
-                            col_offset=5,
-                            end_lineno=10,
-                            end_col_offset=37,
                             func=Attribute(
-                                lineno=10,
-                                col_offset=5,
-                                end_lineno=10,
-                                end_col_offset=17,
-                                value=Name(lineno=10, col_offset=5, end_lineno=10, end_col_offset=8, id='api', ctx=Load()),
+                                value=Name(id='api', ctx=Load()),
                                 attr='ondelete',
                                 ctx=Load(),
                             ),
                             args=[],
                             keywords=[
                                 keyword(
-                                    lineno=10,
-                                    col_offset=18,
-                                    end_lineno=10,
-                                    end_col_offset=36,
                                     arg='at_uninstall',
-                                    value=Constant(lineno=10, col_offset=31, end_lineno=10, end_col_offset=36, value=False, kind=None),
+                                    value=Constant(value=False, kind=None),
                                 ),
                             ],
                         ),

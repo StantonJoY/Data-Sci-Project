@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=36,
             module='odoo',
             names=[
                 alias(name='api', asname=None),
@@ -14,18 +10,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=15,
-            end_col_offset=121,
             name='SaleOrderCancel',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=22,
-                    end_lineno=7,
-                    end_col_offset=43,
-                    value=Name(lineno=7, col_offset=22, end_lineno=7, end_col_offset=28, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='TransientModel',
                     ctx=Load(),
                 ),
@@ -33,57 +21,33 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=34,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=34, value='sale.order.cancel', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='sale.order.cancel', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=10,
-                    end_col_offset=104,
-                    targets=[Name(lineno=10, col_offset=4, end_lineno=10, end_col_offset=26, id='display_delivery_alert', ctx=Store())],
+                    targets=[Name(id='display_delivery_alert', ctx=Store())],
                     value=Call(
-                        lineno=10,
-                        col_offset=29,
-                        end_lineno=10,
-                        end_col_offset=104,
                         func=Attribute(
-                            lineno=10,
-                            col_offset=29,
-                            end_lineno=10,
-                            end_col_offset=43,
-                            value=Name(lineno=10, col_offset=29, end_lineno=10, end_col_offset=35, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Boolean',
                             ctx=Load(),
                         ),
-                        args=[Constant(lineno=10, col_offset=44, end_lineno=10, end_col_offset=60, value='Delivery Alert', kind=None)],
+                        args=[Constant(value='Delivery Alert', kind=None)],
                         keywords=[
                             keyword(
-                                lineno=10,
-                                col_offset=62,
-                                end_lineno=10,
-                                end_col_offset=103,
                                 arg='compute',
-                                value=Constant(lineno=10, col_offset=70, end_lineno=10, end_col_offset=103, value='_compute_display_delivery_alert', kind=None),
+                                value=Constant(value='_compute_display_delivery_alert', kind=None),
                             ),
                         ],
                     ),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=13,
-                    col_offset=4,
-                    end_lineno=15,
-                    end_col_offset=121,
                     name='_compute_display_delivery_alert',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=13, col_offset=40, end_lineno=13, end_col_offset=44, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -92,79 +56,39 @@ Module(
                     ),
                     body=[
                         For(
-                            lineno=14,
-                            col_offset=8,
-                            end_lineno=15,
-                            end_col_offset=121,
-                            target=Name(lineno=14, col_offset=12, end_lineno=14, end_col_offset=18, id='wizard', ctx=Store()),
-                            iter=Name(lineno=14, col_offset=22, end_lineno=14, end_col_offset=26, id='self', ctx=Load()),
+                            target=Name(id='wizard', ctx=Store()),
+                            iter=Name(id='self', ctx=Load()),
                             body=[
                                 Assign(
-                                    lineno=15,
-                                    col_offset=12,
-                                    end_lineno=15,
-                                    end_col_offset=121,
                                     targets=[
                                         Attribute(
-                                            lineno=15,
-                                            col_offset=12,
-                                            end_lineno=15,
-                                            end_col_offset=41,
-                                            value=Name(lineno=15, col_offset=12, end_lineno=15, end_col_offset=18, id='wizard', ctx=Load()),
+                                            value=Name(id='wizard', ctx=Load()),
                                             attr='display_delivery_alert',
                                             ctx=Store(),
                                         ),
                                     ],
                                     value=Call(
-                                        lineno=15,
-                                        col_offset=44,
-                                        end_lineno=15,
-                                        end_col_offset=121,
-                                        func=Name(lineno=15, col_offset=44, end_lineno=15, end_col_offset=48, id='bool', ctx=Load()),
+                                        func=Name(id='bool', ctx=Load()),
                                         args=[
                                             Call(
-                                                lineno=15,
-                                                col_offset=49,
-                                                end_lineno=15,
-                                                end_col_offset=120,
-                                                func=Name(lineno=15, col_offset=49, end_lineno=15, end_col_offset=52, id='any', ctx=Load()),
+                                                func=Name(id='any', ctx=Load()),
                                                 args=[
                                                     GeneratorExp(
-                                                        lineno=15,
-                                                        col_offset=52,
-                                                        end_lineno=15,
-                                                        end_col_offset=120,
                                                         elt=Compare(
-                                                            lineno=15,
-                                                            col_offset=53,
-                                                            end_lineno=15,
-                                                            end_col_offset=76,
                                                             left=Attribute(
-                                                                lineno=15,
-                                                                col_offset=53,
-                                                                end_lineno=15,
-                                                                end_col_offset=66,
-                                                                value=Name(lineno=15, col_offset=53, end_lineno=15, end_col_offset=60, id='picking', ctx=Load()),
+                                                                value=Name(id='picking', ctx=Load()),
                                                                 attr='state',
                                                                 ctx=Load(),
                                                             ),
                                                             ops=[Eq()],
-                                                            comparators=[Constant(lineno=15, col_offset=70, end_lineno=15, end_col_offset=76, value='done', kind=None)],
+                                                            comparators=[Constant(value='done', kind=None)],
                                                         ),
                                                         generators=[
                                                             comprehension(
-                                                                target=Name(lineno=15, col_offset=81, end_lineno=15, end_col_offset=88, id='picking', ctx=Store()),
+                                                                target=Name(id='picking', ctx=Store()),
                                                                 iter=Attribute(
-                                                                    lineno=15,
-                                                                    col_offset=92,
-                                                                    end_lineno=15,
-                                                                    end_col_offset=119,
                                                                     value=Attribute(
-                                                                        lineno=15,
-                                                                        col_offset=92,
-                                                                        end_lineno=15,
-                                                                        end_col_offset=107,
-                                                                        value=Name(lineno=15, col_offset=92, end_lineno=15, end_col_offset=98, id='wizard', ctx=Load()),
+                                                                        value=Name(id='wizard', ctx=Load()),
                                                                         attr='order_id',
                                                                         ctx=Load(),
                                                                     ),
@@ -191,20 +115,12 @@ Module(
                     ],
                     decorator_list=[
                         Call(
-                            lineno=12,
-                            col_offset=5,
-                            end_lineno=12,
-                            end_col_offset=28,
                             func=Attribute(
-                                lineno=12,
-                                col_offset=5,
-                                end_lineno=12,
-                                end_col_offset=16,
-                                value=Name(lineno=12, col_offset=5, end_lineno=12, end_col_offset=8, id='api', ctx=Load()),
+                                value=Name(id='api', ctx=Load()),
                                 attr='depends',
                                 ctx=Load(),
                             ),
-                            args=[Constant(lineno=12, col_offset=17, end_lineno=12, end_col_offset=27, value='order_id', kind=None)],
+                            args=[Constant(value='order_id', kind=None)],
                             keywords=[],
                         ),
                     ],

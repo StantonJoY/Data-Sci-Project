@@ -1,43 +1,27 @@
 Module(
     body=[
         ImportFrom(
-            lineno=1,
-            col_offset=0,
-            end_lineno=1,
-            end_col_offset=85,
             module='odoo.addons.hr_work_entry_contract.models.hr_work_intervals',
             names=[alias(name='WorkIntervals', asname=None)],
             level=0,
         ),
         ImportFrom(
-            lineno=2,
-            col_offset=0,
-            end_lineno=2,
-            end_col_offset=45,
             module='odoo.tests.common',
             names=[alias(name='TransactionCase', asname=None)],
             level=0,
         ),
         ClassDef(
-            lineno=5,
-            col_offset=0,
-            end_lineno=70,
-            end_col_offset=9,
             name='TestIntervals',
-            bases=[Name(lineno=5, col_offset=20, end_lineno=5, end_col_offset=35, id='TransactionCase', ctx=Load())],
+            bases=[Name(id='TransactionCase', ctx=Load())],
             keywords=[],
             body=[
                 FunctionDef(
-                    lineno=7,
-                    col_offset=4,
-                    end_lineno=9,
-                    end_col_offset=47,
                     name='ints',
                     args=arguments(
                         posonlyargs=[],
                         args=[
-                            arg(lineno=7, col_offset=13, end_lineno=7, end_col_offset=17, arg='self', annotation=None, type_comment=None),
-                            arg(lineno=7, col_offset=19, end_lineno=7, end_col_offset=24, arg='pairs', annotation=None, type_comment=None),
+                            arg(arg='self', annotation=None, type_comment=None),
+                            arg(arg='pairs', annotation=None, type_comment=None),
                         ],
                         vararg=None,
                         kwonlyargs=[],
@@ -47,66 +31,38 @@ Module(
                     ),
                     body=[
                         Assign(
-                            lineno=8,
-                            col_offset=8,
-                            end_lineno=8,
-                            end_col_offset=31,
-                            targets=[Name(lineno=8, col_offset=8, end_lineno=8, end_col_offset=12, id='recs', ctx=Store())],
+                            targets=[Name(id='recs', ctx=Store())],
                             value=Subscript(
-                                lineno=8,
-                                col_offset=15,
-                                end_lineno=8,
-                                end_col_offset=31,
                                 value=Attribute(
-                                    lineno=8,
-                                    col_offset=15,
-                                    end_lineno=8,
-                                    end_col_offset=23,
-                                    value=Name(lineno=8, col_offset=15, end_lineno=8, end_col_offset=19, id='self', ctx=Load()),
+                                    value=Name(id='self', ctx=Load()),
                                     attr='env',
                                     ctx=Load(),
                                 ),
-                                slice=Constant(lineno=8, col_offset=24, end_lineno=8, end_col_offset=30, value='base', kind=None),
+                                slice=Constant(value='base', kind=None),
                                 ctx=Load(),
                             ),
                             type_comment=None,
                         ),
                         Return(
-                            lineno=9,
-                            col_offset=8,
-                            end_lineno=9,
-                            end_col_offset=47,
                             value=ListComp(
-                                lineno=9,
-                                col_offset=15,
-                                end_lineno=9,
-                                end_col_offset=47,
                                 elt=Tuple(
-                                    lineno=9,
-                                    col_offset=16,
-                                    end_lineno=9,
-                                    end_col_offset=28,
                                     elts=[
-                                        Name(lineno=9, col_offset=17, end_lineno=9, end_col_offset=18, id='a', ctx=Load()),
-                                        Name(lineno=9, col_offset=20, end_lineno=9, end_col_offset=21, id='b', ctx=Load()),
-                                        Name(lineno=9, col_offset=23, end_lineno=9, end_col_offset=27, id='recs', ctx=Load()),
+                                        Name(id='a', ctx=Load()),
+                                        Name(id='b', ctx=Load()),
+                                        Name(id='recs', ctx=Load()),
                                     ],
                                     ctx=Load(),
                                 ),
                                 generators=[
                                     comprehension(
                                         target=Tuple(
-                                            lineno=9,
-                                            col_offset=33,
-                                            end_lineno=9,
-                                            end_col_offset=37,
                                             elts=[
-                                                Name(lineno=9, col_offset=33, end_lineno=9, end_col_offset=34, id='a', ctx=Store()),
-                                                Name(lineno=9, col_offset=36, end_lineno=9, end_col_offset=37, id='b', ctx=Store()),
+                                                Name(id='a', ctx=Store()),
+                                                Name(id='b', ctx=Store()),
                                             ],
                                             ctx=Store(),
                                         ),
-                                        iter=Name(lineno=9, col_offset=41, end_lineno=9, end_col_offset=46, id='pairs', ctx=Load()),
+                                        iter=Name(id='pairs', ctx=Load()),
                                         ifs=[],
                                         is_async=0,
                                     ),
@@ -119,14 +75,10 @@ Module(
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=11,
-                    col_offset=4,
-                    end_lineno=24,
-                    end_col_offset=41,
                     name='test_union',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=11, col_offset=19, end_lineno=11, end_col_offset=23, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -135,16 +87,12 @@ Module(
                     ),
                     body=[
                         FunctionDef(
-                            lineno=12,
-                            col_offset=8,
-                            end_lineno=14,
-                            end_col_offset=55,
                             name='check',
                             args=arguments(
                                 posonlyargs=[],
                                 args=[
-                                    arg(lineno=12, col_offset=18, end_lineno=12, end_col_offset=19, arg='a', annotation=None, type_comment=None),
-                                    arg(lineno=12, col_offset=21, end_lineno=12, end_col_offset=22, arg='b', annotation=None, type_comment=None),
+                                    arg(arg='a', annotation=None, type_comment=None),
+                                    arg(arg='b', annotation=None, type_comment=None),
                                 ],
                                 vararg=None,
                                 kwonlyargs=[],
@@ -154,61 +102,33 @@ Module(
                             ),
                             body=[
                                 Assign(
-                                    lineno=13,
-                                    col_offset=12,
-                                    end_lineno=13,
-                                    end_col_offset=45,
                                     targets=[
                                         Tuple(
-                                            lineno=13,
-                                            col_offset=12,
-                                            end_lineno=13,
-                                            end_col_offset=16,
                                             elts=[
-                                                Name(lineno=13, col_offset=12, end_lineno=13, end_col_offset=13, id='a', ctx=Store()),
-                                                Name(lineno=13, col_offset=15, end_lineno=13, end_col_offset=16, id='b', ctx=Store()),
+                                                Name(id='a', ctx=Store()),
+                                                Name(id='b', ctx=Store()),
                                             ],
                                             ctx=Store(),
                                         ),
                                     ],
                                     value=Tuple(
-                                        lineno=13,
-                                        col_offset=19,
-                                        end_lineno=13,
-                                        end_col_offset=45,
                                         elts=[
                                             Call(
-                                                lineno=13,
-                                                col_offset=19,
-                                                end_lineno=13,
-                                                end_col_offset=31,
                                                 func=Attribute(
-                                                    lineno=13,
-                                                    col_offset=19,
-                                                    end_lineno=13,
-                                                    end_col_offset=28,
-                                                    value=Name(lineno=13, col_offset=19, end_lineno=13, end_col_offset=23, id='self', ctx=Load()),
+                                                    value=Name(id='self', ctx=Load()),
                                                     attr='ints',
                                                     ctx=Load(),
                                                 ),
-                                                args=[Name(lineno=13, col_offset=29, end_lineno=13, end_col_offset=30, id='a', ctx=Load())],
+                                                args=[Name(id='a', ctx=Load())],
                                                 keywords=[],
                                             ),
                                             Call(
-                                                lineno=13,
-                                                col_offset=33,
-                                                end_lineno=13,
-                                                end_col_offset=45,
                                                 func=Attribute(
-                                                    lineno=13,
-                                                    col_offset=33,
-                                                    end_lineno=13,
-                                                    end_col_offset=42,
-                                                    value=Name(lineno=13, col_offset=33, end_lineno=13, end_col_offset=37, id='self', ctx=Load()),
+                                                    value=Name(id='self', ctx=Load()),
                                                     attr='ints',
                                                     ctx=Load(),
                                                 ),
-                                                args=[Name(lineno=13, col_offset=43, end_lineno=13, end_col_offset=44, id='b', ctx=Load())],
+                                                args=[Name(id='b', ctx=Load())],
                                                 keywords=[],
                                             ),
                                         ],
@@ -217,45 +137,25 @@ Module(
                                     type_comment=None,
                                 ),
                                 Expr(
-                                    lineno=14,
-                                    col_offset=12,
-                                    end_lineno=14,
-                                    end_col_offset=55,
                                     value=Call(
-                                        lineno=14,
-                                        col_offset=12,
-                                        end_lineno=14,
-                                        end_col_offset=55,
                                         func=Attribute(
-                                            lineno=14,
-                                            col_offset=12,
-                                            end_lineno=14,
-                                            end_col_offset=28,
-                                            value=Name(lineno=14, col_offset=12, end_lineno=14, end_col_offset=16, id='self', ctx=Load()),
+                                            value=Name(id='self', ctx=Load()),
                                             attr='assertEqual',
                                             ctx=Load(),
                                         ),
                                         args=[
                                             Call(
-                                                lineno=14,
-                                                col_offset=29,
-                                                end_lineno=14,
-                                                end_col_offset=51,
-                                                func=Name(lineno=14, col_offset=29, end_lineno=14, end_col_offset=33, id='list', ctx=Load()),
+                                                func=Name(id='list', ctx=Load()),
                                                 args=[
                                                     Call(
-                                                        lineno=14,
-                                                        col_offset=34,
-                                                        end_lineno=14,
-                                                        end_col_offset=50,
-                                                        func=Name(lineno=14, col_offset=34, end_lineno=14, end_col_offset=47, id='WorkIntervals', ctx=Load()),
-                                                        args=[Name(lineno=14, col_offset=48, end_lineno=14, end_col_offset=49, id='a', ctx=Load())],
+                                                        func=Name(id='WorkIntervals', ctx=Load()),
+                                                        args=[Name(id='a', ctx=Load())],
                                                         keywords=[],
                                                     ),
                                                 ],
                                                 keywords=[],
                                             ),
-                                            Name(lineno=14, col_offset=53, end_lineno=14, end_col_offset=54, id='b', ctx=Load()),
+                                            Name(id='b', ctx=Load()),
                                         ],
                                         keywords=[],
                                     ),
@@ -266,42 +166,22 @@ Module(
                             type_comment=None,
                         ),
                         Expr(
-                            lineno=16,
-                            col_offset=8,
-                            end_lineno=16,
-                            end_col_offset=49,
                             value=Call(
-                                lineno=16,
-                                col_offset=8,
-                                end_lineno=16,
-                                end_col_offset=49,
-                                func=Name(lineno=16, col_offset=8, end_lineno=16, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=16,
-                                        col_offset=14,
-                                        end_lineno=16,
-                                        end_col_offset=30,
                                         elts=[
                                             Tuple(
-                                                lineno=16,
-                                                col_offset=15,
-                                                end_lineno=16,
-                                                end_col_offset=21,
                                                 elts=[
-                                                    Constant(lineno=16, col_offset=16, end_lineno=16, end_col_offset=17, value=1, kind=None),
-                                                    Constant(lineno=16, col_offset=19, end_lineno=16, end_col_offset=20, value=2, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=2, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=16,
-                                                col_offset=23,
-                                                end_lineno=16,
-                                                end_col_offset=29,
                                                 elts=[
-                                                    Constant(lineno=16, col_offset=24, end_lineno=16, end_col_offset=25, value=3, kind=None),
-                                                    Constant(lineno=16, col_offset=27, end_lineno=16, end_col_offset=28, value=4, kind=None),
+                                                    Constant(value=3, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -309,30 +189,18 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=16,
-                                        col_offset=32,
-                                        end_lineno=16,
-                                        end_col_offset=48,
                                         elts=[
                                             Tuple(
-                                                lineno=16,
-                                                col_offset=33,
-                                                end_lineno=16,
-                                                end_col_offset=39,
                                                 elts=[
-                                                    Constant(lineno=16, col_offset=34, end_lineno=16, end_col_offset=35, value=1, kind=None),
-                                                    Constant(lineno=16, col_offset=37, end_lineno=16, end_col_offset=38, value=2, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=2, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=16,
-                                                col_offset=41,
-                                                end_lineno=16,
-                                                end_col_offset=47,
                                                 elts=[
-                                                    Constant(lineno=16, col_offset=42, end_lineno=16, end_col_offset=43, value=3, kind=None),
-                                                    Constant(lineno=16, col_offset=45, end_lineno=16, end_col_offset=46, value=4, kind=None),
+                                                    Constant(value=3, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -344,42 +212,22 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=17,
-                            col_offset=8,
-                            end_lineno=17,
-                            end_col_offset=49,
                             value=Call(
-                                lineno=17,
-                                col_offset=8,
-                                end_lineno=17,
-                                end_col_offset=49,
-                                func=Name(lineno=17, col_offset=8, end_lineno=17, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=17,
-                                        col_offset=14,
-                                        end_lineno=17,
-                                        end_col_offset=30,
                                         elts=[
                                             Tuple(
-                                                lineno=17,
-                                                col_offset=15,
-                                                end_lineno=17,
-                                                end_col_offset=21,
                                                 elts=[
-                                                    Constant(lineno=17, col_offset=16, end_lineno=17, end_col_offset=17, value=1, kind=None),
-                                                    Constant(lineno=17, col_offset=19, end_lineno=17, end_col_offset=20, value=2, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=2, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=17,
-                                                col_offset=23,
-                                                end_lineno=17,
-                                                end_col_offset=29,
                                                 elts=[
-                                                    Constant(lineno=17, col_offset=24, end_lineno=17, end_col_offset=25, value=2, kind=None),
-                                                    Constant(lineno=17, col_offset=27, end_lineno=17, end_col_offset=28, value=4, kind=None),
+                                                    Constant(value=2, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -387,30 +235,18 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=17,
-                                        col_offset=32,
-                                        end_lineno=17,
-                                        end_col_offset=48,
                                         elts=[
                                             Tuple(
-                                                lineno=17,
-                                                col_offset=33,
-                                                end_lineno=17,
-                                                end_col_offset=39,
                                                 elts=[
-                                                    Constant(lineno=17, col_offset=34, end_lineno=17, end_col_offset=35, value=1, kind=None),
-                                                    Constant(lineno=17, col_offset=37, end_lineno=17, end_col_offset=38, value=2, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=2, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=17,
-                                                col_offset=41,
-                                                end_lineno=17,
-                                                end_col_offset=47,
                                                 elts=[
-                                                    Constant(lineno=17, col_offset=42, end_lineno=17, end_col_offset=43, value=2, kind=None),
-                                                    Constant(lineno=17, col_offset=45, end_lineno=17, end_col_offset=46, value=4, kind=None),
+                                                    Constant(value=2, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -422,42 +258,22 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=18,
-                            col_offset=8,
-                            end_lineno=18,
-                            end_col_offset=41,
                             value=Call(
-                                lineno=18,
-                                col_offset=8,
-                                end_lineno=18,
-                                end_col_offset=41,
-                                func=Name(lineno=18, col_offset=8, end_lineno=18, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=18,
-                                        col_offset=14,
-                                        end_lineno=18,
-                                        end_col_offset=30,
                                         elts=[
                                             Tuple(
-                                                lineno=18,
-                                                col_offset=15,
-                                                end_lineno=18,
-                                                end_col_offset=21,
                                                 elts=[
-                                                    Constant(lineno=18, col_offset=16, end_lineno=18, end_col_offset=17, value=1, kind=None),
-                                                    Constant(lineno=18, col_offset=19, end_lineno=18, end_col_offset=20, value=3, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=3, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=18,
-                                                col_offset=23,
-                                                end_lineno=18,
-                                                end_col_offset=29,
                                                 elts=[
-                                                    Constant(lineno=18, col_offset=24, end_lineno=18, end_col_offset=25, value=2, kind=None),
-                                                    Constant(lineno=18, col_offset=27, end_lineno=18, end_col_offset=28, value=4, kind=None),
+                                                    Constant(value=2, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -465,19 +281,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=18,
-                                        col_offset=32,
-                                        end_lineno=18,
-                                        end_col_offset=40,
                                         elts=[
                                             Tuple(
-                                                lineno=18,
-                                                col_offset=33,
-                                                end_lineno=18,
-                                                end_col_offset=39,
                                                 elts=[
-                                                    Constant(lineno=18, col_offset=34, end_lineno=18, end_col_offset=35, value=1, kind=None),
-                                                    Constant(lineno=18, col_offset=37, end_lineno=18, end_col_offset=38, value=4, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -489,42 +297,22 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=19,
-                            col_offset=8,
-                            end_lineno=19,
-                            end_col_offset=41,
                             value=Call(
-                                lineno=19,
-                                col_offset=8,
-                                end_lineno=19,
-                                end_col_offset=41,
-                                func=Name(lineno=19, col_offset=8, end_lineno=19, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=19,
-                                        col_offset=14,
-                                        end_lineno=19,
-                                        end_col_offset=30,
                                         elts=[
                                             Tuple(
-                                                lineno=19,
-                                                col_offset=15,
-                                                end_lineno=19,
-                                                end_col_offset=21,
                                                 elts=[
-                                                    Constant(lineno=19, col_offset=16, end_lineno=19, end_col_offset=17, value=1, kind=None),
-                                                    Constant(lineno=19, col_offset=19, end_lineno=19, end_col_offset=20, value=4, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=19,
-                                                col_offset=23,
-                                                end_lineno=19,
-                                                end_col_offset=29,
                                                 elts=[
-                                                    Constant(lineno=19, col_offset=24, end_lineno=19, end_col_offset=25, value=2, kind=None),
-                                                    Constant(lineno=19, col_offset=27, end_lineno=19, end_col_offset=28, value=3, kind=None),
+                                                    Constant(value=2, kind=None),
+                                                    Constant(value=3, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -532,19 +320,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=19,
-                                        col_offset=32,
-                                        end_lineno=19,
-                                        end_col_offset=40,
                                         elts=[
                                             Tuple(
-                                                lineno=19,
-                                                col_offset=33,
-                                                end_lineno=19,
-                                                end_col_offset=39,
                                                 elts=[
-                                                    Constant(lineno=19, col_offset=34, end_lineno=19, end_col_offset=35, value=1, kind=None),
-                                                    Constant(lineno=19, col_offset=37, end_lineno=19, end_col_offset=38, value=4, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -556,42 +336,22 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=20,
-                            col_offset=8,
-                            end_lineno=20,
-                            end_col_offset=41,
                             value=Call(
-                                lineno=20,
-                                col_offset=8,
-                                end_lineno=20,
-                                end_col_offset=41,
-                                func=Name(lineno=20, col_offset=8, end_lineno=20, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=20,
-                                        col_offset=14,
-                                        end_lineno=20,
-                                        end_col_offset=30,
                                         elts=[
                                             Tuple(
-                                                lineno=20,
-                                                col_offset=15,
-                                                end_lineno=20,
-                                                end_col_offset=21,
                                                 elts=[
-                                                    Constant(lineno=20, col_offset=16, end_lineno=20, end_col_offset=17, value=1, kind=None),
-                                                    Constant(lineno=20, col_offset=19, end_lineno=20, end_col_offset=20, value=4, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=20,
-                                                col_offset=23,
-                                                end_lineno=20,
-                                                end_col_offset=29,
                                                 elts=[
-                                                    Constant(lineno=20, col_offset=24, end_lineno=20, end_col_offset=25, value=1, kind=None),
-                                                    Constant(lineno=20, col_offset=27, end_lineno=20, end_col_offset=28, value=4, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -599,19 +359,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=20,
-                                        col_offset=32,
-                                        end_lineno=20,
-                                        end_col_offset=40,
                                         elts=[
                                             Tuple(
-                                                lineno=20,
-                                                col_offset=33,
-                                                end_lineno=20,
-                                                end_col_offset=39,
                                                 elts=[
-                                                    Constant(lineno=20, col_offset=34, end_lineno=20, end_col_offset=35, value=1, kind=None),
-                                                    Constant(lineno=20, col_offset=37, end_lineno=20, end_col_offset=38, value=4, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -623,42 +375,22 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=21,
-                            col_offset=8,
-                            end_lineno=21,
-                            end_col_offset=49,
                             value=Call(
-                                lineno=21,
-                                col_offset=8,
-                                end_lineno=21,
-                                end_col_offset=49,
-                                func=Name(lineno=21, col_offset=8, end_lineno=21, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=21,
-                                        col_offset=14,
-                                        end_lineno=21,
-                                        end_col_offset=30,
                                         elts=[
                                             Tuple(
-                                                lineno=21,
-                                                col_offset=15,
-                                                end_lineno=21,
-                                                end_col_offset=21,
                                                 elts=[
-                                                    Constant(lineno=21, col_offset=16, end_lineno=21, end_col_offset=17, value=3, kind=None),
-                                                    Constant(lineno=21, col_offset=19, end_lineno=21, end_col_offset=20, value=4, kind=None),
+                                                    Constant(value=3, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=21,
-                                                col_offset=23,
-                                                end_lineno=21,
-                                                end_col_offset=29,
                                                 elts=[
-                                                    Constant(lineno=21, col_offset=24, end_lineno=21, end_col_offset=25, value=1, kind=None),
-                                                    Constant(lineno=21, col_offset=27, end_lineno=21, end_col_offset=28, value=2, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=2, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -666,30 +398,18 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=21,
-                                        col_offset=32,
-                                        end_lineno=21,
-                                        end_col_offset=48,
                                         elts=[
                                             Tuple(
-                                                lineno=21,
-                                                col_offset=33,
-                                                end_lineno=21,
-                                                end_col_offset=39,
                                                 elts=[
-                                                    Constant(lineno=21, col_offset=34, end_lineno=21, end_col_offset=35, value=1, kind=None),
-                                                    Constant(lineno=21, col_offset=37, end_lineno=21, end_col_offset=38, value=2, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=2, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=21,
-                                                col_offset=41,
-                                                end_lineno=21,
-                                                end_col_offset=47,
                                                 elts=[
-                                                    Constant(lineno=21, col_offset=42, end_lineno=21, end_col_offset=43, value=3, kind=None),
-                                                    Constant(lineno=21, col_offset=45, end_lineno=21, end_col_offset=46, value=4, kind=None),
+                                                    Constant(value=3, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -701,42 +421,22 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=22,
-                            col_offset=8,
-                            end_lineno=22,
-                            end_col_offset=49,
                             value=Call(
-                                lineno=22,
-                                col_offset=8,
-                                end_lineno=22,
-                                end_col_offset=49,
-                                func=Name(lineno=22, col_offset=8, end_lineno=22, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=22,
-                                        col_offset=14,
-                                        end_lineno=22,
-                                        end_col_offset=30,
                                         elts=[
                                             Tuple(
-                                                lineno=22,
-                                                col_offset=15,
-                                                end_lineno=22,
-                                                end_col_offset=21,
                                                 elts=[
-                                                    Constant(lineno=22, col_offset=16, end_lineno=22, end_col_offset=17, value=2, kind=None),
-                                                    Constant(lineno=22, col_offset=19, end_lineno=22, end_col_offset=20, value=4, kind=None),
+                                                    Constant(value=2, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=22,
-                                                col_offset=23,
-                                                end_lineno=22,
-                                                end_col_offset=29,
                                                 elts=[
-                                                    Constant(lineno=22, col_offset=24, end_lineno=22, end_col_offset=25, value=1, kind=None),
-                                                    Constant(lineno=22, col_offset=27, end_lineno=22, end_col_offset=28, value=2, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=2, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -744,30 +444,18 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=22,
-                                        col_offset=32,
-                                        end_lineno=22,
-                                        end_col_offset=48,
                                         elts=[
                                             Tuple(
-                                                lineno=22,
-                                                col_offset=33,
-                                                end_lineno=22,
-                                                end_col_offset=39,
                                                 elts=[
-                                                    Constant(lineno=22, col_offset=34, end_lineno=22, end_col_offset=35, value=1, kind=None),
-                                                    Constant(lineno=22, col_offset=37, end_lineno=22, end_col_offset=38, value=2, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=2, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=22,
-                                                col_offset=41,
-                                                end_lineno=22,
-                                                end_col_offset=47,
                                                 elts=[
-                                                    Constant(lineno=22, col_offset=42, end_lineno=22, end_col_offset=43, value=2, kind=None),
-                                                    Constant(lineno=22, col_offset=45, end_lineno=22, end_col_offset=46, value=4, kind=None),
+                                                    Constant(value=2, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -779,42 +467,22 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=23,
-                            col_offset=8,
-                            end_lineno=23,
-                            end_col_offset=41,
                             value=Call(
-                                lineno=23,
-                                col_offset=8,
-                                end_lineno=23,
-                                end_col_offset=41,
-                                func=Name(lineno=23, col_offset=8, end_lineno=23, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=23,
-                                        col_offset=14,
-                                        end_lineno=23,
-                                        end_col_offset=30,
                                         elts=[
                                             Tuple(
-                                                lineno=23,
-                                                col_offset=15,
-                                                end_lineno=23,
-                                                end_col_offset=21,
                                                 elts=[
-                                                    Constant(lineno=23, col_offset=16, end_lineno=23, end_col_offset=17, value=2, kind=None),
-                                                    Constant(lineno=23, col_offset=19, end_lineno=23, end_col_offset=20, value=4, kind=None),
+                                                    Constant(value=2, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=23,
-                                                col_offset=23,
-                                                end_lineno=23,
-                                                end_col_offset=29,
                                                 elts=[
-                                                    Constant(lineno=23, col_offset=24, end_lineno=23, end_col_offset=25, value=1, kind=None),
-                                                    Constant(lineno=23, col_offset=27, end_lineno=23, end_col_offset=28, value=3, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=3, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -822,19 +490,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=23,
-                                        col_offset=32,
-                                        end_lineno=23,
-                                        end_col_offset=40,
                                         elts=[
                                             Tuple(
-                                                lineno=23,
-                                                col_offset=33,
-                                                end_lineno=23,
-                                                end_col_offset=39,
                                                 elts=[
-                                                    Constant(lineno=23, col_offset=34, end_lineno=23, end_col_offset=35, value=1, kind=None),
-                                                    Constant(lineno=23, col_offset=37, end_lineno=23, end_col_offset=38, value=4, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -846,42 +506,22 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=24,
-                            col_offset=8,
-                            end_lineno=24,
-                            end_col_offset=41,
                             value=Call(
-                                lineno=24,
-                                col_offset=8,
-                                end_lineno=24,
-                                end_col_offset=41,
-                                func=Name(lineno=24, col_offset=8, end_lineno=24, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=24,
-                                        col_offset=14,
-                                        end_lineno=24,
-                                        end_col_offset=30,
                                         elts=[
                                             Tuple(
-                                                lineno=24,
-                                                col_offset=15,
-                                                end_lineno=24,
-                                                end_col_offset=21,
                                                 elts=[
-                                                    Constant(lineno=24, col_offset=16, end_lineno=24, end_col_offset=17, value=2, kind=None),
-                                                    Constant(lineno=24, col_offset=19, end_lineno=24, end_col_offset=20, value=3, kind=None),
+                                                    Constant(value=2, kind=None),
+                                                    Constant(value=3, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=24,
-                                                col_offset=23,
-                                                end_lineno=24,
-                                                end_col_offset=29,
                                                 elts=[
-                                                    Constant(lineno=24, col_offset=24, end_lineno=24, end_col_offset=25, value=1, kind=None),
-                                                    Constant(lineno=24, col_offset=27, end_lineno=24, end_col_offset=28, value=4, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -889,19 +529,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=24,
-                                        col_offset=32,
-                                        end_lineno=24,
-                                        end_col_offset=40,
                                         elts=[
                                             Tuple(
-                                                lineno=24,
-                                                col_offset=33,
-                                                end_lineno=24,
-                                                end_col_offset=39,
                                                 elts=[
-                                                    Constant(lineno=24, col_offset=34, end_lineno=24, end_col_offset=35, value=1, kind=None),
-                                                    Constant(lineno=24, col_offset=37, end_lineno=24, end_col_offset=38, value=4, kind=None),
+                                                    Constant(value=1, kind=None),
+                                                    Constant(value=4, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -918,14 +550,10 @@ Module(
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=26,
-                    col_offset=4,
-                    end_lineno=47,
-                    end_col_offset=9,
                     name='test_intersection',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=26, col_offset=26, end_lineno=26, end_col_offset=30, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -934,17 +562,13 @@ Module(
                     ),
                     body=[
                         FunctionDef(
-                            lineno=27,
-                            col_offset=8,
-                            end_lineno=29,
-                            end_col_offset=74,
                             name='check',
                             args=arguments(
                                 posonlyargs=[],
                                 args=[
-                                    arg(lineno=27, col_offset=18, end_lineno=27, end_col_offset=19, arg='a', annotation=None, type_comment=None),
-                                    arg(lineno=27, col_offset=21, end_lineno=27, end_col_offset=22, arg='b', annotation=None, type_comment=None),
-                                    arg(lineno=27, col_offset=24, end_lineno=27, end_col_offset=25, arg='c', annotation=None, type_comment=None),
+                                    arg(arg='a', annotation=None, type_comment=None),
+                                    arg(arg='b', annotation=None, type_comment=None),
+                                    arg(arg='c', annotation=None, type_comment=None),
                                 ],
                                 vararg=None,
                                 kwonlyargs=[],
@@ -954,79 +578,43 @@ Module(
                             ),
                             body=[
                                 Assign(
-                                    lineno=28,
-                                    col_offset=12,
-                                    end_lineno=28,
-                                    end_col_offset=62,
                                     targets=[
                                         Tuple(
-                                            lineno=28,
-                                            col_offset=12,
-                                            end_lineno=28,
-                                            end_col_offset=19,
                                             elts=[
-                                                Name(lineno=28, col_offset=12, end_lineno=28, end_col_offset=13, id='a', ctx=Store()),
-                                                Name(lineno=28, col_offset=15, end_lineno=28, end_col_offset=16, id='b', ctx=Store()),
-                                                Name(lineno=28, col_offset=18, end_lineno=28, end_col_offset=19, id='c', ctx=Store()),
+                                                Name(id='a', ctx=Store()),
+                                                Name(id='b', ctx=Store()),
+                                                Name(id='c', ctx=Store()),
                                             ],
                                             ctx=Store(),
                                         ),
                                     ],
                                     value=Tuple(
-                                        lineno=28,
-                                        col_offset=22,
-                                        end_lineno=28,
-                                        end_col_offset=62,
                                         elts=[
                                             Call(
-                                                lineno=28,
-                                                col_offset=22,
-                                                end_lineno=28,
-                                                end_col_offset=34,
                                                 func=Attribute(
-                                                    lineno=28,
-                                                    col_offset=22,
-                                                    end_lineno=28,
-                                                    end_col_offset=31,
-                                                    value=Name(lineno=28, col_offset=22, end_lineno=28, end_col_offset=26, id='self', ctx=Load()),
+                                                    value=Name(id='self', ctx=Load()),
                                                     attr='ints',
                                                     ctx=Load(),
                                                 ),
-                                                args=[Name(lineno=28, col_offset=32, end_lineno=28, end_col_offset=33, id='a', ctx=Load())],
+                                                args=[Name(id='a', ctx=Load())],
                                                 keywords=[],
                                             ),
                                             Call(
-                                                lineno=28,
-                                                col_offset=36,
-                                                end_lineno=28,
-                                                end_col_offset=48,
                                                 func=Attribute(
-                                                    lineno=28,
-                                                    col_offset=36,
-                                                    end_lineno=28,
-                                                    end_col_offset=45,
-                                                    value=Name(lineno=28, col_offset=36, end_lineno=28, end_col_offset=40, id='self', ctx=Load()),
+                                                    value=Name(id='self', ctx=Load()),
                                                     attr='ints',
                                                     ctx=Load(),
                                                 ),
-                                                args=[Name(lineno=28, col_offset=46, end_lineno=28, end_col_offset=47, id='b', ctx=Load())],
+                                                args=[Name(id='b', ctx=Load())],
                                                 keywords=[],
                                             ),
                                             Call(
-                                                lineno=28,
-                                                col_offset=50,
-                                                end_lineno=28,
-                                                end_col_offset=62,
                                                 func=Attribute(
-                                                    lineno=28,
-                                                    col_offset=50,
-                                                    end_lineno=28,
-                                                    end_col_offset=59,
-                                                    value=Name(lineno=28, col_offset=50, end_lineno=28, end_col_offset=54, id='self', ctx=Load()),
+                                                    value=Name(id='self', ctx=Load()),
                                                     attr='ints',
                                                     ctx=Load(),
                                                 ),
-                                                args=[Name(lineno=28, col_offset=60, end_lineno=28, end_col_offset=61, id='c', ctx=Load())],
+                                                args=[Name(id='c', ctx=Load())],
                                                 keywords=[],
                                             ),
                                         ],
@@ -1035,61 +623,33 @@ Module(
                                     type_comment=None,
                                 ),
                                 Expr(
-                                    lineno=29,
-                                    col_offset=12,
-                                    end_lineno=29,
-                                    end_col_offset=74,
                                     value=Call(
-                                        lineno=29,
-                                        col_offset=12,
-                                        end_lineno=29,
-                                        end_col_offset=74,
                                         func=Attribute(
-                                            lineno=29,
-                                            col_offset=12,
-                                            end_lineno=29,
-                                            end_col_offset=28,
-                                            value=Name(lineno=29, col_offset=12, end_lineno=29, end_col_offset=16, id='self', ctx=Load()),
+                                            value=Name(id='self', ctx=Load()),
                                             attr='assertEqual',
                                             ctx=Load(),
                                         ),
                                         args=[
                                             Call(
-                                                lineno=29,
-                                                col_offset=29,
-                                                end_lineno=29,
-                                                end_col_offset=70,
-                                                func=Name(lineno=29, col_offset=29, end_lineno=29, end_col_offset=33, id='list', ctx=Load()),
+                                                func=Name(id='list', ctx=Load()),
                                                 args=[
                                                     BinOp(
-                                                        lineno=29,
-                                                        col_offset=34,
-                                                        end_lineno=29,
-                                                        end_col_offset=69,
                                                         left=Call(
-                                                            lineno=29,
-                                                            col_offset=34,
-                                                            end_lineno=29,
-                                                            end_col_offset=50,
-                                                            func=Name(lineno=29, col_offset=34, end_lineno=29, end_col_offset=47, id='WorkIntervals', ctx=Load()),
-                                                            args=[Name(lineno=29, col_offset=48, end_lineno=29, end_col_offset=49, id='a', ctx=Load())],
+                                                            func=Name(id='WorkIntervals', ctx=Load()),
+                                                            args=[Name(id='a', ctx=Load())],
                                                             keywords=[],
                                                         ),
                                                         op=BitAnd(),
                                                         right=Call(
-                                                            lineno=29,
-                                                            col_offset=53,
-                                                            end_lineno=29,
-                                                            end_col_offset=69,
-                                                            func=Name(lineno=29, col_offset=53, end_lineno=29, end_col_offset=66, id='WorkIntervals', ctx=Load()),
-                                                            args=[Name(lineno=29, col_offset=67, end_lineno=29, end_col_offset=68, id='b', ctx=Load())],
+                                                            func=Name(id='WorkIntervals', ctx=Load()),
+                                                            args=[Name(id='b', ctx=Load())],
                                                             keywords=[],
                                                         ),
                                                     ),
                                                 ],
                                                 keywords=[],
                                             ),
-                                            Name(lineno=29, col_offset=72, end_lineno=29, end_col_offset=73, id='c', ctx=Load()),
+                                            Name(id='c', ctx=Load()),
                                         ],
                                         keywords=[],
                                     ),
@@ -1100,31 +660,15 @@ Module(
                             type_comment=None,
                         ),
                         Expr(
-                            lineno=31,
-                            col_offset=8,
-                            end_lineno=31,
-                            end_col_offset=39,
                             value=Call(
-                                lineno=31,
-                                col_offset=8,
-                                end_lineno=31,
-                                end_col_offset=39,
-                                func=Name(lineno=31, col_offset=8, end_lineno=31, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=31,
-                                        col_offset=14,
-                                        end_lineno=31,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=31,
-                                                col_offset=15,
-                                                end_lineno=31,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=31, col_offset=16, end_lineno=31, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=31, col_offset=20, end_lineno=31, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1132,56 +676,32 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=31,
-                                        col_offset=26,
-                                        end_lineno=31,
-                                        end_col_offset=34,
                                         elts=[
                                             Tuple(
-                                                lineno=31,
-                                                col_offset=27,
-                                                end_lineno=31,
-                                                end_col_offset=33,
                                                 elts=[
-                                                    Constant(lineno=31, col_offset=28, end_lineno=31, end_col_offset=29, value=5, kind=None),
-                                                    Constant(lineno=31, col_offset=31, end_lineno=31, end_col_offset=32, value=8, kind=None),
+                                                    Constant(value=5, kind=None),
+                                                    Constant(value=8, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                         ],
                                         ctx=Load(),
                                     ),
-                                    List(lineno=31, col_offset=36, end_lineno=31, end_col_offset=38, elts=[], ctx=Load()),
+                                    List(elts=[], ctx=Load()),
                                 ],
                                 keywords=[],
                             ),
                         ),
                         Expr(
-                            lineno=32,
-                            col_offset=8,
-                            end_lineno=32,
-                            end_col_offset=40,
                             value=Call(
-                                lineno=32,
-                                col_offset=8,
-                                end_lineno=32,
-                                end_col_offset=40,
-                                func=Name(lineno=32, col_offset=8, end_lineno=32, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=32,
-                                        col_offset=14,
-                                        end_lineno=32,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=32,
-                                                col_offset=15,
-                                                end_lineno=32,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=32, col_offset=16, end_lineno=32, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=32, col_offset=20, end_lineno=32, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1189,56 +709,32 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=32,
-                                        col_offset=26,
-                                        end_lineno=32,
-                                        end_col_offset=35,
                                         elts=[
                                             Tuple(
-                                                lineno=32,
-                                                col_offset=27,
-                                                end_lineno=32,
-                                                end_col_offset=34,
                                                 elts=[
-                                                    Constant(lineno=32, col_offset=28, end_lineno=32, end_col_offset=29, value=5, kind=None),
-                                                    Constant(lineno=32, col_offset=31, end_lineno=32, end_col_offset=33, value=10, kind=None),
+                                                    Constant(value=5, kind=None),
+                                                    Constant(value=10, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                         ],
                                         ctx=Load(),
                                     ),
-                                    List(lineno=32, col_offset=37, end_lineno=32, end_col_offset=39, elts=[], ctx=Load()),
+                                    List(elts=[], ctx=Load()),
                                 ],
                                 keywords=[],
                             ),
                         ),
                         Expr(
-                            lineno=33,
-                            col_offset=8,
-                            end_lineno=33,
-                            end_col_offset=48,
                             value=Call(
-                                lineno=33,
-                                col_offset=8,
-                                end_lineno=33,
-                                end_col_offset=48,
-                                func=Name(lineno=33, col_offset=8, end_lineno=33, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=33,
-                                        col_offset=14,
-                                        end_lineno=33,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=33,
-                                                col_offset=15,
-                                                end_lineno=33,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=33, col_offset=16, end_lineno=33, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=33, col_offset=20, end_lineno=33, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1246,19 +742,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=33,
-                                        col_offset=26,
-                                        end_lineno=33,
-                                        end_col_offset=35,
                                         elts=[
                                             Tuple(
-                                                lineno=33,
-                                                col_offset=27,
-                                                end_lineno=33,
-                                                end_col_offset=34,
                                                 elts=[
-                                                    Constant(lineno=33, col_offset=28, end_lineno=33, end_col_offset=29, value=5, kind=None),
-                                                    Constant(lineno=33, col_offset=31, end_lineno=33, end_col_offset=33, value=15, kind=None),
+                                                    Constant(value=5, kind=None),
+                                                    Constant(value=15, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1266,19 +754,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=33,
-                                        col_offset=37,
-                                        end_lineno=33,
-                                        end_col_offset=47,
                                         elts=[
                                             Tuple(
-                                                lineno=33,
-                                                col_offset=38,
-                                                end_lineno=33,
-                                                end_col_offset=46,
                                                 elts=[
-                                                    Constant(lineno=33, col_offset=39, end_lineno=33, end_col_offset=41, value=10, kind=None),
-                                                    Constant(lineno=33, col_offset=43, end_lineno=33, end_col_offset=45, value=15, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=15, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1290,31 +770,15 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=34,
-                            col_offset=8,
-                            end_lineno=34,
-                            end_col_offset=48,
                             value=Call(
-                                lineno=34,
-                                col_offset=8,
-                                end_lineno=34,
-                                end_col_offset=48,
-                                func=Name(lineno=34, col_offset=8, end_lineno=34, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=34,
-                                        col_offset=14,
-                                        end_lineno=34,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=34,
-                                                col_offset=15,
-                                                end_lineno=34,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=34, col_offset=16, end_lineno=34, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=34, col_offset=20, end_lineno=34, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1322,19 +786,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=34,
-                                        col_offset=26,
-                                        end_lineno=34,
-                                        end_col_offset=35,
                                         elts=[
                                             Tuple(
-                                                lineno=34,
-                                                col_offset=27,
-                                                end_lineno=34,
-                                                end_col_offset=34,
                                                 elts=[
-                                                    Constant(lineno=34, col_offset=28, end_lineno=34, end_col_offset=29, value=5, kind=None),
-                                                    Constant(lineno=34, col_offset=31, end_lineno=34, end_col_offset=33, value=20, kind=None),
+                                                    Constant(value=5, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1342,19 +798,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=34,
-                                        col_offset=37,
-                                        end_lineno=34,
-                                        end_col_offset=47,
                                         elts=[
                                             Tuple(
-                                                lineno=34,
-                                                col_offset=38,
-                                                end_lineno=34,
-                                                end_col_offset=46,
                                                 elts=[
-                                                    Constant(lineno=34, col_offset=39, end_lineno=34, end_col_offset=41, value=10, kind=None),
-                                                    Constant(lineno=34, col_offset=43, end_lineno=34, end_col_offset=45, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1366,31 +814,15 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=35,
-                            col_offset=8,
-                            end_lineno=35,
-                            end_col_offset=48,
                             value=Call(
-                                lineno=35,
-                                col_offset=8,
-                                end_lineno=35,
-                                end_col_offset=48,
-                                func=Name(lineno=35, col_offset=8, end_lineno=35, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=35,
-                                        col_offset=14,
-                                        end_lineno=35,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=35,
-                                                col_offset=15,
-                                                end_lineno=35,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=35, col_offset=16, end_lineno=35, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=35, col_offset=20, end_lineno=35, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1398,19 +830,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=35,
-                                        col_offset=26,
-                                        end_lineno=35,
-                                        end_col_offset=35,
                                         elts=[
                                             Tuple(
-                                                lineno=35,
-                                                col_offset=27,
-                                                end_lineno=35,
-                                                end_col_offset=34,
                                                 elts=[
-                                                    Constant(lineno=35, col_offset=28, end_lineno=35, end_col_offset=29, value=5, kind=None),
-                                                    Constant(lineno=35, col_offset=31, end_lineno=35, end_col_offset=33, value=25, kind=None),
+                                                    Constant(value=5, kind=None),
+                                                    Constant(value=25, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1418,19 +842,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=35,
-                                        col_offset=37,
-                                        end_lineno=35,
-                                        end_col_offset=47,
                                         elts=[
                                             Tuple(
-                                                lineno=35,
-                                                col_offset=38,
-                                                end_lineno=35,
-                                                end_col_offset=46,
                                                 elts=[
-                                                    Constant(lineno=35, col_offset=39, end_lineno=35, end_col_offset=41, value=10, kind=None),
-                                                    Constant(lineno=35, col_offset=43, end_lineno=35, end_col_offset=45, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1442,31 +858,15 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=36,
-                            col_offset=8,
-                            end_lineno=36,
-                            end_col_offset=49,
                             value=Call(
-                                lineno=36,
-                                col_offset=8,
-                                end_lineno=36,
-                                end_col_offset=49,
-                                func=Name(lineno=36, col_offset=8, end_lineno=36, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=36,
-                                        col_offset=14,
-                                        end_lineno=36,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=36,
-                                                col_offset=15,
-                                                end_lineno=36,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=36, col_offset=16, end_lineno=36, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=36, col_offset=20, end_lineno=36, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1474,19 +874,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=36,
-                                        col_offset=26,
-                                        end_lineno=36,
-                                        end_col_offset=36,
                                         elts=[
                                             Tuple(
-                                                lineno=36,
-                                                col_offset=27,
-                                                end_lineno=36,
-                                                end_col_offset=35,
                                                 elts=[
-                                                    Constant(lineno=36, col_offset=28, end_lineno=36, end_col_offset=30, value=10, kind=None),
-                                                    Constant(lineno=36, col_offset=32, end_lineno=36, end_col_offset=34, value=15, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=15, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1494,19 +886,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=36,
-                                        col_offset=38,
-                                        end_lineno=36,
-                                        end_col_offset=48,
                                         elts=[
                                             Tuple(
-                                                lineno=36,
-                                                col_offset=39,
-                                                end_lineno=36,
-                                                end_col_offset=47,
                                                 elts=[
-                                                    Constant(lineno=36, col_offset=40, end_lineno=36, end_col_offset=42, value=10, kind=None),
-                                                    Constant(lineno=36, col_offset=44, end_lineno=36, end_col_offset=46, value=15, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=15, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1518,31 +902,15 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=37,
-                            col_offset=8,
-                            end_lineno=37,
-                            end_col_offset=49,
                             value=Call(
-                                lineno=37,
-                                col_offset=8,
-                                end_lineno=37,
-                                end_col_offset=49,
-                                func=Name(lineno=37, col_offset=8, end_lineno=37, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=37,
-                                        col_offset=14,
-                                        end_lineno=37,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=37,
-                                                col_offset=15,
-                                                end_lineno=37,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=37, col_offset=16, end_lineno=37, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=37, col_offset=20, end_lineno=37, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1550,19 +918,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=37,
-                                        col_offset=26,
-                                        end_lineno=37,
-                                        end_col_offset=36,
                                         elts=[
                                             Tuple(
-                                                lineno=37,
-                                                col_offset=27,
-                                                end_lineno=37,
-                                                end_col_offset=35,
                                                 elts=[
-                                                    Constant(lineno=37, col_offset=28, end_lineno=37, end_col_offset=30, value=10, kind=None),
-                                                    Constant(lineno=37, col_offset=32, end_lineno=37, end_col_offset=34, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1570,19 +930,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=37,
-                                        col_offset=38,
-                                        end_lineno=37,
-                                        end_col_offset=48,
                                         elts=[
                                             Tuple(
-                                                lineno=37,
-                                                col_offset=39,
-                                                end_lineno=37,
-                                                end_col_offset=47,
                                                 elts=[
-                                                    Constant(lineno=37, col_offset=40, end_lineno=37, end_col_offset=42, value=10, kind=None),
-                                                    Constant(lineno=37, col_offset=44, end_lineno=37, end_col_offset=46, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1594,31 +946,15 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=38,
-                            col_offset=8,
-                            end_lineno=38,
-                            end_col_offset=49,
                             value=Call(
-                                lineno=38,
-                                col_offset=8,
-                                end_lineno=38,
-                                end_col_offset=49,
-                                func=Name(lineno=38, col_offset=8, end_lineno=38, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=38,
-                                        col_offset=14,
-                                        end_lineno=38,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=38,
-                                                col_offset=15,
-                                                end_lineno=38,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=38, col_offset=16, end_lineno=38, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=38, col_offset=20, end_lineno=38, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1626,19 +962,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=38,
-                                        col_offset=26,
-                                        end_lineno=38,
-                                        end_col_offset=36,
                                         elts=[
                                             Tuple(
-                                                lineno=38,
-                                                col_offset=27,
-                                                end_lineno=38,
-                                                end_col_offset=35,
                                                 elts=[
-                                                    Constant(lineno=38, col_offset=28, end_lineno=38, end_col_offset=30, value=10, kind=None),
-                                                    Constant(lineno=38, col_offset=32, end_lineno=38, end_col_offset=34, value=25, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=25, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1646,19 +974,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=38,
-                                        col_offset=38,
-                                        end_lineno=38,
-                                        end_col_offset=48,
                                         elts=[
                                             Tuple(
-                                                lineno=38,
-                                                col_offset=39,
-                                                end_lineno=38,
-                                                end_col_offset=47,
                                                 elts=[
-                                                    Constant(lineno=38, col_offset=40, end_lineno=38, end_col_offset=42, value=10, kind=None),
-                                                    Constant(lineno=38, col_offset=44, end_lineno=38, end_col_offset=46, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1670,31 +990,15 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=39,
-                            col_offset=8,
-                            end_lineno=39,
-                            end_col_offset=49,
                             value=Call(
-                                lineno=39,
-                                col_offset=8,
-                                end_lineno=39,
-                                end_col_offset=49,
-                                func=Name(lineno=39, col_offset=8, end_lineno=39, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=39,
-                                        col_offset=14,
-                                        end_lineno=39,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=39,
-                                                col_offset=15,
-                                                end_lineno=39,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=39, col_offset=16, end_lineno=39, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=39, col_offset=20, end_lineno=39, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1702,19 +1006,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=39,
-                                        col_offset=26,
-                                        end_lineno=39,
-                                        end_col_offset=36,
                                         elts=[
                                             Tuple(
-                                                lineno=39,
-                                                col_offset=27,
-                                                end_lineno=39,
-                                                end_col_offset=35,
                                                 elts=[
-                                                    Constant(lineno=39, col_offset=28, end_lineno=39, end_col_offset=30, value=15, kind=None),
-                                                    Constant(lineno=39, col_offset=32, end_lineno=39, end_col_offset=34, value=18, kind=None),
+                                                    Constant(value=15, kind=None),
+                                                    Constant(value=18, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1722,19 +1018,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=39,
-                                        col_offset=38,
-                                        end_lineno=39,
-                                        end_col_offset=48,
                                         elts=[
                                             Tuple(
-                                                lineno=39,
-                                                col_offset=39,
-                                                end_lineno=39,
-                                                end_col_offset=47,
                                                 elts=[
-                                                    Constant(lineno=39, col_offset=40, end_lineno=39, end_col_offset=42, value=15, kind=None),
-                                                    Constant(lineno=39, col_offset=44, end_lineno=39, end_col_offset=46, value=18, kind=None),
+                                                    Constant(value=15, kind=None),
+                                                    Constant(value=18, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1746,31 +1034,15 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=40,
-                            col_offset=8,
-                            end_lineno=40,
-                            end_col_offset=49,
                             value=Call(
-                                lineno=40,
-                                col_offset=8,
-                                end_lineno=40,
-                                end_col_offset=49,
-                                func=Name(lineno=40, col_offset=8, end_lineno=40, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=40,
-                                        col_offset=14,
-                                        end_lineno=40,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=40,
-                                                col_offset=15,
-                                                end_lineno=40,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=40, col_offset=16, end_lineno=40, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=40, col_offset=20, end_lineno=40, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1778,19 +1050,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=40,
-                                        col_offset=26,
-                                        end_lineno=40,
-                                        end_col_offset=36,
                                         elts=[
                                             Tuple(
-                                                lineno=40,
-                                                col_offset=27,
-                                                end_lineno=40,
-                                                end_col_offset=35,
                                                 elts=[
-                                                    Constant(lineno=40, col_offset=28, end_lineno=40, end_col_offset=30, value=15, kind=None),
-                                                    Constant(lineno=40, col_offset=32, end_lineno=40, end_col_offset=34, value=20, kind=None),
+                                                    Constant(value=15, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1798,19 +1062,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=40,
-                                        col_offset=38,
-                                        end_lineno=40,
-                                        end_col_offset=48,
                                         elts=[
                                             Tuple(
-                                                lineno=40,
-                                                col_offset=39,
-                                                end_lineno=40,
-                                                end_col_offset=47,
                                                 elts=[
-                                                    Constant(lineno=40, col_offset=40, end_lineno=40, end_col_offset=42, value=15, kind=None),
-                                                    Constant(lineno=40, col_offset=44, end_lineno=40, end_col_offset=46, value=20, kind=None),
+                                                    Constant(value=15, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1822,31 +1078,15 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=41,
-                            col_offset=8,
-                            end_lineno=41,
-                            end_col_offset=49,
                             value=Call(
-                                lineno=41,
-                                col_offset=8,
-                                end_lineno=41,
-                                end_col_offset=49,
-                                func=Name(lineno=41, col_offset=8, end_lineno=41, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=41,
-                                        col_offset=14,
-                                        end_lineno=41,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=41,
-                                                col_offset=15,
-                                                end_lineno=41,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=41, col_offset=16, end_lineno=41, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=41, col_offset=20, end_lineno=41, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1854,19 +1094,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=41,
-                                        col_offset=26,
-                                        end_lineno=41,
-                                        end_col_offset=36,
                                         elts=[
                                             Tuple(
-                                                lineno=41,
-                                                col_offset=27,
-                                                end_lineno=41,
-                                                end_col_offset=35,
                                                 elts=[
-                                                    Constant(lineno=41, col_offset=28, end_lineno=41, end_col_offset=30, value=15, kind=None),
-                                                    Constant(lineno=41, col_offset=32, end_lineno=41, end_col_offset=34, value=25, kind=None),
+                                                    Constant(value=15, kind=None),
+                                                    Constant(value=25, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1874,19 +1106,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=41,
-                                        col_offset=38,
-                                        end_lineno=41,
-                                        end_col_offset=48,
                                         elts=[
                                             Tuple(
-                                                lineno=41,
-                                                col_offset=39,
-                                                end_lineno=41,
-                                                end_col_offset=47,
                                                 elts=[
-                                                    Constant(lineno=41, col_offset=40, end_lineno=41, end_col_offset=42, value=15, kind=None),
-                                                    Constant(lineno=41, col_offset=44, end_lineno=41, end_col_offset=46, value=20, kind=None),
+                                                    Constant(value=15, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1898,31 +1122,15 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=42,
-                            col_offset=8,
-                            end_lineno=42,
-                            end_col_offset=41,
                             value=Call(
-                                lineno=42,
-                                col_offset=8,
-                                end_lineno=42,
-                                end_col_offset=41,
-                                func=Name(lineno=42, col_offset=8, end_lineno=42, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=42,
-                                        col_offset=14,
-                                        end_lineno=42,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=42,
-                                                col_offset=15,
-                                                end_lineno=42,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=42, col_offset=16, end_lineno=42, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=42, col_offset=20, end_lineno=42, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -1930,89 +1138,53 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=42,
-                                        col_offset=26,
-                                        end_lineno=42,
-                                        end_col_offset=36,
                                         elts=[
                                             Tuple(
-                                                lineno=42,
-                                                col_offset=27,
-                                                end_lineno=42,
-                                                end_col_offset=35,
                                                 elts=[
-                                                    Constant(lineno=42, col_offset=28, end_lineno=42, end_col_offset=30, value=20, kind=None),
-                                                    Constant(lineno=42, col_offset=32, end_lineno=42, end_col_offset=34, value=25, kind=None),
+                                                    Constant(value=20, kind=None),
+                                                    Constant(value=25, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                         ],
                                         ctx=Load(),
                                     ),
-                                    List(lineno=42, col_offset=38, end_lineno=42, end_col_offset=40, elts=[], ctx=Load()),
+                                    List(elts=[], ctx=Load()),
                                 ],
                                 keywords=[],
                             ),
                         ),
                         Expr(
-                            lineno=43,
-                            col_offset=8,
-                            end_lineno=47,
-                            end_col_offset=9,
                             value=Call(
-                                lineno=43,
-                                col_offset=8,
-                                end_lineno=47,
-                                end_col_offset=9,
-                                func=Name(lineno=43, col_offset=8, end_lineno=43, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=44,
-                                        col_offset=12,
-                                        end_lineno=44,
-                                        end_col_offset=50,
                                         elts=[
                                             Tuple(
-                                                lineno=44,
-                                                col_offset=13,
-                                                end_lineno=44,
-                                                end_col_offset=19,
                                                 elts=[
-                                                    Constant(lineno=44, col_offset=14, end_lineno=44, end_col_offset=15, value=0, kind=None),
-                                                    Constant(lineno=44, col_offset=17, end_lineno=44, end_col_offset=18, value=5, kind=None),
+                                                    Constant(value=0, kind=None),
+                                                    Constant(value=5, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=44,
-                                                col_offset=21,
-                                                end_lineno=44,
-                                                end_col_offset=29,
                                                 elts=[
-                                                    Constant(lineno=44, col_offset=22, end_lineno=44, end_col_offset=24, value=10, kind=None),
-                                                    Constant(lineno=44, col_offset=26, end_lineno=44, end_col_offset=28, value=15, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=15, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=44,
-                                                col_offset=31,
-                                                end_lineno=44,
-                                                end_col_offset=39,
                                                 elts=[
-                                                    Constant(lineno=44, col_offset=32, end_lineno=44, end_col_offset=34, value=20, kind=None),
-                                                    Constant(lineno=44, col_offset=36, end_lineno=44, end_col_offset=38, value=25, kind=None),
+                                                    Constant(value=20, kind=None),
+                                                    Constant(value=25, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=44,
-                                                col_offset=41,
-                                                end_lineno=44,
-                                                end_col_offset=49,
                                                 elts=[
-                                                    Constant(lineno=44, col_offset=42, end_lineno=44, end_col_offset=44, value=30, kind=None),
-                                                    Constant(lineno=44, col_offset=46, end_lineno=44, end_col_offset=48, value=35, kind=None),
+                                                    Constant(value=30, kind=None),
+                                                    Constant(value=35, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2020,63 +1192,39 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=45,
-                                        col_offset=12,
-                                        end_lineno=45,
-                                        end_col_offset=59,
                                         elts=[
                                             Tuple(
-                                                lineno=45,
-                                                col_offset=13,
-                                                end_lineno=45,
-                                                end_col_offset=19,
                                                 elts=[
-                                                    Constant(lineno=45, col_offset=14, end_lineno=45, end_col_offset=15, value=6, kind=None),
-                                                    Constant(lineno=45, col_offset=17, end_lineno=45, end_col_offset=18, value=7, kind=None),
+                                                    Constant(value=6, kind=None),
+                                                    Constant(value=7, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=45,
-                                                col_offset=21,
-                                                end_lineno=45,
-                                                end_col_offset=28,
                                                 elts=[
-                                                    Constant(lineno=45, col_offset=22, end_lineno=45, end_col_offset=23, value=9, kind=None),
-                                                    Constant(lineno=45, col_offset=25, end_lineno=45, end_col_offset=27, value=12, kind=None),
+                                                    Constant(value=9, kind=None),
+                                                    Constant(value=12, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=45,
-                                                col_offset=30,
-                                                end_lineno=45,
-                                                end_col_offset=38,
                                                 elts=[
-                                                    Constant(lineno=45, col_offset=31, end_lineno=45, end_col_offset=33, value=13, kind=None),
-                                                    Constant(lineno=45, col_offset=35, end_lineno=45, end_col_offset=37, value=17, kind=None),
+                                                    Constant(value=13, kind=None),
+                                                    Constant(value=17, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=45,
-                                                col_offset=40,
-                                                end_lineno=45,
-                                                end_col_offset=48,
                                                 elts=[
-                                                    Constant(lineno=45, col_offset=41, end_lineno=45, end_col_offset=43, value=22, kind=None),
-                                                    Constant(lineno=45, col_offset=45, end_lineno=45, end_col_offset=47, value=23, kind=None),
+                                                    Constant(value=22, kind=None),
+                                                    Constant(value=23, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=45,
-                                                col_offset=50,
-                                                end_lineno=45,
-                                                end_col_offset=58,
                                                 elts=[
-                                                    Constant(lineno=45, col_offset=51, end_lineno=45, end_col_offset=53, value=24, kind=None),
-                                                    Constant(lineno=45, col_offset=55, end_lineno=45, end_col_offset=57, value=40, kind=None),
+                                                    Constant(value=24, kind=None),
+                                                    Constant(value=40, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2084,63 +1232,39 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=46,
-                                        col_offset=12,
-                                        end_lineno=46,
-                                        end_col_offset=62,
                                         elts=[
                                             Tuple(
-                                                lineno=46,
-                                                col_offset=13,
-                                                end_lineno=46,
-                                                end_col_offset=21,
                                                 elts=[
-                                                    Constant(lineno=46, col_offset=14, end_lineno=46, end_col_offset=16, value=10, kind=None),
-                                                    Constant(lineno=46, col_offset=18, end_lineno=46, end_col_offset=20, value=12, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=12, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=46,
-                                                col_offset=23,
-                                                end_lineno=46,
-                                                end_col_offset=31,
                                                 elts=[
-                                                    Constant(lineno=46, col_offset=24, end_lineno=46, end_col_offset=26, value=13, kind=None),
-                                                    Constant(lineno=46, col_offset=28, end_lineno=46, end_col_offset=30, value=15, kind=None),
+                                                    Constant(value=13, kind=None),
+                                                    Constant(value=15, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=46,
-                                                col_offset=33,
-                                                end_lineno=46,
-                                                end_col_offset=41,
                                                 elts=[
-                                                    Constant(lineno=46, col_offset=34, end_lineno=46, end_col_offset=36, value=22, kind=None),
-                                                    Constant(lineno=46, col_offset=38, end_lineno=46, end_col_offset=40, value=23, kind=None),
+                                                    Constant(value=22, kind=None),
+                                                    Constant(value=23, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=46,
-                                                col_offset=43,
-                                                end_lineno=46,
-                                                end_col_offset=51,
                                                 elts=[
-                                                    Constant(lineno=46, col_offset=44, end_lineno=46, end_col_offset=46, value=24, kind=None),
-                                                    Constant(lineno=46, col_offset=48, end_lineno=46, end_col_offset=50, value=25, kind=None),
+                                                    Constant(value=24, kind=None),
+                                                    Constant(value=25, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=46,
-                                                col_offset=53,
-                                                end_lineno=46,
-                                                end_col_offset=61,
                                                 elts=[
-                                                    Constant(lineno=46, col_offset=54, end_lineno=46, end_col_offset=56, value=30, kind=None),
-                                                    Constant(lineno=46, col_offset=58, end_lineno=46, end_col_offset=60, value=35, kind=None),
+                                                    Constant(value=30, kind=None),
+                                                    Constant(value=35, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2157,14 +1281,10 @@ Module(
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=49,
-                    col_offset=4,
-                    end_lineno=70,
-                    end_col_offset=9,
                     name='test_difference',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=49, col_offset=24, end_lineno=49, end_col_offset=28, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -2173,17 +1293,13 @@ Module(
                     ),
                     body=[
                         FunctionDef(
-                            lineno=50,
-                            col_offset=8,
-                            end_lineno=52,
-                            end_col_offset=74,
                             name='check',
                             args=arguments(
                                 posonlyargs=[],
                                 args=[
-                                    arg(lineno=50, col_offset=18, end_lineno=50, end_col_offset=19, arg='a', annotation=None, type_comment=None),
-                                    arg(lineno=50, col_offset=21, end_lineno=50, end_col_offset=22, arg='b', annotation=None, type_comment=None),
-                                    arg(lineno=50, col_offset=24, end_lineno=50, end_col_offset=25, arg='c', annotation=None, type_comment=None),
+                                    arg(arg='a', annotation=None, type_comment=None),
+                                    arg(arg='b', annotation=None, type_comment=None),
+                                    arg(arg='c', annotation=None, type_comment=None),
                                 ],
                                 vararg=None,
                                 kwonlyargs=[],
@@ -2193,79 +1309,43 @@ Module(
                             ),
                             body=[
                                 Assign(
-                                    lineno=51,
-                                    col_offset=12,
-                                    end_lineno=51,
-                                    end_col_offset=62,
                                     targets=[
                                         Tuple(
-                                            lineno=51,
-                                            col_offset=12,
-                                            end_lineno=51,
-                                            end_col_offset=19,
                                             elts=[
-                                                Name(lineno=51, col_offset=12, end_lineno=51, end_col_offset=13, id='a', ctx=Store()),
-                                                Name(lineno=51, col_offset=15, end_lineno=51, end_col_offset=16, id='b', ctx=Store()),
-                                                Name(lineno=51, col_offset=18, end_lineno=51, end_col_offset=19, id='c', ctx=Store()),
+                                                Name(id='a', ctx=Store()),
+                                                Name(id='b', ctx=Store()),
+                                                Name(id='c', ctx=Store()),
                                             ],
                                             ctx=Store(),
                                         ),
                                     ],
                                     value=Tuple(
-                                        lineno=51,
-                                        col_offset=22,
-                                        end_lineno=51,
-                                        end_col_offset=62,
                                         elts=[
                                             Call(
-                                                lineno=51,
-                                                col_offset=22,
-                                                end_lineno=51,
-                                                end_col_offset=34,
                                                 func=Attribute(
-                                                    lineno=51,
-                                                    col_offset=22,
-                                                    end_lineno=51,
-                                                    end_col_offset=31,
-                                                    value=Name(lineno=51, col_offset=22, end_lineno=51, end_col_offset=26, id='self', ctx=Load()),
+                                                    value=Name(id='self', ctx=Load()),
                                                     attr='ints',
                                                     ctx=Load(),
                                                 ),
-                                                args=[Name(lineno=51, col_offset=32, end_lineno=51, end_col_offset=33, id='a', ctx=Load())],
+                                                args=[Name(id='a', ctx=Load())],
                                                 keywords=[],
                                             ),
                                             Call(
-                                                lineno=51,
-                                                col_offset=36,
-                                                end_lineno=51,
-                                                end_col_offset=48,
                                                 func=Attribute(
-                                                    lineno=51,
-                                                    col_offset=36,
-                                                    end_lineno=51,
-                                                    end_col_offset=45,
-                                                    value=Name(lineno=51, col_offset=36, end_lineno=51, end_col_offset=40, id='self', ctx=Load()),
+                                                    value=Name(id='self', ctx=Load()),
                                                     attr='ints',
                                                     ctx=Load(),
                                                 ),
-                                                args=[Name(lineno=51, col_offset=46, end_lineno=51, end_col_offset=47, id='b', ctx=Load())],
+                                                args=[Name(id='b', ctx=Load())],
                                                 keywords=[],
                                             ),
                                             Call(
-                                                lineno=51,
-                                                col_offset=50,
-                                                end_lineno=51,
-                                                end_col_offset=62,
                                                 func=Attribute(
-                                                    lineno=51,
-                                                    col_offset=50,
-                                                    end_lineno=51,
-                                                    end_col_offset=59,
-                                                    value=Name(lineno=51, col_offset=50, end_lineno=51, end_col_offset=54, id='self', ctx=Load()),
+                                                    value=Name(id='self', ctx=Load()),
                                                     attr='ints',
                                                     ctx=Load(),
                                                 ),
-                                                args=[Name(lineno=51, col_offset=60, end_lineno=51, end_col_offset=61, id='c', ctx=Load())],
+                                                args=[Name(id='c', ctx=Load())],
                                                 keywords=[],
                                             ),
                                         ],
@@ -2274,61 +1354,33 @@ Module(
                                     type_comment=None,
                                 ),
                                 Expr(
-                                    lineno=52,
-                                    col_offset=12,
-                                    end_lineno=52,
-                                    end_col_offset=74,
                                     value=Call(
-                                        lineno=52,
-                                        col_offset=12,
-                                        end_lineno=52,
-                                        end_col_offset=74,
                                         func=Attribute(
-                                            lineno=52,
-                                            col_offset=12,
-                                            end_lineno=52,
-                                            end_col_offset=28,
-                                            value=Name(lineno=52, col_offset=12, end_lineno=52, end_col_offset=16, id='self', ctx=Load()),
+                                            value=Name(id='self', ctx=Load()),
                                             attr='assertEqual',
                                             ctx=Load(),
                                         ),
                                         args=[
                                             Call(
-                                                lineno=52,
-                                                col_offset=29,
-                                                end_lineno=52,
-                                                end_col_offset=70,
-                                                func=Name(lineno=52, col_offset=29, end_lineno=52, end_col_offset=33, id='list', ctx=Load()),
+                                                func=Name(id='list', ctx=Load()),
                                                 args=[
                                                     BinOp(
-                                                        lineno=52,
-                                                        col_offset=34,
-                                                        end_lineno=52,
-                                                        end_col_offset=69,
                                                         left=Call(
-                                                            lineno=52,
-                                                            col_offset=34,
-                                                            end_lineno=52,
-                                                            end_col_offset=50,
-                                                            func=Name(lineno=52, col_offset=34, end_lineno=52, end_col_offset=47, id='WorkIntervals', ctx=Load()),
-                                                            args=[Name(lineno=52, col_offset=48, end_lineno=52, end_col_offset=49, id='a', ctx=Load())],
+                                                            func=Name(id='WorkIntervals', ctx=Load()),
+                                                            args=[Name(id='a', ctx=Load())],
                                                             keywords=[],
                                                         ),
                                                         op=Sub(),
                                                         right=Call(
-                                                            lineno=52,
-                                                            col_offset=53,
-                                                            end_lineno=52,
-                                                            end_col_offset=69,
-                                                            func=Name(lineno=52, col_offset=53, end_lineno=52, end_col_offset=66, id='WorkIntervals', ctx=Load()),
-                                                            args=[Name(lineno=52, col_offset=67, end_lineno=52, end_col_offset=68, id='b', ctx=Load())],
+                                                            func=Name(id='WorkIntervals', ctx=Load()),
+                                                            args=[Name(id='b', ctx=Load())],
                                                             keywords=[],
                                                         ),
                                                     ),
                                                 ],
                                                 keywords=[],
                                             ),
-                                            Name(lineno=52, col_offset=72, end_lineno=52, end_col_offset=73, id='c', ctx=Load()),
+                                            Name(id='c', ctx=Load()),
                                         ],
                                         keywords=[],
                                     ),
@@ -2339,31 +1391,15 @@ Module(
                             type_comment=None,
                         ),
                         Expr(
-                            lineno=54,
-                            col_offset=8,
-                            end_lineno=54,
-                            end_col_offset=47,
                             value=Call(
-                                lineno=54,
-                                col_offset=8,
-                                end_lineno=54,
-                                end_col_offset=47,
-                                func=Name(lineno=54, col_offset=8, end_lineno=54, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=54,
-                                        col_offset=14,
-                                        end_lineno=54,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=54,
-                                                col_offset=15,
-                                                end_lineno=54,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=54, col_offset=16, end_lineno=54, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=54, col_offset=20, end_lineno=54, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2371,19 +1407,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=54,
-                                        col_offset=26,
-                                        end_lineno=54,
-                                        end_col_offset=34,
                                         elts=[
                                             Tuple(
-                                                lineno=54,
-                                                col_offset=27,
-                                                end_lineno=54,
-                                                end_col_offset=33,
                                                 elts=[
-                                                    Constant(lineno=54, col_offset=28, end_lineno=54, end_col_offset=29, value=5, kind=None),
-                                                    Constant(lineno=54, col_offset=31, end_lineno=54, end_col_offset=32, value=8, kind=None),
+                                                    Constant(value=5, kind=None),
+                                                    Constant(value=8, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2391,19 +1419,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=54,
-                                        col_offset=36,
-                                        end_lineno=54,
-                                        end_col_offset=46,
                                         elts=[
                                             Tuple(
-                                                lineno=54,
-                                                col_offset=37,
-                                                end_lineno=54,
-                                                end_col_offset=45,
                                                 elts=[
-                                                    Constant(lineno=54, col_offset=38, end_lineno=54, end_col_offset=40, value=10, kind=None),
-                                                    Constant(lineno=54, col_offset=42, end_lineno=54, end_col_offset=44, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2415,31 +1435,15 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=55,
-                            col_offset=8,
-                            end_lineno=55,
-                            end_col_offset=48,
                             value=Call(
-                                lineno=55,
-                                col_offset=8,
-                                end_lineno=55,
-                                end_col_offset=48,
-                                func=Name(lineno=55, col_offset=8, end_lineno=55, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=55,
-                                        col_offset=14,
-                                        end_lineno=55,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=55,
-                                                col_offset=15,
-                                                end_lineno=55,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=55, col_offset=16, end_lineno=55, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=55, col_offset=20, end_lineno=55, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2447,19 +1451,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=55,
-                                        col_offset=26,
-                                        end_lineno=55,
-                                        end_col_offset=35,
                                         elts=[
                                             Tuple(
-                                                lineno=55,
-                                                col_offset=27,
-                                                end_lineno=55,
-                                                end_col_offset=34,
                                                 elts=[
-                                                    Constant(lineno=55, col_offset=28, end_lineno=55, end_col_offset=29, value=5, kind=None),
-                                                    Constant(lineno=55, col_offset=31, end_lineno=55, end_col_offset=33, value=10, kind=None),
+                                                    Constant(value=5, kind=None),
+                                                    Constant(value=10, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2467,19 +1463,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=55,
-                                        col_offset=37,
-                                        end_lineno=55,
-                                        end_col_offset=47,
                                         elts=[
                                             Tuple(
-                                                lineno=55,
-                                                col_offset=38,
-                                                end_lineno=55,
-                                                end_col_offset=46,
                                                 elts=[
-                                                    Constant(lineno=55, col_offset=39, end_lineno=55, end_col_offset=41, value=10, kind=None),
-                                                    Constant(lineno=55, col_offset=43, end_lineno=55, end_col_offset=45, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2491,31 +1479,15 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=56,
-                            col_offset=8,
-                            end_lineno=56,
-                            end_col_offset=48,
                             value=Call(
-                                lineno=56,
-                                col_offset=8,
-                                end_lineno=56,
-                                end_col_offset=48,
-                                func=Name(lineno=56, col_offset=8, end_lineno=56, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=56,
-                                        col_offset=14,
-                                        end_lineno=56,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=56,
-                                                col_offset=15,
-                                                end_lineno=56,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=56, col_offset=16, end_lineno=56, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=56, col_offset=20, end_lineno=56, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2523,19 +1495,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=56,
-                                        col_offset=26,
-                                        end_lineno=56,
-                                        end_col_offset=35,
                                         elts=[
                                             Tuple(
-                                                lineno=56,
-                                                col_offset=27,
-                                                end_lineno=56,
-                                                end_col_offset=34,
                                                 elts=[
-                                                    Constant(lineno=56, col_offset=28, end_lineno=56, end_col_offset=29, value=5, kind=None),
-                                                    Constant(lineno=56, col_offset=31, end_lineno=56, end_col_offset=33, value=15, kind=None),
+                                                    Constant(value=5, kind=None),
+                                                    Constant(value=15, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2543,19 +1507,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=56,
-                                        col_offset=37,
-                                        end_lineno=56,
-                                        end_col_offset=47,
                                         elts=[
                                             Tuple(
-                                                lineno=56,
-                                                col_offset=38,
-                                                end_lineno=56,
-                                                end_col_offset=46,
                                                 elts=[
-                                                    Constant(lineno=56, col_offset=39, end_lineno=56, end_col_offset=41, value=15, kind=None),
-                                                    Constant(lineno=56, col_offset=43, end_lineno=56, end_col_offset=45, value=20, kind=None),
+                                                    Constant(value=15, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2567,31 +1523,15 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=57,
-                            col_offset=8,
-                            end_lineno=57,
-                            end_col_offset=40,
                             value=Call(
-                                lineno=57,
-                                col_offset=8,
-                                end_lineno=57,
-                                end_col_offset=40,
-                                func=Name(lineno=57, col_offset=8, end_lineno=57, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=57,
-                                        col_offset=14,
-                                        end_lineno=57,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=57,
-                                                col_offset=15,
-                                                end_lineno=57,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=57, col_offset=16, end_lineno=57, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=57, col_offset=20, end_lineno=57, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2599,56 +1539,32 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=57,
-                                        col_offset=26,
-                                        end_lineno=57,
-                                        end_col_offset=35,
                                         elts=[
                                             Tuple(
-                                                lineno=57,
-                                                col_offset=27,
-                                                end_lineno=57,
-                                                end_col_offset=34,
                                                 elts=[
-                                                    Constant(lineno=57, col_offset=28, end_lineno=57, end_col_offset=29, value=5, kind=None),
-                                                    Constant(lineno=57, col_offset=31, end_lineno=57, end_col_offset=33, value=20, kind=None),
+                                                    Constant(value=5, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                         ],
                                         ctx=Load(),
                                     ),
-                                    List(lineno=57, col_offset=37, end_lineno=57, end_col_offset=39, elts=[], ctx=Load()),
+                                    List(elts=[], ctx=Load()),
                                 ],
                                 keywords=[],
                             ),
                         ),
                         Expr(
-                            lineno=58,
-                            col_offset=8,
-                            end_lineno=58,
-                            end_col_offset=40,
                             value=Call(
-                                lineno=58,
-                                col_offset=8,
-                                end_lineno=58,
-                                end_col_offset=40,
-                                func=Name(lineno=58, col_offset=8, end_lineno=58, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=58,
-                                        col_offset=14,
-                                        end_lineno=58,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=58,
-                                                col_offset=15,
-                                                end_lineno=58,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=58, col_offset=16, end_lineno=58, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=58, col_offset=20, end_lineno=58, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2656,56 +1572,32 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=58,
-                                        col_offset=26,
-                                        end_lineno=58,
-                                        end_col_offset=35,
                                         elts=[
                                             Tuple(
-                                                lineno=58,
-                                                col_offset=27,
-                                                end_lineno=58,
-                                                end_col_offset=34,
                                                 elts=[
-                                                    Constant(lineno=58, col_offset=28, end_lineno=58, end_col_offset=29, value=5, kind=None),
-                                                    Constant(lineno=58, col_offset=31, end_lineno=58, end_col_offset=33, value=25, kind=None),
+                                                    Constant(value=5, kind=None),
+                                                    Constant(value=25, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                         ],
                                         ctx=Load(),
                                     ),
-                                    List(lineno=58, col_offset=37, end_lineno=58, end_col_offset=39, elts=[], ctx=Load()),
+                                    List(elts=[], ctx=Load()),
                                 ],
                                 keywords=[],
                             ),
                         ),
                         Expr(
-                            lineno=59,
-                            col_offset=8,
-                            end_lineno=59,
-                            end_col_offset=49,
                             value=Call(
-                                lineno=59,
-                                col_offset=8,
-                                end_lineno=59,
-                                end_col_offset=49,
-                                func=Name(lineno=59, col_offset=8, end_lineno=59, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=59,
-                                        col_offset=14,
-                                        end_lineno=59,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=59,
-                                                col_offset=15,
-                                                end_lineno=59,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=59, col_offset=16, end_lineno=59, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=59, col_offset=20, end_lineno=59, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2713,19 +1605,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=59,
-                                        col_offset=26,
-                                        end_lineno=59,
-                                        end_col_offset=36,
                                         elts=[
                                             Tuple(
-                                                lineno=59,
-                                                col_offset=27,
-                                                end_lineno=59,
-                                                end_col_offset=35,
                                                 elts=[
-                                                    Constant(lineno=59, col_offset=28, end_lineno=59, end_col_offset=30, value=10, kind=None),
-                                                    Constant(lineno=59, col_offset=32, end_lineno=59, end_col_offset=34, value=15, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=15, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2733,19 +1617,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=59,
-                                        col_offset=38,
-                                        end_lineno=59,
-                                        end_col_offset=48,
                                         elts=[
                                             Tuple(
-                                                lineno=59,
-                                                col_offset=39,
-                                                end_lineno=59,
-                                                end_col_offset=47,
                                                 elts=[
-                                                    Constant(lineno=59, col_offset=40, end_lineno=59, end_col_offset=42, value=15, kind=None),
-                                                    Constant(lineno=59, col_offset=44, end_lineno=59, end_col_offset=46, value=20, kind=None),
+                                                    Constant(value=15, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2757,31 +1633,15 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=60,
-                            col_offset=8,
-                            end_lineno=60,
-                            end_col_offset=41,
                             value=Call(
-                                lineno=60,
-                                col_offset=8,
-                                end_lineno=60,
-                                end_col_offset=41,
-                                func=Name(lineno=60, col_offset=8, end_lineno=60, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=60,
-                                        col_offset=14,
-                                        end_lineno=60,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=60,
-                                                col_offset=15,
-                                                end_lineno=60,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=60, col_offset=16, end_lineno=60, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=60, col_offset=20, end_lineno=60, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2789,56 +1649,32 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=60,
-                                        col_offset=26,
-                                        end_lineno=60,
-                                        end_col_offset=36,
                                         elts=[
                                             Tuple(
-                                                lineno=60,
-                                                col_offset=27,
-                                                end_lineno=60,
-                                                end_col_offset=35,
                                                 elts=[
-                                                    Constant(lineno=60, col_offset=28, end_lineno=60, end_col_offset=30, value=10, kind=None),
-                                                    Constant(lineno=60, col_offset=32, end_lineno=60, end_col_offset=34, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                         ],
                                         ctx=Load(),
                                     ),
-                                    List(lineno=60, col_offset=38, end_lineno=60, end_col_offset=40, elts=[], ctx=Load()),
+                                    List(elts=[], ctx=Load()),
                                 ],
                                 keywords=[],
                             ),
                         ),
                         Expr(
-                            lineno=61,
-                            col_offset=8,
-                            end_lineno=61,
-                            end_col_offset=41,
                             value=Call(
-                                lineno=61,
-                                col_offset=8,
-                                end_lineno=61,
-                                end_col_offset=41,
-                                func=Name(lineno=61, col_offset=8, end_lineno=61, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=61,
-                                        col_offset=14,
-                                        end_lineno=61,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=61,
-                                                col_offset=15,
-                                                end_lineno=61,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=61, col_offset=16, end_lineno=61, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=61, col_offset=20, end_lineno=61, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2846,56 +1682,32 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=61,
-                                        col_offset=26,
-                                        end_lineno=61,
-                                        end_col_offset=36,
                                         elts=[
                                             Tuple(
-                                                lineno=61,
-                                                col_offset=27,
-                                                end_lineno=61,
-                                                end_col_offset=35,
                                                 elts=[
-                                                    Constant(lineno=61, col_offset=28, end_lineno=61, end_col_offset=30, value=10, kind=None),
-                                                    Constant(lineno=61, col_offset=32, end_lineno=61, end_col_offset=34, value=25, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=25, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                         ],
                                         ctx=Load(),
                                     ),
-                                    List(lineno=61, col_offset=38, end_lineno=61, end_col_offset=40, elts=[], ctx=Load()),
+                                    List(elts=[], ctx=Load()),
                                 ],
                                 keywords=[],
                             ),
                         ),
                         Expr(
-                            lineno=62,
-                            col_offset=8,
-                            end_lineno=62,
-                            end_col_offset=59,
                             value=Call(
-                                lineno=62,
-                                col_offset=8,
-                                end_lineno=62,
-                                end_col_offset=59,
-                                func=Name(lineno=62, col_offset=8, end_lineno=62, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=62,
-                                        col_offset=14,
-                                        end_lineno=62,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=62,
-                                                col_offset=15,
-                                                end_lineno=62,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=62, col_offset=16, end_lineno=62, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=62, col_offset=20, end_lineno=62, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2903,19 +1715,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=62,
-                                        col_offset=26,
-                                        end_lineno=62,
-                                        end_col_offset=36,
                                         elts=[
                                             Tuple(
-                                                lineno=62,
-                                                col_offset=27,
-                                                end_lineno=62,
-                                                end_col_offset=35,
                                                 elts=[
-                                                    Constant(lineno=62, col_offset=28, end_lineno=62, end_col_offset=30, value=15, kind=None),
-                                                    Constant(lineno=62, col_offset=32, end_lineno=62, end_col_offset=34, value=18, kind=None),
+                                                    Constant(value=15, kind=None),
+                                                    Constant(value=18, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2923,30 +1727,18 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=62,
-                                        col_offset=38,
-                                        end_lineno=62,
-                                        end_col_offset=58,
                                         elts=[
                                             Tuple(
-                                                lineno=62,
-                                                col_offset=39,
-                                                end_lineno=62,
-                                                end_col_offset=47,
                                                 elts=[
-                                                    Constant(lineno=62, col_offset=40, end_lineno=62, end_col_offset=42, value=10, kind=None),
-                                                    Constant(lineno=62, col_offset=44, end_lineno=62, end_col_offset=46, value=15, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=15, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=62,
-                                                col_offset=49,
-                                                end_lineno=62,
-                                                end_col_offset=57,
                                                 elts=[
-                                                    Constant(lineno=62, col_offset=50, end_lineno=62, end_col_offset=52, value=18, kind=None),
-                                                    Constant(lineno=62, col_offset=54, end_lineno=62, end_col_offset=56, value=20, kind=None),
+                                                    Constant(value=18, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2958,31 +1750,15 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=63,
-                            col_offset=8,
-                            end_lineno=63,
-                            end_col_offset=49,
                             value=Call(
-                                lineno=63,
-                                col_offset=8,
-                                end_lineno=63,
-                                end_col_offset=49,
-                                func=Name(lineno=63, col_offset=8, end_lineno=63, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=63,
-                                        col_offset=14,
-                                        end_lineno=63,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=63,
-                                                col_offset=15,
-                                                end_lineno=63,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=63, col_offset=16, end_lineno=63, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=63, col_offset=20, end_lineno=63, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -2990,19 +1766,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=63,
-                                        col_offset=26,
-                                        end_lineno=63,
-                                        end_col_offset=36,
                                         elts=[
                                             Tuple(
-                                                lineno=63,
-                                                col_offset=27,
-                                                end_lineno=63,
-                                                end_col_offset=35,
                                                 elts=[
-                                                    Constant(lineno=63, col_offset=28, end_lineno=63, end_col_offset=30, value=15, kind=None),
-                                                    Constant(lineno=63, col_offset=32, end_lineno=63, end_col_offset=34, value=20, kind=None),
+                                                    Constant(value=15, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -3010,19 +1778,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=63,
-                                        col_offset=38,
-                                        end_lineno=63,
-                                        end_col_offset=48,
                                         elts=[
                                             Tuple(
-                                                lineno=63,
-                                                col_offset=39,
-                                                end_lineno=63,
-                                                end_col_offset=47,
                                                 elts=[
-                                                    Constant(lineno=63, col_offset=40, end_lineno=63, end_col_offset=42, value=10, kind=None),
-                                                    Constant(lineno=63, col_offset=44, end_lineno=63, end_col_offset=46, value=15, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=15, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -3034,31 +1794,15 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=64,
-                            col_offset=8,
-                            end_lineno=64,
-                            end_col_offset=49,
                             value=Call(
-                                lineno=64,
-                                col_offset=8,
-                                end_lineno=64,
-                                end_col_offset=49,
-                                func=Name(lineno=64, col_offset=8, end_lineno=64, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=64,
-                                        col_offset=14,
-                                        end_lineno=64,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=64,
-                                                col_offset=15,
-                                                end_lineno=64,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=64, col_offset=16, end_lineno=64, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=64, col_offset=20, end_lineno=64, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -3066,19 +1810,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=64,
-                                        col_offset=26,
-                                        end_lineno=64,
-                                        end_col_offset=36,
                                         elts=[
                                             Tuple(
-                                                lineno=64,
-                                                col_offset=27,
-                                                end_lineno=64,
-                                                end_col_offset=35,
                                                 elts=[
-                                                    Constant(lineno=64, col_offset=28, end_lineno=64, end_col_offset=30, value=15, kind=None),
-                                                    Constant(lineno=64, col_offset=32, end_lineno=64, end_col_offset=34, value=25, kind=None),
+                                                    Constant(value=15, kind=None),
+                                                    Constant(value=25, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -3086,19 +1822,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=64,
-                                        col_offset=38,
-                                        end_lineno=64,
-                                        end_col_offset=48,
                                         elts=[
                                             Tuple(
-                                                lineno=64,
-                                                col_offset=39,
-                                                end_lineno=64,
-                                                end_col_offset=47,
                                                 elts=[
-                                                    Constant(lineno=64, col_offset=40, end_lineno=64, end_col_offset=42, value=10, kind=None),
-                                                    Constant(lineno=64, col_offset=44, end_lineno=64, end_col_offset=46, value=15, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=15, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -3110,31 +1838,15 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=65,
-                            col_offset=8,
-                            end_lineno=65,
-                            end_col_offset=49,
                             value=Call(
-                                lineno=65,
-                                col_offset=8,
-                                end_lineno=65,
-                                end_col_offset=49,
-                                func=Name(lineno=65, col_offset=8, end_lineno=65, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=65,
-                                        col_offset=14,
-                                        end_lineno=65,
-                                        end_col_offset=24,
                                         elts=[
                                             Tuple(
-                                                lineno=65,
-                                                col_offset=15,
-                                                end_lineno=65,
-                                                end_col_offset=23,
                                                 elts=[
-                                                    Constant(lineno=65, col_offset=16, end_lineno=65, end_col_offset=18, value=10, kind=None),
-                                                    Constant(lineno=65, col_offset=20, end_lineno=65, end_col_offset=22, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -3142,19 +1854,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=65,
-                                        col_offset=26,
-                                        end_lineno=65,
-                                        end_col_offset=36,
                                         elts=[
                                             Tuple(
-                                                lineno=65,
-                                                col_offset=27,
-                                                end_lineno=65,
-                                                end_col_offset=35,
                                                 elts=[
-                                                    Constant(lineno=65, col_offset=28, end_lineno=65, end_col_offset=30, value=20, kind=None),
-                                                    Constant(lineno=65, col_offset=32, end_lineno=65, end_col_offset=34, value=25, kind=None),
+                                                    Constant(value=20, kind=None),
+                                                    Constant(value=25, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -3162,19 +1866,11 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=65,
-                                        col_offset=38,
-                                        end_lineno=65,
-                                        end_col_offset=48,
                                         elts=[
                                             Tuple(
-                                                lineno=65,
-                                                col_offset=39,
-                                                end_lineno=65,
-                                                end_col_offset=47,
                                                 elts=[
-                                                    Constant(lineno=65, col_offset=40, end_lineno=65, end_col_offset=42, value=10, kind=None),
-                                                    Constant(lineno=65, col_offset=44, end_lineno=65, end_col_offset=46, value=20, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=20, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -3186,64 +1882,36 @@ Module(
                             ),
                         ),
                         Expr(
-                            lineno=66,
-                            col_offset=8,
-                            end_lineno=70,
-                            end_col_offset=9,
                             value=Call(
-                                lineno=66,
-                                col_offset=8,
-                                end_lineno=70,
-                                end_col_offset=9,
-                                func=Name(lineno=66, col_offset=8, end_lineno=66, end_col_offset=13, id='check', ctx=Load()),
+                                func=Name(id='check', ctx=Load()),
                                 args=[
                                     List(
-                                        lineno=67,
-                                        col_offset=12,
-                                        end_lineno=67,
-                                        end_col_offset=50,
                                         elts=[
                                             Tuple(
-                                                lineno=67,
-                                                col_offset=13,
-                                                end_lineno=67,
-                                                end_col_offset=19,
                                                 elts=[
-                                                    Constant(lineno=67, col_offset=14, end_lineno=67, end_col_offset=15, value=0, kind=None),
-                                                    Constant(lineno=67, col_offset=17, end_lineno=67, end_col_offset=18, value=5, kind=None),
+                                                    Constant(value=0, kind=None),
+                                                    Constant(value=5, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=67,
-                                                col_offset=21,
-                                                end_lineno=67,
-                                                end_col_offset=29,
                                                 elts=[
-                                                    Constant(lineno=67, col_offset=22, end_lineno=67, end_col_offset=24, value=10, kind=None),
-                                                    Constant(lineno=67, col_offset=26, end_lineno=67, end_col_offset=28, value=15, kind=None),
+                                                    Constant(value=10, kind=None),
+                                                    Constant(value=15, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=67,
-                                                col_offset=31,
-                                                end_lineno=67,
-                                                end_col_offset=39,
                                                 elts=[
-                                                    Constant(lineno=67, col_offset=32, end_lineno=67, end_col_offset=34, value=20, kind=None),
-                                                    Constant(lineno=67, col_offset=36, end_lineno=67, end_col_offset=38, value=25, kind=None),
+                                                    Constant(value=20, kind=None),
+                                                    Constant(value=25, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=67,
-                                                col_offset=41,
-                                                end_lineno=67,
-                                                end_col_offset=49,
                                                 elts=[
-                                                    Constant(lineno=67, col_offset=42, end_lineno=67, end_col_offset=44, value=30, kind=None),
-                                                    Constant(lineno=67, col_offset=46, end_lineno=67, end_col_offset=48, value=35, kind=None),
+                                                    Constant(value=30, kind=None),
+                                                    Constant(value=35, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -3251,63 +1919,39 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=68,
-                                        col_offset=12,
-                                        end_lineno=68,
-                                        end_col_offset=59,
                                         elts=[
                                             Tuple(
-                                                lineno=68,
-                                                col_offset=13,
-                                                end_lineno=68,
-                                                end_col_offset=19,
                                                 elts=[
-                                                    Constant(lineno=68, col_offset=14, end_lineno=68, end_col_offset=15, value=6, kind=None),
-                                                    Constant(lineno=68, col_offset=17, end_lineno=68, end_col_offset=18, value=7, kind=None),
+                                                    Constant(value=6, kind=None),
+                                                    Constant(value=7, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=68,
-                                                col_offset=21,
-                                                end_lineno=68,
-                                                end_col_offset=28,
                                                 elts=[
-                                                    Constant(lineno=68, col_offset=22, end_lineno=68, end_col_offset=23, value=9, kind=None),
-                                                    Constant(lineno=68, col_offset=25, end_lineno=68, end_col_offset=27, value=12, kind=None),
+                                                    Constant(value=9, kind=None),
+                                                    Constant(value=12, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=68,
-                                                col_offset=30,
-                                                end_lineno=68,
-                                                end_col_offset=38,
                                                 elts=[
-                                                    Constant(lineno=68, col_offset=31, end_lineno=68, end_col_offset=33, value=13, kind=None),
-                                                    Constant(lineno=68, col_offset=35, end_lineno=68, end_col_offset=37, value=17, kind=None),
+                                                    Constant(value=13, kind=None),
+                                                    Constant(value=17, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=68,
-                                                col_offset=40,
-                                                end_lineno=68,
-                                                end_col_offset=48,
                                                 elts=[
-                                                    Constant(lineno=68, col_offset=41, end_lineno=68, end_col_offset=43, value=22, kind=None),
-                                                    Constant(lineno=68, col_offset=45, end_lineno=68, end_col_offset=47, value=23, kind=None),
+                                                    Constant(value=22, kind=None),
+                                                    Constant(value=23, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=68,
-                                                col_offset=50,
-                                                end_lineno=68,
-                                                end_col_offset=58,
                                                 elts=[
-                                                    Constant(lineno=68, col_offset=51, end_lineno=68, end_col_offset=53, value=24, kind=None),
-                                                    Constant(lineno=68, col_offset=55, end_lineno=68, end_col_offset=57, value=40, kind=None),
+                                                    Constant(value=24, kind=None),
+                                                    Constant(value=40, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
@@ -3315,52 +1959,32 @@ Module(
                                         ctx=Load(),
                                     ),
                                     List(
-                                        lineno=69,
-                                        col_offset=12,
-                                        end_lineno=69,
-                                        end_col_offset=50,
                                         elts=[
                                             Tuple(
-                                                lineno=69,
-                                                col_offset=13,
-                                                end_lineno=69,
-                                                end_col_offset=19,
                                                 elts=[
-                                                    Constant(lineno=69, col_offset=14, end_lineno=69, end_col_offset=15, value=0, kind=None),
-                                                    Constant(lineno=69, col_offset=17, end_lineno=69, end_col_offset=18, value=5, kind=None),
+                                                    Constant(value=0, kind=None),
+                                                    Constant(value=5, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=69,
-                                                col_offset=21,
-                                                end_lineno=69,
-                                                end_col_offset=29,
                                                 elts=[
-                                                    Constant(lineno=69, col_offset=22, end_lineno=69, end_col_offset=24, value=12, kind=None),
-                                                    Constant(lineno=69, col_offset=26, end_lineno=69, end_col_offset=28, value=13, kind=None),
+                                                    Constant(value=12, kind=None),
+                                                    Constant(value=13, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=69,
-                                                col_offset=31,
-                                                end_lineno=69,
-                                                end_col_offset=39,
                                                 elts=[
-                                                    Constant(lineno=69, col_offset=32, end_lineno=69, end_col_offset=34, value=20, kind=None),
-                                                    Constant(lineno=69, col_offset=36, end_lineno=69, end_col_offset=38, value=22, kind=None),
+                                                    Constant(value=20, kind=None),
+                                                    Constant(value=22, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),
                                             Tuple(
-                                                lineno=69,
-                                                col_offset=41,
-                                                end_lineno=69,
-                                                end_col_offset=49,
                                                 elts=[
-                                                    Constant(lineno=69, col_offset=42, end_lineno=69, end_col_offset=44, value=23, kind=None),
-                                                    Constant(lineno=69, col_offset=46, end_lineno=69, end_col_offset=48, value=24, kind=None),
+                                                    Constant(value=23, kind=None),
+                                                    Constant(value=24, kind=None),
                                                 ],
                                                 ctx=Load(),
                                             ),

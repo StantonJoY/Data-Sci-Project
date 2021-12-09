@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=10,
-            end_col_offset=106,
             name='ResConfigSettings',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=24,
-                    end_lineno=7,
-                    end_col_offset=45,
-                    value=Name(lineno=7, col_offset=24, end_lineno=7, end_col_offset=30, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='TransientModel',
                     ctx=Load(),
                 ),
@@ -32,51 +20,27 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=36,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=36, value='res.config.settings', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='res.config.settings', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=10,
-                    end_col_offset=106,
-                    targets=[Name(lineno=10, col_offset=4, end_lineno=10, end_col_offset=19, id='events_app_name', ctx=Store())],
+                    targets=[Name(id='events_app_name', ctx=Store())],
                     value=Call(
-                        lineno=10,
-                        col_offset=22,
-                        end_lineno=10,
-                        end_col_offset=106,
                         func=Attribute(
-                            lineno=10,
-                            col_offset=22,
-                            end_lineno=10,
-                            end_col_offset=33,
-                            value=Name(lineno=10, col_offset=22, end_lineno=10, end_col_offset=28, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Char',
                             ctx=Load(),
                         ),
-                        args=[Constant(lineno=10, col_offset=34, end_lineno=10, end_col_offset=51, value='Events App Name', kind=None)],
+                        args=[Constant(value='Events App Name', kind=None)],
                         keywords=[
                             keyword(
-                                lineno=10,
-                                col_offset=53,
-                                end_lineno=10,
-                                end_col_offset=89,
                                 arg='related',
-                                value=Constant(lineno=10, col_offset=61, end_lineno=10, end_col_offset=89, value='website_id.events_app_name', kind=None),
+                                value=Constant(value='website_id.events_app_name', kind=None),
                             ),
                             keyword(
-                                lineno=10,
-                                col_offset=91,
-                                end_lineno=10,
-                                end_col_offset=105,
                                 arg='readonly',
-                                value=Constant(lineno=10, col_offset=100, end_lineno=10, end_col_offset=105, value=False, kind=None),
+                                value=Constant(value=False, kind=None),
                             ),
                         ],
                     ),

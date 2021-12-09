@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=13,
-            end_col_offset=52,
             name='PosPaymentMethod',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=23,
-                    end_lineno=7,
-                    end_col_offset=35,
-                    value=Name(lineno=7, col_offset=23, end_lineno=7, end_col_offset=29, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,23 +20,15 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=35,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=35, value='pos.payment.method', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='pos.payment.method', kind=None),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=11,
-                    end_col_offset=97,
                     name='_get_payment_terminal_selection',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=10, col_offset=40, end_lineno=10, end_col_offset=44, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -57,34 +37,14 @@ Module(
                     ),
                     body=[
                         Return(
-                            lineno=11,
-                            col_offset=8,
-                            end_lineno=11,
-                            end_col_offset=97,
                             value=BinOp(
-                                lineno=11,
-                                col_offset=15,
-                                end_lineno=11,
-                                end_col_offset=97,
                                 left=Call(
-                                    lineno=11,
-                                    col_offset=15,
-                                    end_lineno=11,
-                                    end_col_offset=78,
                                     func=Attribute(
-                                        lineno=11,
-                                        col_offset=15,
-                                        end_lineno=11,
-                                        end_col_offset=76,
                                         value=Call(
-                                            lineno=11,
-                                            col_offset=15,
-                                            end_lineno=11,
-                                            end_col_offset=44,
-                                            func=Name(lineno=11, col_offset=15, end_lineno=11, end_col_offset=20, id='super', ctx=Load()),
+                                            func=Name(id='super', ctx=Load()),
                                             args=[
-                                                Name(lineno=11, col_offset=21, end_lineno=11, end_col_offset=37, id='PosPaymentMethod', ctx=Load()),
-                                                Name(lineno=11, col_offset=39, end_lineno=11, end_col_offset=43, id='self', ctx=Load()),
+                                                Name(id='PosPaymentMethod', ctx=Load()),
+                                                Name(id='self', ctx=Load()),
                                             ],
                                             keywords=[],
                                         ),
@@ -96,19 +56,11 @@ Module(
                                 ),
                                 op=Add(),
                                 right=List(
-                                    lineno=11,
-                                    col_offset=81,
-                                    end_lineno=11,
-                                    end_col_offset=97,
                                     elts=[
                                         Tuple(
-                                            lineno=11,
-                                            col_offset=82,
-                                            end_lineno=11,
-                                            end_col_offset=96,
                                             elts=[
-                                                Constant(lineno=11, col_offset=83, end_lineno=11, end_col_offset=88, value='six', kind=None),
-                                                Constant(lineno=11, col_offset=90, end_lineno=11, end_col_offset=95, value='SIX', kind=None),
+                                                Constant(value='six', kind=None),
+                                                Constant(value='SIX', kind=None),
                                             ],
                                             ctx=Load(),
                                         ),
@@ -123,26 +75,14 @@ Module(
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=13,
-                    col_offset=4,
-                    end_lineno=13,
-                    end_col_offset=52,
-                    targets=[Name(lineno=13, col_offset=4, end_lineno=13, end_col_offset=19, id='six_terminal_ip', ctx=Store())],
+                    targets=[Name(id='six_terminal_ip', ctx=Store())],
                     value=Call(
-                        lineno=13,
-                        col_offset=22,
-                        end_lineno=13,
-                        end_col_offset=52,
                         func=Attribute(
-                            lineno=13,
-                            col_offset=22,
-                            end_lineno=13,
-                            end_col_offset=33,
-                            value=Name(lineno=13, col_offset=22, end_lineno=13, end_col_offset=28, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Char',
                             ctx=Load(),
                         ),
-                        args=[Constant(lineno=13, col_offset=34, end_lineno=13, end_col_offset=51, value='Six Terminal IP', kind=None)],
+                        args=[Constant(value='Six Terminal IP', kind=None)],
                         keywords=[],
                     ),
                     type_comment=None,

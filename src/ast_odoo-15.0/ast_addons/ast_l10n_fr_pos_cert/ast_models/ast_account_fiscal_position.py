@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=3,
-            col_offset=0,
-            end_lineno=3,
-            end_col_offset=26,
             module='odoo',
             names=[
                 alias(name='_', asname=None),
@@ -13,27 +9,15 @@ Module(
             level=0,
         ),
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=37,
             module='odoo.exceptions',
             names=[alias(name='UserError', asname=None)],
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=19,
-            end_col_offset=61,
             name='AccountFiscalPosition',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=28,
-                    end_lineno=7,
-                    end_col_offset=40,
-                    value=Name(lineno=7, col_offset=28, end_lineno=7, end_col_offset=34, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -41,25 +25,17 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=40,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=40, value='account.fiscal.position', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='account.fiscal.position', kind=None),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=19,
-                    end_col_offset=61,
                     name='write',
                     args=arguments(
                         posonlyargs=[],
                         args=[
-                            arg(lineno=10, col_offset=14, end_lineno=10, end_col_offset=18, arg='self', annotation=None, type_comment=None),
-                            arg(lineno=10, col_offset=20, end_lineno=10, end_col_offset=24, arg='vals', annotation=None, type_comment=None),
+                            arg(arg='self', annotation=None, type_comment=None),
+                            arg(arg='vals', annotation=None, type_comment=None),
                         ],
                         vararg=None,
                         kwonlyargs=[],
@@ -69,60 +45,24 @@ Module(
                     ),
                     body=[
                         If(
-                            lineno=11,
-                            col_offset=8,
-                            end_lineno=18,
-                            end_col_offset=17,
                             test=Compare(
-                                lineno=11,
-                                col_offset=11,
-                                end_lineno=11,
-                                end_col_offset=28,
-                                left=Constant(lineno=11, col_offset=11, end_lineno=11, end_col_offset=20, value='tax_ids', kind=None),
+                                left=Constant(value='tax_ids', kind=None),
                                 ops=[In()],
-                                comparators=[Name(lineno=11, col_offset=24, end_lineno=11, end_col_offset=28, id='vals', ctx=Load())],
+                                comparators=[Name(id='vals', ctx=Load())],
                             ),
                             body=[
                                 If(
-                                    lineno=12,
-                                    col_offset=12,
-                                    end_lineno=18,
-                                    end_col_offset=17,
                                     test=Call(
-                                        lineno=12,
-                                        col_offset=15,
-                                        end_lineno=12,
-                                        end_col_offset=98,
                                         func=Attribute(
-                                            lineno=12,
-                                            col_offset=15,
-                                            end_lineno=12,
-                                            end_col_offset=56,
                                             value=Call(
-                                                lineno=12,
-                                                col_offset=15,
-                                                end_lineno=12,
-                                                end_col_offset=43,
                                                 func=Attribute(
-                                                    lineno=12,
-                                                    col_offset=15,
-                                                    end_lineno=12,
-                                                    end_col_offset=41,
                                                     value=Subscript(
-                                                        lineno=12,
-                                                        col_offset=15,
-                                                        end_lineno=12,
-                                                        end_col_offset=36,
                                                         value=Attribute(
-                                                            lineno=12,
-                                                            col_offset=15,
-                                                            end_lineno=12,
-                                                            end_col_offset=23,
-                                                            value=Name(lineno=12, col_offset=15, end_lineno=12, end_col_offset=19, id='self', ctx=Load()),
+                                                            value=Name(id='self', ctx=Load()),
                                                             attr='env',
                                                             ctx=Load(),
                                                         ),
-                                                        slice=Constant(lineno=12, col_offset=24, end_lineno=12, end_col_offset=35, value='pos.order', kind=None),
+                                                        slice=Constant(value='pos.order', kind=None),
                                                         ctx=Load(),
                                                     ),
                                                     attr='sudo',
@@ -136,25 +76,13 @@ Module(
                                         ),
                                         args=[
                                             List(
-                                                lineno=12,
-                                                col_offset=57,
-                                                end_lineno=12,
-                                                end_col_offset=97,
                                                 elts=[
                                                     Tuple(
-                                                        lineno=12,
-                                                        col_offset=58,
-                                                        end_lineno=12,
-                                                        end_col_offset=96,
                                                         elts=[
-                                                            Constant(lineno=12, col_offset=59, end_lineno=12, end_col_offset=79, value='fiscal_position_id', kind=None),
-                                                            Constant(lineno=12, col_offset=81, end_lineno=12, end_col_offset=85, value='in', kind=None),
+                                                            Constant(value='fiscal_position_id', kind=None),
+                                                            Constant(value='in', kind=None),
                                                             Attribute(
-                                                                lineno=12,
-                                                                col_offset=87,
-                                                                end_lineno=12,
-                                                                end_col_offset=95,
-                                                                value=Name(lineno=12, col_offset=87, end_lineno=12, end_col_offset=91, id='self', ctx=Load()),
+                                                                value=Name(id='self', ctx=Load()),
                                                                 attr='ids',
                                                                 ctx=Load(),
                                                             ),
@@ -169,24 +97,12 @@ Module(
                                     ),
                                     body=[
                                         Raise(
-                                            lineno=13,
-                                            col_offset=16,
-                                            end_lineno=18,
-                                            end_col_offset=17,
                                             exc=Call(
-                                                lineno=13,
-                                                col_offset=22,
-                                                end_lineno=18,
-                                                end_col_offset=17,
-                                                func=Name(lineno=13, col_offset=22, end_lineno=13, end_col_offset=31, id='UserError', ctx=Load()),
+                                                func=Name(id='UserError', ctx=Load()),
                                                 args=[
                                                     Call(
-                                                        lineno=14,
-                                                        col_offset=20,
-                                                        end_lineno=17,
-                                                        end_col_offset=21,
-                                                        func=Name(lineno=14, col_offset=20, end_lineno=14, end_col_offset=21, id='_', ctx=Load()),
-                                                        args=[Constant(lineno=15, col_offset=24, end_lineno=16, end_col_offset=69, value='You cannot modify a fiscal position used in a POS order. You should archive it and create a new one.', kind=None)],
+                                                        func=Name(id='_', ctx=Load()),
+                                                        args=[Constant(value='You cannot modify a fiscal position used in a POS order. You should archive it and create a new one.', kind=None)],
                                                         keywords=[],
                                                     ),
                                                 ],
@@ -201,36 +117,20 @@ Module(
                             orelse=[],
                         ),
                         Return(
-                            lineno=19,
-                            col_offset=8,
-                            end_lineno=19,
-                            end_col_offset=61,
                             value=Call(
-                                lineno=19,
-                                col_offset=15,
-                                end_lineno=19,
-                                end_col_offset=61,
                                 func=Attribute(
-                                    lineno=19,
-                                    col_offset=15,
-                                    end_lineno=19,
-                                    end_col_offset=55,
                                     value=Call(
-                                        lineno=19,
-                                        col_offset=15,
-                                        end_lineno=19,
-                                        end_col_offset=49,
-                                        func=Name(lineno=19, col_offset=15, end_lineno=19, end_col_offset=20, id='super', ctx=Load()),
+                                        func=Name(id='super', ctx=Load()),
                                         args=[
-                                            Name(lineno=19, col_offset=21, end_lineno=19, end_col_offset=42, id='AccountFiscalPosition', ctx=Load()),
-                                            Name(lineno=19, col_offset=44, end_lineno=19, end_col_offset=48, id='self', ctx=Load()),
+                                            Name(id='AccountFiscalPosition', ctx=Load()),
+                                            Name(id='self', ctx=Load()),
                                         ],
                                         keywords=[],
                                     ),
                                     attr='write',
                                     ctx=Load(),
                                 ),
-                                args=[Name(lineno=19, col_offset=56, end_lineno=19, end_col_offset=60, id='vals', ctx=Load())],
+                                args=[Name(id='vals', ctx=Load())],
                                 keywords=[],
                             ),
                         ),

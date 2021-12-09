@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=10,
-            end_col_offset=97,
             name='ResConfigSettings',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=24,
-                    end_lineno=7,
-                    end_col_offset=45,
-                    value=Name(lineno=7, col_offset=24, end_lineno=7, end_col_offset=30, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='TransientModel',
                     ctx=Load(),
                 ),
@@ -32,59 +20,31 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=36,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=36, value='res.config.settings', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='res.config.settings', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=10,
-                    end_col_offset=97,
-                    targets=[Name(lineno=10, col_offset=4, end_lineno=10, end_col_offset=9, id='ldaps', ctx=Store())],
+                    targets=[Name(id='ldaps', ctx=Store())],
                     value=Call(
-                        lineno=10,
-                        col_offset=12,
-                        end_lineno=10,
-                        end_col_offset=97,
                         func=Attribute(
-                            lineno=10,
-                            col_offset=12,
-                            end_lineno=10,
-                            end_col_offset=27,
-                            value=Name(lineno=10, col_offset=12, end_lineno=10, end_col_offset=18, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='One2many',
                             ctx=Load(),
                         ),
                         args=[],
                         keywords=[
                             keyword(
-                                lineno=10,
-                                col_offset=28,
-                                end_lineno=10,
-                                end_col_offset=54,
                                 arg='related',
-                                value=Constant(lineno=10, col_offset=36, end_lineno=10, end_col_offset=54, value='company_id.ldaps', kind=None),
+                                value=Constant(value='company_id.ldaps', kind=None),
                             ),
                             keyword(
-                                lineno=10,
-                                col_offset=56,
-                                end_lineno=10,
-                                end_col_offset=80,
                                 arg='string',
-                                value=Constant(lineno=10, col_offset=63, end_lineno=10, end_col_offset=80, value='LDAP Parameters', kind=None),
+                                value=Constant(value='LDAP Parameters', kind=None),
                             ),
                             keyword(
-                                lineno=10,
-                                col_offset=82,
-                                end_lineno=10,
-                                end_col_offset=96,
                                 arg='readonly',
-                                value=Constant(lineno=10, col_offset=91, end_lineno=10, end_col_offset=96, value=False, kind=None),
+                                value=Constant(value=False, kind=None),
                             ),
                         ],
                     ),

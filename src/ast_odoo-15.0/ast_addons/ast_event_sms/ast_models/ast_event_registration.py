@@ -1,27 +1,15 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=23,
             module='odoo',
             names=[alias(name='models', asname=None)],
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=13,
-            end_col_offset=34,
             name='Registration',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=19,
-                    end_lineno=7,
-                    end_col_offset=31,
-                    value=Name(lineno=7, col_offset=19, end_lineno=7, end_col_offset=25, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -29,23 +17,15 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=35,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=35, value='event.registration', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='event.registration', kind=None),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=13,
-                    end_col_offset=34,
                     name='_sms_get_number_fields',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=10, col_offset=31, end_lineno=10, end_col_offset=35, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -54,25 +34,13 @@ Module(
                     ),
                     body=[
                         Expr(
-                            lineno=11,
-                            col_offset=8,
-                            end_lineno=12,
-                            end_col_offset=36,
-                            value=Constant(lineno=11, col_offset=8, end_lineno=12, end_col_offset=36, value=' This method returns the fields to use to find the number to use to\n        send an SMS on a record. ', kind=None),
+                            value=Constant(value=' This method returns the fields to use to find the number to use to\n        send an SMS on a record. ', kind=None),
                         ),
                         Return(
-                            lineno=13,
-                            col_offset=8,
-                            end_lineno=13,
-                            end_col_offset=34,
                             value=List(
-                                lineno=13,
-                                col_offset=15,
-                                end_lineno=13,
-                                end_col_offset=34,
                                 elts=[
-                                    Constant(lineno=13, col_offset=16, end_lineno=13, end_col_offset=24, value='mobile', kind=None),
-                                    Constant(lineno=13, col_offset=26, end_lineno=13, end_col_offset=33, value='phone', kind=None),
+                                    Constant(value='mobile', kind=None),
+                                    Constant(value='phone', kind=None),
                                 ],
                                 ctx=Load(),
                             ),

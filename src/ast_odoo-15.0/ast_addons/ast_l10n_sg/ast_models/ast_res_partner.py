@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=3,
-            col_offset=0,
-            end_lineno=3,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=5,
-            col_offset=0,
-            end_lineno=9,
-            end_col_offset=60,
             name='ResPartner',
             bases=[
                 Attribute(
-                    lineno=5,
-                    col_offset=17,
-                    end_lineno=5,
-                    end_col_offset=29,
-                    value=Name(lineno=5, col_offset=17, end_lineno=5, end_col_offset=23, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,52 +20,28 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=6,
-                    col_offset=4,
-                    end_lineno=6,
-                    end_col_offset=25,
-                    targets=[Name(lineno=6, col_offset=4, end_lineno=6, end_col_offset=9, id='_name', ctx=Store())],
-                    value=Constant(lineno=6, col_offset=12, end_lineno=6, end_col_offset=25, value='res.partner', kind=None),
+                    targets=[Name(id='_name', ctx=Store())],
+                    value=Constant(value='res.partner', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=7,
-                    col_offset=4,
-                    end_lineno=7,
-                    end_col_offset=28,
-                    targets=[Name(lineno=7, col_offset=4, end_lineno=7, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=7, col_offset=15, end_lineno=7, end_col_offset=28, value='res.partner', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='res.partner', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=9,
-                    col_offset=4,
-                    end_lineno=9,
-                    end_col_offset=60,
-                    targets=[Name(lineno=9, col_offset=4, end_lineno=9, end_col_offset=32, id='l10n_sg_unique_entity_number', ctx=Store())],
+                    targets=[Name(id='l10n_sg_unique_entity_number', ctx=Store())],
                     value=Call(
-                        lineno=9,
-                        col_offset=35,
-                        end_lineno=9,
-                        end_col_offset=60,
                         func=Attribute(
-                            lineno=9,
-                            col_offset=35,
-                            end_lineno=9,
-                            end_col_offset=46,
-                            value=Name(lineno=9, col_offset=35, end_lineno=9, end_col_offset=41, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Char',
                             ctx=Load(),
                         ),
                         args=[],
                         keywords=[
                             keyword(
-                                lineno=9,
-                                col_offset=47,
-                                end_lineno=9,
-                                end_col_offset=59,
                                 arg='string',
-                                value=Constant(lineno=9, col_offset=54, end_lineno=9, end_col_offset=59, value='UEN', kind=None),
+                                value=Constant(value='UEN', kind=None),
                             ),
                         ],
                     ),

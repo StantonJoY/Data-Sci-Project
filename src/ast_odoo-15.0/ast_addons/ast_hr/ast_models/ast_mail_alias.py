@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=34,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -14,18 +10,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=17,
-            end_col_offset=66,
             name='Alias',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=12,
-                    end_lineno=7,
-                    end_col_offset=24,
-                    value=Name(lineno=7, col_offset=12, end_lineno=7, end_col_offset=18, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -33,56 +21,28 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=27,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=27, value='mail.alias', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='mail.alias', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=12,
-                    end_col_offset=41,
-                    targets=[Name(lineno=10, col_offset=4, end_lineno=10, end_col_offset=17, id='alias_contact', ctx=Store())],
+                    targets=[Name(id='alias_contact', ctx=Store())],
                     value=Call(
-                        lineno=10,
-                        col_offset=20,
-                        end_lineno=12,
-                        end_col_offset=41,
                         func=Attribute(
-                            lineno=10,
-                            col_offset=20,
-                            end_lineno=10,
-                            end_col_offset=36,
-                            value=Name(lineno=10, col_offset=20, end_lineno=10, end_col_offset=26, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Selection',
                             ctx=Load(),
                         ),
                         args=[],
                         keywords=[
                             keyword(
-                                lineno=10,
-                                col_offset=37,
-                                end_lineno=12,
-                                end_col_offset=5,
                                 arg='selection_add',
                                 value=List(
-                                    lineno=10,
-                                    col_offset=51,
-                                    end_lineno=12,
-                                    end_col_offset=5,
                                     elts=[
                                         Tuple(
-                                            lineno=11,
-                                            col_offset=8,
-                                            end_lineno=11,
-                                            end_col_offset=48,
                                             elts=[
-                                                Constant(lineno=11, col_offset=9, end_lineno=11, end_col_offset=20, value='employees', kind=None),
-                                                Constant(lineno=11, col_offset=22, end_lineno=11, end_col_offset=47, value='Authenticated Employees', kind=None),
+                                                Constant(value='employees', kind=None),
+                                                Constant(value='Authenticated Employees', kind=None),
                                             ],
                                             ctx=Load(),
                                         ),
@@ -91,18 +51,10 @@ Module(
                                 ),
                             ),
                             keyword(
-                                lineno=12,
-                                col_offset=7,
-                                end_lineno=12,
-                                end_col_offset=40,
                                 arg='ondelete',
                                 value=Dict(
-                                    lineno=12,
-                                    col_offset=16,
-                                    end_lineno=12,
-                                    end_col_offset=40,
-                                    keys=[Constant(lineno=12, col_offset=17, end_lineno=12, end_col_offset=28, value='employees', kind=None)],
-                                    values=[Constant(lineno=12, col_offset=30, end_lineno=12, end_col_offset=39, value='cascade', kind=None)],
+                                    keys=[Constant(value='employees', kind=None)],
+                                    values=[Constant(value='cascade', kind=None)],
                                 ),
                             ),
                         ],
@@ -110,14 +62,10 @@ Module(
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=14,
-                    col_offset=4,
-                    end_lineno=17,
-                    end_col_offset=66,
                     name='_get_alias_contact_description',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=14, col_offset=39, end_lineno=14, end_col_offset=43, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -126,40 +74,20 @@ Module(
                     ),
                     body=[
                         If(
-                            lineno=15,
-                            col_offset=8,
-                            end_lineno=16,
-                            end_col_offset=64,
                             test=Compare(
-                                lineno=15,
-                                col_offset=11,
-                                end_lineno=15,
-                                end_col_offset=44,
                                 left=Attribute(
-                                    lineno=15,
-                                    col_offset=11,
-                                    end_lineno=15,
-                                    end_col_offset=29,
-                                    value=Name(lineno=15, col_offset=11, end_lineno=15, end_col_offset=15, id='self', ctx=Load()),
+                                    value=Name(id='self', ctx=Load()),
                                     attr='alias_contact',
                                     ctx=Load(),
                                 ),
                                 ops=[Eq()],
-                                comparators=[Constant(lineno=15, col_offset=33, end_lineno=15, end_col_offset=44, value='employees', kind=None)],
+                                comparators=[Constant(value='employees', kind=None)],
                             ),
                             body=[
                                 Return(
-                                    lineno=16,
-                                    col_offset=12,
-                                    end_lineno=16,
-                                    end_col_offset=64,
                                     value=Call(
-                                        lineno=16,
-                                        col_offset=19,
-                                        end_lineno=16,
-                                        end_col_offset=64,
-                                        func=Name(lineno=16, col_offset=19, end_lineno=16, end_col_offset=20, id='_', ctx=Load()),
-                                        args=[Constant(lineno=16, col_offset=21, end_lineno=16, end_col_offset=63, value='addresses linked to registered employees', kind=None)],
+                                        func=Name(id='_', ctx=Load()),
+                                        args=[Constant(value='addresses linked to registered employees', kind=None)],
                                         keywords=[],
                                     ),
                                 ),
@@ -167,29 +95,13 @@ Module(
                             orelse=[],
                         ),
                         Return(
-                            lineno=17,
-                            col_offset=8,
-                            end_lineno=17,
-                            end_col_offset=66,
                             value=Call(
-                                lineno=17,
-                                col_offset=15,
-                                end_lineno=17,
-                                end_col_offset=66,
                                 func=Attribute(
-                                    lineno=17,
-                                    col_offset=15,
-                                    end_lineno=17,
-                                    end_col_offset=64,
                                     value=Call(
-                                        lineno=17,
-                                        col_offset=15,
-                                        end_lineno=17,
-                                        end_col_offset=33,
-                                        func=Name(lineno=17, col_offset=15, end_lineno=17, end_col_offset=20, id='super', ctx=Load()),
+                                        func=Name(id='super', ctx=Load()),
                                         args=[
-                                            Name(lineno=17, col_offset=21, end_lineno=17, end_col_offset=26, id='Alias', ctx=Load()),
-                                            Name(lineno=17, col_offset=28, end_lineno=17, end_col_offset=32, id='self', ctx=Load()),
+                                            Name(id='Alias', ctx=Load()),
+                                            Name(id='self', ctx=Load()),
                                         ],
                                         keywords=[],
                                     ),

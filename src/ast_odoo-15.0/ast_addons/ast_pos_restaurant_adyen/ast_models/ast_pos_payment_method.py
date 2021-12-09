@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=17,
-            end_col_offset=9,
             name='PosPaymentMethod',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=23,
-                    end_lineno=7,
-                    end_col_offset=35,
-                    value=Name(lineno=7, col_offset=23, end_lineno=7, end_col_offset=29, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,57 +20,33 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=35,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=35, value='pos.payment.method', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='pos.payment.method', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=10,
-                    end_col_offset=92,
-                    targets=[Name(lineno=10, col_offset=4, end_lineno=10, end_col_offset=26, id='adyen_merchant_account', ctx=Store())],
+                    targets=[Name(id='adyen_merchant_account', ctx=Store())],
                     value=Call(
-                        lineno=10,
-                        col_offset=29,
-                        end_lineno=10,
-                        end_col_offset=92,
                         func=Attribute(
-                            lineno=10,
-                            col_offset=29,
-                            end_lineno=10,
-                            end_col_offset=40,
-                            value=Name(lineno=10, col_offset=29, end_lineno=10, end_col_offset=35, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Char',
                             ctx=Load(),
                         ),
                         args=[],
                         keywords=[
                             keyword(
-                                lineno=10,
-                                col_offset=41,
-                                end_lineno=10,
-                                end_col_offset=91,
                                 arg='help',
-                                value=Constant(lineno=10, col_offset=46, end_lineno=10, end_col_offset=91, value='The POS merchant account code used in Adyen', kind=None),
+                                value=Constant(value='The POS merchant account code used in Adyen', kind=None),
                             ),
                         ],
                     ),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=12,
-                    col_offset=4,
-                    end_lineno=17,
-                    end_col_offset=9,
                     name='_get_adyen_endpoints',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=12, col_offset=29, end_lineno=12, end_col_offset=33, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -91,40 +55,20 @@ Module(
                     ),
                     body=[
                         Return(
-                            lineno=13,
-                            col_offset=8,
-                            end_lineno=17,
-                            end_col_offset=9,
                             value=Dict(
-                                lineno=13,
-                                col_offset=15,
-                                end_lineno=17,
-                                end_col_offset=9,
                                 keys=[
                                     None,
-                                    Constant(lineno=15, col_offset=12, end_lineno=15, end_col_offset=20, value='adjust', kind=None),
-                                    Constant(lineno=16, col_offset=12, end_lineno=16, end_col_offset=21, value='capture', kind=None),
+                                    Constant(value='adjust', kind=None),
+                                    Constant(value='capture', kind=None),
                                 ],
                                 values=[
                                     Call(
-                                        lineno=14,
-                                        col_offset=14,
-                                        end_lineno=14,
-                                        end_col_offset=65,
                                         func=Attribute(
-                                            lineno=14,
-                                            col_offset=14,
-                                            end_lineno=14,
-                                            end_col_offset=63,
                                             value=Call(
-                                                lineno=14,
-                                                col_offset=14,
-                                                end_lineno=14,
-                                                end_col_offset=43,
-                                                func=Name(lineno=14, col_offset=14, end_lineno=14, end_col_offset=19, id='super', ctx=Load()),
+                                                func=Name(id='super', ctx=Load()),
                                                 args=[
-                                                    Name(lineno=14, col_offset=20, end_lineno=14, end_col_offset=36, id='PosPaymentMethod', ctx=Load()),
-                                                    Name(lineno=14, col_offset=38, end_lineno=14, end_col_offset=42, id='self', ctx=Load()),
+                                                    Name(id='PosPaymentMethod', ctx=Load()),
+                                                    Name(id='self', ctx=Load()),
                                                 ],
                                                 keywords=[],
                                             ),
@@ -134,8 +78,8 @@ Module(
                                         args=[],
                                         keywords=[],
                                     ),
-                                    Constant(lineno=15, col_offset=22, end_lineno=15, end_col_offset=92, value='https://pal-%s.adyen.com/pal/servlet/Payment/v52/adjustAuthorisation', kind=None),
-                                    Constant(lineno=16, col_offset=23, end_lineno=16, end_col_offset=81, value='https://pal-%s.adyen.com/pal/servlet/Payment/v52/capture', kind=None),
+                                    Constant(value='https://pal-%s.adyen.com/pal/servlet/Payment/v52/adjustAuthorisation', kind=None),
+                                    Constant(value='https://pal-%s.adyen.com/pal/servlet/Payment/v52/capture', kind=None),
                                 ],
                             ),
                         ),

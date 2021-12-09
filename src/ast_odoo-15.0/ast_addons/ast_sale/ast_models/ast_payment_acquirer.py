@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=15,
-            end_col_offset=100,
             name='PaymentAcquirer',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=22,
-                    end_lineno=7,
-                    end_col_offset=34,
-                    value=Name(lineno=7, col_offset=22, end_lineno=7, end_col_offset=28, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,75 +20,39 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=33,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=33, value='payment.acquirer', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='payment.acquirer', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=15,
-                    end_col_offset=100,
-                    targets=[Name(lineno=10, col_offset=4, end_lineno=10, end_col_offset=21, id='so_reference_type', ctx=Store())],
+                    targets=[Name(id='so_reference_type', ctx=Store())],
                     value=Call(
-                        lineno=10,
-                        col_offset=24,
-                        end_lineno=15,
-                        end_col_offset=100,
                         func=Attribute(
-                            lineno=10,
-                            col_offset=24,
-                            end_lineno=10,
-                            end_col_offset=40,
-                            value=Name(lineno=10, col_offset=24, end_lineno=10, end_col_offset=30, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Selection',
                             ctx=Load(),
                         ),
                         args=[],
                         keywords=[
                             keyword(
-                                lineno=10,
-                                col_offset=41,
-                                end_lineno=10,
-                                end_col_offset=63,
                                 arg='string',
-                                value=Constant(lineno=10, col_offset=48, end_lineno=10, end_col_offset=63, value='Communication', kind=None),
+                                value=Constant(value='Communication', kind=None),
                             ),
                             keyword(
-                                lineno=11,
-                                col_offset=8,
-                                end_lineno=13,
-                                end_col_offset=48,
                                 arg='selection',
                                 value=List(
-                                    lineno=11,
-                                    col_offset=18,
-                                    end_lineno=13,
-                                    end_col_offset=48,
                                     elts=[
                                         Tuple(
-                                            lineno=12,
-                                            col_offset=12,
-                                            end_lineno=12,
-                                            end_col_offset=54,
                                             elts=[
-                                                Constant(lineno=12, col_offset=13, end_lineno=12, end_col_offset=22, value='so_name', kind=None),
-                                                Constant(lineno=12, col_offset=24, end_lineno=12, end_col_offset=53, value='Based on Document Reference', kind=None),
+                                                Constant(value='so_name', kind=None),
+                                                Constant(value='Based on Document Reference', kind=None),
                                             ],
                                             ctx=Load(),
                                         ),
                                         Tuple(
-                                            lineno=13,
-                                            col_offset=12,
-                                            end_lineno=13,
-                                            end_col_offset=47,
                                             elts=[
-                                                Constant(lineno=13, col_offset=13, end_lineno=13, end_col_offset=22, value='partner', kind=None),
-                                                Constant(lineno=13, col_offset=24, end_lineno=13, end_col_offset=46, value='Based on Customer ID', kind=None),
+                                                Constant(value='partner', kind=None),
+                                                Constant(value='Based on Customer ID', kind=None),
                                             ],
                                             ctx=Load(),
                                         ),
@@ -109,20 +61,12 @@ Module(
                                 ),
                             ),
                             keyword(
-                                lineno=13,
-                                col_offset=50,
-                                end_lineno=13,
-                                end_col_offset=67,
                                 arg='default',
-                                value=Constant(lineno=13, col_offset=58, end_lineno=13, end_col_offset=67, value='so_name', kind=None),
+                                value=Constant(value='so_name', kind=None),
                             ),
                             keyword(
-                                lineno=14,
-                                col_offset=8,
-                                end_lineno=15,
-                                end_col_offset=99,
                                 arg='help',
-                                value=Constant(lineno=14, col_offset=13, end_lineno=15, end_col_offset=99, value='You can set here the communication type that will appear on sales orders.The communication will be given to the customer when they choose the payment method.', kind=None),
+                                value=Constant(value='You can set here the communication type that will appear on sales orders.The communication will be given to the customer when they choose the payment method.', kind=None),
                             ),
                         ],
                     ),

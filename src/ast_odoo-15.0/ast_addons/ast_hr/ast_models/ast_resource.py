@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=10,
-            end_col_offset=41,
             name='ResourceResource',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=23,
-                    end_lineno=7,
-                    end_col_offset=35,
-                    value=Name(lineno=7, col_offset=23, end_lineno=7, end_col_offset=29, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,43 +20,23 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=34,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=34, value='resource.resource', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='resource.resource', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=10,
-                    end_col_offset=41,
-                    targets=[Name(lineno=10, col_offset=4, end_lineno=10, end_col_offset=11, id='user_id', ctx=Store())],
+                    targets=[Name(id='user_id', ctx=Store())],
                     value=Call(
-                        lineno=10,
-                        col_offset=14,
-                        end_lineno=10,
-                        end_col_offset=41,
                         func=Attribute(
-                            lineno=10,
-                            col_offset=14,
-                            end_lineno=10,
-                            end_col_offset=29,
-                            value=Name(lineno=10, col_offset=14, end_lineno=10, end_col_offset=20, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Many2one',
                             ctx=Load(),
                         ),
                         args=[],
                         keywords=[
                             keyword(
-                                lineno=10,
-                                col_offset=30,
-                                end_lineno=10,
-                                end_col_offset=40,
                                 arg='copy',
-                                value=Constant(lineno=10, col_offset=35, end_lineno=10, end_col_offset=40, value=False, kind=None),
+                                value=Constant(value=False, kind=None),
                             ),
                         ],
                     ),

@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=10,
-            col_offset=0,
-            end_lineno=10,
-            end_col_offset=36,
             module='odoo',
             names=[
                 alias(name='api', asname=None),
@@ -14,18 +10,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=13,
-            col_offset=0,
-            end_lineno=20,
-            end_col_offset=91,
             name='ResPartner',
             bases=[
                 Attribute(
-                    lineno=13,
-                    col_offset=17,
-                    end_lineno=13,
-                    end_col_offset=29,
-                    value=Name(lineno=13, col_offset=17, end_lineno=13, end_col_offset=23, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -33,23 +21,15 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=14,
-                    col_offset=4,
-                    end_lineno=14,
-                    end_col_offset=28,
-                    targets=[Name(lineno=14, col_offset=4, end_lineno=14, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=14, col_offset=15, end_lineno=14, end_col_offset=28, value='res.partner', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='res.partner', kind=None),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=17,
-                    col_offset=4,
-                    end_lineno=18,
-                    end_col_offset=69,
                     name='_commercial_fields',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=17, col_offset=27, end_lineno=17, end_col_offset=31, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -58,34 +38,14 @@ Module(
                     ),
                     body=[
                         Return(
-                            lineno=18,
-                            col_offset=8,
-                            end_lineno=18,
-                            end_col_offset=69,
                             value=BinOp(
-                                lineno=18,
-                                col_offset=15,
-                                end_lineno=18,
-                                end_col_offset=69,
                                 left=Call(
-                                    lineno=18,
-                                    col_offset=15,
-                                    end_lineno=18,
-                                    end_col_offset=59,
                                     func=Attribute(
-                                        lineno=18,
-                                        col_offset=15,
-                                        end_lineno=18,
-                                        end_col_offset=57,
                                         value=Call(
-                                            lineno=18,
-                                            col_offset=15,
-                                            end_lineno=18,
-                                            end_col_offset=38,
-                                            func=Name(lineno=18, col_offset=15, end_lineno=18, end_col_offset=20, id='super', ctx=Load()),
+                                            func=Name(id='super', ctx=Load()),
                                             args=[
-                                                Name(lineno=18, col_offset=21, end_lineno=18, end_col_offset=31, id='ResPartner', ctx=Load()),
-                                                Name(lineno=18, col_offset=33, end_lineno=18, end_col_offset=37, id='self', ctx=Load()),
+                                                Name(id='ResPartner', ctx=Load()),
+                                                Name(id='self', ctx=Load()),
                                             ],
                                             keywords=[],
                                         ),
@@ -97,11 +57,7 @@ Module(
                                 ),
                                 op=Add(),
                                 right=List(
-                                    lineno=18,
-                                    col_offset=62,
-                                    end_lineno=18,
-                                    end_col_offset=69,
-                                    elts=[Constant(lineno=18, col_offset=63, end_lineno=18, end_col_offset=68, value='nrc', kind=None)],
+                                    elts=[Constant(value='nrc', kind=None)],
                                     ctx=Load(),
                                 ),
                             ),
@@ -109,11 +65,7 @@ Module(
                     ],
                     decorator_list=[
                         Attribute(
-                            lineno=16,
-                            col_offset=5,
-                            end_lineno=16,
-                            end_col_offset=14,
-                            value=Name(lineno=16, col_offset=5, end_lineno=16, end_col_offset=8, id='api', ctx=Load()),
+                            value=Name(id='api', ctx=Load()),
                             attr='model',
                             ctx=Load(),
                         ),
@@ -122,42 +74,22 @@ Module(
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=20,
-                    col_offset=4,
-                    end_lineno=20,
-                    end_col_offset=91,
-                    targets=[Name(lineno=20, col_offset=4, end_lineno=20, end_col_offset=7, id='nrc', ctx=Store())],
+                    targets=[Name(id='nrc', ctx=Store())],
                     value=Call(
-                        lineno=20,
-                        col_offset=10,
-                        end_lineno=20,
-                        end_col_offset=91,
                         func=Attribute(
-                            lineno=20,
-                            col_offset=10,
-                            end_lineno=20,
-                            end_col_offset=21,
-                            value=Name(lineno=20, col_offset=10, end_lineno=20, end_col_offset=16, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Char',
                             ctx=Load(),
                         ),
                         args=[],
                         keywords=[
                             keyword(
-                                lineno=20,
-                                col_offset=22,
-                                end_lineno=20,
-                                end_col_offset=34,
                                 arg='string',
-                                value=Constant(lineno=20, col_offset=29, end_lineno=20, end_col_offset=34, value='NRC', kind=None),
+                                value=Constant(value='NRC', kind=None),
                             ),
                             keyword(
-                                lineno=20,
-                                col_offset=36,
-                                end_lineno=20,
-                                end_col_offset=90,
                                 arg='help',
-                                value=Constant(lineno=20, col_offset=41, end_lineno=20, end_col_offset=90, value='Registration number at the Registry of Commerce', kind=None),
+                                value=Constant(value='Registration number at the Registry of Commerce', kind=None),
                             ),
                         ],
                     ),

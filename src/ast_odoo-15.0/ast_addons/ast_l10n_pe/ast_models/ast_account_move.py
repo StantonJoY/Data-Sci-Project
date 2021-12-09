@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=2,
-            col_offset=0,
-            end_lineno=2,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='models', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=5,
-            col_offset=0,
-            end_lineno=8,
-            end_col_offset=98,
             name='AccountMoveLine',
             bases=[
                 Attribute(
-                    lineno=5,
-                    col_offset=22,
-                    end_lineno=5,
-                    end_col_offset=34,
-                    value=Name(lineno=5, col_offset=22, end_lineno=5, end_col_offset=28, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,51 +20,27 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=6,
-                    col_offset=4,
-                    end_lineno=6,
-                    end_col_offset=34,
-                    targets=[Name(lineno=6, col_offset=4, end_lineno=6, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=6, col_offset=15, end_lineno=6, end_col_offset=34, value='account.move.line', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='account.move.line', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=98,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=20, id='l10n_pe_group_id', ctx=Store())],
+                    targets=[Name(id='l10n_pe_group_id', ctx=Store())],
                     value=Call(
-                        lineno=8,
-                        col_offset=23,
-                        end_lineno=8,
-                        end_col_offset=98,
                         func=Attribute(
-                            lineno=8,
-                            col_offset=23,
-                            end_lineno=8,
-                            end_col_offset=38,
-                            value=Name(lineno=8, col_offset=23, end_lineno=8, end_col_offset=29, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Many2one',
                             ctx=Load(),
                         ),
-                        args=[Constant(lineno=8, col_offset=39, end_lineno=8, end_col_offset=54, value='account.group', kind=None)],
+                        args=[Constant(value='account.group', kind=None)],
                         keywords=[
                             keyword(
-                                lineno=8,
-                                col_offset=56,
-                                end_lineno=8,
-                                end_col_offset=85,
                                 arg='related',
-                                value=Constant(lineno=8, col_offset=64, end_lineno=8, end_col_offset=85, value='account_id.group_id', kind=None),
+                                value=Constant(value='account_id.group_id', kind=None),
                             ),
                             keyword(
-                                lineno=8,
-                                col_offset=87,
-                                end_lineno=8,
-                                end_col_offset=97,
                                 arg='store',
-                                value=Constant(lineno=8, col_offset=93, end_lineno=8, end_col_offset=97, value=True, kind=None),
+                                value=Constant(value=True, kind=None),
                             ),
                         ],
                     ),

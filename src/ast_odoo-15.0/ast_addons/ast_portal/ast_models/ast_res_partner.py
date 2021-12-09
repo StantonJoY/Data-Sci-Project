@@ -1,27 +1,15 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=23,
             module='odoo',
             names=[alias(name='models', asname=None)],
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=14,
-            end_col_offset=33,
             name='ResPartner',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=17,
-                    end_lineno=7,
-                    end_col_offset=29,
-                    value=Name(lineno=7, col_offset=17, end_lineno=7, end_col_offset=23, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -29,23 +17,15 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=28,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=28, value='res.partner', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='res.partner', kind=None),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=14,
-                    end_col_offset=33,
                     name='can_edit_vat',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=10, col_offset=21, end_lineno=10, end_col_offset=25, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -54,29 +34,13 @@ Module(
                     ),
                     body=[
                         Expr(
-                            lineno=11,
-                            col_offset=8,
-                            end_lineno=13,
-                            end_col_offset=36,
-                            value=Constant(lineno=11, col_offset=8, end_lineno=13, end_col_offset=36, value=' `vat` is a commercial field, synced between the parent (commercial\n        entity) and the children. Only the commercial entity should be able to\n        edit it (as in backend). ', kind=None),
+                            value=Constant(value=' `vat` is a commercial field, synced between the parent (commercial\n        entity) and the children. Only the commercial entity should be able to\n        edit it (as in backend). ', kind=None),
                         ),
                         Return(
-                            lineno=14,
-                            col_offset=8,
-                            end_lineno=14,
-                            end_col_offset=33,
                             value=UnaryOp(
-                                lineno=14,
-                                col_offset=15,
-                                end_lineno=14,
-                                end_col_offset=33,
                                 op=Not(),
                                 operand=Attribute(
-                                    lineno=14,
-                                    col_offset=19,
-                                    end_lineno=14,
-                                    end_col_offset=33,
-                                    value=Name(lineno=14, col_offset=19, end_lineno=14, end_col_offset=23, id='self', ctx=Load()),
+                                    value=Name(id='self', ctx=Load()),
                                     attr='parent_id',
                                     ctx=Load(),
                                 ),

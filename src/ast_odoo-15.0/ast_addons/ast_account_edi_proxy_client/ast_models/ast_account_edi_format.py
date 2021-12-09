@@ -1,27 +1,15 @@
 Module(
     body=[
         ImportFrom(
-            lineno=2,
-            col_offset=0,
-            end_lineno=2,
-            end_col_offset=23,
             module='odoo',
             names=[alias(name='models', asname=None)],
             level=0,
         ),
         ClassDef(
-            lineno=5,
-            col_offset=0,
-            end_lineno=27,
-            end_col_offset=20,
             name='AccountEdiFormat',
             bases=[
                 Attribute(
-                    lineno=5,
-                    col_offset=23,
-                    end_lineno=5,
-                    end_col_offset=35,
-                    value=Name(lineno=5, col_offset=23, end_lineno=5, end_col_offset=29, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -29,25 +17,17 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=6,
-                    col_offset=4,
-                    end_lineno=6,
-                    end_col_offset=35,
-                    targets=[Name(lineno=6, col_offset=4, end_lineno=6, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=6, col_offset=15, end_lineno=6, end_col_offset=35, value='account.edi.format', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='account.edi.format', kind=None),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=12,
-                    col_offset=4,
-                    end_lineno=16,
-                    end_col_offset=95,
                     name='_get_proxy_user',
                     args=arguments(
                         posonlyargs=[],
                         args=[
-                            arg(lineno=12, col_offset=24, end_lineno=12, end_col_offset=28, arg='self', annotation=None, type_comment=None),
-                            arg(lineno=12, col_offset=30, end_lineno=12, end_col_offset=37, arg='company', annotation=None, type_comment=None),
+                            arg(arg='self', annotation=None, type_comment=None),
+                            arg(arg='company', annotation=None, type_comment=None),
                         ],
                         vararg=None,
                         kwonlyargs=[],
@@ -57,28 +37,12 @@ Module(
                     ),
                     body=[
                         Expr(
-                            lineno=13,
-                            col_offset=8,
-                            end_lineno=14,
-                            end_col_offset=11,
-                            value=Constant(lineno=13, col_offset=8, end_lineno=14, end_col_offset=11, value='Returns the proxy_user associated with this edi format.\n        ', kind=None),
+                            value=Constant(value='Returns the proxy_user associated with this edi format.\n        ', kind=None),
                         ),
                         Expr(
-                            lineno=15,
-                            col_offset=8,
-                            end_lineno=15,
-                            end_col_offset=25,
                             value=Call(
-                                lineno=15,
-                                col_offset=8,
-                                end_lineno=15,
-                                end_col_offset=25,
                                 func=Attribute(
-                                    lineno=15,
-                                    col_offset=8,
-                                    end_lineno=15,
-                                    end_col_offset=23,
-                                    value=Name(lineno=15, col_offset=8, end_lineno=15, end_col_offset=12, id='self', ctx=Load()),
+                                    value=Name(id='self', ctx=Load()),
                                     attr='ensure_one',
                                     ctx=Load(),
                                 ),
@@ -87,26 +51,10 @@ Module(
                             ),
                         ),
                         Return(
-                            lineno=16,
-                            col_offset=8,
-                            end_lineno=16,
-                            end_col_offset=95,
                             value=Call(
-                                lineno=16,
-                                col_offset=15,
-                                end_lineno=16,
-                                end_col_offset=95,
                                 func=Attribute(
-                                    lineno=16,
-                                    col_offset=15,
-                                    end_lineno=16,
-                                    end_col_offset=60,
                                     value=Attribute(
-                                        lineno=16,
-                                        col_offset=15,
-                                        end_lineno=16,
-                                        end_col_offset=51,
-                                        value=Name(lineno=16, col_offset=15, end_lineno=16, end_col_offset=22, id='company', ctx=Load()),
+                                        value=Name(id='company', ctx=Load()),
                                         attr='account_edi_proxy_client_ids',
                                         ctx=Load(),
                                     ),
@@ -115,13 +63,9 @@ Module(
                                 ),
                                 args=[
                                     Lambda(
-                                        lineno=16,
-                                        col_offset=61,
-                                        end_lineno=16,
-                                        end_col_offset=94,
                                         args=arguments(
                                             posonlyargs=[],
-                                            args=[arg(lineno=16, col_offset=68, end_lineno=16, end_col_offset=69, arg='u', annotation=None, type_comment=None)],
+                                            args=[arg(arg='u', annotation=None, type_comment=None)],
                                             vararg=None,
                                             kwonlyargs=[],
                                             kw_defaults=[],
@@ -129,21 +73,13 @@ Module(
                                             defaults=[],
                                         ),
                                         body=Compare(
-                                            lineno=16,
-                                            col_offset=71,
-                                            end_lineno=16,
-                                            end_col_offset=94,
                                             left=Attribute(
-                                                lineno=16,
-                                                col_offset=71,
-                                                end_lineno=16,
-                                                end_col_offset=86,
-                                                value=Name(lineno=16, col_offset=71, end_lineno=16, end_col_offset=72, id='u', ctx=Load()),
+                                                value=Name(id='u', ctx=Load()),
                                                 attr='edi_format_id',
                                                 ctx=Load(),
                                             ),
                                             ops=[Eq()],
-                                            comparators=[Name(lineno=16, col_offset=90, end_lineno=16, end_col_offset=94, id='self', ctx=Load())],
+                                            comparators=[Name(id='self', ctx=Load())],
                                         ),
                                     ),
                                 ],
@@ -156,16 +92,12 @@ Module(
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=22,
-                    col_offset=4,
-                    end_lineno=27,
-                    end_col_offset=20,
                     name='_get_proxy_identification',
                     args=arguments(
                         posonlyargs=[],
                         args=[
-                            arg(lineno=22, col_offset=34, end_lineno=22, end_col_offset=38, arg='self', annotation=None, type_comment=None),
-                            arg(lineno=22, col_offset=40, end_lineno=22, end_col_offset=47, arg='company', annotation=None, type_comment=None),
+                            arg(arg='self', annotation=None, type_comment=None),
+                            arg(arg='company', annotation=None, type_comment=None),
                         ],
                         vararg=None,
                         kwonlyargs=[],
@@ -175,18 +107,10 @@ Module(
                     ),
                     body=[
                         Expr(
-                            lineno=23,
-                            col_offset=8,
-                            end_lineno=26,
-                            end_col_offset=11,
-                            value=Constant(lineno=23, col_offset=8, end_lineno=26, end_col_offset=11, value="Returns the key that will identify company uniquely for this edi format (for example, the vat)\n        or raises a UserError (if the user didn't fill the related field).\n        TO OVERRIDE\n        ", kind=None),
+                            value=Constant(value="Returns the key that will identify company uniquely for this edi format (for example, the vat)\n        or raises a UserError (if the user didn't fill the related field).\n        TO OVERRIDE\n        ", kind=None),
                         ),
                         Return(
-                            lineno=27,
-                            col_offset=8,
-                            end_lineno=27,
-                            end_col_offset=20,
-                            value=Constant(lineno=27, col_offset=15, end_lineno=27, end_col_offset=20, value=False, kind=None),
+                            value=Constant(value=False, kind=None),
                         ),
                     ],
                     decorator_list=[],

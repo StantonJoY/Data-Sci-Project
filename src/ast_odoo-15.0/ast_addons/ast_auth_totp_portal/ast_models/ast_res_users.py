@@ -1,27 +1,15 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=23,
             module='odoo',
             names=[alias(name='models', asname=None)],
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=14,
-            end_col_offset=59,
             name='Users',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=12,
-                    end_lineno=7,
-                    end_col_offset=24,
-                    value=Name(lineno=7, col_offset=12, end_lineno=7, end_col_offset=18, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -29,23 +17,15 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=26,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=26, value='res.users', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='res.users', kind=None),
                     type_comment=None,
                 ),
                 FunctionDef(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=14,
-                    end_col_offset=59,
                     name='get_totp_invite_url',
                     args=arguments(
                         posonlyargs=[],
-                        args=[arg(lineno=10, col_offset=28, end_lineno=10, end_col_offset=32, arg='self', annotation=None, type_comment=None)],
+                        args=[arg(arg='self', annotation=None, type_comment=None)],
                         vararg=None,
                         kwonlyargs=[],
                         kw_defaults=[],
@@ -54,68 +34,32 @@ Module(
                     ),
                     body=[
                         If(
-                            lineno=11,
-                            col_offset=8,
-                            end_lineno=14,
-                            end_col_offset=59,
                             test=UnaryOp(
-                                lineno=11,
-                                col_offset=11,
-                                end_lineno=11,
-                                end_col_offset=48,
                                 op=Not(),
                                 operand=Call(
-                                    lineno=11,
-                                    col_offset=15,
-                                    end_lineno=11,
-                                    end_col_offset=48,
                                     func=Attribute(
-                                        lineno=11,
-                                        col_offset=15,
-                                        end_lineno=11,
-                                        end_col_offset=29,
-                                        value=Name(lineno=11, col_offset=15, end_lineno=11, end_col_offset=19, id='self', ctx=Load()),
+                                        value=Name(id='self', ctx=Load()),
                                         attr='has_group',
                                         ctx=Load(),
                                     ),
-                                    args=[Constant(lineno=11, col_offset=30, end_lineno=11, end_col_offset=47, value='base.group_user', kind=None)],
+                                    args=[Constant(value='base.group_user', kind=None)],
                                     keywords=[],
                                 ),
                             ),
                             body=[
                                 Return(
-                                    lineno=12,
-                                    col_offset=12,
-                                    end_lineno=12,
-                                    end_col_offset=33,
-                                    value=Constant(lineno=12, col_offset=19, end_lineno=12, end_col_offset=33, value='/my/security', kind=None),
+                                    value=Constant(value='/my/security', kind=None),
                                 ),
                             ],
                             orelse=[
                                 Return(
-                                    lineno=14,
-                                    col_offset=12,
-                                    end_lineno=14,
-                                    end_col_offset=59,
                                     value=Call(
-                                        lineno=14,
-                                        col_offset=19,
-                                        end_lineno=14,
-                                        end_col_offset=59,
                                         func=Attribute(
-                                            lineno=14,
-                                            col_offset=19,
-                                            end_lineno=14,
-                                            end_col_offset=57,
                                             value=Call(
-                                                lineno=14,
-                                                col_offset=19,
-                                                end_lineno=14,
-                                                end_col_offset=37,
-                                                func=Name(lineno=14, col_offset=19, end_lineno=14, end_col_offset=24, id='super', ctx=Load()),
+                                                func=Name(id='super', ctx=Load()),
                                                 args=[
-                                                    Name(lineno=14, col_offset=25, end_lineno=14, end_col_offset=30, id='Users', ctx=Load()),
-                                                    Name(lineno=14, col_offset=32, end_lineno=14, end_col_offset=36, id='self', ctx=Load()),
+                                                    Name(id='Users', ctx=Load()),
+                                                    Name(id='self', ctx=Load()),
                                                 ],
                                                 keywords=[],
                                             ),

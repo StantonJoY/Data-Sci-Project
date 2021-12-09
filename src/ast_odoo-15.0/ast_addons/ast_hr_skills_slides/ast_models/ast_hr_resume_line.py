@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=31,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -13,18 +9,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=11,
-            end_col_offset=81,
             name='ResumeLine',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=17,
-                    end_lineno=7,
-                    end_col_offset=29,
-                    value=Name(lineno=7, col_offset=17, end_lineno=7, end_col_offset=23, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -32,56 +20,28 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=31,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=31, value='hr.resume.line', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='hr.resume.line', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=10,
-                    end_col_offset=73,
-                    targets=[Name(lineno=10, col_offset=4, end_lineno=10, end_col_offset=16, id='display_type', ctx=Store())],
+                    targets=[Name(id='display_type', ctx=Store())],
                     value=Call(
-                        lineno=10,
-                        col_offset=19,
-                        end_lineno=10,
-                        end_col_offset=73,
                         func=Attribute(
-                            lineno=10,
-                            col_offset=19,
-                            end_lineno=10,
-                            end_col_offset=35,
-                            value=Name(lineno=10, col_offset=19, end_lineno=10, end_col_offset=25, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Selection',
                             ctx=Load(),
                         ),
                         args=[],
                         keywords=[
                             keyword(
-                                lineno=10,
-                                col_offset=36,
-                                end_lineno=10,
-                                end_col_offset=72,
                                 arg='selection_add',
                                 value=List(
-                                    lineno=10,
-                                    col_offset=50,
-                                    end_lineno=10,
-                                    end_col_offset=72,
                                     elts=[
                                         Tuple(
-                                            lineno=10,
-                                            col_offset=51,
-                                            end_lineno=10,
-                                            end_col_offset=71,
                                             elts=[
-                                                Constant(lineno=10, col_offset=52, end_lineno=10, end_col_offset=60, value='course', kind=None),
-                                                Constant(lineno=10, col_offset=62, end_lineno=10, end_col_offset=70, value='Course', kind=None),
+                                                Constant(value='course', kind=None),
+                                                Constant(value='Course', kind=None),
                                             ],
                                             ctx=Load(),
                                         ),
@@ -94,42 +54,22 @@ Module(
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=11,
-                    col_offset=4,
-                    end_lineno=11,
-                    end_col_offset=81,
-                    targets=[Name(lineno=11, col_offset=4, end_lineno=11, end_col_offset=14, id='channel_id', ctx=Store())],
+                    targets=[Name(id='channel_id', ctx=Store())],
                     value=Call(
-                        lineno=11,
-                        col_offset=17,
-                        end_lineno=11,
-                        end_col_offset=81,
                         func=Attribute(
-                            lineno=11,
-                            col_offset=17,
-                            end_lineno=11,
-                            end_col_offset=32,
-                            value=Name(lineno=11, col_offset=17, end_lineno=11, end_col_offset=23, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='Many2one',
                             ctx=Load(),
                         ),
-                        args=[Constant(lineno=11, col_offset=33, end_lineno=11, end_col_offset=48, value='slide.channel', kind=None)],
+                        args=[Constant(value='slide.channel', kind=None)],
                         keywords=[
                             keyword(
-                                lineno=11,
-                                col_offset=50,
-                                end_lineno=11,
-                                end_col_offset=65,
                                 arg='string',
-                                value=Constant(lineno=11, col_offset=57, end_lineno=11, end_col_offset=65, value='Course', kind=None),
+                                value=Constant(value='Course', kind=None),
                             ),
                             keyword(
-                                lineno=11,
-                                col_offset=67,
-                                end_lineno=11,
-                                end_col_offset=80,
                                 arg='readonly',
-                                value=Constant(lineno=11, col_offset=76, end_lineno=11, end_col_offset=80, value=True, kind=None),
+                                value=Constant(value=True, kind=None),
                             ),
                         ],
                     ),

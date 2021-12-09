@@ -1,10 +1,6 @@
 Module(
     body=[
         ImportFrom(
-            lineno=4,
-            col_offset=0,
-            end_lineno=4,
-            end_col_offset=36,
             module='odoo',
             names=[
                 alias(name='fields', asname=None),
@@ -14,18 +10,10 @@ Module(
             level=0,
         ),
         ClassDef(
-            lineno=7,
-            col_offset=0,
-            end_lineno=10,
-            end_col_offset=120,
             name='AccountJournal',
             bases=[
                 Attribute(
-                    lineno=7,
-                    col_offset=21,
-                    end_lineno=7,
-                    end_col_offset=33,
-                    value=Name(lineno=7, col_offset=21, end_lineno=7, end_col_offset=27, id='models', ctx=Load()),
+                    value=Name(id='models', ctx=Load()),
                     attr='Model',
                     ctx=Load(),
                 ),
@@ -33,46 +21,26 @@ Module(
             keywords=[],
             body=[
                 Assign(
-                    lineno=8,
-                    col_offset=4,
-                    end_lineno=8,
-                    end_col_offset=32,
-                    targets=[Name(lineno=8, col_offset=4, end_lineno=8, end_col_offset=12, id='_inherit', ctx=Store())],
-                    value=Constant(lineno=8, col_offset=15, end_lineno=8, end_col_offset=32, value='account.journal', kind=None),
+                    targets=[Name(id='_inherit', ctx=Store())],
+                    value=Constant(value='account.journal', kind=None),
                     type_comment=None,
                 ),
                 Assign(
-                    lineno=10,
-                    col_offset=4,
-                    end_lineno=10,
-                    end_col_offset=120,
-                    targets=[Name(lineno=10, col_offset=4, end_lineno=10, end_col_offset=26, id='pos_payment_method_ids', ctx=Store())],
+                    targets=[Name(id='pos_payment_method_ids', ctx=Store())],
                     value=Call(
-                        lineno=10,
-                        col_offset=29,
-                        end_lineno=10,
-                        end_col_offset=120,
                         func=Attribute(
-                            lineno=10,
-                            col_offset=29,
-                            end_lineno=10,
-                            end_col_offset=44,
-                            value=Name(lineno=10, col_offset=29, end_lineno=10, end_col_offset=35, id='fields', ctx=Load()),
+                            value=Name(id='fields', ctx=Load()),
                             attr='One2many',
                             ctx=Load(),
                         ),
                         args=[
-                            Constant(lineno=10, col_offset=45, end_lineno=10, end_col_offset=65, value='pos.payment.method', kind=None),
-                            Constant(lineno=10, col_offset=67, end_lineno=10, end_col_offset=79, value='journal_id', kind=None),
+                            Constant(value='pos.payment.method', kind=None),
+                            Constant(value='journal_id', kind=None),
                         ],
                         keywords=[
                             keyword(
-                                lineno=10,
-                                col_offset=81,
-                                end_lineno=10,
-                                end_col_offset=119,
                                 arg='string',
-                                value=Constant(lineno=10, col_offset=88, end_lineno=10, end_col_offset=119, value='Point of Sale Payment Methods', kind=None),
+                                value=Constant(value='Point of Sale Payment Methods', kind=None),
                             ),
                         ],
                     ),

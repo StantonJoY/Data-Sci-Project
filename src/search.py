@@ -5,10 +5,9 @@ import sys
 import astpretty
 import shutil
 
-def search(filepath):
+def search(filepath, str):
     code = open(filepath, "r", encoding='utf-8').read()
-    if (re.search("write", code) != None):
-    # if (re.search(".py$", filepath) != None):
+    if (re.search("str", code) != None):
         print(filepath)
 
 def getAllFile(filepath):

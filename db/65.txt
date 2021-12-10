@@ -1,0 +1,1863 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy
+Smaato
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Platform
+
+          
+
+Monetize
+SPX Monetization Solution
+Integration Center
+Mediation Options
+Programmatic Deals
+Header Bidding Solutions
+Advertise
+SDX Marketer Solution
+Your Reach
+Customer Data Platform
+CDP
+Consent Management Platform
+(CMP
+Smaato Intelligence
+SI
+Prepackaged Deals
+Omnichannel Advertising
+Native Ads
+OTT/CTV Ads
+Video Ads
+Display Ads
+Market Quality
+Overview
+Ad Quality
+Insights
+Case Studies
+Guides
+Reports
+Videos
+Webinars
+Whitepapers
+Smaato
+Events
+Management Team
+the News
+Data-Compliant Platforms
+
+
+
+Blog
+
+
+
+
+
+
+
+
+
+              Docs
+
+          
+
+
+
+
+              Contact
+Publishers
+SPX
+Privacy Policy
+your use
+the Smaato Site
+
+
+
+
+
+
+
+
+
+Terms
+Service
+Privacy Policy
+EU Applicant Privacy Policy
+CCPA Applicant Privacy Notice
+SG Applicant Privacy Policy
+CCPA Privacy Notice
+Publisher Policies
+Demand Policies
+Partner List
+Cookie Policy
+SDK License Agreement
+Effective Date
+Introduction
+Background
+Privacy Practices
+the Smaato Ad Services
+Cookies
+Pixel Tags
+SDKs
+Consumer Control
+Opt-Out Options
+Privacy Practices
+the Smaato Websites
+Data Access
+Retention
+Data Security
+Third-Party Websites
+Apps
+Users
+the United States
+Not-Track
+The EU General Data Protection Regulation
+GDPR
+Our Memberships
+Affiliations
+Changes
+This Privacy Policy
+Smaato, Inc. (“Smaato
+“us
+this privacy policy
+information
+This privacy policy
+Policy
+Smaato
+handling
+two types
+information
+our Clients
+end users
+“End Users
+third-party mobile applications
+“apps
+our Software Development Kit
+(“SDK
+other collection interfaces
+APIs
+the Smaato Demand Platform
+SDX
+the Smaato Publisher Platform
+“SPX
+collectively, the “Smaato Ad Services
+Information
+our corporate website
+www.smaato.com
+any other website
+this Policy
+information
+other corporate services
+web portals
+clients
+business partners
+“Smaato Websites
+the information
+the Smaato Websites
+Section
+the Smaato Websites
+consumers
+information
+information
+their choices
+such marketing
+ways
+consumers
+that choice
+Section
+Consumer Control
+Opt-Out Options
+Introduction
+Background
+Smaato
+mobile advertising technology services
+transactions
+demand-side platforms
+advertisers
+app developers
+publishers
+mobile websites
+apps
+ad exchanges
+Clients
+service providers
+(collectively “Partners
+the Smaato Ad Services
+other tools
+Clients
+Clients
+the Smaato Ad Services
+other tools
+advertising
+Users
+turn
+our services
+Clients
+their own customers
+ads
+interest
+Users
+SDKs
+APIs
+Section
+cookies
+similar technologies
+the Smaato Ad Services
+Privacy Practices
+the Smaato Ad Services
+a. Information
+the Smaato Ad Services
+the Smaato Ad Services
+information
+End Users
+the extent
+Clients
+such information
+Smaato
+geographic location
+system configuration information
+information
+End Users’ operating system
+Rough geolocation information
+Precise geolocation
+End Users’ latitude and longitude data
+Cookie IDs
+Mobile advertising identifiers
+iOS IDFAs
+Google Advertising IDs
+Mobile IDs
+Age
+Gender
+Device type
+other device information
+an End User
+a smartphone
+tablet
+Network provider
+Other unique identifiers
+an End Users’ device
+identifiers
+Clients
+their service providers
+the above information
+the “Service Information
+b.
+the Information
+the Smaato Ad Services
+the Service Information
+a variety
+services
+our Clients
+advertising
+marketing
+services
+Smaato Websites
+use
+the Service Information
+purposes
+Provide
+customer
+operational support
+the Smaato Ad Services
+errors
+fraud
+other criminal activity
+disputes
+our terms
+conditions
+other rights
+the features
+the Smaato Ad Services
+information
+analytics
+Clients
+the advertising inventory
+the Smaato Ad Services
+our Clients
+online cookies
+End Users
+mobile websites
+End Users
+these cookies
+Mobile IDs
+cookies
+similar technologies
+web beacons
+SDKs
+Section
+c.
+Information
+the Smaato Ad Services
+the Service Information
+Clients
+Partners
+order
+the Smaato Ad Services
+example
+the Service Information
+Clients
+their marketing and service providers
+targeted advertising
+Users
+mobile websites
+Partners
+the functioning
+the Smaato Ad Services
+traffic
+ad quality verification vendors
+data centers
+a Client
+our SDK
+Service Information
+this Policy
+The processes
+cookies
+similar technologies
+other information
+End Users
+End Users’ interests
+demographics
+transactions
+interest-based advertising
+individuals
+this type
+advertising
+Section
+Consumer Control
+Opt-Out Options
+the Digital Advertising Alliance
+) website
+www.aboutads.info
+Service Information
+third parties
+a request
+authorization
+an End User
+Client
+the disclosure
+a) comply
+good faith
+applicable laws
+rules
+regulations
+governmental and quasi-governmental requests
+court orders
+subpoenas
+purposes
+national security and law enforcement
+our terms
+conditions
+other agreements
+any other person
+entity
+interests
+rights
+property
+safety
+connection
+an investigation
+suspected or actual unlawful activity
+the information
+a business purchase
+sale
+merger
+consolidation
+investment
+control
+transfer
+our assets
+reorganization
+liquidation
+bankruptcy
+connection
+steps
+anticipation
+such an event
+(e.g. due diligence
+Cookies
+Pixel Tags
+SDKs
+a. Cookies
+Pixel Tags
+Cookies
+small data files
+a string
+characters
+unique browser identifiers
+Cookies
+your computer
+other device
+act
+unique tags
+your browser
+Our servers
+a cookie
+your browser
+the Smaato Websites
+Our Clients
+Partners
+the Smaato Websites
+our Clients
+Partners’ websites
+Smaato
+both session cookies
+persistent cookies
+Persistent cookies
+session cookies
+your browser
+your browser
+subsequent visits
+any given website
+persistent cookies
+a site operator
+a third party
+a website
+the site
+This technology
+a site operator
+third party
+the Smaato Websites
+information
+your IP address
+browser type
+the web pages
+a website
+the web pages
+the dates
+times
+your visits
+A pixel tag
+a web beacon
+clear GIF
+an invisible 1 x 1 pixel
+certain web pages
+a web page
+a pixel tag
+the pixel tag
+a generic notice
+the visit
+our Clients
+Partners
+cookies
+Pixel tags
+combination
+cookies
+the activity
+a website
+a particular browser
+a particular device
+pixel tags
+a given website visit
+our Clients
+Partners
+cookies
+example
+track trends
+information
+our Clients
+Partners’ websites
+advertising
+our Clients
+Partners
+cookies
+relevant content
+non-relevant ads
+ads
+your interests
+interest-based mobile advertising
+Consumer Control
+Opt-Out Options
+disabling cookies
+the Smaato Websites’ functionalities
+offerings
+other websites
+b. Mobile Device Identifiers
+SDKs
+our Clients
+Partners
+mobile SDKs
+our own SDK(s
+more detail
+this Policy
+information
+Mobile IDs
+information
+mobile devices
+their users
+our Smaato Ad Services
+our Smaato Ad Services
+The SDK
+computer code
+app developers
+their apps
+ads
+data
+related services
+data
+other (generally, simpler) interfaces
+similar data
+APIs
+these technologies
+example
+certain advertising
+apps
+browsers
+information
+your mobile device
+ads
+this way
+your mobile device
+the instructions
+Section
+Consumer Control and Opt-Out Options
+most cases
+consumers
+control
+relevant ads
+marketing email
+our Clients
+the settings
+the cookies
+Smaato sets
+your devices
+the Smaato Websites
+our Cookie Policy
+a.
+Online Interest-Based Advertising
+Cookies
+the publishers
+platforms
+service providers
+that support
+online interest-based advertising
+cookies
+similar technologies
+the Digital Advertising Alliance
+consumer education
+opt-out page
+http://www.aboutads.info
+the European Interactive Digital Advertising Alliance
+opt-out page
+http://www.youronlinechoices.eu
+the European Union
+our publisher
+Clients
+their own opt-out mechanisms
+their websites
+their online-posted privacy policies
+the privacy policies
+those companies
+these opt-out links
+targeted advertising
+a certain company
+multiple companies
+the Smaato Ad services
+ads
+your browser
+your online web browsing behavior
+smaato.net
+your web browser
+Our platform
+the choice
+your opt
+cookie
+your choice
+all companies
+Smaato Ad services
+online interest-based advertising
+cookies
+This type
+opt
+cookies
+your browser
+your cookies
+order
+your opt out choice
+your browser
+third-party cookies
+the Smaato
+cookie
+Some browsers
+third-party cookies
+default
+your browser settings
+third-party cookies
+a different device
+browser
+your browser
+your opt
+choice
+Smaato
+data
+other purposes
+advertising
+the Smaato Ad Service
+websites
+a publisher Client
+our Platform
+such advertising
+b. Opting
+Cross-App Advertising
+Mobile Devices
+your Mobile IDs
+certain types
+interest-based mobile advertising
+Smaato
+the settings
+your Apple or Android mobile device
+an Apple device
+most cross-app advertising
+iOS
+Limit Ad Tracking
+Settings
+→ Privacy
+→ Advertising
+Limit Ad Tracking
+iOS
+Settings
+→ General
+→ Advertising
+Limit Ad Tracking
+an Android device
+most cross-app advertising
+Google Settings
+the option
+interest-based ads
+these platforms
+these settings
+the above instructions
+the precise language
+older) devices
+your device
+other platforms
+the settings
+those devices
+c. Additional Choices
+Advertisers
+ways
+their collection
+certain information
+the privacy policies
+retailers
+apps
+mobile websites
+their privacy practices
+promotional emails
+emails
+events
+new services
+the “unsubscribe” instructions
+any promotional email
+email
+non-promotional emails
+your relationship
+Privacy Practices
+the Smaato Websites
+a. Information
+the Smaato Websites
+The Smaato Websites
+information
+Smaato
+our products
+services
+the Smaato Websites
+information
+automatically-collected information
+i. Information
+an account
+an interest
+additional information
+Smaato
+our products
+services
+the Smaato Websites
+information
+your name
+mailing address
+email address
+telephone number
+credit card number
+other billing information
+certain information
+your business
+other individuals
+ii
+Automatically-Collected Information
+the Smaato Websites
+cookies
+pixel tags
+unique identifiers
+track
+visitor interactions
+your experience
+the Smaato Websites
+more information
+Section
+third-party services
+Google Analytics
+information
+your IP address
+browser type
+the web page
+the Smaato Websites
+the times
+your visit
+addition
+the Smaato Websites
+advertising cookies
+your computer
+your interests
+Our display advertising partners
+ads
+other sites
+your interactions
+the Smaato Websites
+such interest-based mobile advertising
+Section
+Consumer Control
+Opt-Out Options
+this way
+ads
+the ads
+b.
+Information
+the Smaato Websites
+addition
+the uses
+this Policy
+the information
+the Smaato Websites
+combination
+the Smaato Websites
+Smaato Ad Services
+any other products
+services
+use
+the information
+your requests
+information
+our products
+services
+marketing
+communications
+your questions
+concerns
+customer service inquiries
+aggregated or de-identified information
+applicable laws
+prevent fraud
+risk
+similar purposes
+usage trends
+preferences
+products
+services
+Customize
+the content
+advertising
+the Smaato Websites
+the Internet
+other purposes
+your request
+c.
+Information
+the Smaato Websites
+the information
+the Smaato Websites
+the following situations
+your consent
+this Policy
+our affiliates
+third parties
+our business
+our services
+entities
+customer
+billing
+event planning
+marketing
+operational services
+a business purchase
+sale
+merger
+consolidation
+investment
+control
+our assets
+reorganization
+liquidation
+bankruptcy
+connection
+steps
+anticipation
+such an event
+(e.g. due diligence
+law
+response
+lawful process
+a subpoena
+good faith
+a request
+a government or law enforcement agency
+official
+purposes
+national security and law enforcement
+the information
+physical, financial or other harm
+injury
+loss
+the information
+any other person
+entity
+interests
+rights
+property
+safety
+connection
+an investigation
+suspected or actual unlawful activity
+respect
+de-identified information
+such information
+restriction
+d. Analytics Services
+the purpose
+our website
+line
+your needs
+a business management perspective
+our pages
+services
+more detail
+the basis
+Art
+6 Para
+a) and f) GDPR
+the mentioned processing operations
+a transfer
+data
+the servers
+the providers
+tracking
+targeting
+technologies
+these servers
+the USA
+The data transfer
+so-called standard contractual clauses
+the EU Commission
+the EU-US Privacy Shield
+the storage
+evaluation
+your data
+the storage
+processing
+your data
+the consent banner
+our website
+this case
+a so-called opt-out cookie
+your browser
+the services
+any session data
+all the functions
+our websites
+the storage
+cookies
+your browser software
+this case
+all functions
+our websites
+their full extent
+the reCaptcha service
+Google LLC
+“Google
+1600 Amphitheatre Parkway
+Mountain View
+USA
+spam
+misuse
+this processing
+the basis
+Art
+6 para
+1 lit
+This service
+an entry
+a human being
+automated, machine processing
+Google
+a cookie
+your browser
+the reCaptcha service
+collects
+the following data
+Referrer URL
+address
+the page
+the captcha
+Browser
+browser size
+resolution
+browser plug-ins
+date
+Touch-Events
+the reCaptcha box
+a Google account
+Google
+the reCaptcha service
+Your input behaviour
+the reCAPTCHA question
+the form fields
+selection
+input fields
+the user
+pattern recognition
+Google
+Google
+the cookies
+other Google services
+Gmail
+Search
+Analytics
+the above data
+Google
+encrypted form
+Google
+which form
+the captcha
+the page
+the form
+a checkbox
+text input
+A readout
+saving
+personal data
+the input fields
+the respective form
+place
+Further information
+Google’s privacy policy
+https://www.google.com/policies/privacy/
+Google Analytics
+Google Universal Analytics
+Smaato
+Google Universal Analytics
+a web analytics tool
+Google
+Google
+the Privacy Shield Agreement
+a privacy agreement
+Google
+Google
+Cookies
+The information
+the Cookies
+the use
+the Smaato website
+the users
+a Google server
+the USA
+Smaato
+the IP anonymisation
+your IP address
+Google
+member states
+the European Union
+other signatory states
+the Agreement
+the European Economic Area
+exceptional cases
+the full IP address
+a Google server
+the USA
+behalf
+Smaato
+Google
+this information
+your use
+the website
+reports
+the website activities
+further services
+connection
+the use
+the website
+the Internet
+The IP address
+your browser
+the framework
+Google Analytics
+other data
+Google
+this processing
+the basis
+Art
+6 Par.
+lit
+f) GDPR
+range measurement
+evaluation
+(so-called statistics
+this case
+no further processing
+your data
+marketing
+purposes
+the business optimisation
+our processes
+your consent
+6 para
+1 lit
+your data
+marketing purposes
+more information
+terms
+use
+data protection
+https://marketingplatform.google.com/about/.
+this website
+Google Analytics
+the code "gat._anonymizeIp
+order
+anonymous processing
+IP addresses
+(so-called IP masking
+the processing
+your data
+Google Analytics
+https://tools.google.com/dlpage/gaoptout?hl=de
+Data Access
+Retention
+the information
+the Smaato Websites
+Smaato Ad Services
+our objectives
+this Policy
+our legal obligations
+disputes
+our agreements
+a resident
+the European Economic Area
+(EEA
+Switzerland
+the United Kingdom
+(UK
+a copy
+the information
+such information
+other rights
+Section
+Data Security
+administrative, technical, and physical safeguards
+place
+our physical facilities
+our computer systems
+databases
+communications networks
+the information
+loss
+misuse
+alteration
+No method
+electronic transmission
+storage
+absolute security
+your information
+data security
+THE SECRECY
+ANY ACCOUNT
+CREDENTIALS
+ANY ACCOUNT
+SMAATO
+ANY ACTIONS TAKEN
+YOUR ACCOUNT
+CREDENTIALS
+YOUR SOLE RESPONSIBILITY
+Third-Party Websites
+Apps
+This Policy
+the Smaato Websites
+the Smaato Ad Services
+the privacy practices
+disclosures
+websites
+developers
+that access
+the Smaato Websites
+Smaato Ad Services
+the Smaato Websites
+other websites
+our control
+the applicable privacy policies
+terms
+conditions
+such third parties
+websites
+the industry tools
+this Policy
+Users
+the United States
+The Smaato Websites
+Smaato Ad Services
+the United States
+their operation
+United States law
+the Smaato Websites
+Smaato Ad Services
+the United States
+your Information
+the United States
+other countries
+our facilities
+The data protection
+other laws
+the United States
+your country
+the Smaato Websites
+Smaato Ad Services
+your information
+our facilities
+the facilities
+those third parties
+your information
+this Policy
+Section
+additional information
+the benefit
+residents
+the EEA
+Switzerland
+the UK
+Not-Track
+Not-Track
+no industry-wide consensus
+Not-Track
+implementations
+solutions
+Section
+information
+your marketing choices
+The EU General Data Protection Regulation
+GDPR
+a new data privacy law
+the EU General Data Protection Regulation
+the “GDPR
+effect
+the EEA, Switzerland
+the UK
+The GDPR
+Smaato
+our services
+users
+certain information
+the processing
+their “Personal Data
+Personal Data
+a term
+the GDPR
+data
+a particular unique user
+device
+instance
+names
+addresses
+Mobile IDs
+precise location data
+the GDPR
+the below representations
+information
+persons
+the EEA, Switzerland
+the UK
+the processing
+personal data
+the context
+the activities
+Smaato, Inc.
+Germany
+a. Legal Grounds
+Personal Data
+The GDPR
+the legal ground
+any Personal Data
+The legal grounds
+your Personal Data
+the purposes
+Sections
+Section
+the Smaato Websites
+your consent
+order
+access
+information
+your device
+your consent
+this “cookie consent
+not only to “cookies
+Mobile IDs
+mobile app developers
+only legally obtained data
+our obligations
+the ePrivacy Directive
+consent
+other cases
+which case
+applicable laws
+such consent
+its withdrawal
+The processing
+our legitimate interest
+some cases
+legitimate interest
+a legal basis
+Personal Data
+order
+our and/or other data controllers’ services
+Such processing
+the original collection
+Mobile IDs
+A legitimate interest
+instance
+the tailoring
+promotional communications
+mobile apps
+services
+Users
+an integral part
+the ecosystem
+freely available content
+advertising revenue
+analysis
+ad campaigns
+legitimate interest
+Personal Data
+the security
+our services
+fraud
+bugs
+Contractual relationships
+certain data
+a contractual relationship
+our customer records
+contact information
+Legal obligations
+some processing
+data
+our legal or regulatory obligations
+b.	Transfers
+Personal Data
+Smaato
+a global company
+other global companies
+technologies
+your Personal Data
+the country
+instance
+your data
+third parties
+jurisdictions
+the EEA, Switzerland
+the UK
+data protection laws
+comparison
+Europe
+Personal Data
+the EEA, Switzerland
+the UK
+steps
+appropriate safeguards
+place
+your Personal Data
+Your Personal Data
+third countries
+the EEA
+Switzerland
+the UK
+the legally permissible framework
+Personal Data
+third countries
+law
+your consent
+the adequacy decisions
+the European Commission
+a public and updated list
+these countries
+(c
+contractual regulations
+the EU Standard Data Protection Clauses
+a public and updated list
+these clauses
+These safeguards
+an adequate level
+protection
+your Personal Data
+further details
+these safeguards
+request
+Smaato
+the EU-U.S. Privacy Shield Framework
+the Swiss-U.S. Privacy Shield Framework
+(collectively, the “Privacy Shield
+the U.S. Department
+Commerce
+the collection
+use
+retention
+Personal Data
+the European Union
+(EU
+the UK
+Switzerland
+the United States
+Smaato
+the U.S. Department
+Commerce
+the Privacy Shield Principles
+notice
+choice
+onward transfer
+security
+data integrity
+access
+enforcement
+respect
+such Personal Data
+Personal Data
+the Privacy Shield Principles
+a third party
+an agent
+Smaato
+behalf
+Smaato
+certain liability
+the Privacy Shield
+the agent
+the Personal Data
+a manner
+the Privacy Shield
+Smaato
+the event
+rise
+the damage
+respect
+compliance
+the Privacy Shield
+Smaato
+the investigatory and enforcement powers
+the U.S. Federal Trade Commission
+any conflict
+the terms
+this Policy
+the Privacy Shield Principles
+the Privacy Shield Principles
+the Privacy Shield program
+our certification
+this page
+any questions
+complaints
+Smaato’s privacy practices
+Smaato
+the contact information
+Section
+your issue
+a resident
+the EU
+UK
+Switzerland
+your appropriate European Data Protection Authority
+the UK Information Commissioner’s Office
+the Swiss Federal Data Protection and Information Commissioner
+questions
+complaints
+our privacy practices
+a resident
+the EU
+UK
+Switzerland
+the manner
+your concerns
+our privacy practices
+further assistance
+our independent recourse mechanism
+the JAMS EU-U.S. and Swiss-U.S. Privacy Shield Program
+concerns
+our compliance
+the Privacy Shield Principles
+general privacy practices
+Claims
+charge
+our arbitration provider
+JAMS
+each party
+its own attorneys’ fees
+the Privacy Shield
+individual-specific, non-monetary, equitable relief
+any violation
+the Privacy Shield Principles
+certain conditions
+residents
+the EU
+UK
+Switzerland
+unresolved complaints
+Smaato
+the issue
+assistance
+our independent recourse mechanism
+the U.S. Department
+Commerce
+a European Data Protection Authority
+Commerce
+the issue
+binding arbitration
+the Privacy Shield arbitration process
+the Privacy Shield website
+c.
+Personal Data Retention
+a general matter
+your Personal Data
+our Smaato Ad Services
+other important purposes
+legal obligations
+disputes
+our agreements
+Mobile IDs
+13 months
+a legal or significant operational need
+auditing
+corporate record-keeping
+compliance accounting
+bug-fixes
+a Client
+an account
+business
+a period
+3 years
+your account
+such account
+d.
+Your Rights
+a Data Subject
+The GDPR
+certain rights
+respect
+Personal Data
+data controllers
+certain rights
+Personal Data
+correction
+the Personal Data
+Personal Data
+our processing
+your Personal Data
+online ad targeting
+your right
+Personal Data
+a data controller
+access
+your request
+step
+order
+access
+requests
+data access rights
+case
+the difficulty
+whether a mobile identifier
+data
+the request
+the potential adverse effects
+disclosure
+personal data
+the wrong individual
+such improper disclosure
+the privacy rights
+freedoms
+the data subject
+the Personal Data
+requests
+email
+Personal Data
+a data controller
+a data processor
+our Clients
+your request
+that Client
+the Client
+your request
+this process
+your right
+Personal Data
+the contact information
+Processing
+Withdraw Consent
+the device-based “opt-out” signals
+Section
+consent
+processing
+consent
+your Personal Data
+purposes
+our services
+30 days
+these opt-out signals
+the mobile apps
+Erasure
+the right
+the erasure
+Personal Data
+a data controller
+The above opt-out process
+an End User opts
+device settings
+this signal
+our Clients
+the Personal Data
+our services
+30 days
+an Android device
+your device
+an iOS device
+your Personal Data
+our identity verification process
+further instructions
+copies
+certain Personal Data
+inactive or back-up files
+our own internal and necessary purposes
+auditing
+accounting
+billing
+bug
+detection
+your Personal Data
+the period
+any important purposes
+auditing
+accounting
+billing obligations
+Complaints
+the right
+a complaint
+a supervisory authority
+any complaint
+concern
+e.	Smaato
+a Data Controller
+a Data Processor
+
+
+EU data protection law
+a distinction
+organizations
+Personal Data
+their own purposes
+data controllers
+organizations
+Personal Data
+behalf
+other organizations
+data processors
+a question
+your Personal Data
+your inquiry
+the relevant data controller
+data controllers
+primary responsibility
+your Personal Data
+Smaato
+either a data controller
+a data processor
+your Personal Data
+the precise circumstances
+instance
+Personal Data
+the Smaato Ad Services
+Personal Data
+our Clients
+a data controller
+Personal Data
+behalf
+our Clients
+Partners
+order
+our services
+a data processor
+instance
+questions
+data
+a mobile app
+our technology
+ads
+our technology
+those companies
+questions
+the Personal Data
+f.	Contact Details
+Controller
+This data protection information
+data processing
+the data controller
+Inc.
+
+Barcastraße
+Hamburg
+Germany
+users
+the European Economic Area
+Switzerland
+the UK
+a service-specific data protection notice
+Contact details
+the Data Protection Officer
+Inc.
+
+Data Protection Officer
+Barcastraße
+1st Floor
+22087 Hamburg
+E-mail
+Supervisory Authority
+The Hamburg Commissioner
+Data Protection
+Freedom
+Information
+Ludwig-Erhard-Str
+7th floor
+Hamburg
+email
+the protection
+consumer privacy
+Smaato
+an active member
+participant
+industry associations
+the policies
+consumer privacy
+the context
+internet-based advertising
+the Interactive Advertising Bureau
+IAB
+America
+Europe
+the Digital Advertising Alliance
+DAA
+the European Interactive Digital Advertising Alliance
+EDAA
+complies
+the policies
+technical specifications
+the IAB Europe Transparency and Consent Framework (IAB TCF
+Smaato’s IAB Europe-assigned identification number
+Vendor ID
+Section
+more information
+your privacy choices
+Changes
+This Privacy Policy
+this Policy
+changes
+our privacy practices
+The amended Policy
+the Smaato Websites
+our Policy
+the latest version
+our privacy practices
+Your continued access
+use
+the Smaato Websites
+Smaato Ad Services
+your acknowledgement
+this Policy
+any updates
+any general questions
+this Policy
+email
+privacy(at)smaato.com
+the following address
+Inc.
+
+240 Stockton Street
+9th Floor
+San	Francisco
+MONETIZE
+SPX Monetization Solution
+Integration Center NEW
+Mediation Options
+Programmatic Deals
+Unified Bidding
+Publisher Documentation
+
+
+
+
+ADVERTISE
+SDX Marketer Solution
+Your Reach
+Customer Data Platform
+CDP
+NEW
+Consent Management Platform
+(CMP
+NEW
+Prepackaged Deals
+Marketer Documentation
+OMNICHANNEL ADVERTISING
+Native Ads
+OTT/CTV Ads
+Video Ads
+Display Ads
+MARKET QUALITY
+Market Quality
+Ad Quality
+Traffic Quality
+INSIGHTS
+Search
+Blog
+Case Studies
+Guides
+Reports
+Videos
+Webinars
+Subscribe
+Newsletter
+Terms
+Service
+(SPX
+Privacy Policy
+EU Applicant Privacy Policy
+CCPA Applicant Privacy Notice
+SG Applicant Privacy Policy
+CCPA Privacy Notice
+Publisher Policies
+Demand Policies
+Partner List
+Cookie Policy
+SDK License Agreement
+
+
+
+
+COMPANY
+Smaato
+Events
+Management Team
+the News
+Media Assets
+Jobs
+Contact
+©
+2005-2021 Smaato
+Inc. All Rights
+Smaato
+a registered trademark
+Smaato
+Inc. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+Search

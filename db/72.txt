@@ -1,0 +1,1586 @@
+
+
+
+
+
+
+	Privacy Policy
+Products
+
+
+
+
+
+
+Test Automation
+BitBar
+Run Selenium & Appium Tests
+the Cloud 
+
+
+
+TestComplete
+Automated
+UI
+Functional Testing
+App Stability Management
+Performance Testing
+LoadNinja
+Automated UI
+Performance
+Testing
+
+
+
+API Lifecycle
+AlertSite
+Global
+Synthetic API
+API Testing
+ API Performance
+API Virtualization
+Design
+Model
+Share
+Test Management
+BDD
+Design Features
+Tests
+BDD
+
+
+ 
+Zephyr
+Standalone & Jira Test Management
+
+
+
+Collaboration
+
+
+Collaborator
+Code
+Document
+Artifact Review
+Open Source
+Cucumber Open
+Validate
+Specs
+Your Code
+
+
+
+SoapUI
+Create & Execute API Test Automation
+
+
+
+Swagger
+Interact
+API Resources
+ALL PRODUCTS
+Solutions
+
+
+
+
+
+
+Solutions
+API Lifecycle
+Microservices
+Service Virtualization
+DevOps
+Code Quality
+Agile Testing
+Continuous Testing
+Automated Testing
+Functional Testing
+End
+Performance Testing
+Test Management
+API
+Monitoring
+CI/CD
+
+Source Code Management
+Collaboration
+Cloud
+All Integrations
+Resources
+Support
+AlertSite
+AQTime
+Pro
+BitBar
+Collaborator
+CucumberStudio
+LoadComplete
+LoadNinja
+QAComplete
+SwaggerHub
+TestComplete
+TestEngine
+TestLeft
+Zephyr Enterprise
+Zephyr Squad
+Zephyr Scale
+New Support Case
+My Cases
+Education
+
+
+ Case Studies
+Webinars
+eBooks
+
+
+
+ Academy
+Community
+ Docs 
+
+
+ Blog
+Recent Posts
+The 5 Gaps
+Your UI Test Automation Strategy
+
+
+
+
+SmartBear
+Test Management
+Jira
+testing solutions
+BDD
+Jira
+Partners
+Careers
+Cart
+EN
+DE
+
+
+
+ Login
+Any Tool
+TestComplete
+BitBar
+LoadNinja
+TestLeft
+AlertSite
+Collaborator
+AQTime
+Pro
+CucumberStudio
+SwaggerHub
+Zephyr Enterprise
+Zephyr Squad
+Zephyr Scale
+Capture
+Jira
+SmartBear Terms
+Use
+Website Terms
+Privacy Policy 
+ Software License and Services Types
+Acceptable Use Policy 
+ Trial Terms
+Use 
+
+
+
+
+
+
+
+
+
+SmartBear Privacy Policy
+June
+SmartBear Software
+Inc.
+its affiliates
+SmartBear
+a global organization
+software tools
+developers
+testers
+operations team members
+high quality software
+applications
+products
+code review
+API
+UI development
+testing
+operations
+end
+desktop
+web
+mobile
+Internet
+things devices
+cloud platforms
+“Services
+This Privacy Policy
+“Privacy Policy
+our practices
+personal information
+our websites products
+smartbear.com/product
+the list
+sites
+products
+services
+this Privacy Policy
+the global nature
+the SmartBear Sites
+Services
+our data processing practices
+the jurisdictions
+order
+applicable legal requirements
+certain rights
+requirements
+disclosures
+this Privacy Policy
+exemption
+example
+applicable law
+regulations
+a relevant geographic location
+the Region Specific Disclosures section
+more information
+INFORMATION WE MAY COLLECT
+this Privacy Policy
+personal information
+order
+our Sites
+Services
+This section
+the categories
+personal information
+personal information
+the past twelve months
+all the personal information
+this Privacy Policy
+requested personal information
+the Services
+the following categories
+personal information
+Identifiers
+address
+billing and shipping address
+telephone number
+email address
+fax number
+screen name
+user ID
+password
+IP address
+MAC address
+Commercial information
+payment or financial information
+Information
+Internet activity
+other electronic network activity
+operating system type
+version
+web server type
+version
+PHP version
+database type
+version
+cookie information
+device information
+activities
+platform or mobile application use
+data
+domain
+destination domain
+destination path
+performance
+security
+software configuration
+availability
+our software
+your servers
+network
+website user statistics
+website
+portal use
+activity records
+communication
+Educational information
+your education history
+grades
+Professional information
+employer
+organizational affiliation
+a customer
+partner
+your resume
+Geolocation data
+geographic information
+a customer’s IP address
+MAC address
+latitudinal and longitudinal data
+Audio, electronic, or visual information
+screen sharing views
+any data
+any files
+customers
+Characteristics
+protected classifications
+California
+federal law
+financial information
+credit card number
+expiration date
+Other information
+the contents
+your communications
+email
+social media
+telephone
+other personal information
+personal information
+the following categories
+sources
+example
+(i
+our websites
+a survey
+a telephone interaction
+a registration form
+our software
+ii
+a form
+our websites
+information
+our business
+business services
+a demonstration
+our online, media, marketing, or data services products
+programs
+interest
+a trade show
+our customers
+their agents
+example
+documents
+files
+our customers
+lists
+individuals
+Client communications
+customer
+websites
+the products
+our customers
+our customers
+their agents
+example
+information
+our customers
+the course
+services
+activity
+our websites
+example
+your actions
+our websites
+your submission
+an online form
+a demonstration
+walkthrough
+our products
+services
+Third Parties
+connection
+the services
+example
+(i) vendors
+partners
+contact lists
+your information
+our database
+our records
+information
+date
+(ii) third parties
+our behalf
+relevant content
+a member
+(iii) third parties
+other B2B contact providers
+their services
+access
+their services
+Mobile Devices
+your mobile device
+the Services
+information
+your mobile device
+a unique identifier
+your device
+our service providers
+third parties
+ad networks
+cross-device/cross-context tracking
+example
+multiple
+browsers
+a single device
+various devices
+desktops
+smartphones
+tablets
+multiple accounts
+profiles
+these various contexts
+devices
+Cross-device/cross-context technology
+these various accounts
+profiles
+the corresponding data
+the different contexts
+devices
+USE
+INFORMATION
+the extent
+applicable law
+personal information
+connection
+our Services
+the SmartBear Products
+Services
+support
+business functions
+customer requests
+complete customer purchases
+criminal activity
+claims
+other liabilities
+customers
+information
+the SmartBear Products
+Services
+issues
+SmartBear Products
+Services
+reviews
+comments
+other feedback
+our Services
+websites
+mobile services
+advertising
+the security
+integrity
+our Services
+content
+our business
+customer support
+benchmarking
+data analysis
+audits
+new products
+the SmartBear Products
+Services
+product, software and applications development
+our services
+research
+analysis
+studies
+surveys
+usage trends
+other analytics purposes
+our contractual requirements
+applicable legal or regulatory requirements
+our policies
+our customers
+customers
+users
+products
+programs
+services
+promotions
+market
+our Services
+any other lawful purpose
+the information
+Aggregated
+Personal Information
+the extent
+applicable law
+process
+transfer
+store data
+individuals
+customers
+partners
+manner
+such aggregated personal information
+other information
+information
+third party sources
+information
+other ways
+consent
+applicable law
+benchmarking
+analytics
+A/B testing
+metrics
+research
+reporting
+machine learning
+other business purposes
+applicable law
+SHARING
+INFORMATION
+the extent
+applicable law
+SmartBear
+information
+personal information
+personal information
+our customers
+their service providers
+other platforms
+those customers
+Affiliates
+Agents
+personal information
+our affiliates
+any business partners
+agents
+our behalf
+Service Providers
+personal information
+our service providers
+agents
+vendors
+other third parties
+the SmartBear Services
+our business
+personal information
+such third parties
+services
+A listing
+our subprocessors
+service providers
+access
+personal information
+our customers
+Advertising
+Marketing
+the extent
+applicable law
+personal information
+third parties
+marketing
+advertising
+promotions
+contests
+other similar purposes
+Mergers
+Acquisitions
+Divestitures
+personal information
+a buyer
+investor
+new affiliate
+other successor
+the event
+SmartBear
+any affiliate
+portion
+group
+business unit
+a business transition
+a merger
+acquisition
+consolidation
+reorganization
+divestiture
+liquidation
+dissolution
+bankruptcy
+a sale
+other transfer
+a portion
+any assets
+SmartBear
+any affiliates
+steps
+contemplation
+such activities
+Law Enforcement
+National Security
+personal information
+legal, governmental, or judicial authorities
+those authorities
+applicable laws
+any law
+directive
+order
+legal process
+investigation
+warrant
+subpoena
+government request
+regulatory request
+law enforcement
+national security investigation
+law
+Protection
+Rights
+Property
+Safety
+personal information
+our sole discretion
+disclosure
+the rights
+property
+safety
+any person
+fraud
+other illegal activity
+SmartBear
+personal information
+other purposes
+other third parties
+an individual
+such disclosure
+a customer
+permission
+such individual
+such disclosure
+legitimate business purposes
+customer data
+such customer’s authorization
+accordance
+SmartBear
+agreement
+such customer
+applicable law
+COOKIES
+SIMILAR TECHNOLOGIES
+cookies
+similar technologies
+the SmartBear Products
+Services
+our interaction
+A "cookie
+a unique numeric code
+your computer
+track
+your interests
+a return visitor
+the websites
+cookies
+log files
+pixel tags
+web bugs
+web beacons
+clear GIFs
+LSOs
+HTML5
+Flash
+other similar technologies
+information
+the ways
+the SmartBear Products
+Services
+features
+functionality
+performance
+content
+experiences
+marketing
+analytics
+other lawful purposes
+third party service providers
+advertisements
+promotions
+our behalf
+third parties
+the SmartBear Products
+Services
+the following types
+cookies
+similar technologies
+Strictly necessary cookies
+the operation
+the SmartBear Products
+Services
+example
+secure areas
+Analytical/performance cookies
+information
+the SmartBear Products
+Services
+the number
+visitors
+visitors
+our website
+the way
+our website
+These cookies
+third party providers
+web traffic analysis services
+Functionality
+choices
+our content
+your preferences
+example
+language
+region
+Targeting cookies
+information
+your browsing habits
+the pages
+the links
+this information
+our website
+your interests
+advertising
+advertising
+the number
+times
+an ad
+These cookies
+third-party advertising networks
+the other websites
+this information
+third-party organizations
+example
+Most internet browsers
+cookies
+default
+cookies
+the setting
+your browser
+some cookies
+The help
+support area
+your internet browser
+instructions
+how to block or delete cookies
+Some web browsers
+some mobile web browsers
+settings
+cookies
+a cookie
+your computer
+tablet
+device
+cookies
+access
+the features
+the SmartBear Products
+Services
+more information
+the help
+your web browser
+www.youronlinechoices.com
+further information
+behavioral advertising
+online privacy
+third party analytics
+Google Analytics
+similar analytics services
+information
+Google
+your information
+Google Analytics
+https://tools.google.com/dlpage/gaoptout
+third-party advertisers
+advertisements
+the SmartBear Products
+Services
+These third parties
+cookies
+other tracking and analytical technologies
+other things
+record
+your browser
+ads
+Information
+the privacy policies
+those third parties
+no control
+third party use
+cookies
+CHOICES
+OPT-OUT
+the extent
+applicable law
+our discretion
+certain uses
+personal information
+consent
+the basis
+processing
+any time
+the consent
+the processing
+your personal information
+the purposes
+this Privacy Policy
+applicable law
+professional standards
+such information
+newsletters
+other marketing
+promotional messages
+notifications
+updates
+the unsubscribe instructions
+these e-mail communications
+our Unsubscribe Page
+mail
+450 Artisan Way
+Somerville
+MA
+02145 USA
+Attn
+General Counsel
+Legal Dept
+direct marketing
+certain service
+transactional messages
+legal notices
+consent
+your consent
+processing
+certain personal information
+the services
+THIRD PARTY SITES
+The SmartBear Products
+Services
+links
+other websites
+mobile applications
+resources
+Internet locations
+SmartBear
+control
+(“External Web Sites
+Such links
+an endorsement
+SmartBear
+those External Web Sites
+SmartBear
+these links
+a convenience
+no control
+External Web Sites
+their content
+any goods
+services
+the External Web Sites
+Our Privacy Policy
+External Web Sites
+Your use
+External Web Sites
+the terms
+use
+privacy policies
+the External Web Sites
+the privacy policies
+any External Web Sites
+DATA SECURITY
+technical and organizational security measures
+personal information
+security risks
+the storage
+transmission
+personal information
+REGION SPECIFIC DISCLOSURES
+8.1 Notice
+Individuals
+the EEA
+PRIVACY SHIELD NOTICE
+our compliance
+the EU-U.S.
+Swiss-
+U.S. Privacy
+regards
+the personal information
+users
+the SmartBear Products
+Services
+residents
+the European Union
+European Economic Area
+“EEA
+Switzerland
+the SmartBear Products
+Services
+the Privacy Shield Principles
+notice
+choice
+onward transfer
+security
+data integrity
+access
+liability
+enforcement
+Personal Data
+users
+the SmartBear Products
+Services
+the countries
+the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks
+the Privacy Shield program
+our certification
+Personal Data
+individuals
+Europe
+other compliance mechanisms
+use
+the European Union Standard Contractual Clauses
+Binding Corporate Rules
+the processing
+Personal Data
+the Privacy Shield Framework
+a third-party agent
+onward transfers
+violation
+the Privacy Shield Principles
+any conflict
+the terms
+this Privacy Policy
+the Privacy Shield Principles
+the Privacy Shield Principles
+Our legal bases
+personal information
+legal obligations
+contracts
+our legitimate interests
+commerce
+the SmartBear Products
+Services
+fraud
+technical, service or security problems
+information
+network security
+direct marketing
+advertising
+industry practices
+Your consent
+example
+our mailing list
+Data Retention
+personal information
+our records retention program
+the purposes
+this Policy
+a longer period
+applicable law
+disputes
+our legal rights
+accordance
+the principles
+Article 5(1
+the GDPR
+aggregated data
+the extent
+applicable law
+The criteria
+the period
+personal information
+varies
+the legal basis
+such personal information
+Legitimate Interests
+a reasonable period
+time
+the particular interest
+account
+the fundamental interests
+the rights
+freedoms
+the data subjects
+Contractual Necessity
+the duration
+the contract
+some additional limited period
+time
+law
+the limitation period
+legal claims
+the contractual relationship
+Legal Obligation
+the duration
+time
+the information
+Consent
+the period
+time
+the underlying agreement
+your right
+certain circumstances
+certain personal information
+Data Subject Rights
+Automated Decisions
+the extent
+applicable law
+data
+an automated manner
+automated decisions
+machine learning algorithms
+individual users
+the SmartBear Products
+Services
+order
+the SmartBear Products
+Services
+security or analytics purposes
+any other lawful purpose
+the extent
+applicable law
+automated decisions
+example
+advertisements
+the individual’s preferences
+International Data Transfers
+The SmartBear Sites
+Services
+resources
+servers
+various countries
+the world
+the United States
+other countries
+personal information
+individuals
+customers
+the country
+the SmartBear Sites
+Services
+countries
+the European Union
+(“EU
+European Economic Area
+(“EEA
+Switzerland
+the level
+data protection
+the European Commission
+these jurisdictions
+the transfer
+personal information
+the requested information
+products
+services
+any requested transaction
+any portion
+the Sites
+Services
+the transfer
+your information
+Data Subject Rights
+Individuals
+the EEA
+whose personal information
+the GDPR
+certain rights
+law
+the right
+access
+erasure
+data portability
+the right
+processing
+consent
+processing
+Access
+Individuals
+the right
+personal information
+a copy
+personal information
+information
+the processing
+that data
+Rectification
+Individuals
+the right
+any personal information
+undue delay
+Individuals
+the right
+the ways
+personal information
+the accuracy
+the personal information
+data
+the individual
+our processing
+the data
+right
+objection
+processing
+the personal information
+Objection
+Individuals
+the right
+our processing
+their personal information
+legitimate interests
+our legal basis
+their rights
+our legitimate interests
+their personal information
+Individuals
+the right
+our processing
+their personal information
+direct marketing purposes
+Withdrawal
+Consent
+consent
+the basis
+personal information
+individuals
+the right
+their consent
+Individuals
+the right
+deletion
+erasure
+their personal information
+a number
+circumstances
+law
+the personal information
+the purposes
+the individual
+consent
+legitimate interests
+a legal basis
+the individual’s rights
+our legitimate interests
+Individuals
+the right
+a copy
+the personal information
+a structured machine-readable format
+another controller
+your consent
+performance
+a contract
+our legal basis
+the processing
+a Complaint
+Individuals
+the right
+a complaint
+our personal information
+practices
+their local data protection authority
+your legal rights
+this Section
+questions
+this Section
+our data handling practices
+our interactive webform
+the details
+sufficient details
+any requests
+accordance
+applicable law
+a reasonable period
+time
+the identity
+the individual
+a request
+such request
+the request
+our customers
+the SmartBear Sites
+Services
+the request
+that customer
+the request
+SmartBear customers
+certain information
+the profile information
+compliance
+the Privacy Shield Principles
+SmartBear
+complaints
+our collection
+use
+your Personal Data
+Residents
+a country
+the Privacy Shield Framework
+any questions
+complaints
+our Privacy Shield compliance
+our Privacy Shield and Data Protection Contact
+your issue
+a concern
+data
+the Privacy Shield Framework
+a timely manner
+the concern
+our U.S.-based dispute resolution provider
+no cost
+neither SmartBear
+our independent dispute resolution provider
+your complaint
+the possibility
+binding arbitration
+the Privacy Shield Panel
+such arbitration
+a resident
+a country
+the Privacy Shield Framework
+the opportunity
+the issue
+assistance
+our designated independent dispute resolution provider
+(3) contact
+the U.S. Department
+Commerce
+a European DPA
+Commerce
+the issue
+binding arbitration
+each party
+its own attorney
+fees
+the Privacy Shield
+individual-specific, non-monetary, equitable relief
+any violation
+the Privacy Shield Principles
+respect
+the resident
+U.S. Federal Trade Commission Enforcement
+SmartBear
+commitments
+the Privacy Shield
+the investigatory and enforcement powers
+the United States Federal Trade Commission
+Compelled Disclosures
+SmartBear
+Personal Data
+response
+lawful requests
+public authorities
+national security or law enforcement requirements
+Privacy Shield and Data Protection Contact
+the data controller
+personal information
+the SmartBear Products
+Services
+the SmartBear customer
+such Services
+SmartBear
+the processor
+such data
+such customer
+certain cases
+SmartBear
+the controller
+aggregated, anonymous or pseudonymous data
+the SmartBear Products
+Services
+Our Privacy Shield and Data Protection Contact
+the personal information
+connection
+the SmartBear Products
+Services
+Attn
+General Counsel
+Legal Dept
+SmartBear Software Inc.
+
+450 Artisan Way
+
+Somerville
+MA
+Phone
+California Privacy Rights
+the above categories
+personal information
+the a matrix
+the sources
+purposes
+any sharing
+each category
+that matrix
+Table
+this Privacy Policy
+personal information
+personal information
+third parties
+service providers
+information
+services
+our behalf
+the following categories
+personal information
+a business purpose
+Identifiers
+Commercial information
+Information
+Internet activity
+other electronic network activity
+Educational information
+Professional information
+Geolocation data
+Audio, electronic, or visual information
+Characteristics
+protected classifications
+California
+federal law
+Other information
+Your Rights
+California Law
+a California resident
+applicable law
+the following rights
+California law
+respect
+your personal information
+the right
+what personal information
+the right
+the deletion
+your personal information
+Non-Discrimination
+the right
+discriminatory treatment
+the exercise
+the privacy rights
+the above rights
+your behalf
+order
+another person
+your rights
+California law
+respect
+your personal information
+(i
+written permission
+the person
+your behalf
+your identity
+SmartBear
+the methods
+this Privacy Policy
+information
+your minor child
+the above rights
+behalf
+your minor child
+The above rights
+your identity
+authority
+these requests
+These rights
+various exclusions
+exceptions
+applicable laws
+a California resident
+these rights
+the following ways
+Interactive webform
+Mail
+General Counsel
+SmartBear Software
+450 Artisan Way
+Somerville
+MA
+the other sections
+our Privacy Policy
+further information
+our practices
+your personal information
+Shine
+the Light Law
+California
+the Light” law
+California residents
+personal information
+products
+services
+family
+household use
+calendar year
+customer information
+other businesses
+this information
+the categories
+resident information
+the names
+addresses
+those businesses
+such resident information
+the immediately prior calendar year
+this information
+sufficient personal identification information
+the request
+a California resident
+8.3 Canadian Residents
+Canadian residents
+additional rights
+Canadian law
+the information
+the Office
+the Privacy Commissioner
+Canada
+additional details
+our wish
+this document
+all other related documents
+English
+Vous reconnaissent avoir
+exigé
+la rédaction
+du présent document ainsi que tous les documents
+qui
+s'y rattachent
+SMARTBEAR PRODUCTS
+SERVICES OBTAINED
+THE ATLASSIAN MARKETPLACE
+all authorized SmartBear Services
+the Atlassian Marketplace
+http://marketplace.atlassian.com
+any other webpage
+application
+interface
+service
+product
+Atlassian Pty Ltd
+available cloud
+applications
+plug-ins
+extensions
+Atlassian’s own software and cloud offerings
+(“Atlassian Marketplace
+Atlassian
+the privacy
+security
+integrity
+Your data
+SmartBear
+the SmartBear Products
+Services
+the Atlassian Marketplace
+QUESTIONS
+COMPLAINTS
+DISPUTES
+any questions
+this Privacy Policy
+our collection
+use
+sharing
+storage
+information
+email
+our interactive webform
+the following address
+Attn
+General Counsel
+Legal Dept
+SmartBear Software
+450 Artisan Way
+Somerville
+MA
+Phone
+SmartBear
+this Privacy Policy
+time
+time
+our sole discretion
+changes
+our information and privacy practices
+SmartBear
+any updated Privacy Policy
+this page
+https://smartbear.com/privacy/
+the SmartBear Products
+Services
+any notice
+individual users
+applicable law
+SmartBear
+this Privacy Policy
+any changes
+The date
+last revision
+the “Last Updated” legend
+the top
+this page
+Explore SmartBear Products
+AlertSite
+AQTime
+Pro
+BitBar
+Bugsnag
+Capture
+Jira
+Collaborator
+Cucumber
+Jira
+CucumberStudio
+Cucumber Open
+LoadNinja
+SoapUI
+Swagger
+SwaggerHub
+TestComplete
+TestEngine
+TestLeft
+Zephyr
+|
+Careers
+| 
+Solutions
+|
+Partners
+Contact Us
+|
+|
++353
+AUS
+© 2021 SmartBear Software
+All Rights
+Privacy
+|
+Terms
+Use
+| 
+Site Map
+Website Terms
+Use
+your product
+AlertSite
+CucumberStudio 
+
+
+ 
+LoadNinja 
+
+
+ 
+QAComplete
+SwaggerHub 
+
+
+
+
+SmartBear
+Community
+Management Portal
+License System

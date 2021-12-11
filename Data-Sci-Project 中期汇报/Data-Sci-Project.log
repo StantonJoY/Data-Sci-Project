@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.5.29)  9 DEC 2021 22:04
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.5.29)  11 DEC 2021 15:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1399,6 +1399,14 @@ Missing character: There is no 2 ("32) in font nullfont!
  [29
 
 ]
+File: nlp.png Graphic file (type bmp)
+<nlp.png>
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no 7 ("37) in font nullfont!
+ [30
+
+]
 \tf@nav=\write7
 \openout7 = `Data-Sci-Project.nav'.
 
@@ -1416,12 +1424,12 @@ Package logreq Info: Writing requests to 'Data-Sci-Project.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33244 strings out of 476919
- 707587 string characters out of 5821840
- 1261004 words of memory out of 5000000
- 52605 multiletter control sequences out of 15000+600000
+ 33258 strings out of 476919
+ 707928 string characters out of 5821840
+ 1261060 words of memory out of 5000000
+ 52618 multiletter control sequences out of 15000+600000
  403990 words of font info for 53 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  145i,16n,146p,1896b,759s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Data-Sci-Project.pdf (29 pages).
+Output written on Data-Sci-Project.pdf (30 pages).

@@ -7,1722 +7,1857 @@
 
 
 
-Privacy
-Policy
-Automattic
-Home
-News
-Privacy
-Policy
-Your privacy
-Automattic
-a few fundamental principles
-the personal information
-the personal information
-the operation
-our services
-personal information
-a reason
-what information
-your website
-search engines
-government demands
-your personal information
-full transparency
-your personal information
-our Privacy Policy
-these principles
-the folks
-a variety
-products
-services
-bloggers
-photographers
-small business owners
-enterprises
-full advantage
-the power
-promise
-the open web
-Our mission
-publishing
-commerce
-a story
-their great idea
-a livelihood
-the open internet
-code
-open source
-the vast majority
-our work
-the General Public License
-most other services
-our GPL code
-a look
-that code
-This Privacy Policy
-information
-jetpack.com
-gravatar.com
-simperium.com
-cloudup.com
-longreads.com
-automatewoo.com
-jetpackcrm.com
-happy.tools
-newspack.pub
-the WordPress mobile app
-Android
-iOS
-our websites
-example
-the Payments
-the Pay
-PayPal block
-VIP
-Jetpack
-the WooCommerce Shipping & Tax extension
-Gravatar
-the IntenseDebate comment management system
-Simplenote
-Simperium
-Cloudup
-Longreads
-MailPoet
-AutomateWoo
-Jetpack CRM
-Happy Tools
-Courses
-WPScan
-Newspack
-our Services
-your account
-This Privacy Policy
-information
-a job
-Automattic
-our subsidiaries
-this Privacy Policy
-our websites
-mobile applications
-other products
-services
-Services
-Automattic company
-the controller
-information
-a look
-the section
-Controllers
-Responsible Companies
-this Privacy Policy
-our products
-services
-Tumblr
-a separate privacy policy
-information
-the choices
-respect
-that information
-Creative Commons Sharealike License
-this Privacy Policy
-a Creative Commons Sharealike license
-a copy
-this Privacy Policy
-other legal documents
-GitHub
-your own use
-the language
-your policy
-your actual practices
-a credit
-your site
-Information
-information
-a reason
-example
-our Services
-our Services
-this information
-three sources
-information
-our Services
-outside sources
-the information
-Information
-no surprise
-information
-some examples
-Basic account information
-basic information
-order
-your account
-example
-individuals
-a WordPress.com account
-an email address
-password
-a username
-more information
-your address
-other information
-that information
-a WordPress.com account
-an account
-the information
-your public profile
-example
-a WordPress.com account
-your username
-that public profile
-any other information
-your public profile
-a photo
-Your public profile information
-mind
-what information
-revenue
-your site
-information
-those payments
-a subscription
-a WordPress.com plan
-a premium theme
-a custom domain
-fees
-a person
-business
-their WordPress.com site
-example
-the Payments feature
-the Pay
-PayPal block
-additional personal and payment information
-your name
-credit card information
-contact information
-a record
-the purchases
-our Ecommerce Services
-Store
-WooCommerce Shipping
-Tax
-WooCommerce Payments
-a WordPress.com account
-an existing account
-some Services
-your site URL
-financial details
-a payments integration
-the email address
-your Stripe
-PayPal account
-your bank account information
-a revenue sharing opportunity
-your site
-WordAds
-some additional information
-example
-payments
-Business Profile
-our products
-additional information
-a user/customer profile
-example
-a Jetpack CRM customer
-our customer relationship database
-Jetpack CRM
-information
-your name
-your employer
-your job title
-role
-your contact information
-your communications
-a Happy Tools user
-information
-your timezone and location information
-your company and team information
-your contact information
-your account
-information
-draft
-published content
-a blog post
-comment
-biographic information
-any media
-files
-Credentials
-the Services
-credentials
-your self-hosted website
-SSH
-FTP
-SFTP username
-password
-Jetpack
-VaultPress users
-these credentials
-order
-our one-click restore feature
-a problem
-their site
-problems
-Communications
-information
-surveys
-our Happiness Engineers
-a support question
-a question
-our public forums
-a newsletter
-the one
-Longreads
-form
-email
-phone
-WordPress.com comment
-a copy
-our communications
-any call recordings
-applicable law
-Job applicant information
-a job
-information
-your name
-contact information
-resume
-CV
-work authorization verification
-the application process
-Information
-some information
-information
-most online service providers
-information
-web browsers
-mobile devices
-servers
-the browser type
-IP address
-unique device identifiers
-language preference
-site
-the date
-time
-access
-operating system
-mobile network information
-log information
-our Services
-example
-changes
-your website
-information
-your usage
-our Services
-example
-information
-the actions
-administrators
-users
-a site
-Jetpack services
-other words
-, [WordPress.com username
-[title
-post
-[time/date
-Our WooCommerce Usage Tracker
-information
-your email address
-WooCommerce settings
-PHP settings
-information
-your online store
-the aggregate number
-orders
-customers
-information
-our Services
-(e.g., page views
-document searches
-en.support.wordpress.com
-features
-your website
-our Admin Bar
-other parts
-our Services
-information
-your device
-, screen size
-cellular network
-mobile device manufacturer
-this information
-example
-our Services
-insights
-people
-our Services
-our Services
-predictions
-user retention
-the approximate location
-your device
-your IP address
-this information
-example
-how many people
-our Services
-certain geographic regions
-information
-your precise location
-our mobile apps
-a photograph
-location information
-your mobile device operating system
-’s permissions
-information
-your mobile device
-our mobile apps
-this stored information
-your device operating system
-’s permissions
-example
-permission
-the photographs
-your mobile device
-camera roll
-our Services
-the photos
-your device
-a really amazing photograph
-the sunrise
-your website
-other users’ sites
-some information
-your interactions
-other users’ sites
-your account
-your “Likes
-the fact
-a particular post
-example
-another example
-information
-the comments
-IntenseDebate users
-that information
-example
-tally up statistics
-your comments
-your dashboard
-information
-your comments
-your IntenseDebate public profile
-Information
-cookies
-other technologies
-A cookie
-a string
-information
-a visitor
-’s computer
-the visitor
-’s browser
-the website
-the visitor
-Pixel tags
-small blocks
-code
-websites
-emails
-cookies
-other technologies
-pixel tags
-track visitors
-usage
-access preferences
-our Services
-track
-email campaign effectiveness
-targeted ads
-more information
-our use
-cookies
-other technologies
-tracking
-the use
-cookies
-our Cookie Policy
-Other Sources
-information
-other sources
-example
-your WordPress.com account
-another service
-Google
-associated login information
-your username
-your email address
-Social Sharing Services
-your website
-a social media service
-Twitter
-our Publicize feature
-information
-that service
-(e.g., your username
-basic profile information
-the authorization procedures
-that service
-WooCommerce Payments
-information
-your Stripe account
-your email address
-phone number
-Google Account Information
-your Google account
-your Newspack powered site
-certain Google user data
-your Google Ad Manager Configuration
-the network code
-your ad units
-your Google Analytics data
-features
-example
-your Google ads
-your Google Analytics data
-the dashboard
-your Newspack powered site
-The information
-which services
-what options
-Third-party services
-information
-mailing addresses
-individuals
-our users
-this information
-marketing purposes
-postcards
-other mailers
-our Services
-Information
-Purposes
-Information
-information
-the purposes
-our Services
-example
-your account
-your website
-your website
-customer service
-process payments
-orders
-user information
-quality
-safety
-our Services
-example
-automatic upgrades
-new versions
-our Services
-example
-users
-our Services
-new features
-our users
-websites
-our Services
-ads
-our advertising program
-example
-ads
-our users’ sites
-our own sites
-our advertising program
-ad performance
-our Services
-measure
-gauge
-the effectiveness
-our marketing
-example
-our marketing messages
-groups
-our users
-a particular plan
-users
-a certain length
-time
-our Services
-the results
-our marketing campaigns
-how many people
-a paid plan
-a marketing message
-user retention
-our Services
-our users
-the public
-example
-security incidents
-malicious, deceptive, fraudulent, or illegal activity
-spam
-our legal obligations
-the rights
-property
-Automattic
-example
-a transaction
-Services
-problems
-our Services
-example
-debugging
-preventing
-issues
-the user experience
-example
-your experience
-relevant notifications
-advertisements
-our Services
-content
-our Reader post suggestions
-new essays
-stories
-Longreads
-your reading pleasure
-example
-your feedback
-tips
-our products
-date
-Automattic
-your payment
-offers
-promotions
-interest
-marketing communications
-any time
-important updates
-your account
-new Automatticians
-example
-job applicants
-Legal Bases
-Information
-A note
-the European Union
-our legal grounds
-information
-EU data protection laws
-our use
-your information
-the grounds
-The use
-order
-our commitments
-the applicable terms
-service
-other agreements
-your account
-example
-order
-access
-our website
-your device
-a paid plan
-The use
-compliance
-a legal obligation
-The use
-order
-your vital interests
-another person
-a legitimate interest
-your information
-example
-our Services
-our Services
-an even better user experience
-our Services
-the effectiveness
-our advertising
-our user retention
-attrition
-any problems
-our Services
-your experience
-your consent
-example
-certain cookies
-your device
-access
-our Cookie Policy
-Sharing
-Information
-Information
-information
-limited circumstances
-appropriate safeguards
-your privacy
-the section
-Subsidiaries
-independent contractors
-information
-our subsidiaries
-independent contractors
-the information
-our Services
-the information
-our behalf
-our subsidiaries
-independent contractors
-this Privacy Policy
-any personal information
-Third-party vendors
-information
-third-party vendors
-the information
-order
-their services
-their services
-your site
-vendors
-our Services
-Stripe
-WooCommerce Payments
-payment providers
-your credit and debit card information
-payment providers
-your own ecommerce operations
-fraud prevention services
-fraudulent payment transactions
-cloud storage services
-postal and email delivery services
-touch
-customer chat and email support services
-domain registration services
-your site
-Automattic
-our marketing efforts
-tools
-a specific marketing target group
-our marketing campaigns
-ads
-our services
-our Services
-analytics providers
-tools
-our operations
-programs
-task management
-scheduling
-word processing
-email
-other communications
-collaboration
-our teams
-other third-party tools
-operations
-companies
-products
-our websites
-the extensions
-information
-order
-example
-technical or other support services
-vendors
-privacy commitments
-order
-information
-Other vendors
-our more specific policies
-(e.g., our Cookie Policy
-Legal and regulatory requirements
-information
-response
-a subpoena
-court order
-other governmental request
-more information
-requests
-information
-WordPress.com users
-our Legal Guidelines
-a domain
-your information
-the Internet Corporation
-Assigned Names
-Numbers
-ICANN) regulations
-rules
-policies
-example
-your information
-your domain registration
-the WHOIS database
-your information
-ICANN-approved Dispute Resolution Service Providers
-our Domain Registrations and Privacy support document
-more details
-rights
-property
-information
-good faith
-disclosure
-the property
-rights
-third parties
-the public
-example
-a good faith belief
-an imminent danger
-death
-serious physical injury
-information
-the emergency
-delay
-connection
-any merger
-sale
-company assets
-acquisition
-a portion
-our business
-another company
-the unlikely event
-Automattic
-business or enters bankruptcy
-user information
-the assets
-a third party
-these events
-this Privacy Policy
-your information
-the party
-your information
-your information
-this Privacy Policy
-your consent
-information
-your consent
-your direction
-example
-your information
-third parties
-your site
-a social media service
-our Publicize feature
-Aggregated
-de-identified information
-information
-instance
-aggregate statistics
-the use
-our Services
-a hashed version
-your email address
-customized ad campaigns
-other platforms
-Site owners
-a WordPress.com account
-another site
-our Services
-your information
-the administrators
-the site
-example
-a comment
-a site
-Jetpack
-your IP address
-the email address
-your WordPress.com account
-the site
-the comment
-a payment
-the Payments feature
-a site
-your public display name
-user name
-email address
-the site
-support requests
-a request
-assistance
-example
-a support email
-our other feedback mechanisms
-the right
-that request
-order
-your request
-other users
-a long-standing policy
-our users’ data
-a data broker
-your personal information
-data brokers
-your information
-other companies
-marketing emails
-ads
-our users’ sites
-the revenue
-free access
-our Services
-money
-an obstacle
-a voice
-a new California law
-the California Consumer Privacy Act
-(“CCPA
-some personalized advertising
-our services
-information
-your name
-email
-address
-our advertising program
-choices
-these ads
-our ads program
-Information
-Information
-public
-information
-your public profile
-posts
-other content
-your website
-your “Likes
-comments
-other websites
-a lot
-views
-example
-the photo
-your public profile
-a default image
-your Globally Recognized Avatar
-Gravatar
-Your Gravatar
-other public profile information
-the comments
-“Likes
-other users’ websites
-your WordPress.com account
-Your Gravatar and public profile information
-your comments
-Likes
-other interactions
-websites
-our Gravatar service
-the email address
-your account
-the same email address
-the other website
-a “Firehose” stream
-public data
-posts
-comments
-some sites
-our Services
-that data
-Firehose subscribers
-the content
-our Terms
-Service
-rights
-the Firehose
-Jetpack sites
-Public information
-search engines
-third parties
-mind
-Information
-information
-the purposes
-the section
-Information
-example
-web server
-that record information
-a visitor
-Automattic’s websites
-the visitor
-’s IP address
-browser type
-operating system
-approximately 30 days
-the logs
-this period
-time
-other things
-traffic
-Automattic’s websites
-issues
-our websites
-another example
-a post
-page
-your WordPress.com site
-your Trash folder
-thirty days
-case
-your mind
-that content
-scratch
-no fun
-the thirty days
-the deleted content
-our backups
-caches
-Security
-no online service
-information
-unauthorized access
-use
-alteration
-destruction
-reasonable measures
-our Services
-potential vulnerabilities
-attacks
-the security
-your account
-our advanced security settings
-Two Step Authentication
-Choices
-several choices
-information
-the information
-an account
-the optional account information
-profile information
-transaction
-billing information
-mind
-this information
-certain features
-our Services
-example
-an additional charge
-access
-information
-your mobile device
-Your mobile device operating system
-the option
-our ability
-stored information or location information
-our mobile apps
-certain features
-photographs
-marketing communications
-promotional communications
-the instructions
-those communications
-promotional communications
-other communications
-your account
-legal notices
-your browser
-cookies
-this time
-” signals
-our Services
-your browser
-browser cookies
-Automattic’s websites
-the drawback
-’s websites
-the aid
-cookies
-our internal analytics program
-your user settings
-information
-our analytics tool
-events
-actions
-your WordPress.com account
-more information
-our Cookie Policy
-your account
-your account
-our Services
-account closure instructions
-WordPress.com accounts
-mind
-your information
-your account
-Information
-example
-that information
-our compliance
-legal obligations
-law enforcement requests
-our legitimate business interests
-Your Rights
-certain parts
-the world
-California
-countries
-the scope
-the European General Data Protection Regulation
-certain rights
-your personal information
-the right
-access
-deletion
-your data
-European General Data Protection Regulation
-GDPR
-a country
-the scope
-the GDPR
-data protection laws
-certain rights
-respect
-your personal data
-any exemptions
-the law
-the rights
-access
-your personal data
-Request correction
-deletion
-your personal data
-Object
-our use
-processing
-your personal data
-our use
-processing
-your personal data
-Request portability
-your personal data
-the right
-a complaint
-a government supervisory authority
-California Consumer Privacy Act
-CCPA
-The California Consumer Privacy Act
-“CCPA
-California residents
-some additional information
-the categories
-personal information
-that personal information
-The CCPA
-a list
-the “categories
-personal information
-that term
-the law
-the last 12 months
-the following categories
-personal information
-California residents
-the Services
-Identifiers
-your name
-contact information
-device
-online identifiers
-Commercial information
-your billing information and purchase history
-example
-Characteristics
-law
-example
-your gender
-a research survey
-Internet
-other electronic network activity information
-your usage
-our Services
-the actions
-an administrator
-a WordPress.com site
-Geolocation data
-your location
-your IP address
-Audio
-electronic, visual or similar information
-your profile picture
-Professional or employment-related information
-example
-your company and team information
-a Happy Tools user
-information
-a job application
-Inferences
-likelihood
-retention
-attrition
-more information
-sources
-that information
-the Information
-section
-personal information
-the business and commercial purposes
-Information section
-this information
-the categories
-third parties
-the Sharing Information section
-a California resident
-additional rights
-the CCPA
-any exemptions
-the law
-the right
-Request
-the categories
-personal information
-business or commercial purpose
-the categories
-sources
-the information
-third parties
-the specific pieces
-information
-Request deletion
-personal information
-Opt
-any sale
-personal information
-discriminatory treatment
-your rights
-the CCPA
-detailed metrics
-Automattic’s compliance
-these rights
-our Privacy Report
-The CCPA
-Personalized Advertising
-Our Ads Program
-Our mission
-publishing
-commerce
-our Services
-as many people
-ads
-our users’ sites
-our own sites
-the revenue
-these ads
-free access
-our Services
-money
-an obstacle
-a voice
-Our ads program
-our users
-revenue
-their own sites
-our advertising program
-our users
-cookies
-certain device identifiers
-information
-your browsing activities
-our advertising partners
-those advertising partners
-that information
-ads
-our users’ sites
-The personal information
-online identifiers
-internet
-other network
-device activity
-cookie information
-other device identifiers
-IP address
-geolocation data
-approximate location information
-your IP address
-These disclosures
-information
-the CCPA
-information
-our ads program
-your name
-contact information
-personal information
-California
-My Personal Information
-These Rights
-your personal data
-your account settings
-tools
-the other rights
-your rights
-this section
-the right person
-example
-a user
-the email address
-your account
-an authorized agent
-a request
-your behalf
-written authorization
-your identity
-Controllers
-Responsible Companies
-Automattic’s Services
-Different Automattic companies
-the controller
-personal information
-the company
-that information
-the particular service
-the location
-the individual
-our Services
-the Services
-more than one company
-the controller
-your personal data
-the “controller
-the Automattic company
-the contract
-the Terms
-Service
-the product
-service
-addition
-Automattic Inc.
-our US-based company
-the controller
-the processing activities
-our Services
-The chart
-the current controllers
-your personal information
-the term
-“Designated Countries
-Australia
-Canada
-Japan
-Mexico
-New Zealand
-Russia
-all countries
-Europe
-the UK
-ROI
-All Automattic Services
-WooCommerce
-the Designated Countries
-Automattic Inc.
-60 29th Street #343
-San Francisco
-the Designated Countries
-Aut O’Mattic A8C Ireland Ltd.
-Grand Canal Dock
-25 Herbert Pl
-Dublin
-D02 AY86
-Ireland
-Automattic Inc.
-the controller
-the processing activities
-Services
-Aut O’Mattic A8C Ireland Ltd.
-WooCommerce Services
-WooCommerce Services
-WooCommerce
-WooCommerce Payments
-WooCommerce Shipping
-Tax
-MailPoet
-any products
-the Designated Countries
-WooCommerce, Inc.
-60 29th Street #343
-San Francisco
-Automattic Inc.
-the controller
-the processing activities
-Services
-WooCommerce
-the Designated Countries
-WooCommerce Ireland Ltd.
-Grand Canal Dock
-25 Herbert Pl
-Dublin
-D02 AY86
-Ireland
-Automattic Inc
-WooCommerce
-Inc
-the joint controllers
-the processing activities
-Services
-a question
-this Privacy Policy
-the rights
-the Your Rights section
-our web form
-email
-the fastest ways
-a response
-your inquiry
-telephone
-Other Things
-Reading
-Transferring
-Information
-Automattic’s Services
-the information
-the Services
-the EU
-individuals
-the European Economic Area
-(EEA
-our group
-companies
-the purposes
-Information section
-information
-entities
-the EEA
-appropriate measures
-the recipient
-your personal information
-accordance
-this Privacy Policy
-applicable law
-These measures
-European Commission
-standard contractual arrangements
-entities
-countries
-the EEA
-more information
-the steps
-your personal information
-the EU
-Ads
-Analytics Services
-Ads
-our Services
-advertising networks
-Other parties
-analytics services
-our Services
-These ad networks
-analytics providers
-tracking technologies
-cookies
-information
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy Policy
+Smaato
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Platform
+
+          
+
+Monetize
+SPX Monetization Solution
+Integration Center
+Mediation Options
+Programmatic Deals
+Header Bidding Solutions
+Advertise
+SDX Marketer Solution
+Your Reach
+Customer Data Platform
+CDP
+Consent Management Platform
+(CMP
+Smaato Intelligence
+SI
+Prepackaged Deals
+Omnichannel Advertising
+Native Ads
+OTT/CTV Ads
+Video Ads
+Display Ads
+Market Quality
+Overview
+Ad Quality
+Insights
+Case Studies
+Guides
+Reports
+Videos
+Webinars
+Whitepapers
+Smaato
+Events
+Management Team
+the News
+Data-Compliant Platforms
+
+
+
+Blog
+
+
+
+
+
+
+
+
+
+              Docs
+
+          
+
+
+
+
+              Contact
+Publishers
+SPX
+Privacy Policy
 your use
-our Services
-other websites
-online services
-These technologies
-these third parties
-your device
+the Smaato Site
+
+
+
+
+
+
+
+
+
+Terms
+Service
+Privacy Policy
+EU Applicant Privacy Policy
+CCPA Applicant Privacy Notice
+SG Applicant Privacy Policy
+CCPA Privacy Notice
+Publisher Policies
+Demand Policies
+Partner List
+Cookie Policy
+SDK License Agreement
+Effective Date
+Introduction
+Background
+Privacy Practices
+the Smaato Ad Services
+Cookies
+Pixel Tags
+SDKs
+Consumer Control
+Opt-Out Options
+Privacy Practices
+the Smaato Websites
+Data Access
+Retention
+Data Security
+Third-Party Websites
+Apps
+Users
+the United States
+Not-Track
+The EU General Data Protection Regulation
+GDPR
+Our Memberships
+Affiliations
+Changes
+This Privacy Policy
+Smaato, Inc. (“Smaato
+“us
+this privacy policy
 information
-your device
-This information
-other companies
-other things
-track usage
-the popularity
-certain content
+This privacy policy
+Policy
+Smaato
+handling
+two types
+information
+our Clients
+end users
+“End Users
+third-party mobile applications
+“apps
+our Software Development Kit
+(“SDK
+other collection interfaces
+APIs
+the Smaato Demand Platform
+SDX
+the Smaato Publisher Platform
+“SPX
+collectively, the “Smaato Ad Services
+Information
+our corporate website
+www.smaato.com
+any other website
+this Policy
+information
+other corporate services
+web portals
+clients
+business partners
+“Smaato Websites
+the information
+the Smaato Websites
+Section
+the Smaato Websites
+consumers
+information
+information
+their choices
+such marketing
+ways
+consumers
+that choice
+Section
+Consumer Control
+Opt-Out Options
+Introduction
+Background
+Smaato
+mobile advertising technology services
+transactions
+demand-side platforms
+advertisers
+app developers
+publishers
+mobile websites
+apps
+ad exchanges
+Clients
+service providers
+(collectively “Partners
+the Smaato Ad Services
+other tools
+Clients
+Clients
+the Smaato Ad Services
+other tools
+advertising
+Users
+turn
+our services
+Clients
+their own customers
+ads
+interest
+Users
+SDKs
+APIs
+Section
+cookies
+similar technologies
+the Smaato Ad Services
+Privacy Practices
+the Smaato Ad Services
+a. Information
+the Smaato Ad Services
+the Smaato Ad Services
+information
+End Users
+the extent
+Clients
+such information
+Smaato
+geographic location
+system configuration information
+information
+End Users’ operating system
+Rough geolocation information
+Precise geolocation
+End Users’ latitude and longitude data
+Cookie IDs
+Mobile advertising identifiers
+iOS IDFAs
+Google Advertising IDs
+Mobile IDs
+Age
+Gender
+Device type
+other device information
+an End User
+a smartphone
+tablet
+Network provider
+Other unique identifiers
+an End Users’ device
+identifiers
+Clients
+their service providers
+the above information
+the “Service Information
+b.
+the Information
+the Smaato Ad Services
+the Service Information
+a variety
+services
+our Clients
+advertising
+marketing
+services
+Smaato Websites
+use
+the Service Information
+purposes
+Provide
+customer
+operational support
+the Smaato Ad Services
+errors
+fraud
+other criminal activity
+disputes
+our terms
+conditions
+other rights
+the features
+the Smaato Ad Services
+information
+analytics
+Clients
+the advertising inventory
+the Smaato Ad Services
+our Clients
+online cookies
+End Users
+mobile websites
+End Users
+these cookies
+Mobile IDs
+cookies
+similar technologies
+web beacons
+SDKs
+Section
+c.
+Information
+the Smaato Ad Services
+the Service Information
+Clients
+Partners
+order
+the Smaato Ad Services
+example
+the Service Information
+Clients
+their marketing and service providers
+targeted advertising
+Users
+mobile websites
+Partners
+the functioning
+the Smaato Ad Services
+traffic
+ad quality verification vendors
+data centers
+a Client
+our SDK
+Service Information
+this Policy
+The processes
+cookies
+similar technologies
+other information
+End Users
+End Users’ interests
+demographics
+transactions
+interest-based advertising
+individuals
+this type
+advertising
+Section
+Consumer Control
+Opt-Out Options
+the Digital Advertising Alliance
+) website
+www.aboutads.info
+Service Information
+third parties
+a request
+authorization
+an End User
+Client
+the disclosure
+a) comply
+good faith
+applicable laws
+rules
+regulations
+governmental and quasi-governmental requests
+court orders
+subpoenas
+purposes
+national security and law enforcement
+our terms
+conditions
+other agreements
+any other person
+entity
+interests
+rights
+property
+safety
+connection
+an investigation
+suspected or actual unlawful activity
+the information
+a business purchase
+sale
+merger
+consolidation
+investment
+control
+transfer
+our assets
+reorganization
+liquidation
+bankruptcy
+connection
+steps
+anticipation
+such an event
+(e.g. due diligence
+Cookies
+Pixel Tags
+SDKs
+a. Cookies
+Pixel Tags
+Cookies
+small data files
+a string
+characters
+unique browser identifiers
+Cookies
+your computer
+other device
+act
+unique tags
+your browser
+Our servers
+a cookie
+your browser
+the Smaato Websites
+Our Clients
+Partners
+the Smaato Websites
+our Clients
+Partners’ websites
+Smaato
+both session cookies
+persistent cookies
+Persistent cookies
+session cookies
+your browser
+your browser
+subsequent visits
+any given website
+persistent cookies
+a site operator
+a third party
+a website
+the site
+This technology
+a site operator
+third party
+the Smaato Websites
+information
+your IP address
+browser type
+the web pages
+a website
+the web pages
+the dates
+times
+your visits
+A pixel tag
+a web beacon
+clear GIF
+an invisible 1 x 1 pixel
+certain web pages
+a web page
+a pixel tag
+the pixel tag
+a generic notice
+the visit
+our Clients
+Partners
+cookies
+Pixel tags
+combination
+cookies
+the activity
+a website
+a particular browser
+a particular device
+pixel tags
+a given website visit
+our Clients
+Partners
+cookies
+example
+track trends
+information
+our Clients
+Partners’ websites
+advertising
+our Clients
+Partners
+cookies
+relevant content
+non-relevant ads
 ads
 your interests
-this Privacy Policy
-the collection
+interest-based mobile advertising
+Consumer Control
+Opt-Out Options
+disabling cookies
+the Smaato Websites’ functionalities
+offerings
+other websites
+b. Mobile Device Identifiers
+SDKs
+our Clients
+Partners
+mobile SDKs
+our own SDK(s
+more detail
+this Policy
 information
-Automattic
-the collection
+Mobile IDs
 information
-any third-party advertisers
-analytics providers
-Third-Party Software
-Services
-third-party plugins
-embeds
-WooCommerce Payments
-Stripe
-WooCommerce extensions
-services
-third parties
-other third-party software
-services
-mind
-information
-your site visitors
-those third parties
-example
-some third-party services
-access
-your visitors
-customers
-data
-a pixel
-cookie
-the third-party service
-access
-your data
-accordance
-the third party
-privacy policy
-practices
-these third parties
-their own rules
-information collection
-use
-sharing
-the software
-services
-Visitors
-Our Users’ Websites
-information
-visitors
-our users’ websites
-behalf
-our users
-accordance
-our user agreements
-our processing
-that information
-behalf
-our users
-their websites
-this Privacy Policy
-our users
-a privacy policy
-their practices
-data collection
-use
-sharing
-personal information
-the data
-behalf
-our users
-our Privacy Notice
-Users
-the content
-their sites
-any disputes
-content
-a user’s site
-the site owner
-their “contact us” page
-an email address
-a comment
-the site
-most changes
-its Privacy Policy
-time
-time
-visitors
-this page
-any changes
-its Privacy Policy
-changes
-the change
-log
-some cases
-additional notice
-a statement
-our homepage
-the WordPress.com Blog
-a notification
-email
-your dashboard
-Your further use
-the Services
-a change
-our Privacy Policy
-the updated policy
-Other Information
-Resources
-Jetpack Privacy Center
-WooCommerce
-the GDPR
-Translation
-Our Privacy Policy
-English
-other languages
-example
-https://automattic.com/fr/privacy
-Spanish
-https://automattic.com/es/privacy
-the event
-a conflict
-a translated version
-our Privacy Policy
-the English version
-the English version
-Thanks
-reading
-Change
-November
-information
-WPScan
-information
-WordPress.com Courses
-Newspack
-Other Sources
-new examples
-January
-information
-AutomateWoo
-Jetpack CRM
-the “Controllers and Responsible Companies” section
-changes
-WooCommerce users
-December
-information
-MailPoet
-Renamed
-WooCommerce Services
-Shipping
-Tax
-August
-some Payments features
-the “Controllers and Responsible Companies” section
-changes
-WooCommerce users
-February
-WooCommerce Payments
-a new section
-Other Information
-Resources
-December
-California Consumer Privacy Act
-miscellaneous clarification
-October
-A few miscellaneous changes
-new sections
-translations
-this Privacy Policy
-our internal analytics program
-information
-the Recurring Payments feature
-April
-information
-Happy Tools
-Added clarifications
-additional details
-existing sections
-example
-ICANN policies
-information
-Longreads
-additional information
-Longreads accounts
-November
-Removed references
-Polldaddy
-September
-information
-Simplenote
-Simperium
-Cloudup
-Lean Domain Search
-more specific information
-our practices
-information
-Crowdsignal and Woocommerce.com services
-information
-the requirements
-the EU
-General Data Protection Regulation
-language
-the policy
-our practices
-August
-Other Sources
-November
-comments
-missed spam
-Akismet
-future performance
-February 18, 2015: Updated Creative Commons license
-September
-blog commenter email addresses
-administrators
-the blog
-the comment
-February
-subpoena language
-Business Transfers paragraph
-Added court order
-subpoena
-clarification
-July
-Revised paragraph
-commenter IPs
-administrators
-Added Comments
-Akismet comment storage policy
-Added Ads paragraph
-users
+mobile devices
+their users
+our Smaato Ad Services
+our Smaato Ad Services
+The SDK
+computer code
+app developers
+their apps
 ads
-third parties
+data
+related services
+data
+other (generally, simpler) interfaces
+similar data
+APIs
+these technologies
+example
+certain advertising
+apps
+browsers
+information
+your mobile device
+ads
+this way
+your mobile device
+the instructions
+Section
+Consumer Control and Opt-Out Options
+most cases
+consumers
+control
+relevant ads
+marketing email
+our Clients
+the settings
+the cookies
+Smaato sets
+your devices
+the Smaato Websites
+our Cookie Policy
+a.
+Online Interest-Based Advertising
+Cookies
+the publishers
+platforms
+service providers
+that support
+online interest-based advertising
 cookies
+similar technologies
+the Digital Advertising Alliance
+consumer education
+opt-out page
+http://www.aboutads.info
+the European Interactive Digital Advertising Alliance
+opt-out page
+http://www.youronlinechoices.eu
+the European Union
+our publisher
+Clients
+their own opt-out mechanisms
+their websites
+their online-posted privacy policies
+the privacy policies
+those companies
+these opt-out links
+targeted advertising
+a certain company
+multiple companies
+the Smaato Ad services
+ads
+your browser
+your online web browsing behavior
+smaato.net
+your web browser
+Our platform
+the choice
+your opt
+cookie
+your choice
+all companies
+Smaato Ad services
+online interest-based advertising
+cookies
+This type
+opt
+cookies
+your browser
+your cookies
+order
+your opt out choice
+your browser
+third-party cookies
+the Smaato
+cookie
+Some browsers
+third-party cookies
+default
+your browser settings
+third-party cookies
+a different device
+browser
+your browser
+your opt
+choice
+Smaato
+data
+other purposes
+advertising
+the Smaato Ad Service
+websites
+a publisher Client
+our Platform
+such advertising
+b. Opting
+Cross-App Advertising
+Mobile Devices
+your Mobile IDs
+certain types
+interest-based mobile advertising
+Smaato
+the settings
+your Apple or Android mobile device
+an Apple device
+most cross-app advertising
+iOS
+Limit Ad Tracking
+Settings
+→ Privacy
+→ Advertising
+Limit Ad Tracking
+iOS
+Settings
+→ General
+→ Advertising
+Limit Ad Tracking
+an Android device
+most cross-app advertising
+Google Settings
+the option
+interest-based ads
+these platforms
+these settings
+the above instructions
+the precise language
+older) devices
+your device
+other platforms
+the settings
+those devices
+c. Additional Choices
+Advertisers
+ways
+their collection
+certain information
+the privacy policies
+retailers
+apps
+mobile websites
+their privacy practices
+promotional emails
+emails
+events
+new services
+the “unsubscribe” instructions
+any promotional email
+email
+non-promotional emails
+your relationship
+Privacy Practices
+the Smaato Websites
+a. Information
+the Smaato Websites
+The Smaato Websites
+information
+Smaato
+our products
+services
+the Smaato Websites
+information
+automatically-collected information
+i. Information
+an account
+an interest
+additional information
+Smaato
+our products
+services
+the Smaato Websites
+information
+your name
+mailing address
+email address
+telephone number
+credit card number
+other billing information
+certain information
+your business
+other individuals
+ii
+Automatically-Collected Information
+the Smaato Websites
+cookies
+pixel tags
+unique identifiers
+track
+visitor interactions
+your experience
+the Smaato Websites
+more information
+Section
+third-party services
+Google Analytics
+information
+your IP address
+browser type
+the web page
+the Smaato Websites
+the times
+your visit
+addition
+the Smaato Websites
+advertising cookies
+your computer
+your interests
+Our display advertising partners
+ads
+other sites
+your interactions
+the Smaato Websites
+such interest-based mobile advertising
+Section
+Consumer Control
+Opt-Out Options
+this way
+ads
+the ads
+b.
+Information
+the Smaato Websites
+addition
+the uses
+this Policy
+the information
+the Smaato Websites
+combination
+the Smaato Websites
+Smaato Ad Services
+any other products
+services
+use
+the information
+your requests
+information
+our products
+services
+marketing
+communications
+your questions
+concerns
+customer service inquiries
+aggregated or de-identified information
+applicable laws
+prevent fraud
+risk
+similar purposes
+usage trends
+preferences
+products
+services
+Customize
+the content
+advertising
+the Smaato Websites
+the Internet
+other purposes
+your request
+c.
+Information
+the Smaato Websites
+the information
+the Smaato Websites
+the following situations
+your consent
+this Policy
+our affiliates
+third parties
+our business
+our services
+entities
+customer
+billing
+event planning
+marketing
+operational services
+a business purchase
+sale
+merger
+consolidation
+investment
+control
+our assets
+reorganization
+liquidation
+bankruptcy
+connection
+steps
+anticipation
+such an event
+(e.g. due diligence
+law
+response
+lawful process
+a subpoena
+good faith
+a request
+a government or law enforcement agency
+official
+purposes
+national security and law enforcement
+the information
+physical, financial or other harm
+injury
+loss
+the information
+any other person
+entity
+interests
+rights
+property
+safety
+connection
+an investigation
+suspected or actual unlawful activity
+respect
+de-identified information
+such information
+restriction
+d. Analytics Services
+the purpose
+our website
+line
+your needs
+a business management perspective
+our pages
+services
+more detail
+the basis
+Art
+6 Para
+a) and f) GDPR
+the mentioned processing operations
+a transfer
+data
+the servers
+the providers
+tracking
+targeting
+technologies
+these servers
+the USA
+The data transfer
+so-called standard contractual clauses
+the EU Commission
+the EU-US Privacy Shield
+the storage
+evaluation
+your data
+the storage
+processing
+your data
+the consent banner
+our website
+this case
+a so-called opt-out cookie
+your browser
+the services
+any session data
+all the functions
+our websites
+the storage
+cookies
+your browser software
+this case
+all functions
+our websites
+their full extent
+the reCaptcha service
+Google LLC
+“Google
+1600 Amphitheatre Parkway
+Mountain View
+USA
+spam
+misuse
+this processing
+the basis
+Art
+6 para
+1 lit
+This service
+an entry
+a human being
+automated, machine processing
+Google
+a cookie
+your browser
+the reCaptcha service
+collects
+the following data
+Referrer URL
+address
+the page
+the captcha
+Browser
+browser size
+resolution
+browser plug-ins
+date
+Touch-Events
+the reCaptcha box
+a Google account
+Google
+the reCaptcha service
+Your input behaviour
+the reCAPTCHA question
+the form fields
+selection
+input fields
+the user
+pattern recognition
+Google
+Google
+the cookies
+other Google services
+Gmail
+Search
+Analytics
+the above data
+Google
+encrypted form
+Google
+which form
+the captcha
+the page
+the form
+a checkbox
+text input
+A readout
+saving
+personal data
+the input fields
+the respective form
+place
+Further information
+Google’s privacy policy
+https://www.google.com/policies/privacy/
+Google Analytics
+Google Universal Analytics
+Smaato
+Google Universal Analytics
+a web analytics tool
+Google
+Google
+the Privacy Shield Agreement
+a privacy agreement
+Google
+Google
+Cookies
+The information
+the Cookies
+the use
+the Smaato website
+the users
+a Google server
+the USA
+Smaato
+the IP anonymisation
+your IP address
+Google
+member states
+the European Union
+other signatory states
+the Agreement
+the European Economic Area
+exceptional cases
+the full IP address
+a Google server
+the USA
+behalf
+Smaato
+Google
+this information
+your use
+the website
+reports
+the website activities
+further services
+connection
+the use
+the website
+the Internet
+The IP address
+your browser
+the framework
+Google Analytics
+other data
+Google
+this processing
+the basis
+Art
+6 Par.
+lit
+f) GDPR
+range measurement
+evaluation
+(so-called statistics
+this case
+no further processing
+your data
+marketing
+purposes
+the business optimisation
+our processes
+your consent
+6 para
+1 lit
+your data
+marketing purposes
+more information
+terms
+use
+data protection
+https://marketingplatform.google.com/about/.
+this website
+Google Analytics
+the code "gat._anonymizeIp
+order
+anonymous processing
+IP addresses
+(so-called IP masking
+the processing
+your data
+Google Analytics
+https://tools.google.com/dlpage/gaoptout?hl=de
+Data Access
+Retention
+the information
+the Smaato Websites
+Smaato Ad Services
+our objectives
+this Policy
+our legal obligations
+disputes
+our agreements
+a resident
+the European Economic Area
+(EEA
+Switzerland
+the United Kingdom
+(UK
+a copy
+the information
+such information
+other rights
+Section
+Data Security
+administrative, technical, and physical safeguards
+place
+our physical facilities
+our computer systems
+databases
+communications networks
+the information
+loss
+misuse
+alteration
+No method
+electronic transmission
+storage
+absolute security
+your information
+data security
+THE SECRECY
+ANY ACCOUNT
+CREDENTIALS
+ANY ACCOUNT
+SMAATO
+ANY ACTIONS TAKEN
+YOUR ACCOUNT
+CREDENTIALS
+YOUR SOLE RESPONSIBILITY
+Third-Party Websites
+Apps
+This Policy
+the Smaato Websites
+the Smaato Ad Services
+the privacy practices
+disclosures
+websites
+developers
+that access
+the Smaato Websites
+Smaato Ad Services
+the Smaato Websites
+other websites
+our control
+the applicable privacy policies
+terms
+conditions
+such third parties
+websites
+the industry tools
+this Policy
+Users
+the United States
+The Smaato Websites
+Smaato Ad Services
+the United States
+their operation
+United States law
+the Smaato Websites
+Smaato Ad Services
+the United States
+your Information
+the United States
+other countries
+our facilities
+The data protection
+other laws
+the United States
+your country
+the Smaato Websites
+Smaato Ad Services
+your information
+our facilities
+the facilities
+those third parties
+your information
+this Policy
+Section
+additional information
+the benefit
+residents
+the EEA
+Switzerland
+the UK
+Not-Track
+Not-Track
+no industry-wide consensus
+Not-Track
+implementations
+solutions
+Section
+information
+your marketing choices
+The EU General Data Protection Regulation
+GDPR
+a new data privacy law
+the EU General Data Protection Regulation
+the “GDPR
+effect
+the EEA, Switzerland
+the UK
+The GDPR
+Smaato
+our services
+users
+certain information
+the processing
+their “Personal Data
+Personal Data
+a term
+the GDPR
+data
+a particular unique user
+device
+instance
+names
+addresses
+Mobile IDs
+precise location data
+the GDPR
+the below representations
+information
+persons
+the EEA, Switzerland
+the UK
+the processing
+personal data
+the context
+the activities
+Smaato, Inc.
+Germany
+a. Legal Grounds
+Personal Data
+The GDPR
+the legal ground
+any Personal Data
+The legal grounds
+your Personal Data
+the purposes
 Sections
-This Policy CoversCreative Commons Sharealike LicenseInformation
-UsInformation
-AutomaticallyInformation
-Other SourcesHow
-InformationPurposes
-InformationLegal Bases
-Collecting
-InformationSharing InformationHow We
-InformationInformation
-Shared PubliclyHow
-Long
-RightsEuropean General Data Protection Regulation
-(GDPR)California Consumer Privacy Act
-CCPA)The CCPA
-Personalized Advertising
-Our Ads
-These RightsControllers
-Responsible CompaniesHow
-UsOther Things
-InformationAds and Analytics Services
-OthersThird-Party Software
-ServicesVisitors
-Our Users’ WebsitesPrivacy Policy ChangesOther Information
-ResourcesTranslationChange log
-Contact Us
-Diversity
-Press
+Section
+the Smaato Websites
+your consent
+order
+access
+information
+your device
+your consent
+this “cookie consent
+not only to “cookies
+Mobile IDs
+mobile app developers
+only legally obtained data
+our obligations
+the ePrivacy Directive
+consent
+other cases
+which case
+applicable laws
+such consent
+its withdrawal
+The processing
+our legitimate interest
+some cases
+legitimate interest
+a legal basis
+Personal Data
+order
+our and/or other data controllers’ services
+Such processing
+the original collection
+Mobile IDs
+A legitimate interest
+instance
+the tailoring
+promotional communications
+mobile apps
+services
+Users
+an integral part
+the ecosystem
+freely available content
+advertising revenue
+analysis
+ad campaigns
+legitimate interest
+Personal Data
+the security
+our services
+fraud
+bugs
+Contractual relationships
+certain data
+a contractual relationship
+our customer records
+contact information
+Legal obligations
+some processing
+data
+our legal or regulatory obligations
+b.	Transfers
+Personal Data
+Smaato
+a global company
+other global companies
+technologies
+your Personal Data
+the country
+instance
+your data
+third parties
+jurisdictions
+the EEA, Switzerland
+the UK
+data protection laws
+comparison
+Europe
+Personal Data
+the EEA, Switzerland
+the UK
+steps
+appropriate safeguards
+place
+your Personal Data
+Your Personal Data
+third countries
+the EEA
+Switzerland
+the UK
+the legally permissible framework
+Personal Data
+third countries
+law
+your consent
+the adequacy decisions
+the European Commission
+a public and updated list
+these countries
+(c
+contractual regulations
+the EU Standard Data Protection Clauses
+a public and updated list
+these clauses
+These safeguards
+an adequate level
+protection
+your Personal Data
+further details
+these safeguards
+request
+Smaato
+the EU-U.S. Privacy Shield Framework
+the Swiss-U.S. Privacy Shield Framework
+(collectively, the “Privacy Shield
+the U.S. Department
+Commerce
+the collection
+use
+retention
+Personal Data
+the European Union
+(EU
+the UK
+Switzerland
+the United States
+Smaato
+the U.S. Department
+Commerce
+the Privacy Shield Principles
+notice
+choice
+onward transfer
+security
+data integrity
+access
+enforcement
+respect
+such Personal Data
+Personal Data
+the Privacy Shield Principles
+a third party
+an agent
+Smaato
+behalf
+Smaato
+certain liability
+the Privacy Shield
+the agent
+the Personal Data
+a manner
+the Privacy Shield
+Smaato
+the event
+rise
+the damage
+respect
+compliance
+the Privacy Shield
+Smaato
+the investigatory and enforcement powers
+the U.S. Federal Trade Commission
+any conflict
+the terms
+this Policy
+the Privacy Shield Principles
+the Privacy Shield Principles
+the Privacy Shield program
+our certification
+this page
+any questions
+complaints
+Smaato’s privacy practices
+Smaato
+the contact information
+Section
+your issue
+a resident
+the EU
+UK
+Switzerland
+your appropriate European Data Protection Authority
+the UK Information Commissioner’s Office
+the Swiss Federal Data Protection and Information Commissioner
+questions
+complaints
+our privacy practices
+a resident
+the EU
+UK
+Switzerland
+the manner
+your concerns
+our privacy practices
+further assistance
+our independent recourse mechanism
+the JAMS EU-U.S. and Swiss-U.S. Privacy Shield Program
+concerns
+our compliance
+the Privacy Shield Principles
+general privacy practices
+Claims
+charge
+our arbitration provider
+JAMS
+each party
+its own attorneys’ fees
+the Privacy Shield
+individual-specific, non-monetary, equitable relief
+any violation
+the Privacy Shield Principles
+certain conditions
+residents
+the EU
+UK
+Switzerland
+unresolved complaints
+Smaato
+the issue
+assistance
+our independent recourse mechanism
+the U.S. Department
+Commerce
+a European Data Protection Authority
+Commerce
+the issue
+binding arbitration
+the Privacy Shield arbitration process
+the Privacy Shield website
+c.
+Personal Data Retention
+a general matter
+your Personal Data
+our Smaato Ad Services
+other important purposes
+legal obligations
+disputes
+our agreements
+Mobile IDs
+13 months
+a legal or significant operational need
+auditing
+corporate record-keeping
+compliance accounting
+bug-fixes
+a Client
+an account
+business
+a period
+3 years
+your account
+such account
+d.
+Your Rights
+a Data Subject
+The GDPR
+certain rights
+respect
+Personal Data
+data controllers
+certain rights
+Personal Data
+correction
+the Personal Data
+Personal Data
+our processing
+your Personal Data
+online ad targeting
+your right
+Personal Data
+a data controller
+access
+your request
+step
+order
+access
+requests
+data access rights
+case
+the difficulty
+whether a mobile identifier
+data
+the request
+the potential adverse effects
+disclosure
+personal data
+the wrong individual
+such improper disclosure
+the privacy rights
+freedoms
+the data subject
+the Personal Data
+requests
+email
+Personal Data
+a data controller
+a data processor
+our Clients
+your request
+that Client
+the Client
+your request
+this process
+your right
+Personal Data
+the contact information
+Processing
+Withdraw Consent
+the device-based “opt-out” signals
+Section
+consent
+processing
+consent
+your Personal Data
+purposes
+our services
+30 days
+these opt-out signals
+the mobile apps
+Erasure
+the right
+the erasure
+Personal Data
+a data controller
+The above opt-out process
+an End User opts
+device settings
+this signal
+our Clients
+the Personal Data
+our services
+30 days
+an Android device
+your device
+an iOS device
+your Personal Data
+our identity verification process
+further instructions
+copies
+certain Personal Data
+inactive or back-up files
+our own internal and necessary purposes
+auditing
+accounting
+billing
+bug
+detection
+your Personal Data
+the period
+any important purposes
+auditing
+accounting
+billing obligations
+Complaints
+the right
+a complaint
+a supervisory authority
+any complaint
+concern
+e.	Smaato
+a Data Controller
+a Data Processor
+
+
+EU data protection law
+a distinction
+organizations
+Personal Data
+their own purposes
+data controllers
+organizations
+Personal Data
+behalf
+other organizations
+data processors
+a question
+your Personal Data
+your inquiry
+the relevant data controller
+data controllers
+primary responsibility
+your Personal Data
+Smaato
+either a data controller
+a data processor
+your Personal Data
+the precise circumstances
+instance
+Personal Data
+the Smaato Ad Services
+Personal Data
+our Clients
+a data controller
+Personal Data
+behalf
+our Clients
+Partners
+order
+our services
+a data processor
+instance
+questions
+data
+a mobile app
+our technology
+ads
+our technology
+those companies
+questions
+the Personal Data
+f.	Contact Details
+Controller
+This data protection information
+data processing
+the data controller
+Inc.
+
+Barcastraße
+Hamburg
+Germany
+users
+the European Economic Area
+Switzerland
+the UK
+a service-specific data protection notice
+Contact details
+the Data Protection Officer
+Inc.
+
+Data Protection Officer
+Barcastraße
+1st Floor
+22087 Hamburg
+E-mail
+Supervisory Authority
+The Hamburg Commissioner
+Data Protection
+Freedom
+Information
+Ludwig-Erhard-Str
+7th floor
+Hamburg
+email
+the protection
+consumer privacy
+Smaato
+an active member
+participant
+industry associations
+the policies
+consumer privacy
+the context
+internet-based advertising
+the Interactive Advertising Bureau
+IAB
+America
+Europe
+the Digital Advertising Alliance
+DAA
+the European Interactive Digital Advertising Alliance
+EDAA
+complies
+the policies
+technical specifications
+the IAB Europe Transparency and Consent Framework (IAB TCF
+Smaato’s IAB Europe-assigned identification number
+Vendor ID
+Section
+more information
+your privacy choices
+Changes
+This Privacy Policy
+this Policy
+changes
+our privacy practices
+The amended Policy
+the Smaato Websites
+our Policy
+the latest version
+our privacy practices
+Your continued access
+use
+the Smaato Websites
+Smaato Ad Services
+your acknowledgement
+this Policy
+any updates
+any general questions
+this Policy
+email
+privacy(at)smaato.com
+the following address
+Inc.
+
+240 Stockton Street
+9th Floor
+San	Francisco
+MONETIZE
+SPX Monetization Solution
+Integration Center NEW
+Mediation Options
+Programmatic Deals
+Unified Bidding
+Publisher Documentation
+
+
+
+
+ADVERTISE
+SDX Marketer Solution
+Your Reach
+Customer Data Platform
+CDP
+NEW
+Consent Management Platform
+(CMP
+NEW
+Prepackaged Deals
+Marketer Documentation
+OMNICHANNEL ADVERTISING
+Native Ads
+OTT/CTV Ads
+Video Ads
+Display Ads
+MARKET QUALITY
+Market Quality
+Ad Quality
+Traffic Quality
+INSIGHTS
+Search
+Blog
+Case Studies
+Guides
+Reports
+Videos
+Webinars
+Subscribe
+Newsletter
+Terms
+Service
+(SPX
 Privacy Policy
-Home
-News
-Us
+EU Applicant Privacy Policy
+CCPA Applicant Privacy Notice
+SG Applicant Privacy Policy
+CCPA Privacy Notice
+Publisher Policies
+Demand Policies
+Partner List
+Cookie Policy
+SDK License Agreement
 
 
 
-© Automattic Inc.
-purveyors
-fine blogging and site-building services
-your time
-Automattic			
+
+COMPANY
+Smaato
+Events
+Management Team
+the News
+Media Assets
+Jobs
+Contact
+©
+2005-2021 Smaato
+Inc. All Rights
+Smaato
+a registered trademark
+Smaato
+Inc. 
 
 
 
- Customize
-Log
-Copy shortlink
-this content
-Manage
-subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+Search

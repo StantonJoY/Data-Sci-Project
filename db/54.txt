@@ -1,2853 +1,2191 @@
+ 
+
+Privacy policy
+| Legal information
+|
+Search
+EN
+CN
+ES
+(Spanish)
 
 
-Ookla Privacy Policy
-Apps
-Android Mac Windows
-Chrome Apple TV CLI VPNInsightsBlogGlobal IndexOokla
-MapNetworkDevelopersEnterpriseSpeedtest IntelligenceCell
-AnalyticsSpatialbuzzSpeedtest PoweredSpeedtest EmbeddedSpeedtest SDKGIS DatasetsSpeedtest CustomCell MapsTower SourceMap ElementsPartners
-ProgramsDowndetector
-EnterpriseAboutPressKnowledge BaseAdvertiseCareers
-Log
-InResults HistorySettingsHelpCreate AccountOokla Privacy Policy
-Effective
-any questions
-Data Subject Access Rights
-GDPR
-CCPA
-LGPD
-our DSAR Portal
-Privacy Policy Overview
-What Categories
-Information
-Sensitive Personal Information
-Information
-Purposes
-Your Information
-Direct Marketing
-Cookies
-Similar Technologies
-Online Behavioral Advertising
-the Lawful Basis
-Personal Information
-What Information
-Third Parties
-International Transfers
-Information
-Data Security
-Data Accuracy
-Data Minimization
-Data Retention
-My Information
+
+FR (Français
+JP
+(Japanese
+Menu
+Open research
+Authors
+Booksellers
+Editors
+Peer
+Librarians
+Societies
+Shop
+↗
+Springer Nature Group
+Legal notice
 Terms
-Use
-Contact Details
-California Consumers
-May Change
+conditions
+Privacy policy
+California
+Consumer Privacy Statement
+Manage cookies
+My Info
 
 
 
 
-Privacy Policy Overview
+
+
+
+
+
+
+Privacy policy
+This policy
+the privacy policy
+“policy
+springernature.com
+Springer-Verlag GmbH
+Heidelberg
+Zweigniederlassung der Springer-Verlag GmbH Berlin
+Tiergartenstrasse
+D-69121 Heidelberg
+Germany
+our).We
+the personal data
+this website
+this policy
+information
+your personal data
+your personal data
 Summary
-– Policy Overview
-This Policy
-your information
-This Policy
-time
-time
-updates
-Ookla
-LLC
-its parent company Ziff Davis
-LLC
-its other affiliates
-its subsidiaries
-Ookla
-“we
-access
-several interactive websites
-mobile
-applications
-other online interactive features
-services
-collectively “Services
-This Privacy Policy
-all information
-Ookla
-relation
-the Services
-other things
-the types
+our processing
+scholarly journals
+books
+news
+data
+this material
+subscribers
+The following summary
+a quick overview
+the data processing activities
+our website
+more detailed information
+the indicated sections
+our website
+informational reasons
+an account
+only limited personal data
+the website
+III).If
+a customer organisation
 information
-the Services
-your information
-your information
-the use
-disclosure
-your information
-your information
-this Privacy Policy
-Ookla
-a data controller
-that term
-the EU General Data Protection Regulation
-“GDPR
-the Brazilian General Data Protection Law
-LGPD
-the information
-our DSAR Portal
-This Policy
-time
-time
-changes
-our practices
-respect
-the Processing
-your information
-changes
-applicable law
-this Policy
-this page
-any changes
-This Privacy Policy
-information
-the following websites
-mobile applications
-Ookla
-Speedtest.net
-Speedtest Custom
-Mosaik
-Sensorly
-Map Elements
-Cell Maps
-Tower Source
-Downdetector
-other Downdetector websites
-Applications
-Sensorly
-Downdetector
-What Categories
-Information
-Categories
-Information
-your personal details
-(e.g., your name
-(e.g., your age
-(e.g., your address
-records
-your consents
-purchase details
-details
-your employer
-your interactions
-our content
-advertising
-any views
-opinions
-information
-your use
-our Services
-(e.g., the type
-device
-the internet service provider
-your interactions
-content
-advertising
-the Services
-Personal Information
-information
-any individual
-any individual
-“Process
-“Processing
-any Personal Information
-automated means
+order
+usage
+that customer
+case
+our services
+the submission and peer review systems
+subscribe
+our newsletters
+further personal data
+the scope
+such services
+IV
+V
+your personal data
+relevant advertising
+our services
+products
+VII
+statistical analysis
+our website
+VIII
+your website experience
+third party content
+IX).Your personal data
+third parties
+your country
+residence
+different data protection standards
+XII).We
+appropriate safeguards
+your personal data
+XIII
+your personal data
+the legislation
+certain rights
+regard
+the processing
+your personal data
+any information
+a natural person
+reference
+an identifier
+a name
+an identification number
+location data
+an online identifier
+Processing
+any operation
+personal data
 collection
 recording
-organization
+organisation
 structuring
 storage
 adaptation
-alteration
-retrieval
-consultation
-use
+any kind
 disclosure
-transmission
-dissemination
-the following categories
-Personal Information
-Personal details
-your name
-username
-login details
-password
-areas
-topics
-interest
-photograph
-another user
-a photo
-the Service
-Demographic information
-gender
-age/date
-birth
-nationality
-salutation
-job title
-company information
-education
-work experience
-other professional information
-language preferences
-Contact details
-postal address
-telephone
-mobile number
-email address
-your public social media handles
-Consent records
-records
-any consents
-the date
+other use
+Informational use
+the websiteWhen
+our website
+informational reasons
+our provided services
+IV
+personal data
+any other form
+additional information
+personal data
+limited cases
+our server
+Examples
+your IP address;your device type
+IDs;the date
 time
-consent
-any related information
-(e.g., the subject matter
-the consent
-Location information
-location data
-the precise geographic location
+your requests;the content
+your requests;information
+your browser
+screen resolution;information
+your operating system
+language settings
+such information
+an effective service
+our website
+the needs
 your device
-(“Precise Location Data
-Purchase and payment details
-records
-purchases
-prices
-invoice records
-payment records
-billing address
-payment method
-cardholder
-accountholder name
-payment amount
-payment date
-Employer
-your capacity
-an employee
-your employer
+our website
+broad demographic information
+anonymised, aggregated use
+IP
+equivalent method
+a customer organisation
+university
+a company
+the identity
+that organisation
+usage reports
+the organisation
+the content
+their students
+members
+employees
+This information
+a personal login
+a nominated administrator
+that organisation
+your organisation
+a part
+a usage-based access contract
+The personal data
+the website
+Article 6 sec
+1 lit
+b GDPR
+our legitimate interest
+the website
+stability
+security
+Article 6 sec
+1 lit
+GDPR.IV
+Registration
+our servicesAccess
+subscription content
+a variety
+mechanisms
+IP site licenses
+third party federated identity providers
+a personal account
+the federated authentication method institutional selection data
+your browser
+third party websites
+the process
+institutional authentication
+your access
+our content
+an organisation
+an institution
+a university
+a company
+the access method
+your behalf
+A personal account
+content
+personal services
+newsletters
+alerts
+a personal login
+Information
+your name
+user name
+email address
+registration;Information
+connection
+an account sign
+facility
+(e.g. log-in
+password details);Communications
+e-mail or website communication forms).The information
+the performance
+the service
+All further information
+the personal data
+sign
+the services
+information
+the website
+your account;Communicate
+you;(behavioural
+Advertising
+profiling;Facilitate attendance
+a conference
+manuscript submissions;Provide access
+other Springer Nature group content
+your request
+a Springer Nature journal
+your libraryUser Research
+research
+user behavior
+product and design decisions
+a transfer offer
+a relevant Springer Nature journal
+the event
+your initial submission
+the legal basis
+Article 6 sec
+1 lit
+b GDPR
+The use
+your personal data
+behavioural advertising
+profiling
+the legitimate interest
+your experience
+the website
+Article 6 sec
+1 lit
+f GDPR.We
+the personal data
+contact data
+registration
+our additional products
+services
+The use
+your personal data
+related products
+services
+a legitimate interest
+a provider
+this website
+Article 6 sec
+1 lit
+f GDPR.You
+the use
+your personal data
+direct marketing
+any time
+any processing
+the extent
+such purposes
+direct marketing
+opt-out links
+any marketing communication
+user profile pages
+the website
+your objection
+our Data Protection Office
+Registration data
+such time
+an account deletion request
+such a request
+your data
+30 days
+Statutory storage obligations
+the need
+legal actions
+misconduct
+the services
+payment problems
+a longer retention
+your personal data
+this case
+accordinglyV. Information
+the specific uses
+registration1
+BlogsYou
+our blog
+a variety
+articles
+our activities
+a comment
+your name
+user name
+our blog
+IV.In addition
+the extent
+processing
+IV
+a comment
+your personal data
+your IP address
+other metadata
+time
+possible liability claims
+unlawful comments
+our legitimate interest
+regard
+the legal justification
+this processing activity
+Article 6 sec
+1 lit
+f GDPR.We reserve
+the right
+comments
+topic
+spam
+excessive foul language
+ad hominem attacks
+legal regulations.2
+Web shopFor
+the use
+our web shop
+an account
+IV
+Your customer account
+your personal data
+future purchases
+the personal data
+the account
+your account
+This processing
+Article 6 sec
+1 lit
+statutory law
+the provided financial data
+relation
+transactions
+address, payment and order information
+ten years
+2 years
+the processing
+your personal data
+the statutory requirements
+the personal data
+the retention
+your personal data
+Article 6 sec
+1 lit
+c GDPR.3
+Article alerts
+your email address
+our newsletters
+the latest news
+our products
+services
+such newsletters
+The legal basis
+this processing
+Article 6 sec
+1 lit
+a GDPR
+Your email address
+our newsletters
+this service
+the link
+each newsletter
+newsletters
+request
+our products
+services
+Facebook
+this purpose
+Facebook Lead Ads
+a service
+Facebook Inc.
+South California Avenue
+Palo Alto
+CA 94304 U.S.
+("Facebook
+Lead Ads
+newsletters
+request
+the form
+Facebook
+your data
+the form
+the opportunity
+the data
+submission
+more information
+lead ads
+- https://www.facebook.com/business/ads/lead-ads.The legal basis
+this processing
+Article 6 sec
+1 lit
+a GDPR
+Your email address
+our newsletters
+the removal
+your email address
+newsletters
+the link
+each newsletter
+a product
+service
+the name
+the product
+service
+your email address
+Nature ConferencesSpringer Nature America
+(“SNAI
+[1 New York Plaza
+Suite
+NY
+USA
+China
+(Shanghai Co. Ltd
+[10-11unit, 42 Floor
+The Center
+989 Changle Road
+XuHui District
+Shanghai, CHINA
+affiliates
+Springer Nature Limited
+(together “Springer Nature entities
+personal data
+attendees
+Nature conferences
+registration
+plan
+the events
+data categories
+Identification data
 address
 telephone number
 email address
-Views
-opinions
-any views
-opinions
-other users
-third party services
-social media platforms
-the Services
-forums
-other kinds
+entity type
+e.g. academic, government, industry
+position titles
+curriculum vitaes
+professional license information
+dietary requirements
+gender
 information
-other sources
-“Other Information
-this Policy
-Information
-your use
-the Services
-usage data
-statistical information
-history
-the websites
-other services
-the Services
-Searches
-interactions
-e-commerce opportunities
-merchants
-offers
-the Services
-Non-precise information
-the approximate physical location
-example
-the city or zip code level
-a user’s computer
-device
-the IP address
-such computer
-device
-Device identification
-(“ID
-a distinctive number
-a smartphone
-similar handheld device
-a hardware serial number
-Advertising ID
-a unique, user-resettable identification number
-advertising
-a device
-, iOS
-the Identifier
-Advertising
-“IDFA
-Android
-Google Advertising ID
-Internet Protocol
-“IP”) address
-a unique string
-numbers
-your device
-the Internet
-Internet connection
-internet service provider
-(“ISP
-mobile operator
-WiFi connection
-service set identifier
-(“SSID
-International Mobile Subscriber Identity
-(“IMSI
-International Mobile Equipment Identity
-Information
-the use
-cookies
-Javascript
-pixel tags
-device ID tracking
-anonymous identifiers
-other technologies
+travel arrangements
+(i.e., passport data
+date
+birth
+payment information
 information
-such methods
-technologies
-(i
-your visits
-interaction
-engagement
-the Services
-content
-ads
-third party websites
-applications
-platforms
-other media channels
-(“Channels
-your interaction
-emails
-the content
-ads
-“Online Data
-Device type
-settings
-software
-Log files
-IP addresses
-browser type
-ISP referring/exit pages
-operating system
-date/time stamps
-clickstream data
-any clicks
-customized links
-Web Beacons
-electronic files
-a website
-users
-that page
-certain cookies
-Pixel Tags
-clear GIFs
-beacons
-spotlight tags
-web bugs
-a method
-information
-the user
-’s computer
-a third party website
-Local Shared Objects
-Flash cookies
-Local Storage
-HTML5
-Mobile analytics
-the functionality
-our mobile applications
-software
-your phone
-certain circumstances
-applicable law
-this Other Information
-Personal Information
-Personal Information
-Other Information
-“User Information
-Sensitive Personal Information
-
-
-Summary
-Sensitive Personal Information
-your Sensitive Personal Information
-your Sensitive Personal Information
-a legitimate purpose
-accordance
-applicable law
-The Services
-use
-children
-otherwise Process
-Personal Information
-race
-ethnicity
-political opinions
-religious or philosophical beliefs
-trade union membership
-physical or mental health
-sexual life
-any actual or alleged criminal offences
-penalties
-any other information
-GDPR
-LGPD
-(collectively, “Sensitive Personal Information
-the ordinary course
-our business
-Sensitive Personal Information
-GDPR
-LGPD
-the following legal bases
-applicable law
-your Sensitive Personal Information
-the Processing
-applicable law
-crime
-your Sensitive Personal Information
-the Processing
-the detection
-prevention
-crime
-the prevention
-fraud
-Establishment
-exercise
-defense
-legal rights
-your Sensitive Personal Information
-the Processing
-the establishment
-exercise
-defense
-legal rights
-Consent
-your Sensitive Personal Information
-accordance
-applicable law
-your prior, express consent
-your Sensitive Personal Information
-Children
-The Services
-use
-children
-No one
-the age
-any Personal Information
-our public discussion areas
-forums
-chats
-Minors
-the age
-purchases
-the Services
-coupons
-codes
-the Services
-goods
-services
-third party websites
-these prohibitions
-your children
-information
-our public discussion areas
-consequences
-children
-example
-unsolicited messages
-other parties
-Personal Information
-that information
-How We Collect or Create Information
-Summary
-Information
-User Information
-the course
-our relationship
-a purchase
-a public post
-social media
-our Services
-our Services
-any part
-the Services
-any third party content
-advertising
-the Services
-User Information
-third parties
-(e.g., social network sites
-User Information
-records
-your interactions
-Ookla
-Personal Information
-public areas
-the Services
-This Policy
-the practices
-third parties
-information
-Ookla
-User Information
-User Information
-the following sources
-your Personal Information
-our Services
-emails
-newsletters
-bulletins
-webinars
-white papers
-site membership
-a profile
-account
-any part
-the Services
-a sweepstakes
-contest
-competition
-prize
-draw
-promotional information
-SMS text message
-surveys
-search queries
-the Services
-email
-telephone
-any other means
-a subscription, software license
-product
-your business card
-your Personal Information
-the ordinary course
-our relationship
-a service
-your Personal Information
-social media
-information
-your social media
-a public post
-our chats
-the Services
-your Personal Information
-any part
-our Service
-Ookla
-Sensorly
-a test
-Speedtest
-any device
-platform
-(b) non-precise information
-the approximate physical location
-your computer
-device
-GeoIP Data
-Precise Location Data
-your mobile device settings
-(c
-Other Information
-the IP address
-the ISP
-college
-organization
-the network
-network
-hardware
-device
-identifiers
-your SSID
-the test
-a smartphone
-Speedtest
-your smartphone
-other mobile device
-Ookla
-your Precise Location Data
-a test
-the application
-use
-the background
-your device
-the Speedtest extension
-your web browser
-addition
-a test
-your internet speed
-the extension
-our Web Speed feature
-the load time
-a particular website
-a particular website
-the Web Speed feature
-page load metrics
-the websites
-page URLs
-load times
-GeoIP Data
-Web Speed
-your IP address
-a test
-the approximate location
-your device
-Web Speed
-Ookla
-the test
-this information
-recent Speedtest information
-the same device
-Content
-advertising information
-any third party content
-advertising
-the Services
-Channels
-User Information
-the relevant third party
-Third party information
-your Personal Information
-third parties
-offline channels
-telephone
-direct mail efforts
-customers
-vendors
-suppliers
-third parties
-commercially available or publicly-available sources
-(e.g., data brokers
-data aggregators
-public databases
-third party affiliate network operators
-referral sources
-social network sites
-services
-, Facebook
-Twitter
-LinkedIn
-a third party connection
-(e.g., Facebook Connect
-Twitter
-the Services
-a membership
-profile
-any part
-the Services
-our content
-our content
-another person
-platform
-service
-your username or email address
-those third party services
-other information
-those services
-Ookla
-the information
-the discussions
-any public areas
-the Services
-comments sections
-forums
-blogs
-wikis
-chat rooms
-private messages
-message boards
-other publicly accessible interaction
-information
-any user profile
-other areas
-the Services
-users
-users
-such Personal Information
-this fashion
-your publicly available information
-any time
-your profile page
-removal
-your Personal Information
-these areas
-our DSAR Portal
-some cases
-your Personal Information
-which case
-This Privacy Policy
-the practices
-third parties
-information
-Ookla
-Creation
-User Information
-User Information
-records
-your interactions
-details
-your purchase history
-internal administrative purposes
-analysis
+requirements
+reasonable accommodation
+physical assistance
 data
-data
-third parties
-social networks
-other data collection entities
-Purposes
-Your Information
-Summary
-Purposes
-Your Information
-User Information
-the following purposes
-the Services
-advertising
-the Services
-Channels
-engagement
-our audience
-user engagement and purchase activity
-the Service
-Channels
-business
-Speedtest
-Ookla
-your internet connectivity
-Downdetector
-outages
-third-party services
-our services
-offerings
-current and prospective customers
-our IT systems
-surveys
-the security
-our systems
-investigations
-applicable law
-our Services
-The purposes
-User Information
-applicable law
-Provision
-the Services
-the Services
-Ookla
-its partners
-(i) offering
-contests
-chat areas
-forums
-communities
-your personal testimonial
-other endorsements
-(iii) display
-your personal reviews
-products
-services
-other website members
-information
-that member
-full name
-gamer profile
-users
-that criteria
-(v) management
-your account
-(vi) customer support
-relationship management
-Offering
-the Services
-the Services
-personalized content
-the Services
-issues
-the Services and planning improvements
-new Services
-changes
-our Services
-Surveys
-the purposes
-your views
-our Services
-Communications
-any means
-email
-telephone
-text message
-social media
-post
-person
-news items
-other information
-such communications
-compliance
-applicable law
-your contact information
-your prior, opt-in consent
-direct marketing
-Section
-Advertising
-advertising
-your interests
-interactions
-the Services
-Channels
-User Information
-advertisements
-the Services
-Channels
-licensing segments
-User Information
-third parties
-further information
-Section
-Audience Engagement
-identification
-development
-audience engagement
-advertising
-promotional strategies
-various platforms
-channels
-the Service
-Channels
-User Engagement
-Purchases
-purchase traffic
-activity
-the Service
-Channels
-review
-your browsing history
-provision
-analytics
-measurement
-cost
-traffic
-money
-Commerce Offerings
-cookies
-your browsing history
-the amount
-money
-a particular third party merchant’s site
-coupons
-other offers
-your shopping experience
-offering
-coupons
-SMS messages
-a mobile phone number
-Lead Generation
-business
-the provision
-leads
-customers
-customer’s target marketing campaigns
-services
-different strategies
-phone calls
-email newsletter marketing
-content
-white papers
-webinars
-Ookla
-your contact information
-our customer
-Speedtest Offerings
-Ookla
-multiple devices
-products
-platforms
-an extension
-your web browser
-applications
-certain products
-routers
-the speed
-latency
-other primary network characteristics
-your TCP/IP network connections
-the results
-Your Speedtest or Sensorly results
-Ookla
-analyses
-product enhancements
-market reports
-Ookla
-the Speedtest and Sensorly results
-any feedback
-connection therewith
-its business customers
-Ookla
-the Speedtest and Sensorly applications
-business customers
-their end
-users
-their own networks’ internet connectivity
-the case
-Speedtest
-an end
-a product
-the Ookla network
-servers
-Downdetector
-multiple devices
-products
-platforms
-Downdetector
-data
-outages
-third party services
-anonymous reporting
-outages
-Downdetector
-comments
-Downdetector
-social media posts
-outages
-Other Information
-Downdetector
-users
-the status
-the third party services
-Ookla
-Downdetector data
-its business customers
-Customers
-current and prospective customers
-their employees
-an interest
-business
-business
-Ookla
-order
-our business
-Such efforts
-marketing emails
-phone calls
-the purchase
-advertising
-Speedtest
-Sensorly
-Online Data licensing
-lead generation
-other business services
-Ookla
-IT Administration
-administration
-Ookla’s information technology systems
-network and device administration
-network
-device security
-data security
-information systems policies
-compliance audits
-relation
-internal policies
-identification
-mitigation
-fraudulent activity
-compliance
-legal requirements
-Security
-electronic security measures
-monitoring
-login records
-access details
-the risk
-the ability
-a security incident
-Financial Management
-general business and financial management purposes
-economic, financial and administrative management
-planning
-reporting
-personnel development
-sales
-accounting
-finance
-corporate audit
-compliance
-legal requirements
-Investigations
-breaches
-policy
-criminal offences
-accordance
-applicable law
-Legal Proceedings
-legal rights
-Legal Compliance
-applicable law
-the right
-information
-any user
-Services
-grounds
-the user
-violation
-our Terms
-Use
-other published guidelines
-grounds
-any illegal activity
-information
-response
-court
-governmental orders
-other requests
-government entities
-civil subpoenas
-discovery requests
-law
-regulatory obligations
-information
-users
-good faith
-such release
-the interest
-the rights
-property
-safety
-security
-Ookla
-our users
-the public
-an emergency
-Direct Marketing
-
-
-Summary
-Direct Marketing
-your User Information
-information
-services
-interest
-SMS messages
-any time
-your User Information
-email
-telephone
-direct mail
-SMS
-other methods
-communication
-information
-the Services
-interest
-information
-the Services
-promotions
-other information
-interest
-the contact details
-compliance
-applicable law
-our newsletter lists
-any time
-the unsubscribe instructions
-every email
-any emails
-a list
-the extent
-the purposes
-any other Services
-additional emails
-Cookies
-Similar Technologies
-Online Behavioral Advertising
-Summary
-Cookies
-Similar Technologies
-Online Behavioral Advertising
-your User Information
-Cookies
-similar technologies
-the Services
-Channels
-more information
-our Cookie Policy
-Certain tracking technologies
-a unique identifier
-information
-your use
-the Services
-Other Information
-your User Information
-the purposes
-relevant content
-advertising
-our partners
-these technologies
-trends
-the Services
-information
-user settings
-anonymous browser identifiers
-video viewing history
-supplement
-our server
-logs
-other methods
-traffic and response measurement
-users’ location
-movements
-the Services
-demographic information
-our user base
-our understanding
-traffic
-the Services
-visitor behavior
-responses
-promotional campaigns
-Ookla
-certain third parties
-information
-online behavioral advertising purposes
-order
-relevant interest-based advertising
-the Services
-other websites
-platforms
-media channels
-Online Data
-other User Information
-online behavioral ads
-Online Data
-the Other Information
-data
-similar data
-partners
-groups
-users
-certain general-interest categories
-segments
-this information
-a more accurate picture
-audience interests
-order
-ads
-your interests
-Ookla
-its partners
-cookies
-other tracking technologies
-trends
-users’ movements
-the Services
-third party sites
-devices
-applications
-demographic information
-our user base
-the use
-cookies
-the individual browser level
-disable cookies
-your use
-certain features
-functions
-the Services
-Flash cookies
-our Cookie Policy
-more information
--depth
-what cookies
-the different types
-cookies
-the Services
-Tracking technologies
-the Services
-Ookla
-our service providers
-partners
-Certain tracking technologies
-a unique identifier
-information
-your use
-the Services
-other information
-your User Information
-information
-different means
-different times
-such information
-offline and online information
-other sources
-third parties
-the purposes
-relevant content
-advertising
-email messages
-newsletters
-web beacons
-customized links
-clear GIFs
-similar technologies
-the email
-order
-more focused email communications
-other information
-that information
-other data
-the purposes
-this Privacy Policy
-our partners
-e-commerce partners
-affiliates
-analytics providers
-technologies
-pixel tags
-e-tags
-, IP addresses
-Local Shared Objects
-Local Storage
-Flash cookies
-HTML5
-trends
-the Services
-information
-user settings
-anonymous browser identifiers
-video viewing history
-our server
-traffic and response measurement
-track users’ location
-movements
-the Services
-demographic information
-our user base
-our understanding
-traffic
-the Services
-visitor behavior
-responses
-promotional campaigns
-reports
-the use
-these technologies
-these third party companies
-an individual and aggregated basis
-example
-information
-your IP address
-corporate or User Information
-the associated information
-content preferences
-our efforts
-market services
-Various browsers
-their own management tools
-Local Storage
-Flash Local Shared Objects
-mobile analytics software
-data
-the functionality
-our mobile software
-devices
-applications
-your phone
-other devices
-This software
-information
-the application
-the events
-the application
-aggregated usage
-performance data
-the application
-this information
-User Information
-Ookla
-certain third parties
-information
-online behavioral advertising
-(“OBA”) purposes
-order
-relevant interest-based advertising
-the Services
-other websites
-platforms
-media channels
-OBA
-interest-based advertising
-Ookla
-ads
-both the Services
-the Channels
-Online Data
-other User Information
-example
-an article
-a particular subject
-the Services
-cookies
-a vendor
-an advertisement
-a particular product
-service
-the viewed article
-These third party vendors
-information
-pages
-the Services
-information
-pages
-other Channels
-advertising
-this combined information
-These advertisements
-a different section
-the Services
-another Channel
-third party vendors
-advertisements
-the Services
-your interaction
-the Services
-other Channels
-The specific providers
-OBA
-change
-a list
-the applicable providers
-information
-methods
-these entities
-more details
-OBA
-Section
-Online Data
-the Other Information
-data
-this Privacy Policy
-similar data
-partners
-groups
-users
-certain general-interest categories
-segments
-(a) demographic or interest data
-GeoIP Data
-(b) the pages
-an email
-the Services
-our partners
-(c
-the search terms
-certain search services
-this information
-a more accurate picture
-audience interests
-order
-ads
-your interests
-page views
-clicks
-search terms
-ad personalization
-your Personal Information
-the Lawful Basis
-Personal Information
-Summary
-Lawful Basis
-Processing User Information
-your User Information
-your consent
-the Processing
-a contract
-the Processing
-applicable law
-the Processing
-the vital interests
-any individual
-a valid legitimate interest
-the Processing
-your User Information
-connection
-the purposes
-this Policy
-the following legal bases
-the circumstances
-Consent
-your User Information
-consent
-the Processing
-this legal basis
-relation
-Processing
-Processing
-any way
-Contractual necessity
-your User Information
-the Processing
-connection
-any contract
-applicable law
-your User Information
-the Processing
-applicable law
-your User Information
-the Processing
-the vital interests
-any individual
-Legitimate interests
-your User Information
-a legitimate interest
-the Processing
-the purposes
-managing
-operating
-our business
-legitimate interest
-your interests
-fundamental rights
-freedoms
-legitimate interest
-the basis
-connection
-the Speedtest and Sensorly offerings
-Ookla
-our business
-our current and prospective customers
-Speedtest
-Sensorly
-Ookla
-a legitimate interest
-your Speedtest results
-internet providers
-hardware manufacturers
-industry regulators
-a better and faster internet
-What Information
-Third Parties
-Summary
-Disclosure
-User Information
-Third Parties
-your User Information
-legal and regulatory authorities
-our external advisors
-parties
-User Information
+a third party vendor
+Eventsforce Solutions Ltd. Eventsforce
+a data processor
 our behalf
-(“Processors
-any party
-connection
-legal proceedings
-any party
-criminal offences
-any purchaser
-our business
-any third party providers
-advertising
-plugins
-content
-the Services
-your User Information
-other entities
-the Company group
-legitimate business purposes
-the Services
-services
-accordance
-applicable law
-addition
-your User Information
-legal and regulatory authorities
-request
-the purposes
-any actual or suspected breach
-applicable law
-regulation
-professional advisors
-accountants
-auditors
-lawyers
-binding contractual obligations
-confidentiality
-third party Processors
-analytic providers
-data centers
-the world
-the requirements
-this Section
-law enforcement agency
-court
-the extent
-the establishment
-exercise
-defense
-legal rights
-any relevant party
-the purposes
-prevention
-investigation
-detection
-prosecution
-criminal offences
-the execution
-criminal penalties
-the prevention
-threats
-public security
-any relevant third party
-the event
-any relevant portion
-our business
-assets
-the event
-a reorganization
-dissolution
-liquidation
-any relevant third party provider
-our Services
-third party advertising
-plugins
-content
-any such advertising
-plugins
-content
-information
-your activities
-the Services
-Channels
-targeted advertising
-your interests
-the relevant third party provider
-an advertisement
-the advertiser
-its target criteria
-any sponsors
-contests
-competitions
-sweepstakes
-prize draws
-white papers
-webcasts
-other downloads
-the registration data
-such events
-User Information
-the sponsor
-this Policy
-the sponsor
-privacy policy
-your information
-third party vendors
-the administration
-such events
-contests
-the official rules
-terms
-conditions
-your information
-third parties
-whose practices
-this Privacy Policy
-(e.g., third party providers
-goods
-services
-marketing
-advertising companies
-agencies
-content publishers
-retailers
-our Services
-some information
-the name
-our users
-their mailing address
-phone number
-email address
-certain circumstances
-company size
-other industry data
-a rental or other basis
-(e.g., sale
-third party providers
-goods
-services
-example
-such information
-connection
-webcasts
-white papers
-other sponsored downloads
-a co-branded service
-a service
-a partner
-Ookla
-information
-a co-branded site
-permission
-the collected information
-that partner
-third party service providers
-whose services
-the Services
-respect
-surveys
-the event
-responses
-users
-the time
-the survey
-only aggregate information
-its users’ responses
-surveys
-other participants
-the survey
-surveys
-users
-written comments
-Ookla
-users
-the possibility
-such disclosure
-the time
-the survey
-Ookla
-the right
-any information
-users
-no User Information
-a specific user
-Ookla
-our advertisers
-third party advertising service companies
-advertisements
-OBA
-related services
-the Services
-these third party advertising companies
-cookies
-other technologies
-the effectiveness
-website
-app
-email
-advertisements
-a record
-interaction
-our content
-conjunction
-their advertising
-other sites
-applications
-website traffic
-the Services
-third party providers
-the segmentation
-this data
-Online Data
-certain third parties
-advertisers
-this data
-ads
-your interests
-the confidentiality
-this information
-these third parties
-the Online Data
-their own data
-a more detailed picture
-third party providers
-the collection
-storage
-segmentation
-Online Data
-the providers
-the confidentiality
-this information
-These third party providers
-User Information
-our Services
-their own purposes
-fraud
-the web
-third parties
-the purpose
-our users
-interest-based content
-advertisements
-your User Information
-our partners
-your name
-postal address
-email
-other identifier
-Our partners
-(i
-information
-your device
-your IP address
-device ID
-advertising ID
-information
-your browser
-operating system
-(ii
-User Information
-Ookla
-information
-other sites
-services
-(iii) place
-a unique cookie
-your browser
-otherwise described herein
-the information
-all tests
-Ookla
-performance data
-users
-the Ookla websites
-its Speedtest server hosts
-third parties
-the information
-the express intent
-a neutral and unbiased monitoring
-reporting
-resource
-users
-the world
-The only Speedtest results
-third parties
-those test results
-instances
-Speedtest Custom
-a paid subscription
-white label
-such instances
-the Speedtest results
-the subscriber
-that subscriber
-privacy policy
-Information
-Speedtest
-some ISPs and mobile carriers
-Ookla
-full IP addresses
-network
-hardware
-device
-identifiers
-such ISP or mobile carrier
-customers
-request
-Ookla
-full IP addresses
-network, hardware and device identifiers
-equipment manufacturers
-core network
-wholesale providers
-case
-network research purposes
-Ookla
-GeoIP Data
-Precise Location Data
-such data
-third parties
-a third-party Processor
-your User Information
-the Processor
-binding contractual obligations
-the User Information
-accordance
-our prior written instructions
-measures
-the confidentiality
-security
-the User Information
-any additional requirements
-applicable law
-The Services
-links
-other sites
-partners
-whose information practices
-the privacy policy
-these third parties
-your privacy
-International Transfers
-Information
-Summary
-International Transfers
-Information
-your Personal Information
-recipients
-other countries
-the E.U.-U.S. Privacy Shield
-the Swiss-U.S. Privacy Shield
-the APEC Cross Border Privacy Rules System
-User Information
-the European Economic Area
-a recipient
-the EEA
-an adequate jurisdiction
-the basis
-standard contractual clauses
-the international nature
-our business
-your User Information
-the Ookla group
-companies
-third parties
-Section
-connection
-the purposes
-this Policy
-this reason
-your User Information
-other countries
-different laws
-data protection compliance requirements
-the country
-Ookla
-LLC
-its U.S. affiliates
-their compliance
-the E.U.-U.S. Privacy Shield Framework
-the Swiss-U.S. Privacy Shield Framework
-Ookla
-all Personal Information
-European Union (E.U.) member countries
-Switzerland
-reliance
-the Privacy Shield Framework
-the Framework’s applicable principles
-the Privacy Shield Framework
-the U.S. Department
-Commerce
-Privacy Shield List
-Ookla
-the processing
-Personal Information
-the Privacy Shield Framework
-subsequent transfers
-a third party
-an agent
-its behalf
-Ookla complies
-the Privacy Shield principles
-all onward transfers
-Personal Information
-the E.U.
-Switzerland
-the onward transfer liability provisions
-respect
-Personal Information
-the Privacy Shield Framework
-Ookla
-the regulatory enforcement powers
-the U.S. Federal Trade Commission
-certain situations
-Ookla
-Personal Information
-response
-lawful requests
-public authorities
-national security or law enforcement requirements
-a European individual
-a privacy related complaint
-concern
-question
-Ookla’ privacy practices
-our DSAR Portal
-certain conditions
-the Privacy Shield website
-European individuals
-binding arbitration
-other dispute resolution procedures
-your Personal Information
-the EEA
-recipients
-the EEA
-a jurisdiction
-the European Commission
-an adequate level
-protection
-Personal Information
-the basis
-standard contractual clauses
-a copy
-the relevant standard contractual clauses
-our DSAR Portal
-any Personal Information
-a Company entity
-the EEA
-that transfer
-your Personal Information
-your Personal Information
-the point
-the data
-accordance
-the provisions
-this Privacy Policy
-Ookla privacy practices
-this Privacy Policy comply
-the Asia-Pacific Economic Cooperation
-(“APEC
-Cross Border Privacy Rules System
-this program
-data
-a third party operator
-licensee
-localized versions
-editions
-Services
-Data Security
-
-
-Summary
-Data Security
-appropriate technical and organizational security measures
-your User Information
-any Personal Information
-appropriate technical and organizational security measures
-your User Information
-accidental or unlawful destruction
-loss
-alteration
-unauthorized disclosure
-unauthorized access
-other unlawful or unauthorized forms
-Processing
-accordance
-applicable law
-certain instances
-Secure Sockets Layer encryption
-certain User Information
-a non-human readable format
-protection
-a breach
-any breach
-security
-the actions
-any third parties
-the internet
-an open system
-the transmission
-information
-the internet
-reasonable measures
-your information
-the security
-your data
-the internet
-Any such transmission
-your own risk
-any Personal Information
-Data Accuracy
-Summary
-Data Accuracy
-every reasonable step
-your User Information
-date
-inaccuracies
-every reasonable step
-your User Information
-date
-your User Information
+The use
+your personal data
+relation
+conference attendance
+Article 6 sec
+1 lit
+b GDPR
+Art
+9 sec
+2 lit
+a GDPR
 regard
-the purposes
-Data Minimization
-Summary
-Data Minimization
-every reasonable step
-the volume
-your User Information
-every reasonable step
-your User Information
-the User Information
-connection
-the purposes
-this Policy
-services
-access
-the Services
-Data Retention
-Summary
-Data Retention
-every reasonable step
-your User Information
-Online Data
-OBA
-Ookla
-not more than 180 days
-certain conditions
-every reasonable step
-your User Information
-the minimum period
-the purposes
-this Policy
-The criteria
-the duration
-your User Information
-copies
-your User Information
-a form
-identification
-connection
-the purposes
-this Policy
-applicable law
-a longer retention period
-a specific legal requirement
-the information
-a legitimate business need
-Ookla
-historical Speedtest
-data
-connection
-the following purposes
-Section
-analyses
-product enhancements
-market reports
-the Speedtest and Sensorly results
-its business customers
-Ookla
-historical Speedtest
-data
-purposes
-the public interest
-scientific or historical research purposes
-statistical purposes
-this Privacy Policy
-Online Data
-OBA
-Ookla
-not more than 180 days
-the 180 day period
-the same user
-an ad, email
-the Services
-a Channel
-My Information
-My Information
-steps
-your preferences
-newsletters
-online behavioral advertising
-this section
-an EU resident
-certain rights
-the right
-your Personal Information
-the right
-access
-your Personal Information
-the right
-rectification
-inaccuracies
-the right
-the erasure
-restriction
-Processing
-your Personal Information
-the right
-the Processing
-your Personal Information
-the right
-your Personal Information
-another controller
-the right
-consent
-the right
-complaints
-supervisory authorities
-proof
-your identity
-effect
-these rights
-steps
-your preferences
-Access
-Your Personal Information
-request
-Ookla
-information
-your personal information
-deletion
-your personal information
-your account
-our DSAR Portal
-your request
-a reasonable timeframe
-Your Newsletter and Email Subscriptions
-a newsletter
-other email list
-any time
-the instructions
-the end
-the newsletters
-emails
-five to ten business days
-changes
-effect
-some Services
-member service-related communications
-an integral part
-such Services
-emails
-that particular portion
-the Services
-your account
-the newsletters
-email list
-more than one email address
-each email address
-Push Notifications
-notifications
-time
-time
+all health-related information
 order
-any events
-promotions
-these types
-communications
-the device level
-proper notifications
-certain information
-your device
-operating system
-user identification information
-OBA
-Ookla
-parent company Ziff Davis
-LLC
-a member
-the Digital Advertising Alliance
-“DAA
-the U.S.
-E.U.
-Canada
-the DAA principles
-Ookla
-the self-regulatory organization principles
-the DAA
-(US
-(Canada
-Online ads
-the Services
-Online Data
-the DAA Ad Marker Icon
-users
-their data
-choices
-users
-more control
-This icon
-our web pages
-applications
-Online Data
-OBA purposes
-The DAA Ad Marker Icon
-information
-links
-other information
-online behavioral ads
-your Online Data
-Online Data
-which advertisements
-this icon
-our webpages
-mobile applications
-European Union and Switzerland residents
-the European DAA
-Canadian residents
-the DAA
-Canada
-U.S. residents
-residents
-all other countries
-territories
-the DAA site
-the use
-cookies
-your opt-out choices
-Cookies
-Pixel Tags
-cookies
-pixel tags
-your computer
-purge cookies
-your browser
-your web browser preferences
-the Services
-the features
-functions
-services
-the Services
-Location Based Services
-your Precise Location Data
-Ookla
-any time
-the appropriate setting
-your mobile device
-the Settings area
-your device
-Speedtest App
-Web Speed Feature
-the background
-feature
-the Speedtest application
-the settings or coverage maps features
-the Speedtest application
-the background
-feature
-your smartphone
-mobile device
-settings
-transmittal
-Precise Location Data
-certain features
-their functions
-the Speedtest Web Speed feature
-any time
-the settings
-your web browser
-California Residents
-accordance
-the California Online Privacy Protection Act
-Personal Information
-your online activities
-the Services
-our users
-many avenues
-Personal Information
-Web browsers
-” signals
-California
-the Light” law
-our users
-California residents
-certain information
-any Personal Information
-third parties
-direct marketing purposes
-a California resident
-such a request
-your Personal Information
-your request
-the contact details
-Section
-EU Residents
-GDPR
-certain rights
-EU residents
-certain information
-which case
-the features
-functionality
-the Services
-These rights
-accordance
-applicable law
-the right
-the restriction
-processing
-your information
-access
-rectification
-erasure
-portability
-your own information
-your information
-the basis
-your consent
-the right
-that consent
-such withdrawal
-the lawfulness
-any Processing
-the date
-notice
-such withdrawal
-the Processing
-your Personal Information
-reliance
-any other available legal bases
-Requests
-the DSAR Portal
-an EU resident
-any unresolved privacy concern
-the right
-the appropriate EU Supervisory Authority
-a complaint
-Brazilian Residents
-LGPD
-certain rights
-Brazilian residents
-certain information
-which case
-the features
-functionality
-the Services
-These rights
-accordance
-applicable law
-the right
-the restriction
-processing
-your information
-the right
-the deletion
-blocking
-anonymization
-your information
-your information
-an unnecessary, excessive or non-compliant manner
-information
-the entities
-your information
-access
-rectification
-erasure
-portability
-your own information
-your information
-the basis
-your consent
-the right
-that consent
-such withdrawal
-the lawfulness
-any Processing
-the date
-notice
-such withdrawal
-the Processing
-your Personal Information
-reliance
-any other available legal bases
-Requests
-the DSAR Portal
-a Brazilian resident
-any unresolved privacy concern
-the right
-the controller
-the national authority
-Terms
-Use
-Summary
-Terms
-Use
-The Ookla Terms
-Use
-your use
-the Services
-more information
-your use
-the Services
-Ookla Terms
-Use
-The Ookla Terms
-Use
-reference
-this Privacy Policy
-our Terms
-Use
-order
-any changes
-time
-time
-Contact Details
-Summary
-Contact Details
-the addresses
-Ookla c/o Ziff Davis
-        
-        Attention
-Legal Department
-Fifth Avenue
-New York
-NY
-an EU or Brazilian resident
-our Data Protection Officer
-GDPR
-LGPD
-related inquiries
-our DSAR Portal
-any comments
-questions
-concerns
-the information
-this Policy
-any other issues
-the Processing
-User Information
-our behalf
-o Ziff Davis
-Legal Department
-Fifth Avenue
-NY
-Our Data Protection Officer
-GDPR
-LGPD related inquiries
-our DSAR Portal
-an unresolved concern
-your privacy
-our use
+the required physical assistance
+the consent
+attendees
+personal data
 data
-our U.S.-based third party dispute resolution provider
-charge
-California Consumers
-Summary
-California Consumers
-The California Consumer Privacy Act
-(“CCPA
-certain rights
-California consumers
-a consumer
-California
-the following additional terms
-the right
-what personal information
-a verifiable request
-https://dsar.ookla.com
-email
-an account
-the request
-the email address
-the request
-the email address
-file
-the account
-an account
-the request
-an email
-the email address
-the request
-additional information
-the request
-the request
-Collection
-Personal Information
-The categories
-California consumers’ Personal Information
-Section
-What Categories
-Information
-reference
-Section
-Personal Details
-Demographic Information
-Contact Details
-Consent Records
-Location Information
-Precise Location Data
-Purchase
-Payment
-Details
-Employer Details
-Views
-Opinions
-other kinds
-information
-other sources
-“Other Information
-this Policy
-Section
-information
-your use
-visits
-interaction
-engagement
-the Services
-content
-ads
-Channels
-history
-searches
-interactions
-e-commerce opportunities
-merchants
-offers
-the Services
-California consumers’ Personal Information
-the sources
-Section
-User Information
-Section
-Data
-Relationship Data
-Public
-Service Data
-Content
-Advertising Information
-Third Party Information
-Speedtest data
-a Speedtest
-personal information
-the following sources
-Section
-What Categories
-Information
-GeoIP Data
-ID
-IDFA
-IP address
-ISP
-SSID
-Log files
-Web Beacons
-Pixel Tags
-Local Shared Objects
-Flash cookies
-Local Storage
-HTML5
-equivalents
-this data
-the purposes
-Section
-(“Purposes
-your Personal Information
-Direct Marketing
-Section
-Direct Marketing
-Disclosure
-Sale
-Personal Information
-the categories
-Personal Information
-Section
-What Information
-Third Parties
-a business or commercial purpose
-Personal Information
-the following categories
-third parties
-a business purpose
-other entities
-the Company group
-a legitimate business purpose
-the Services
-the Services
-third party Processors
-the purpose
-the Services
-third party providers
-our Services
-third party advertising
-plugins
-content
-third party providers
-the collection
-storage
-segmentation
-Online Data
-These third party providers
-User Information
-our Services
-their own purposes
-fraud
-the web
-third parties
-the purpose
-our users
-interest-based content
-advertisements
-your User Information
-our partners
-your name
-postal address
-email
-other identifier
-Our partners
-(i
-information
-your device
-your IP address
-device ID
-advertising ID
-information
-your browser
-operating system
-(ii
-User Information
-Ookla
-information
-other sites
-services
-(iii) place
-a unique cookie
-your browser
-third party vendors
-the administration
-contests
-competitions
-sweepstakes
-webcasts
-Personal Information
-the following categories
-third parties
-a business purpose
-a commercial purpose
-third party providers
-our Services
-third party advertising
-plugins
-content
-any such advertising
-plugins
-content
-information
-your activities
-the Services
-Channels
-targeted advertising
-your interests
-the relevant third party provider
-an advertisement
-the advertiser
-its target criteria
-third parties
-the purpose
-our users
-interest-based content
-advertisements
-your User Information
-our partners
-your name
-postal address
-email
-other identifier
-Our partners
-(i
-information
-your device
-your IP address
-device ID
-advertising ID
-information
-your browser
-operating system
-(ii
-User Information
-Ookla
-information
-other sites
-services
-(iii) place
-a unique cookie
-your browser
-third parties
-advertisers
-Online Data
-ads
-your interests
-the confidentiality
-this information
-these third parties
-the Online Data
-their own data
-a more detailed picture
-third party partners
-marketing
-advertising companies
-agencies
-content publishers
-retailers
-third party providers
-goods
-services
-service providers
-whose services
-the Services
-a co-branded service
-a service
-a partner
-Ookla
-information
-such co-branded site
-This information
-permission
-the collected information
-that third party
-Any sponsors
-contests
-competitions
-sweepstakes
-prize draws
-white papers
-webcasts
-other downloads
-the registration data
-such events
-User Information
-the sponsor
-this Policy
-the sponsor
-privacy policy
-third party providers
-goods
-services
-a rental or other basis
-our Services
-the name
-our users
-their mailing address
-phone number
 email address
-certain circumstances
-their employer
-company size
-other industry data
+information
+attendees
+future Nature conferences
+other products
+services
+special offers
+information
+your data
+This notification service
+your consent
+Article 6 sec
+1 lit
+a GDPR.5
+Manuscript submission
+Peer ReviewOur Submission
+Peer Review System
+the services
+peer review
+content preparation
+proofing
+publication
+dissemination
+research
+order
+the aforementioned services
+an initial account
+optional paid services
+an existing account
+regard
+the registration
+an account
+its subsequent use
+the following information
+Information
+registration
+your name
+user name
+email address
+Information
 connection
-webcasts
-white papers
-other sponsored downloads
-full IP addresses
-network hardware
-devices
-identifiers
-such ISP or mobile carrier
-customers
-request
-Equipment manufacturers
-core network
-wholesale providers
-full IP addresses
-network, hardware and device identifiers
-case
-network research purposes
-Third parties
-GeoIP Data
-Precise Location Data
-The Services
-use
-minors
-personal information
-minors
-16 years
-age
-affirmative authorization
-Request Deletion
-Personal Information
-the right
-deletion
-Personal Information
-a request
-email
-a request
-email
+an account sign-in facility
+e.g. log-in
+password details;Communications
+e-mail or website communication forms
+Content files
+letters
+youGrants
+funding
+membership
+institution
+society
+committee registrationBilling
+invoicing
+informationInformation
+societies
+the performance
+the service
+the personal data
+order
+sign
+the services
+information
+the Submission and Peer Review System
+you;Process paymentsProvide information
+an Author
+other publishing opportunities
+the Springer Nature group
+these communications
+any time
+the link
+each email
+customer services
+your capacity
+a current or potential Peer Reviewer
+Editorial Board Member
+external Editor
+information
+the journal
+s
+these communications
+a Peer Reviewer
+Editorial Board Member
+external Editor
+any time
+the link
+each email
+Customer Service
+these communications
+your status
+Peer Reviewer
+Editorial Board Member
+external Editor
+respect
+the journal
+a profile
+your publication record
+publicly available data
+published books
+articles
+citations
+grants
+This information
+article acceptance
+automated decision making
+section
+VI
+more information
+automated decision making
+This information
+communications
+the latest news
+our products
+services;To
+the accuracy
+content attribution
+the quality
+integrity
+the peer review
+processProvide you
+e-alertsOffer
+your submission
+an alternative Springer Nature title
+applicableAuthorise and process Article Publication Charges
+the legal basis
+Article 6 sec
+1 lit
+b GDPR
+our legitimate interest
+our services
+fraud
+Article 6 sec
+1 lit
+GDPR.Your personal account registration data
+the absence
+exceptions
+the specific services
+your account
+Non-activity
+a minimum
+three years
+ease
+return
+account holders
+Content
+communications
+submissions
+reviews
+decisions
+an account holder
+a period
+12 months
+final decision
+long term
+limited-access
+Content
+relation
+the services
+the interests
+the integrity
+published material
+Such a decision
+the oversight
+the Springer Nature Research Integrity Group
+The need
+legal actions
+the services
+payment problems
+a longer retention
+your personal data
+order
+the high quality
+our journals
+publications
+the significance
+the scientific research
+a peer review procedure
+order
+suitable and qualified peer reviewers
+the relevant research community
+editorial team members
+your basic personal data
+i.e. Email address
+research interest
+our Peer Review System
+The legal basis
+your personal data
+the Publisher
+the respective editor
+legitimate interest
+suitable and qualified peer reviewers
+the high level
+papers
+articles
+our journals
+1 lit
+f GDPR.As
+time
+time
+content
+1 lit
+your personal data
+your explicit wish
+any peer review procedure
+the future
+any future processing
+your data
+this regard
+The legal basis
+your legitimate interest
+your wish
+Article
+1 lit
+f GDPR.6
+Author
+instructor
+servicesIf
+the author and instructor services
+the required data
+the duration
+the process
+a security period
+the retention
+your personal data
+Article 6 sec
+1 lit
+b GDPR.If
+an author discount
+purchasing books
+the retention periods
+the web shop
+above).To
+a free online review copy
+a book
+the contact data
+your account
+the request
+VI
+Automated decision
+makingWe
+your personal data
+automated decision making
+legal effects
+your personal data
+content
+services
+interest
+VII
+Online advertising
+e-commerce
+related toolsWe use marketing services
+interesting offers
+this purpose
+advertisements
+advertising service providers
+cookies
+web beacons
+our website
+Cookies
+small text files
+the internet browser
+recognition
+a user
+Web beacons
+small image files
+log file recording
+log
+file analysis
+online advertising
+the services
+inter alia
+Google AdExchange
+Google AdSens
+Respective advertisement
+“ADVERTISEMENT
+“AdChoices
+The cookies
+web beacons
+our service providers
+information
+your surfing behaviour
+e.g. IP address
+browser information
+information
+user activities
+click data
+visitors
+our website
+a pseudonym
+only display products
+interest
+our visitors
+the tools use
+IP addresses
+The data
+the use
+our website
+the website
+advertising
+your needs
+this data
+your website experience
+our products
+services
+OneTrust
+a cookie management tool
+your preferences
+Personal data
+first party cookies
+Article 6 sec
+1 lit
+f GDPR
+our legitimate interest
+your website experience
+our products
+services
+this data
+a cookie management tool
+your preferences
+Personal data
+third party targeting cookies
+your consent
+our preference centre
+1 lit
+a GDPR.Please note
+the control
+the extent
+personal data
+the respective plug-in provider
+the processing
+purpose
+the period
+your personal data
+Your personal data
+the EEA
+further information
+the potential risks
+XI.It
+the above providers
+your personal data
+its business partners
+third parties
+authorities
+the installation
+such a cookie
+a respective setting
+your browser
+the installation
+third party cookies
+(ii
+the interest-related advertising
+https://www.google.co.uk/ads/preferences
+cookies
+https://www.google.co.uk/settings/ads/plugin
+(iv
+the option
+cookies
+the Springer Nature cookie preference centre
+Further information
+the processing
+your personal data
+the provider
+course
+operation
+its privacy policy
+further information
+regard
+your rights
+settings
+privacy
+the provider’s privacy policy
+these links
+Appnexus Baynote Brightcom CJ
+Acid FacebookGoogle Ad ManagerGoogle AdExchangeGoogle AdSenseGoogle
+FormsHotjarMarvellous MachineMicrosoft Bing AdsOracle MOATPermutivePubmatic  Rubicon ProjectSAP Marketing CloudTrustpilotTwitterUsabillaYahoo
+Google AdWords Remarketing
+Facebook Custom
+AudienceIn
+“Similar audiences” feature
+AdWords
+Google Inc.
+Amphitheatre Parkway
+Mountain View
+CA 94043 USA
+hereinafter
+Google”Google
+Cookies/tracking technologies
+i.e., text files
+your computer
+your use
+our Website
+Information
+Cookies/tracking technology
+your use
+this Website
+your IP address
+a Google server
+the U.S.
+that server
+the last three digits
+the IP address
+Google
+this IP address
+personal data
+Google
+this information
+your use
+the Website
+website activity reports
+the website operators
+additional services
+connection
+the use
+the Website
+the Internet
+Google
+this information
+third parties
+accordance
+statutory provisions
+third parties
+data
+behalf
+Google
+Third party providers
+Google
+websites
+the Internet
+Third party providers
+Google
+stored Cookies/tracking information
+advertisements
+previous visits
+a user
+this Website
 additional information
-your request
-Opt-Out
-the Sale
-Personal Information
-the right
-the sale
-Personal Information
-a business
-a request
-email
-a request
-email
-additional information
-your request
-Non-Discrimination
-the Exercise
-a Consumer’s Privacy Rights
-the right
-discriminatory treatment
-the business
-your privacy rights
-the California Consumer Privacy Act
-Authorized Agent
-a request
-the California Consumer Privacy Act
-a consumer
-a signed authorization letter
-the consumer
-Contact
-More Information
-any questions
-concerns
-our privacy policies
-practices
-email
-Date Privacy Policy
-Our Privacy Policy
+the anonymous analysis
+your search behaviour
+https://support.google.com/analytics/answer/6004245?hl
+/policies/technologies/ads
+collection
+storage
+the purpose
+any time
+this objection
+the future
+deactivating interest-based advertising
+Google
+the services
+the website
+the Network Advertising Initiative
+that case
+all features
+this Website
+this Website
+your consent
+the processing
+data
+Google
+the manner
+the purpose
+this Website
+tags
+Custom Audience
+Facebook Inc.
+South California Avenue
+Palo Alto
+CA 94304 U.S.
+hereinafter
+Facebook”
+our web pages
+tags
+a direct connection
+your browser
+the Facebook server
+Facebook
+our web page
+your IP address
+Facebook
+your visit
+our pages
+your user account
+The information
+Facebook ads
+the provider
+the webpages
+any information
+the contents
+data
+their use
+Facebook
+regard
+the use
+Custom Audience
+Facebook
+third parties
+cookies
+web beacons
+similar technologies
+information
+this Website
+the data
+our Facebook activities
+, e.g., arrange
+contents
+ads
+visitors
+our Website
+The data
+Facebook
+personal data
+individual users
+further information
+the privacy policy
+Facebook
+Custom Audience
+https://www.facebook.com/about/privacy/
+your data
+Custom Audience
+Custom Audience
+this link
+FreshdeskWe
+Freshdesk
+our communications
+authors
+Freshdesk
+Freshworks Inc.
+2950 S. Delaware Street
+Suite
+San Mateo
+USA
+Privacy Policy
+a transfer offer
+a relevant Springer Nature journal
+Freshdesk
+your name
+email address
+country details
+this data
+your paper
+neither we
+Freshworks
+your personal data
+third parties
+Zapnito
+Springer Nature authors
+other contributors
+the research community
+optional services
+unedited community blog posts
+our editorial board members
+Zapnito
+Zapnito Ltd. Mindspace 9th Floor
+9 Appold Street
+London
+EC2A
+UK
+a SaaS community platform
+expertise
+Zapnito
+online communities
+this material
+registrants
+the online communities
+Zapnito
+informational reasons
+an account
+only limited personal data
+the website
+your IP address
+your device type
+IDs
 the date
-the beginning
-the policy
-this Privacy Policy
-this Privacy Policy
 time
-time
-all changes
-the time
-a significant change
-this Privacy Policy
-our data collection
-practices
-our websites
-our Privacy Policy
-the change
-The then-posted version
-Your continued access
-use
-the Services
-your acceptance
-the Privacy Policy
-this web page
-this Privacy Policy
+your requests
+the content
+your requests
+information
+your browser version
+your screen resolution
+information
+your operating system
+language settings
+such information
+an effective service
+broad demographic information
+anonymised, aggregated use
 the terms
 conditions
-A Simplified Chinese translation
-this Privacy Policy
-Ookla
-China Supplemental Privacy Policy
-Speedtest
-®
-™Ookla Insights
-™Speedtest Awards
-Speedtest Global Index
-™Speedtest Servers
-VPN
-™AccountResults HistorySettingsHelpEnterpriseOokla
-®
-SolutionsPartnerships
-ProgramsOokla
-BrandsDowndetector
-®AboutOokla
-GoodCareersPressLanguageARDEENESFRIDITJAKONLPLPTRUSVTHzh-Hanszh-HantZiff
-DavisIGNPCMagExtremeTechGeekToolboxAskMenOffers.comOokla®
-the federally registered trademarks
-Ookla
-LLC
-explicit written permission
--2021 Ookla
-LLC
-All Rights
-StatusPrivacy PolicyTerms
-UseDo
-My Personal InformationWe
-our updated Privacy Policy
-Cookie Policy
+further personal data
+the scope
+such services
+Access
+registrant/subscription content
+a personal account
+a personal login
+Information
+your name
+user name
+email address
+registration
+Information
+connection
+an account sign
+facility
+(e.g. log-in
+password
+details
+Communications
+e-mail or website communication forms
+The information
+the performance
+the service
+the legal basis
+Article 6 sec
+1 lit
+a comment
+your name
+username
+a comment
+your personal data
+your IP address
+other metadata
+time
+possible liability claims
+unlawful comments
+the legal basis
+Article 6 sec
+1 lit
+f GDPR
+legitimate interest
+email notifications
+Registration
+means
+a double-opt-in
+an email
+a link
+the owner
+the email address
+our email notifications
+the link
+each notification email
+the notifications preference page
+The legal basis
+this processing
+Article 6 sec
+1 lit
+a GDPR
+Your email address
+our newsletters
+the removal
+your email address
+VIII
+AnalyticsOneTrustWe use
+Onetrust
+a service
+OneTrust LLC
+Dixon House
+1 Lloyd's Avenue
+London
+Onetrust services
+information
+the cookies
+other tracking technology
+our website
+user preferences
+that behalf
+Onetrust
+the following cookies
+your computer
+OptanonAlert
+OptanonConsent
+_dc_gtm_UA
+xxxxxxxxThis
+the cookie banner
+which choices
+those choices
+cookie categories
+These cookies
+the website
+function
+our systems
+response
+actions
+a request
+services
+your privacy preferences
+your current settings
+https://link.springer.com/cookiepolicy
+These cookies
+any personally identifiable information
+your browser
+these cookies
+some parts
+the site
+more information
+privacy policies
+OneTrust
+the OneTrust website
+https://Onetrust.com/privacy-notice/.For statistical analyses
+web analytics services
+Google Analytics
+information
+the use
+this site
+General tracking informationThe tools
+information
+Device
+browser information
+(operating system information
+Mobile device identifier
+mobile operating system
+etc.)IP addressPage
+the chronological order
+our internet sites
+visited)Geographic locationTime
+visitReferring site
+application
+the information
+the providers
+the most useful information
+this website
+a preference
+tracking
+your behaviour
+the purposes
+this data
+Springer Nature
+this tracking
+The legal basis
+this processing
+Google Analytics
+Art
+6 sec
+1 lit.f GDPR
+our legitimate interest
+our website
+traffic
+the user’s experience
+the website
+information
+your web behaviour
+any 3rd party providers
+your explicit consent
+Consent
+the appropriate button
+the web banner
+your first visit
+the website
+your consent
+OneTrust
+The legal basis
+this processing
+Art
+6 sec
+1 lit
+a GDPR
+3rd party targeting cookies
+the provider
+the information
+your use
+the website
+third countries
+e.g. the United States
+further information
+the potential risks
+a cross border data transfer
+section
+XI
+The tools
+only the IP address
+the date
+this site
+your name
+any other identifying information
+The provider
+this information
+order
+your use
+the website
+reports
+website activities
+other services
+website
+internet use
+Google Analytics
+Google Analytics
+a web analytics service
+Google LLC
+Amphitheatre Parkway
+Mountain View
+USA
+“Google
+our behalf
+Google
+the information
+a cookie
+the purpose
+your use
+the website
+reports
+website activity
+other services
+website activity
+internet activity
+connection
+the use
+the website
+your consent preferences
+the Google Analytics privacy policy
+The legal basis
+the data transfer
+Art
+28 GDPR
+conjunction
+the data processing agreement
+the use
+cookies
+the appropriate settings
+your browser
+your preferences
+addition
+the collection
+the information
+the cookie
+your use
+the website
+your IP address
+the processing
+this data
+Google
+the following link
+Third party content
+social media plug
+insThis website
+links
+third party websites
+the content
+the data collection
+respective third party websites
+the privacy policy
+respective websites
+information
+respective websites’ data processing
+Social media plug-insWe
+the following social media plug-ins
+Facebook
+Twitter
+such services
+our website
+Social media plug-ins
+a direct communication
+your device
+the servers
+the social media provider
+the social media provider
+information
+our website
+This processing
+Article 6 sec
+1 lit
+f GDPR
+our legitimate interest
+your website experience
+our services
+Transfer
+personal data
+place
+an account
+the provider
+the control
+the extent
+personal data
+the respective plug-in provider
+the processing
+purpose
+the period
+your personal data
+Further information
+the processing
+your personal data
+the provider
+course
+operation
+their respective privacy policy
+further information
+regard
+your rights
+privacy.a
+Facebook Social PluginsWe
+so-called social plugins
+plugins
+the social networking site
+Facebook Inc.
+1601 S. California Ave
+Palo Alto
+USA
+("Facebook
+The plugins
+Facebook
+(white “f
+blue tile
+the additional text
+“Facebook Social Plugin
+The list
+Facebook Social Plugins
+their appearance
+a user
+the websites
+such a plugin
+the user
+browser
+Facebook’s servers
+The plugin
+its content
+Facebook’s servers
+the website
+the user
+browser
+the integration
+the plugin Facebook
+the information
+a user
+the corresponding website
+the user
+Facebook
+the moment
+the website
+Facebook
+the visit
+the website
+the user
+Facebook account
+the user
+the plugin
+example
+the like button
+comments
+the user
+browser
+this information
+Facebook
+Facebook stores
+this information
+a user
+a member
+Facebook
+Facebook
+the user
+IP-address
+Facebook
+IP-addresses
+Germany
+The reason
+scope
+the data acquisition
+information
+the way
+the data
+Facebook
+the user
+rights
+this respect
+settings options
+the users privacy
+the user
+a member
+Facebook
+Facebook
+personal data
+this homepage
+his data
+Facebook
+the user
+Facebook
+this homepage
+The user
+Facebook
+plugins
+the user
+example
+the “Facebook Blocker“.b
+TwitterWe
+the twitter-button
+The button
+Twitter Inc.
+795 Folsom St.
+Suite
+San Francisco
+USA
+(“Twitter
+The buttons
+the text
+“Twitter
+“Follow
+a stylized blue bird
+The button
+the user
+an article
+a website
+this homepage
+Twitter
+the provider
+Twitter
+a user
+the websites
+such a button
+the user
+browser
+Twitter
+servers
+The Twitter-button
+its content
+Twitter’s servers
+the website
+the user
+browser
+the provider
+Twitter
+the user IP-address
+the website
+’s URL
+the button
+Twitter’s servers
+this data
+the Twitter-button
+Further information
+Twitter
+any questions
+our privacy policy
+the email address
+dataprotection@springer.com.2
+DimensionsWe
+Digital Science
+6 Briset St
+London
+UK
+the publications
+an author
+our applications
+services
+The applications
+an author
+publications
+Dimensions
+their co-authorships
+the aim
+the collaboration
+scientists
+individual scientists
+their work
+Digital Science
+a data controller
+this regard
+no say
+the data
+Dimensions
+their privacy policy
+information
+Digital Science
+personal data
+X. Information sharingWhere personal data
+third parties
+the purposes
+the legal basis
+the transfer
+your personal data
+Article 6 sec
+1 lit
+b
+f GDPR
+the recipients
+the EEA
+further information
+cross
+border transfer
+transfers
+the EEA
+section
+Cross border data transfers
+your personal data
+contractors
+the services
+the website
+Such a transfer
+data processing agreements
+Art. 28 GDPR
+our contractors
+your personal data
+the extent
+their functions
+your personal data
+our behalf
+compliance
+our requests
+the event
+re-organisation
+a third party
+any personal data
+that re-organised entity
+third party
+compliance
+applicable law
+your personal data
+example
+law
+a court order
+The legal basis
+Article 6 sec
+1 lit
+c GDPR
+conjunction
+the respective national law
+Peer Review
+Author Services
+the course
+our peer review services
+your data
+different members
+the editorial team
+editors
+assistants
+the editorial office
+the locations
+the Editorial board members
+a journal
+homepage
+access
+your personal data
+the respective processing activity
+the legitimate interest
+the respective society
+the Journal
+high quality articles
+papers
+the quality
+significance
+the respective research
+our journals
+products
+databases
+Article 6 sec
+1 lit
+f GDPR
+order
+the respective society
+your personal data
+suitable and qualified peer reviewers
+the relevant research community
+the respective society
+example
+reviewer
+author data
+the journal
+the society
+the respective data processing
+the control
+the extent
+personal data
+the respective society
+the processing purpose
+the period
+your personal data
+the above-mentioned societies
+your personal data
+their business partners
+third parties
+authorities
+further information
+the data processing
+the society
+control
+the respective society
+privacy notice
+TOC
+table
+content
+alerts
+members
+the services
+their membership
+the society
+a core element
+the overall service
+this end
+your personal (i.e. name and email address
+data
+Springer Nature
+the society
+The legal basis
+processing
+Art
+1 lit
+b GDPR
+Individual members
+TOC alerts
+any time
+the unsubscribe link
+every email
+Book Series Partners
+the event
+book volume alerts
+a Series Partner’s registered recipients
+Your personal data
+the EEA
+further information
+cross border data transfer
+section
+Cross border data transfers
+an author
+your personal data
+third parties
+your institution
+employer
+payment
+associated Article Publication Charges
+APCs
+order
+the publication
+your manuscript
+The legal basis
+Art
+1 lit
+your article
+consideration
+an institution
+funder
+a Springer Nature open access agreement
+your name
+contact details
+a representative
+that institution
+funder
+order
+APC
+editorial acceptance
+submitted articles
+the legal basis
+Article 6 sec
+1 lit
+b GDPR
+our contractual obligations
+the open access route
+publication
+your personal data
+the institution
+funder
+this post publication
+’s no bearing
+the evaluation
+your submission
+acceptance
+The legal basis
+your data
+this instance
+Article 6 sec
+1 lit
+f GDPR
+our legitimate interest
+our open access program
+the benefit
+authors
+the scientific community
+Customer service, administrative, operational and systems support
+other entities
+the Springer Nature Group
+third party contractors
+(together “Contractors
+your personal data
+Contractors
+the services
+the Submission and Peer Review System
+Such a transfer
+data processing agreements
+accordance
+Article
+the GDPR
+our Contractors
+your personal data
+the extent
+their functions
+your personal data
+our behalf
+compliance
+our requests
+Further services
+third party technology
+service providers
+data processing
+agreements.2
+Usage Reports
+anonymous aggregate statistics
+users
+the website
+order
+our services
+prospective partners
+advertisers
+other reputable third parties
+other lawful purposes
+these statistics
+no personal data
+standardized usage reports
+institutional customers
+Counter Reports
+more information
+Counter Reports
+- https://www.projectcounter.org/code-of-practice-sections/usage-reports/In addition
+the above mentioned anonymous reports
+special arrangement
+research journals
+eBooks
+database products
+your personal data
+usage reports
+journals
+eBooks
+your full text HTML
+PDF downloads
+your IP address
+potentially your email address
+This data
+the usage report
+information
+the usage
+overall interest
+a particular journal
+group
+journals
+eBooks
+The legal basis
+Art
+(1) 1 lit
+f GDPR
+a legitimate interest
+the use
+our content
+our services
+this data
+ongoing internal analysis
+future reference
+the usage data
+licensee
+whose license
+our services
+the institution
+a member
+your university etc
+“Licensee
+The legal basis
+Art
+(1) 1 lit
+f GDPR
+The Licensee
+a legitimate interest
+the usage data
+the economic efficiency
+its license
+our content
+this evaluation
+the Licensee
+the necessity
+more licenses
+the number
+licenses
+costs
+the usage data
+the Licensee
+contributions
+funding
+The Licensee
+the usage data
+no other purposes
+these economic efficiency assessment purposes
+addition
+a legitimate interest
+the Licensee
+the usage data
+respective evaluation
+assessments
+our interest
+our service
+the Licensees
+the Licensee
+the EEA
+the transfer
+a Commission’s adequacy decision
+EU Standard Contractual Clauses
+further information
+the aforementioned safeguards
+the transfer
+the usage data
+the Licensee
+any time
+reason
+an email
+XI
+Cross
+border data
+the scope
+our information sharing activities
+your personal data
+other countries
+countries
+the EEA
+different data protection standards
+your country
+residence
+data
+a foreign country
+foreign laws
+foreign governments
+courts
+law enforcement
+regulatory agencies
+reasonable measures
+an adequate level
+data protection
+your personal data
+such countries
+the case
+a transfer
+the EEA
+this transfer
+accordance
+Article 46 GDPR
+further information
+the aforementioned safeguards
+this link
+our Group Data Protection Officer
+specific information
+respective safeguards
+XII
+SecurityWe
+reasonable state
+the art security measures
+place
+the loss
+misuse
+alteration
+personal data
+our control
+example
+our security and privacy policies
+necessary and only authorised personnel
+access
+personal data
+loss
+misuse
+alteration
+information
+all reasonable efforts
+mind
+submission
+information
+the internet
+the security
+information
+our website
+transit
+the internet
+any such submission
+your own risk
+XIII
+Data retentionWe
+our processing activities
+respect
+your personal data
+the absence
+specific retention periods
+this policy
+your personal data
+the purpose
+statutory retention requirements
+XIV
+Your rightsUnder
+the legislation
+the following rights
+i) information
+your personal data
+(ii) access
+your personal data
+the purposes
+the processing
+the categories
+personal data
+potential retention periods;request rectification
+removal
+restriction
+your personal data
+the purposes
+the consent
+the processing
+impact
+data processing activities
+place
+such withdrawal
+your consent
+processing
+your personal data
+any time;object
+grounds
+your particular situation
+your personal data
+a processing
+this case
+information
+your particular situation
+the assessment
+the facts
+your personal data
+our compelling legitimate grounds
+an ongoing processing;take legal actions
+relation
+any potential breach
+your rights
+the processing
+your personal data
+complaints
+the competent data protection
+(i
+the personal data
+a structured, commonly used and machine-readable format
+(ii
+those data
+another controller
+hindrance
+our side
+the right
+the personal data
+another controller
+/ornot
+any automated decision making
+automatic decisions
+data processing
+automatic means
+the purpose
+several personal aspects
+legal effects
+similar significance
+the rights
+any questions
+(iii
+any complaints
+our data processing
+the contact details
+XV
+usPlease
+any questions
+concerns
+comments
+this privacy policy
+any requests
+your personal data
+email
+our Group Data Protection Officer
+our Group Data Protection Officer
+dataprotection@springernature.comThe information
+your request
+your request
+the processing
+the respective information
+accordance
+statutory retention requirements
+XVI
+Amendments
+the right
+this policy
+time
+time
+our website
+the website
+our respective current privacy policy
+This policy
+Products
+Journals
+Platforms
+Researchers
+Partners
+Authors
+Editors
+
+
+
+Open research
+Societies
+Partners
+
+
+
+Policies
+
+
+
+
+
+
+
+Librarians
+Products
+
+
+
+Licensing
+
+
+
+Tools & Services
+
+
+
+Account Development
+
+
+
+Blog
+
+
+
+Sales
+account contacts
+Our company
+Overview
+Education
+
+
+
+Professional
+
+
+
+Press office
+
+
+
+Locations
+Contact
+
+
+
+
+
+
+
+
+Contact
+a world leading research
+publisher
+our main website
+more information
+Springer Nature Group
+↗
+_
+_
+_
+©
+Springer Nature
+
+
+
+General terms
+conditions
+California Privacy
+Statement
+Manage cookies
+my data
+Accessibility
+Legal notice
+this site
+feedback

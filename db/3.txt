@@ -1,2022 +1,549 @@
-         Privacy Policy
-Atlassian                                                     Close   View
-this page
-your language
-All languages
-your language
-中文
-English   Español
-Italiano   한국어
-Magyar
-Nederlands
-日本語
-Português
-Pусский   Polski                Back     Products
-teams
-all products
-Atlassian.com
-Buy now   Search Toggle menu
-Close search             Plan
-Track
-Support
-Jira Software Project
-issue
-Jira Work Management Business team collaboration
-Jira Service Management
-High-velocity ITSM            Opsgenie Modern incident response
-Statuspage Incident communication
-Jira Align Enterprise
-Confluence Document collaboration
-Trello Collaborate
-any project
-Code
-Build
-Ship
-Bitbucket
-Git code management
-Sourcetree Git
-Mercurial desktop client
-Bamboo Integration
-management        SECURITY
-IDENTITY
-Atlassian Access Security
-control
-cloud            Crowd User management
-self-managed environments
-View
-all products
-Marketplace Apps
-Atlassian products     Developers Docs
-resources
-Atlassian apps     Trust
-security Compliance
-privacy
-platform roadmap
-Work Life
-culture
-tech
-teams
-tips
-Close dropdown
-team size
-startups
-incubator
-IPO       Small business
-the right tools
-your growing business
-Enterprise
-big teams
-team function
-Software Plan
-ship quality products
-Marketing
-a winning strategy
-HR
-Streamline people management
-Legal Operate
-Operations
-your business
-great service
-support
-Finance Simplify
-all finance processes
-Incident Response Respond
-resolve
-incidents
-View
-all products
-Marketplace Apps
-Atlassian products     Developers Docs
-resources
-Atlassian apps     Trust
-security Compliance
-privacy
-platform roadmap
-Work Life
-culture
-tech
-teams
-tips
-Close dropdown
-Resources
-our products
-Atlassian Migration Center Tools
-guidance
-Cloud roadmap Upcoming
-feature releases
-Purchasing
-licensing FAQs
-our policies
-Support services
-Enterprise
-Personal support
-large teams
-Partner support
-Trusted third-party consultants
-Atlassian Support
-A resource hub
-teams
-admins
-Learn
-Our mission
-history
-Careers Job openings
-values
-Atlassian University Training
-certifications
-all skill levels
-Atlassian Community A forum
-Marketplace Apps
-Atlassian products     Developers Docs
-resources
-Atlassian apps     Trust
-security Compliance
-privacy
-platform roadmap
-Work Life
-culture
-tech
-teams
-tips
-Close dropdown
-the navigation menu
-Cloud Terms
-Service Product-Specific Terms Expanded Coverage Addendum Privacy Policy Diversity Survey
-Privacy Notice Data
-Processing Addendum Data Transfer Impact Assessment User
-Notice
-Acceptable Use Policy
-Other Legal Impressum Archives
-Cloud Terms
-Service
-Product-Specific Terms
-Expanded Coverage Addendum     Privacy Policy     Diversity Survey
-Privacy Notice
-Data Processing Addendum
-Data Transfer Impact Assessment
-User Notice
-Acceptable Use Policy
-Other Legal     Impressum
-Archives
+
+
 Privacy Policy
-archived versions
-this policy
-Your privacy
-information
-This policy
-What information
-information
-information
-information
-your information
-information
-Other important privacy information
-This Privacy Policy
-the information
-our products
-services
-example
-our premises
-events
-a different policy
-Atlassian Pty Ltd
-our corporate affiliates
-a wide range
-products
-our cloud, server and data center products
-these products
-our other services
-websites
-Services
-this policy
-This policy
-your choices
-information
-certain uses
-information
-certain information
-this policy
-our Services
-any other aspect
-our business
-the Services
-contract
-an organization
-example
-that organization
-the information
-the Services
-more information
-Notice
-Users
-This policy
-the extent
-personal information
-the role
-a processor
-behalf
-such organizations
-What information
-information
-our Services
-other sources
-Information
-information
-the Services
-Account and Profile Information
-information
-an account
-your profile
-set preferences
-purchases
-the Services
-example
-your contact information
-some cases
-billing information
-the Services
-the option
-a display name
-profile photo
-job title
-other details
-your profile information
-our Services
-track
-your preferences
-settings
-the Services
-our products
-The Services
-the Atlassian products
-This content
-any information
-Examples
-content
-the summary
-description
-a Jira issue
-the pages
-Confluence
-the name
-a Trello board
-your repositories
-requests
-Bitbucket
-information
-an incident
-Statuspage
-Opsgenie
-any stories
-Jira Align
-any feedback
-Content
-the files
-links
-the Services
-a server or data center version
-the Services
-information
-your content
-limited cases
-your administrator
-feedback
-the product
-content
-analytics techniques
-the information
-information
-your organization
-clickstream data
-features
-the Services
-Server
-data center administrators
-our collection
-this information
-the Services
-the administrator settings
-this information
-transmission
-the local network level
-our websites
-The Services
-our websites
-other content
-these websites
-social media
-social networking websites
-example
-content
-feedback
-any interactive features
-surveys
-contests
-promotions
-sweepstakes
-activities
-events
-our support channels
-The Services
-our customer support
-information
-a problem
-a Service
-a technical contact
-a support ticket
-our representatives
-our support team
-contact information
-a summary
-the problem
-any other documentation
-screenshots
-information
-the issue
-Payment Information
-payment
-billing information
-certain paid Services
-example
-a billing representative
-contact information
-registration
-payment information
-payment card details
-secure payment processing services
-the Services
-information
-our Services
-our websites
-certain actions
-the Services
-Your use
-the Services
-track
-certain information
-our Services
-This information
-the features
-the links
-the type
-size
-filenames
-attachments
-the Services
-search terms
-your team
-Jira Align story progress
-the Services
-information
-the teams
-people
-a server or data center version
-the Services
-the information
-your use
-the Services
-data
-features
-the Services
-addition
-content-related information
-Content
-our products
-Server
-data center administrators
-our collection
-this information
-the Services
-the administrator settings
-this information
-transmission
-the local network level
-Device and Connection Information
-information
-your computer
-phone
-tablet
-other devices
-the Services
-This device information
-your connection type
-settings
-our Services
-information
-your device
-your operating system
-browser type
-IP address
-URLs
-/exit pages
-device identifiers
-crash data
-your IP address
-country preference
-order
-your location
-a better Service experience
-this information
-the type
-settings
-the device
-the Services
-Server
-data center Service administrators
-collection
-this information
-the administrator settings
-this information
-transmission
-the local network level
-Cookies
-Other Tracking Technologies
-our third-party partners
-our advertising and analytics partners
-cookies
-other tracking technologies
-(e.g., web beacons
-device identifiers
-pixels
-functionality
-different Services
-devices
-more information
-our Cookies
-Tracking Notice
-information
-these cookies
-technologies
-other sources
-information
-other Service users
-third-party services
-our related companies
-social media platforms
-public databases
-our business and channel partners
-this information
-information
-other means
-our records
-new customers
-more personalized advertising
-services
-interest
-Other users
-the Services
-Other users
-our Services
-information
-content
-the Services
-example
-a Jira issue
-an Opsgenie incident
-a team member
-content
-a Trello board
-your team
-story status
-Jira Align
-your email address
-other Service users
-order
-the Services
-an administrator
-your contact information
-the billing or technical contact
-your company's account
-an administrator
-Other services
-your account
-information
-your administrator
-third-party apps
-Power-UPs
-a third-party service
-our Services
-example
-an account
-the Services
-your Google credentials
-your name
-email address
-your Google profile settings
-order
-your administrator
-our Services
-other services
-certain content
-a third-party
-our Services
-example
-our Services
-a third-party document-sharing service
-the Services interface
-our Services
-a third-party calendaring service
-a contact list
-address book
-your meetings
-connections
-the Services
-our Services
-your organization
-access
-certain users
-Your administrator
-our Services
-a third party reporting service
-your organization
-the Services
-The information
-our Services
-a third-party service
-the settings
-permissions
-privacy policy
-that third-party service
-the privacy settings
-notices
-these third-party services
-what data
-our Services
-Atlassian Companies
-information
-companies
-Atlassian
-accordance
-their terms
-policies
-Atlassian Partners
-a global network
-partners
-consulting
-implementation
-training
-other services
-our products
-these partners
-our Services
-our Services
-information
-these partners
-billing information
-billing
-technical contact
-information
-company name
-what events
-what country
-information
-your activities
-the Services
-third-party partners
-advertising and market research partners
-information
-your interest
-engagement
-our Services
-online advertisements
-information
-third party providers
-business information
-publicly available sources
-social media platforms
-physical mail addresses
-job titles
-email addresses
-phone numbers
-intent data
-user behavior data
-social media profiles
-the purposes
-targeted advertising
-products
-personalized communications
-event promotion
-profiling
-information
-the information
-any preferences
-the specific purposes
-the information
-the Services
-your experience
-information
-the Services
-transactions
-customer support
-the Services
-example
-the name
-picture
-other Service users
-Our Services
-features
-your experience
-your productivity
-your ability
-the activities
-your team
-search results
-activity feeds
-notifications
-connections
-recommendations
-your team
-example
-your stated job title
-activity
-search results
-your job function
-information
-other team members
-your subject matter expertise
-your email domain
-your affiliation
-a particular organization
-industry
-the content
-our websites
-multiple Services
-information
-your activities
-an integrated experience
-information
-one Service
-relevant product information
-our websites
-your interactions
-different Atlassian products
-advertisements
-your experience
-our communications
-this personalization
-research
-development
-ways
-information
-collective learnings
-feedback
-people
-our Services
-trends
-usage
-activity patterns
-areas
-integration
-our Services
-new products
-features
-technologies
-our users
-the public
-example
-the @mention feature
-recent interactions
-users
-the most relevant connections
-users
-frequently used search terms
-the accuracy
-relevance
-suggested topics
-the search feature
-some cases
-these learnings
-our Services
-similar features
-the Services
-insights
-our Services
-certain new features
-some users
-the feature
-all users
-the Services
-your contact information
-transactional communications
-email
-the Services
-your purchases
-subscription expirations
-your comments
-questions
-requests
-customer support
-technical notices
-updates
-security alerts
-administrative messages
-email notifications
-the Services
-example
-a page
-ticket
-a task
-a Trello board
-your chosen method
-contact
-SMS notifications
-incident alerts
-Opsgenie
-tailored communications
-your activity
-interactions
-example
-certain actions
-the Services
-a feature or third-party app suggestion
-the Services
-that task
-communications
-a particular Service
-that Service
-These communications
-the Services
-most cases
-an opt
-that option
-the communication
-your account settings
-market
-engagement
-the Services
-your contact information
-information
-the Services
-promotional communications
-specific interest
-email
-Atlassian ads
-other companies' websites
-applications
-These communications
-audits
-interactions
-ad impressions
-engagement
-the Services
-information
-new features
-survey requests
-newsletters
-events
-interest
-new Services
-product
-promotions
-contests
-these communications
-communications
-Customer support
-your information
-technical issues
-your requests
-assistance
-crash information
-the Services
-express permission
-information
-a third party expert
-the purpose
-support-related requests
-safety
-security
-information
-accounts
-activity
-potential or actual security incidents
-other malicious, deceptive, fraudulent or illegal activity
-violations
-Service policies
-our legitimate business interests
-legal rights
-law
-our legal rights
-interests
-the interests
-information
-connection
-legal claims
-compliance
-audit functions
-disclosures
-connection
-the acquisition
-merger
-sale
-a business
-your consent
-information
-consent
-a specific purpose
-example
-testimonials
-featured customer stories
-the Services
-your permission
-Legal bases
-processing
-EEA users
-an individual
-the European Economic Area
-(EEA
-information
-legal bases
-applicable EU laws
-The legal bases
-the Services
-your information
-the Services
-the Services
-customer support
-personalized features
-the safety
-security
-the Services
-a legitimate interest
-your data protection interests
-research
-development
-market
-the Services
-our legal rights
-interests
-consent
-a specific purpose
-your data
-a legal obligation
-our use
-information
-a specific purpose
-the right
-your mind
-any time
-any processing
-place
-your information
-a third party
-(e.g. your employer
-a legitimate interest
-the right
-that use
-some cases
-the Services
-information
-collaboration tools
-information
-the Services
-certain third parties
-information
-the ways
-connection
-possible business transfers
-the business
-information
-advertisers
-other third parties
-other Service users
-the Services
-certain information
-other Service users
-collaboration
-content
-information
-permission
-that content
-your administrator
-the collaboration features
-the Services
-your profile information
-other Service users
-specific content
-example
-a Confluence page
-Jira issue
-your profile picture
-your comments
-other users
-access
-the page
-issue
-the comment
-a Confluence page
-your name
-the author
-that page
-Service users
-permission
-the page
-your profile information
-Your team’s story status
-Jira Align
-certain profile information
-other users
-certain role permissions
-team assignments
-some aspects
-the Services
-Confluence pages
-Bitbucket repositories
-Trello boards
-any content
-that space
-information
-search results
-search engines
-certain Service properties
-the Services
-the relevant administrator
-Managed accounts
-administrators
-the Services
-an email address
-a domain
-your employer
-organization
-email address
-your existing account
-such organization
-an account
-site
-certain information
-your name
-profile picture
-contact info
-content
-past use
-your account
-that organization
-administrator
-other Service users
-the same domain
-an administrator
-a particular site
-group
-users
-the Services
-your contact information
-current or past Service users
-the purpose
-Service-related requests
-Our websites
-publicly accessible blogs
-forums
-issue trackers
-wikis
-(e.g., Atlassian Community
-Atlassian Developer Community
-Trello Community
-Trello Inspiration
-any information
-these websites
-profile information
-the account
-the information
-any member
-the public
-these websites
-Your posts
-certain profile information
-your account
-the sensitivity
-any information
-these Services
-removal
-your information
-publicly accessible websites
-some cases
-your information
-which case
-third parties
-information
-third parties
-our Services
-Service Providers
-third-party service providers
-website
-application development
-access
-information
-a service provider
-access information
-services
-our behalf
-close instruction
-appropriate security and confidentiality procedures
-your information
-third parties
-consulting
-sales
-support
-technical services
-customer solutions
-the Services
-your information
-these third parties
-connection
-their services
-billing
-collections
-localized support
-customizations
-information
-these third parties
-that sharing
-Third Party Apps
-your administrator
-other Service users
-new functionality
-the behavior
-the Services
-third party apps
-the Services
-third-party apps access
-your account
-information
-your name and email address
-any content
-connection
-those apps
-an administrator
-an account
-your details
-the third-party app provider
-installation
-Third-party app policies
-procedures
-this privacy policy
-third-party apps
-your information
-the privacy policies
-third parties
-their applications
-services
-their privacy
-information handling practices
-information
-these third parties
-the app
-Links
-Third Party Sites
-The Services
-links
-other websites
-services
-whose privacy practices
-information
-those third party sites
-your information
-their privacy policies
-the privacy policy
-any website
-Third Party Services
-the ability
-information
-third parties
-the Services
-example
-users
-the ability
-the Services
-a third-party service
-Google
-access
-embedded maps
-Google Maps
-social media networks
-links
-the Services
-these third parties
-certain information
-those third parties
-information
-those third parties
-your privacy settings
-the third-party service
-Such information
-contact information
-identification
-demographic information
-device information
-identifiers
-the privacy settings
-notices
-these third-party services
-those third-parties
-your information
-our services
-widgets
-social media features
-the Twitter "tweet" button
-Facebook
-button
-These widgets
-features
-your IP address
-which page
-the Services
-a cookie
-the feature
-Widgets and social media features
-a third-party
-our Services
-the privacy settings
-notices
-these third-party services
-those third-parties
-your information
-your consent
-information
-third parties
-consent
-example
-personal testimonials
-satisfied customers
-our public websites
-your consent
-your name
-the testimonial
-Compliance
-Enforcement Requests
-Applicable Laws
-Enforcement
-Our Rights
-exceptional circumstances
-information
-a third party
-sharing
-(a) comply
-any applicable law
-regulation
-legal process
-governmental request
-national security requirements
-our agreements
-policies
-terms
-service
-the security
-integrity
-our products
-services
-Atlassian
-our customers
-the public
-harm
-illegal activities
-(e) respond
-an emergency
-good faith
-information
-the death
-serious bodily injury
-any person
-more information
-government requests
-our Guidelines
-Law Enforcement
-our Transparency Report
-affiliated companies
-information
-affiliated companies
-some cases
-prospective affiliates
-Affiliated companies
-companies
-The protections
-this privacy policy
-the information
-these circumstances
-information
-other Atlassian corporate affiliates
-order
-products
-services
-other Atlassian affiliated services
-companies
-the Services
-information
-this privacy policy
-connection
-any merger
-sale
-company assets
-financing
-acquisition
-a portion
-our business
-another company
-email
-a prominent notice
-the Services
-a transaction
-place
-any choices
-your information
-information
-Information storage
-security
-industry standard technical and organizational measures
-the information
-more information
-your information
-the Atlassian Trust
-Trello Trust
-Jira Align Trust pages
-safeguards
-your information
-no security system
-the inherent nature
-the Internet
-that information
-transmission
-the Internet
-our systems
-our care
-intrusion
-our server or data center Services
-responsibility
-storage
-access
-the information
-the Services
-server
-data center
-users
-SSL
-interception
-information
-networks
-access
-the databases
-other storage points
-information
-information
-the type
-information
-further detail
-such time
-your information
-example
-the information
-backup archives
-your information
-any further use
-deletion
-Account information
-your account information
-your account
-case
-the Services
-your information
-our legal obligations
-disputes
-our agreements
-business operations
-our Services
-information
-Service improvement
-development
-steps
-information
-the information
-collective insights
-the use
-our Services
-personal characteristics
-the Services
-your account
-your information
-the content
-order
-your team members
-other users
-full use
-the Services
-example
-messages
-the users
-content
-details
-Managed
-the Services
-an organization
-(e.g., your employer
-your information
-the administrator
-your account
-more information
-Managed accounts
-administrators
-information
-marketing emails
-information
-your marketing preferences
-a reasonable period
-time
-the date
-interest
-our Services
-an email
-your Atlassian account
-information
-cookies
-other tracking technologies
-a reasonable period
-time
-the date
-such information
-your information
-certain choices
-your information
-a summary
-those choices
-any limitations
-Your Choices
-the right
-a copy
-your information
-our use
-your information
-marketing purposes
-the deletion
-restriction
-your information
-your information
-a structured, electronic format
-the tools
-processes
-these requests
-the choices
-the Services
-settings
-the Services
-your account
-the Services
-an administrator
-"Notice
-Users
-your administrator
-your requests
-all other requests
-the Contact Us section
-assistance
-Your request
-choices
-certain cases
-example
-your request
-information
-another person
-information
-your administrator
-law
-compelling legitimate interests
-data
-third parties
-example
-third-party apps
-those third-party service providers
-your information
-unresolved concerns
-the right
-a data protection authority
-the country
-your rights
-your information
-Our Services
-related documentation
-Atlassian Documentation
-Trello Help
-the ability
-access
-certain information
-the Service
-example
-your profile information
-your account
-content
-information
-key word searches
-the Service
-your profile information
-your profile settings
-modify content
-information
-the editing tools
-that content
-your account
-our Services
-your administrator
-your Services account
-your own account
-setting
-your account settings
-your administrator
-an administrator
-an account
-your administrator settings
-the appropriate support team
-Atlassian
-Jira Align
-Trello support pages
-your account
-your information
-your information
-other Service users
-your past participation
-the Services
-more information
-your information
-your information
-Our Services
-related documentation
-Atlassian Documentation
-Trello Help
-the ability
-certain information
-the Service
-example
-content
-information
-the key word search and editing tools
-that content
-certain profile information
-your profile settings
-certain information
-record keeping purposes
-transactions
-our legal obligations
-Request
-your information
-some cases
-your information
-the appropriate rights
-example
-a Services account
-your permission
-an active user
-your account
-this policy
-consent
-your information
-a limited purpose
-that consent
-any processing
-place
-the time
-our use
-your information
-marketing purposes
-such requests
-time
-your request
-delay
-dispute
-the right
-your information
-any further use
-your information
-the request
-the dispute
-your administrator
-information
-a third-party app
-the app
-your administrator
-communications
-promotional communications
-the unsubscribe link
-each email
-your email preferences
-your Service account settings menu
-your contact information
-our promotional email list
-registration database
-promotional messages
-transactional messages
-our Services
-some notification messages
-your account settings
-generic ads
-personalized advertisements
-other companies
-members
-the Network Advertising Initiative
-the Digital Advertising Alliance's Self-Regulatory Principles
-Online Behavioral Advertising
-more information
-this practice
-your options
-http://www.aboutads.info
-Cookie Controls
-Relevant browser-based cookie controls
-our Cookies & Tracking Notice
-"Do Not Track" Signals
-Some browsers
-(DNT
-a signal
-the websites
-a common understanding
-the DNT signal
-our Services
-browser DNT signals
-the range
-other tools
-data collection
-use
-the ability
-marketing
-Data portability
-the ability
-your information
-a format
-one service provider
-instance
-your mobile phone number
-another carrier
-the context
-your information
-your information
-an electronic file
-your basic account information
-the information
-the spaces
-your sole control
-your personal Bitbucket repository
-information
-International transfers
-information
-information
-your information
-your country
-residence
-our third-party service providers
-the purpose
-the Services
-your information
-steps
-International transfers
-the Atlassian Companies
-our global operations
-information
-access
-that information
-countries
-the Atlassian owned or operated companies
-operations
-the purposes
-this policy
-These countries
-equivalent privacy
-data protection laws
-the laws
-the countries
-our customers
-users
-information
-Atlassian corporate affiliates
-use
-standard contractual data protection clauses
-the European Commission
-the transfer
-information
-the European Economic Area
-the United Kingdom
-the "UK
-Switzerland
-International transfers
-third parties
-the third parties
-this privacy policy
-services
-contract
-other countries
-equivalent privacy
-data protection laws
-the country
-information
-customers
-the European Economic Area
-the UK
-Switzerland
-use
-the European Commission-approved standard contractual data protection clauses
-corporate rules
-transfers
-data processors
-other appropriate legal mechanisms
-the transfer
-Privacy Shield Notice
-the  EU-U.S. and Swiss-U.S. Privacy Shield Frameworks
-these frameworks
-the transfer
-personal data
-Atlassian, Inc.
-its U.S. subsidiaries
-Atlassian Network Service, Inc.
-Dogwood Labs
-Inc.
-AgileCraft LLC
-Opsgenie
-Inc.
-Trello
-the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks
-the Privacy Shield Principles
-the collection
-use
-retention
-information
-the European Union
-the UK
-Switzerland
-the U.S.
-the Privacy Shield Principles
-all information
-this privacy policy
-the European Union
-the European Economic Area
-the UK
-Switzerland
-the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks
-the processing
-information
-the EU
-the UK
-Switzerland
-onward transfers
-a third party
-an agent
-our behalf
-the Privacy Shield Principles
-such onward transfers
-accordance
-the Privacy Shield Principles
-third-party agents
-such information
-our behalf
-a manner
-the Privacy Shield Principles
-the event
-rise
-the damage
-the Privacy Shield Program
-Atlassian
-Jira Align's certification
-www.privacyshield.gov
-'AgileCraft
-a Privacy Shield-related (or general privacy-related) complaint
-an unresolved privacy or data use concern
-our U.S.-based third-party dispute resolution provider
-charge
-this third-party dispute resolution provider
-the information
-advice
-an informal panel
-data protection authorities
-the European Economic Area
-the UK
-the Swiss Federal Data Protection and Information Commissioner
-relation
-unresolved complaints
-the Privacy Shield Principles
-your local data protection authority
-the European Economic Area
-the UK
-Switzerland
-unresolved complaints
-certain conditions
-the Privacy Shield website
-other dispute resolution procedures
-binding arbitration
-the investigatory and enforcement powers
-the U.S. Federal Trade Commission
-FTC
-Other important privacy information
-Notice
-Users
-our products
-use
-organizations
-the Services
-an organization
-(e.g. your employer
-that organization
-the administrator
-the Services
-the accounts
-control
-the case
-your data privacy questions
-your administrator
-your use
-the Services
-that organization's policies
-the privacy or security practices
-an administrator's organization
-this policy
-Administrators
-your account password
-your access
-the Services
-information
-your account
-information
-your account
-third-party apps
-other integrations
-some cases
-administrators
-your account access
-the email address
-your account
-your information
-profile information
-your ability
-information
-the Services
-an organization
-a member
-a Trello team
-an organization
-an email address
-an organization
-your work email address
-the Services
-the owner
-the domain
-your email address
-(e.g. your employer
-administrative control
-your account
-use
-the Services
-a later date
-an administrator
-control
-your account
-use
-the Services
-your membership
-the relevant Trello board
-team
-enterprise
-your personal email address
-the Services
-an administrator
-control
-your account
-access
-the Services
-the email address
-your account
-your account settings
-your profile
-an administrator
-control
-your account
-use
-the Services
-the email address
-your account
-administrator approval
-your organization
-your administrator
-organizational policies
-more information
-California Requirements
-your rights
-a California resident
-some additional rights
-the California Consumer Protection Act
-(“CCPA
-This policy
-the tools
-your data rights
-the CCPA
-the right
-deletion
-the right
-access
-the categories
-information
-more information
-your rights
-your information” section
-this policy
-your information
-use
-the privacy
-our Services
-your privacy rights
-the CCPA
-order
-your information
-unauthorized access
-deletion
-additional information
-verification
-your identity
-your information
-your personal information
-your personal information
-your information
-information
-section
-this policy
-ads
-more information
-your advertising
-not-track
-this policy
-your information
-This policy
-the categories
-personal information
-the sources
-that information
-our deletion and retention policies
-information
-your information
-"business purposes
-the CCPA
-illegal activities
-the development
-new products
-features
-technologies
-questions
-the categories
-information
-the section
-this policy
-What information
-more details
-our processing activities
-the section
-information
-any questions
-your rights
-the CCPA
-Our policy
-children
-The Services
-individuals
-personal information
-children
-a child
-personal information
-steps
-such information
-a child
-personal information
-the appropriate support team
-Jira Align
-Trello support pages
-Changes
-our Privacy Policy
-this privacy policy
-time
-time
-any privacy policy changes
-this page
-the changes
-a more prominent notice
-a notice
-the Services homepages
-login screens
-an email notification
-prior versions
-this Privacy Policy
-an archive
-your review
-our privacy policy
-the Services
-our information practices
-the ways
-your privacy
-any changes
-this privacy policy
-the Services
+Graphical   Aviation
+Marine   Rivers
+Lakes   Hurricanes
+Severe Weather   Fire Weather   Sun/Moon
+Long Range Forecasts
+Space Weather
+Past Weather   Heating/Cooling Days
+Monthly Temperatures
+Records
+Astronomical Data
+SAFETY
+Floods
+Tsunamis
+Beach Hazards
+Cold   Tornadoes
+Air Quality
+Fog   Heat   Hurricanes
+Lightning
+Safe Boating
+Rip Currents
+Thunderstorms   Space Weather   Sun
+Ultraviolet Radiation
+Safety Campaigns
+Wind   Drought
+Winter Weather
+INFORMATION
+Wireless Emergency Alerts
+Brochures   Weather-Ready Nation   Cooperative Observers
+Daily Briefing   Damage/Fatality/Injury Statistics
+Forecast Models
+GIS Data Portal
+NOAA Weather Radio
+Publications
+SKYWARN Storm Spotters
+StormReady
+TsunamiReady
+EDUCATION
+A Force
+Nature
+NWS Education
+Home
+NEWS
+NWS News
+Events
+Social Media   Pubs/Brochures/Booklets
+NWS Media Contacts
+SEARCH
+Search
+NWS
+NWS   Organization
+Strategic Plan
+NWS Employees
+International   National Centers   Careers
 Contact Us
-Your information
-Atlassian Pty Ltd
-Atlassian
-questions
-concerns
-your information
-your inquiry
-Atlassian Pty Ltd
-such inquiries
-a resident
-the European Economic Area
-our EU Representative
-Atlassian Pty Ltd c/o Atlassian, Inc.
-Bush Street
-Floor
-San Francisco
-CA 94104 E-Mail
-EU Representative
-Atlassian B.V. c/o Atlassian, Inc. 350 Bush Street
-Floor
-San Francisco
-CA 94104 E-Mail
-Key Changes
-Effective
-the Other important privacy information section
-a section
-the California Consumer Privacy Act
-November
-our Privacy Policy
-Jira Align and Trello specific examples
-the Atlassian family
-details
-data
-third parties
-public databases
+Glossary
+Your City
+ST
+ZIP
+Code
+Me
+
+
+
+Privacy Policy
+
+
+
+
+LOADING
+National Weather Service
+National Headquarters
+Privacy Policy
+Weather.gov
+Privacy Policy
+This policy
+user privacy
+system security
+National Weather Service information collection practices
+This Privacy Policy Statement
+National Weather Service web sites
+Some organizations
+NOAA
+other information collection practices
+Privacy Policies
+another web site
+These World Wide Web pages
+a public service
+NOAA's National Weather Service
+(NWS
+Information
+these pages
+Use
+appropriate byline/photo/image credits
+Site Management Data
+Use
+"cookies"
+Consent
+Voluntary Information Collection
+Sharing
+e-mail
 information
-user profiles
-November
-our Privacy Policy
-the expansion
-our cloud data storage infrastructure
-Better navigation
-user-friendly language
-the policy
-clear, plain language
-examples
-our activities
-our privacy policy page
-active links
+How long information
+Interaction
+Children
+Privacy Act System
+Records
+Information Protection
+Conditions
 the information
-our products
-our products
-a frictionless and customized experience
-The updates
-our policy
-the tools
-our products
-one Atlassian product
-More control
-your information
+other Federal agencies
+Your Rights
+the Privacy Act
+Dispute Resolution
+Site Management Data
+each HTTP
+your Web browser
+a page
+a Web site
+only the following information
+the date
+time
+the originating IP address
+the type
+browser
+operating system
+the browser
+the URL
+the referring page
+the browser
+the object
+completion status
+the request
+pages
 the information
-Our policy
-choices
-your information
-the measures
-place
-your information
-our products
-work
-Many users
-access
-our services
-their organizations
-their accounts
-use
-our services
-The updated policy
-our relationship
-these users
-the tools
-administrators
-these users
+the number
+visitors
+the different areas
+our sites
+our sites
+visitors
+these logs
+the traffic
+our servers
+the number
+pages
+the level
+demand
+pages
+topics
+interest
+The logs
+any time
+any way
+security breaches
+the integrity
+the data
+our servers
+Page
+The use
+"cookies
+our visitors
+technology
+visitors actions
+the website
+These small files
+"cookies
+Our cookies
+any personally-identifiable information
+Our customized Weather.gov tool
+visitors
+the option
+a location
+subsequent visits
+Weather.gov
+Cookies
+small files
+Web servers
+a user's hard drive
+several functions
+the Web site
+a previous visitor
+a site
+what information
+a site
+the Department
+Commerce
+visitors
+the more advanced cases
+your movements
+many Web sites
+not the whole Web
+businesses
+customer convenience
+a list
+items
+one time
+information
+individuals
+their sites
+advertisers
+the effectiveness
+their marketing
+insights
+consumer preferences
+tastes
+data
+many Web sites
+a Web site tailor screens
+each customer's preference
+data
+the technology
+law
+specific program need
+the National Archives and Records Administration
+General Records Schedule
+Electronic Records
+other approved records schedule
+the potential use
+the information
+your computer
+cookies
+your browser
+a cookie
+the use
+web measurement and customization technologies
+the setting
+your browser
+cookies
+https://www.usa.gov/optout_instructions.shtml
+Page
+Consent
+Voluntary Information Collection
+Sharing
+All the information
+users
+NWS
+a voluntary basis
+a user
+the "Submit" button
+the Web forms
+NWS's sites
+voluntarily consent
+the conditions
+this policy
+personally identifiable information
+address
+phone number
+e-mail address
+all cases
+the information
+user inquiries
+services
+our users
+Any information
+our Web forms
+Web servers
+seconds
+the protection
+this information
+Page
+e-mail
+information
+e-mail
+the purpose
+a question
+information
+addition
+information
+your request
+a package
+pamphlets
+booklets
+a service
+(e.g., email notifications
+Information
+e-mail
+the public
+the laws
+policies
+the dissemination
+information
+information
+NWS
+an agency record
+Information
+Page
+information
+a variety
+purposes
+(e.g., E-spotter forms
+product user survey forms
+every effort
+the point
+collection
+information
+our Web site visitor
+the information
+Page
+How long information
+the information
+the purpose
+statute
+policy
+Page
+Interaction
+Children
+The NWS
+educational content
+children
+No personally identifiable information
+these visitors
+a request
+information
+services
+The information
+user inquiries
+services
+our users
+Page
+Privacy Act System
+Records
+The NWS
+information
+personal identifiers
+email addresses
+NWS Web sites
+information
+any Privacy Act System
+Records
+Page
+Information Protection
+site security purposes
+this service
+all users
+this government computer system
+software programs
+network traffic
+unauthorized attempts
+information
+damage
+the information
+our Web sites
+Unauthorized attempts
+information
+information
+this service
+the Computer Fraud and Abuse Act
+the National Information Infrastructure Protection Act
+authorized law enforcement investigations
+no other attempts
+individual users
+their usage habits
+Raw data logs
+no other purposes
+regular destruction
+accordance
+National Archives
+Records Administration General Schedule
+Page
+
+Conditions
+the information
+other Federal agencies
+NWS
+information
+its Web sites
+other Federal agencies
+example
+a breach
+our IT security protections
+the information
+our servers
+staff
+appropriate law enforcement
+homeland security officials
+Page
+Your Rights
+the Privacy Act
+Privacy Act Reference Materials
+Information
+Page
+Dispute Resolution
+some reason
+this site
+these principles
+the National Weather Service Office
+the CIO
+e-mail
+w-nws.webmaster@noaa.gov
+our web pages
+compliance
+our stated policies
+Page
+Twitter
+Facebook
+YouTube
+            			
+
+
+
+
+
+
+  NWS RSS Feed
+ACTIVE ALERTS
+Warnings
+State
+Excessive Rainfall
+River Flooding
+Latest Warnings
+Thunderstorm/Tornado Outlook
+Hurricanes
+Fire Weather Outlooks
+UV Alerts
+Space Weather
+NOAA Weather Radio
+NWS CAP
+PAST WEATHER
+Past Weather
+Monthly Temps
+Records
+Astronomical Data
+Certified Weather Data
+CONDITIONS
+Radar
+Climate Monitoring
+River Levels
+Observed Precipitation
+Surface Weather
+Upper Air
+Snow Cover 
+Satellite
+Space Weather
+International Observations
+Local Forecast
+International Forecasts
+Severe Weather
+Current Outlook Maps
+Drought
+Fire Weather
+Fronts/Precipitation Maps
+Current Graphical Forecast Maps
+Rivers
+Marine
+Offshore
+High Seas
+Hurricanes
+Aviation Weather
+Climatic Outlook
+INFORMATION CENTER
+Space Weather
+Daily Briefing
+Marine 
+Climate
+Fire Weather
+Aviation
+Forecast Models
+Water
+GIS
+Cooperative Observers
+Storm Spotters
+Tsunami Warning System
+National Water Center
+International Weather
+WEATHER SAFETY
+NOAA Weather Radio
+StormReady
+Heat
+Lightning
+Hurricanes
+Tornadoes
+Rip Currents
+Floods
+Tsunamis
+TsunamiReady
+Winter Weather
+Ultra Violet Radiation
+Air Quality
+Damage/Fatality/Injury Statistics
+Red Cross
+Federal Emergency Management Agency
+FEMA
+Brochures
+Safe Boating
+NEWS
+Newsroom
+Social Media
+Events
+Pubs/Brochures/Booklets 
+
+
+
+EDUCATION
+NWS Education Home
+A Force
+Nature
+NOAA Education Resources
+Glossary
+JetStream
+NWS Training Portal
+NOAA Library
+Students
+Parents
+Teachers
+Brochures
+Organization
+Strategic Plan
+NWS Employees
+International
+National Centers
 Products
-Jira Align
-Jira Service Management
-Confluence
-all products
-Resources
-Technical Support
-Purchasing
-licensing
-Atlassian Community
-Knowledge base
-Marketplace
-My Account
-support ticket       Expand
-Learn
-Partners     Training
-Certification
-Developer Resources
-Purchasing FAQ     Enterprise services
-View
-all resources
-Atlassian     Company
+Services
 Careers
-Investor Relations     Trust
-Security
-Languages
-your language
-Deutsch English Español
-Français Italiano
-한국어 Magyar Nederlands
-Polski Português
-русский 中文
-Terms
-Impressum
-Copyright
+Glossary
+Contact
+Us 
+
+
+
+
+
+
+
+
+
+
+
+
+
+US Dept
+Commerce
+National Oceanic
+Atmospheric Administration
+National Weather Service
+1325 East West HighwaySilver Spring
+MD 20910Comments
+Questions
+Disclaimer
+Information Quality
+Glossary
+
+
+Privacy Policy
+Information
+FOIA
+Career Opportunities

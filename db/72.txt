@@ -4,7 +4,26 @@
 
 
 
-	Privacy Policy
+
+
+
+
+
+
+
+
+Privacy Policy
+
+
+
+
+
+
+
+Skip
+main content
+Home
+Site Search
 Products
 
 
@@ -12,182 +31,134 @@ Products
 
 
 
-Test Automation
-BitBar
-Run Selenium & Appium Tests
-the Cloud 
 
 
 
-TestComplete
-Automated
-UI
-Functional Testing
-App Stability Management
-Performance Testing
-LoadNinja
-Automated UI
-Performance
-Testing
+
+AC-DC
+
+
+Converters
+Isolated Fixed Ratio
+Non-Isolated Fixed Ratio
+Filters
+MIL-COTS
+
+
+AC-DC
+DC-DC
+VPX Systems
 
 
 
-API Lifecycle
-AlertSite
-Global
-Synthetic API
-API Testing
- API Performance
-API Virtualization
-Design
-Model
-Share
-Test Management
-BDD
-Design Features
-Tests
-BDD
+Vicor Power Systems
+Custom Commercial
+Custom Aerospace and Defense
 
 
- 
-Zephyr
-Standalone & Jira Test Management
-
-
-
-Collaboration
-
-
-Collaborator
-Code
-Document
-Artifact Review
-Open Source
-Cucumber Open
-Validate
-Specs
-Your Code
-
-
-
-SoapUI
-Create & Execute API Test Automation
-
-
-
-Swagger
-Interact
-API Resources
-ALL PRODUCTS
-Solutions
+Accessories
+Quick product search
+Input specifications
+AC
+DC
+Min input
+Minimum input
+V
 
 
 
 
 
 
-Solutions
-API Lifecycle
-Microservices
-Service Virtualization
-DevOps
-Code Quality
-Agile Testing
-Continuous Testing
-Automated Testing
-Functional Testing
-End
-Performance Testing
-Test Management
-API
-Monitoring
-CI/CD
 
-Source Code Management
-Collaboration
-Cloud
-All Integrations
-Resources
-Support
-AlertSite
-AQTime
-Pro
-BitBar
-Collaborator
-CucumberStudio
-LoadComplete
-LoadNinja
-QAComplete
-SwaggerHub
-TestComplete
-TestEngine
-TestLeft
-Zephyr Enterprise
-Zephyr Squad
-Zephyr Scale
-New Support Case
-My Cases
-Education
-
-
- Case Studies
-Webinars
-eBooks
-
-
-
- Academy
-Community
- Docs 
-
-
- Blog
-Recent Posts
-The 5 Gaps
-Your UI Test Automation Strategy
+Nom input
+Nominal input
+V
+Max input
+Maximum input
+V
+Output specifications
+another output
+output
+solutions
+Output
+Remove
 
 
 
 
-SmartBear
-Test Management
-Jira
-testing solutions
-BDD
-Jira
-Partners
-Careers
-Cart
-EN
-DE
+Isolation
+Isolation
+Y
 
 
 
- Login
-Any Tool
-TestComplete
-BitBar
-LoadNinja
-TestLeft
-AlertSite
-Collaborator
-AQTime
-Pro
-CucumberStudio
-SwaggerHub
-Zephyr Enterprise
-Zephyr Squad
-Zephyr Scale
-Capture
-Jira
-SmartBear Terms
-Use
-Website Terms
-Privacy Policy 
- Software License and Services Types
-Acceptable Use Policy 
- Trial Terms
-Use 
+
+
+Isolation
+N
+
+
+
+
+
+
+
+Isolation
+Y
+Regulated
+						
+
+
+
+
+							Fixed ratio
+Min output
+Minimum output
+V
+Nom output
+Nominal output
+V
+Max output
+Maximum output
+V
+
+
+
+
+
+
+
+					Power/Current
+W
+Output
+Output
+Output return
+optional output name
+Vicor Power System Designer
+Industries
+All industries
+Automotive
+Communications
+Computing
+Defense
+Aerospace
+Industrial
+LED Panels
+Rail
+Robotics
+Satellite
+Space
+Innovation
+Powering Innovation
+Vicor customers
+the world
+their technologies
+power
+how innovative Vicor technologies
+the art
+power delivery networks
+Tools
 
 
 
@@ -197,1390 +168,805 @@ Use
 
 
 
-SmartBear Privacy Policy
-June
-SmartBear Software
-Inc.
-its affiliates
-SmartBear
-a global organization
-software tools
-developers
-testers
-operations team members
-high quality software
-applications
-products
-code review
-API
-UI development
-testing
-operations
-end
-desktop
-web
-mobile
-Internet
-things devices
-cloud platforms
-“Services
-This Privacy Policy
-“Privacy Policy
+
+Power System Designer
+Quick product search
+Full parametric search
+Whiteboard
+Simulators
+Calculators
+Power System Configurator
+Quality Center
+Resource library
+the design engineer
+Technical Support
+Tools
+Quality Center
+Resource library
+the design engineer
+Contact
+Login/Register
+Shopping Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Privacy policy
+Introduction
+Vicor Corporation
+its subsidiaries
+affiliates
+collectively, "Vicor
+"us
+your privacy
+our compliance
+the practices
+this policy
+This policy
 our practices
-personal information
-our websites products
-smartbear.com/product
-the list
-sites
-products
-services
-this Privacy Policy
-the global nature
-the SmartBear Sites
-Services
-our data processing practices
-the jurisdictions
+collecting
+the personal data
+our websites
+other digital properties
+communications
+forms
+this policy
+our "website
+other means
+our partners’ events
+sales
+marketing activities
+this policy
+our rules
+practices
+processing
+your personal data
+our website
+the practices
+this policy
+This policy
+time
+time
+Changes
+Our Privacy Policy
+Your continued engagement
+our website
+any such revisions
+the policy
+updates
+Contact information
+Vicor Corporation
+Corporate Headquarters
+25 Frontage Road
+Andover
+Massachusetts
+01810-5413 USA
+Vicor wholly owned subsidiary companies
+these terms
+Freedom Power
+Northwest Power
+VJCL
+"Information
+that data
+Vicor
 order
-applicable legal requirements
-certain rights
-requirements
-disclosures
-this Privacy Policy
-exemption
-example
-applicable law
-regulations
-a relevant geographic location
-the Region Specific Disclosures section
-more information
-INFORMATION WE MAY COLLECT
-this Privacy Policy
-personal information
-order
-our Sites
-Services
-This section
-the categories
-personal information
-personal information
-the past twelve months
-all the personal information
-this Privacy Policy
-requested personal information
-the Services
-the following categories
-personal information
-Identifiers
-address
-billing and shipping address
-telephone number
-email address
-fax number
-screen name
-user ID
-password
-IP address
-MAC address
-Commercial information
-payment or financial information
-Information
-Internet activity
-other electronic network activity
-operating system type
-version
-web server type
-version
-PHP version
-database type
-version
-cookie information
-device information
-activities
-platform or mobile application use
+the business
+business sales process
+This information
+business contact information
+company name
+company location
+product requirements
+design, quantity, pricing) and shipping addresses
+Vicor
+business
+the website user’s company
+Data Vicor
+Vicor
 data
-domain
-destination domain
-destination path
-performance
-security
-software configuration
-availability
-our software
-your servers
-network
-website user statistics
-website
-portal use
-activity records
-communication
-Educational information
-your education history
-grades
-Professional information
-employer
-organizational affiliation
-a customer
-partner
-your resume
-Geolocation data
-geographic information
-a customer’s IP address
-MAC address
-latitudinal and longitudinal data
-Audio, electronic, or visual information
-screen sharing views
-any data
-any files
-customers
-Characteristics
-protected classifications
-California
-federal law
-financial information
-credit card number
-expiration date
-Other information
-the contents
-your communications
-email
-social media
-telephone
-other personal information
-personal information
-the following categories
-sources
-example
-(i
-our websites
-a survey
-a telephone interaction
-a registration form
-our software
-ii
-a form
-our websites
+Contact information
+phone number
+email address
+Billing and shipping information
+instance
+your credit card number
+shipping address
+And product preferences
+Vicor
+your activity
+its site
 information
-our business
-business services
-a demonstration
-our online, media, marketing, or data services products
-programs
-interest
-a trade show
-our customers
-their agents
-example
-documents
-files
-our customers
-lists
-individuals
-Client communications
-customer
-websites
-the products
-our customers
-our customers
-their agents
-example
-information
-our customers
-the course
-services
-activity
-our websites
-example
-your actions
-our websites
-your submission
 an online form
-a demonstration
-walkthrough
-our products
-services
-Third Parties
-connection
-the services
-example
-(i) vendors
-partners
-contact lists
-your information
-our database
-our records
-information
-date
-(ii) third parties
-our behalf
-relevant content
-a member
-(iii) third parties
-other B2B contact providers
-their services
-access
-their services
-Mobile Devices
-your mobile device
-the Services
-information
-your mobile device
-a unique identifier
-your device
-our service providers
-third parties
-ad networks
-cross-device/cross-context tracking
-example
-multiple
-browsers
-a single device
-various devices
-desktops
-smartphones
-tablets
-multiple accounts
-profiles
-these various contexts
-devices
-Cross-device/cross-context technology
-these various accounts
-profiles
-the corresponding data
-the different contexts
-devices
-USE
-INFORMATION
-the extent
-applicable law
-personal information
-connection
-our Services
-the SmartBear Products
-Services
-support
-business functions
-customer requests
-complete customer purchases
-criminal activity
-claims
-other liabilities
-customers
-information
-the SmartBear Products
-Services
-issues
-SmartBear Products
-Services
-reviews
-comments
-other feedback
-our Services
-websites
-mobile services
-advertising
-the security
-integrity
-our Services
-content
-our business
-customer support
-benchmarking
-data analysis
-audits
-new products
-the SmartBear Products
-Services
-product, software and applications development
-our services
-research
-analysis
-studies
-surveys
-usage trends
-other analytics purposes
-our contractual requirements
-applicable legal or regulatory requirements
-our policies
-our customers
-customers
-users
-products
-programs
-services
-promotions
-market
-our Services
-any other lawful purpose
-the information
-Aggregated
-Personal Information
-the extent
-applicable law
-process
-transfer
-store data
-individuals
-customers
-partners
-manner
-such aggregated personal information
-other information
-information
-third party sources
-information
-other ways
-consent
-applicable law
-benchmarking
-analytics
-A/B testing
-metrics
-research
-reporting
-machine learning
-other business purposes
-applicable law
-SHARING
-INFORMATION
-the extent
-applicable law
-SmartBear
-information
-personal information
-personal information
-our customers
-their service providers
-other platforms
-those customers
-Affiliates
-Agents
-personal information
-our affiliates
-any business partners
-agents
-our behalf
-Service Providers
-personal information
-our service providers
-agents
-vendors
-other third parties
-the SmartBear Services
-our business
-personal information
-such third parties
-services
-A listing
-our subprocessors
-service providers
-access
-personal information
-our customers
-Advertising
-Marketing
-the extent
-applicable law
-personal information
-third parties
-marketing
-advertising
-promotions
-contests
-other similar purposes
-Mergers
-Acquisitions
-Divestitures
-personal information
-a buyer
-investor
-new affiliate
-other successor
-the event
-SmartBear
-any affiliate
-portion
-group
-business unit
-a business transition
-a merger
-acquisition
-consolidation
-reorganization
-divestiture
-liquidation
-dissolution
-bankruptcy
-a sale
-other transfer
-a portion
-any assets
-SmartBear
-any affiliates
-steps
-contemplation
-such activities
-Law Enforcement
-National Security
-personal information
-legal, governmental, or judicial authorities
-those authorities
-applicable laws
-any law
-directive
+which fields
 order
-legal process
-investigation
-warrant
-subpoena
-government request
-regulatory request
-law enforcement
-national security investigation
-law
-Protection
-Rights
-Property
-Safety
-personal information
-our sole discretion
-disclosure
-the rights
-property
-safety
-any person
-fraud
-other illegal activity
-SmartBear
-personal information
-other purposes
-other third parties
+your request
+advantage
+services
+our websites
+certain information
+your company
+example
+contact information
+an account
+products
+services
+non-personal, technical, or demographic data
+personal data
 an individual
-such disclosure
-a customer
-permission
-such individual
-such disclosure
-legitimate business purposes
-customer data
-such customer’s authorization
-accordance
-SmartBear
-agreement
-such customer
-applicable law
-COOKIES
-SIMILAR TECHNOLOGIES
-cookies
-similar technologies
-the SmartBear Products
-Services
-our interaction
-A "cookie
-a unique numeric code
-your computer
-track
-your interests
-a return visitor
-the websites
-cookies
-log files
-pixel tags
-web bugs
-web beacons
-clear GIFs
-LSOs
-HTML5
-Flash
-other similar technologies
-information
-the ways
-the SmartBear Products
-Services
-features
-functionality
-performance
-content
-experiences
-marketing
-analytics
-other lawful purposes
-third party service providers
+the combined information
+its own datum
+Third parties
+Some content
+applications
 advertisements
-promotions
-our behalf
+the website
 third parties
-the SmartBear Products
-Services
+advertisers
+ad networks
+servers
+content providers
+application providers
+These third parties
+cookies
+conjunction
+web beacons
+other tracking technologies
+information
+our website
+the information
+your personal data
+information
+personal data
+your online activities
+time
+different websites
+other online services
+this information
+interest-based (behavioral) advertising
+other targeted content
+these third-party tracking technologies
+the collected data
+any questions
+an advertisement
+other targeted content
+the responsible provider
+Anonymous data
+Our web server
+the address
+the website
+our site
+our site
+any search terms
+our site
+Our website
+other technologies
+which pages
+our websites
+our visitors
+This information
+visitors
+our website
+Most browsers
+cookies
+example
+Internet Explorer
+all cookies
+Tools
+“Internet Options
+“Privacy
+Block all cookies
+the sliding selector
+a negative impact
+the usability
+many websites
+this one
+Anonymous Data records
+the information
+information
+your name
+the data
+"domain" information
+company names
+the aggregate level
+this Anonymous Data
+statistical analyses
+users' aggregate behavior
+the content
+our services
+site user experience
+product offerings
+data
+Cookies
+Cookies
+small files
+letters
+numbers
+your browser
+device
+a website
+web service
+site
+service
+cookies
+first-party cookies
+cookies
+other domain names
+third-party cookies
+Vicor’s website
+cookies
+analytics
+interest-based advertising
+marketing purposes
+website experiences
+preferences
+settings
+social media interactions
+support
+these activities
+information
+third parties
 the following types
 cookies
-similar technologies
 Strictly necessary cookies
 the operation
-the SmartBear Products
-Services
+our website
 example
 secure areas
-Analytical/performance cookies
-information
-the SmartBear Products
-Services
-the number
-visitors
-visitors
 our website
-the way
+a shopping cart
+e-billing services
+cookies
+users
+our site
+Functionality cookies
 our website
-These cookies
-third party providers
-web traffic analysis services
-Functionality
-choices
-our content
 your preferences
 example
 language
 region
+our content
 Targeting cookies
-information
-your browsing habits
-the pages
-the links
-this information
+your visit
 our website
-your interests
-advertising
-advertising
-the number
-times
-an ad
-These cookies
-third-party advertising networks
-the other websites
-this information
-third-party organizations
-example
-Most internet browsers
-cookies
-default
-cookies
-the setting
-your browser
-some cookies
-The help
-support area
-your internet browser
-instructions
-how to block or delete cookies
-Some web browsers
-some mobile web browsers
-settings
-cookies
-a cookie
-your computer
-tablet
-device
-cookies
-access
-the features
-the SmartBear Products
-Services
-more information
-the help
-your web browser
-www.youronlinechoices.com
-further information
-behavioral advertising
-online privacy
-third party analytics
-Google Analytics
-similar analytics services
-information
-Google
-your information
-Google Analytics
-https://tools.google.com/dlpage/gaoptout
-third-party advertisers
-advertisements
-the SmartBear Products
-Services
-These third parties
-cookies
-other tracking and analytical technologies
-other things
-record
-your browser
-ads
-Information
-the privacy policies
-those third parties
-no control
-third party use
-cookies
-CHOICES
-OPT-OUT
-the extent
-applicable law
-our discretion
-certain uses
-personal information
-consent
-the basis
-processing
-any time
-the consent
-the processing
-your personal information
-the purposes
-this Privacy Policy
-applicable law
-professional standards
 such information
-newsletters
-other marketing
-promotional messages
-notifications
-updates
-the unsubscribe instructions
-these e-mail communications
-our Unsubscribe Page
-mail
-450 Artisan Way
-Somerville
-MA
-02145 USA
-Attn
-General Counsel
-Legal Dept
-direct marketing
-certain service
-transactional messages
-legal notices
-consent
-your consent
-processing
-certain personal information
-the services
-THIRD PARTY SITES
-The SmartBear Products
-Services
-links
-other websites
-mobile applications
-resources
-Internet locations
-SmartBear
-control
-(“External Web Sites
-Such links
-an endorsement
-SmartBear
-those External Web Sites
-SmartBear
-these links
-a convenience
-no control
-External Web Sites
-their content
-any goods
-services
-the External Web Sites
-Our Privacy Policy
-External Web Sites
-Your use
-External Web Sites
-the terms
-use
-privacy policies
-the External Web Sites
-the privacy policies
-any External Web Sites
-DATA SECURITY
-technical and organizational security measures
-personal information
-security risks
-the storage
-transmission
-personal information
-REGION SPECIFIC DISCLOSURES
-8.1 Notice
-Individuals
-the EEA
-PRIVACY SHIELD NOTICE
-our compliance
-the EU-U.S.
-Swiss-
-U.S. Privacy
-regards
-the personal information
+our website
+the advertising
+your interests
+this information
+third parties
+advertising purposes
+Social media cookies
+identification
 users
-the SmartBear Products
-Services
-residents
-the European Union
-European Economic Area
-“EEA
-Switzerland
-the SmartBear Products
-Services
-the Privacy Shield Principles
-notice
-choice
-onward transfer
-security
-data integrity
-access
-liability
-enforcement
-Personal Data
-users
-the SmartBear Products
-Services
-the countries
-the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks
-the Privacy Shield program
-our certification
-Personal Data
-individuals
-Europe
-other compliance mechanisms
-use
-the European Union Standard Contractual Clauses
-Binding Corporate Rules
-the processing
-Personal Data
-the Privacy Shield Framework
-a third-party agent
-onward transfers
-violation
-the Privacy Shield Principles
-any conflict
-the terms
-this Privacy Policy
-the Privacy Shield Principles
-the Privacy Shield Principles
-Our legal bases
-personal information
-legal obligations
-contracts
-our legitimate interests
-commerce
-the SmartBear Products
-Services
-fraud
-technical, service or security problems
-information
-network security
-direct marketing
-advertising
-industry practices
-Your consent
-example
-our mailing list
-Data Retention
-personal information
-our records retention program
-the purposes
-this Policy
-a longer period
-applicable law
-disputes
-our legal rights
-accordance
-the principles
-Article 5(1
-the GDPR
-aggregated data
-the extent
-applicable law
-The criteria
-the period
-personal information
-varies
-the legal basis
-such personal information
-Legitimate Interests
-a reasonable period
-time
-the particular interest
-account
-the fundamental interests
-the rights
-freedoms
-the data subjects
-Contractual Necessity
-the duration
-the contract
-some additional limited period
-time
-law
-the limitation period
-legal claims
-the contractual relationship
-Legal Obligation
-the duration
-time
-the information
-Consent
-the period
-time
-the underlying agreement
-your right
-certain circumstances
-certain personal information
-Data Subject Rights
-Automated Decisions
-the extent
-applicable law
+content
+online social media platforms
+These cookies
+our social media research
 data
-an automated manner
-automated decisions
-machine learning algorithms
-individual users
-the SmartBear Products
-Services
-order
-the SmartBear Products
-Services
-security or analytics purposes
-any other lawful purpose
-the extent
-applicable law
-automated decisions
-example
-advertisements
-the individual’s preferences
-International Data Transfers
-The SmartBear Sites
-Services
-resources
-servers
-various countries
-the world
-the United States
-other countries
-personal information
-individuals
-customers
-the country
-the SmartBear Sites
-Services
-countries
-the European Union
-(“EU
-European Economic Area
-(“EEA
-Switzerland
-the level
-data protection
-the European Commission
-these jurisdictions
-the transfer
-personal information
-the requested information
+Information
+this website
+the purposes
+this privacy policy
+addition
+the uses
+this privacy policy
+this information
+requests
 products
 services
-any requested transaction
-any portion
-the Sites
-Services
-the transfer
-your information
-Data Subject Rights
-Individuals
-the EEA
-whose personal information
-the GDPR
-certain rights
-law
-the right
-access
-erasure
-data portability
-the right
-processing
-consent
-processing
-Access
-Individuals
-the right
-personal information
-a copy
-personal information
 information
-the processing
-that data
-Rectification
-Individuals
-the right
-any personal information
-undue delay
-Individuals
-the right
-the ways
-personal information
-the accuracy
-the personal information
-data
-the individual
-our processing
-the data
-right
-objection
-processing
-the personal information
-Objection
-Individuals
-the right
-our processing
-their personal information
-legitimate interests
-our legal basis
-their rights
-our legitimate interests
-their personal information
-Individuals
-the right
-our processing
-their personal information
-direct marketing purposes
-Withdrawal
+Measure
+the effectiveness
+our websites
+your browsing experience
+our website
+Tailor
+our online store
+your preferences
+Administer surveys
+marketing communications
+our business
+Other business purposes
+information
+marketing communications
+interest
+email
+post
+Third-party sharing
+Vicor
+a number
+distributors
+sales representatives
+the globe
+our request
+the information
+guidance
+our authorized distributors
+our authorized distributors
+your information
+order
+date
+either party
+the full knowledge
+the other party
+updates
+other valuable information
+the GDPR
+the lawful bases
+data processing
 Consent
+a data subject
+a contract
+a data subject
+a party
+a legal obligation
+the legitimate interests
+the controller
+the vital interests
+a data subject
+tasks
+the public interest
+Disclosure
+a company
+third-party sharing practices
+its privacy policy
+use
+the point
+collection
+time
+Vicor
+the data-sharing rules
+all other applicable data privacy laws
+any questions
+this area
+the contact information
+the Introduction
+Email settings
+your information
+marketing communications
+any time
+All marketing email
+direct mail communications
+Vicor
+Other sites
+This Privacy Policy
+other websites
+the Vicor sites
+Our sites
+links
+other sites
+third parties
+the privacy policies
+those other sites
+information
+Information processing
+security
+the personal data
+a country
+different privacy laws
+Our website servers
+the United States
+your information
+jurisdictions
+our affiliates
+partners
+third-party service providers
+your personal data
+any jurisdiction
+the one
+the data
+a territory
+an adequate level
+protection
+personal data
+appropriate safeguards
+your personal data
+the use
+approved Standard Contractual Clauses
+another lawful transfer mechanism
+further information
+our international transfers
+personal data
+agreement
+your information
+our sites
+Vicor
+the security
+the information
+a variety
+industry-standard security technologies
+procedures
+your information
+unauthorized access
+use
+disclosure
+The Vicor website
+encryption technology
+Secure Sockets Layer
+SSL
+your credit card information
+data transport
+SSL encrypts
+information
+your name
+address
+credit card number
+Our Customer Service group
+a private, secure network
+information
+a computer firewall
+a barrier
+outsiders
+our servers
+a password
+your account information
+addition
+Vicor
+your information
+unauthorized physical access
+your information
+a controlled facility
+this Privacy Policy
+Vicor
+access
+information
+electronic databases
+those persons
+employees
+contractors
+Vicor's organization
+a business need
+such access
+those persons
+contract
+your data
+The safety
+security
+your information
+a password
+access
+certain parts
+our website
+this password
+The transmission
+information
+the internet
+your personal data
+the security
+your personal data
+our website
+Any transmission
+personal data
+your own risk
+the circumvention
+any privacy settings or security measures
+the website
+Cross-border data transfers
+The cookies
+personal data
+a country
+this country
+privacy laws
+different, possibly weaker, protections
+your home country
+this transfer
+storing
+processing
+cookie use
+the United States
+each third party cookie provider
+cookie policy
+its location
+Safe shopping policy
+an online account
+the Vicor website
+a password
+at least 8 characters
+your level
+protection
+a combination
+both letters
+numbers
+the secrecy
+your passwords
+any account information
+our products
+our online Vicor Store
+Customer Service
+security measures
+place
+the loss
+misuse
+unauthorized access
+alteration
+the information
+our control
+credit card numbers
+our systems
+secure communications
+our payment processor
+Both Vicor
+our payment processor
+the Payment Card Industry (PCI
+Data Security Standard
+your information
+European Union
+United Kingdom
+Switzerland
+Iceland
+Liechtenstein
+Norway
+a resident
+the European Economic Area
+(EEA
+United Kingdom
+Switzerland
+the following data protection rights
+processing
+data portability
+automated individual decision making
+these data protection rights
+Vicor
+the above contact information
+these data protection rights
+Our legal basis
+the personal data
+the personal data
+the specific context
+personal data
+your consent
+the personal data
+a contract
+the processing
+our legitimate interests
+your data protection interests
+fundamental rights
+freedoms
+some cases
+a legal obligation
+personal data
+your personal data
+your consent
+your consent
+any time
+your consent
+the lawfulness
+any processing
+your withdrawal
+your personal data
+reliance
 consent
-the basis
-personal information
-individuals
+personal data
+an individual
+Vicor
+behalf
+a Vicor customer
+any data protection rights
+respect
+that data
+applicable law
 the right
-their consent
-Individuals
+such data
+the relevant Vicor customer
+a complaint
+a data protection authority
+our collection
+use
+your personal data
+the data protection authority
+your jurisdiction
+California residents
+The California Consumer Privacy Act
+(“CCPA
+January
+businesses
+personal data
+California residents
+certain disclosures
+such information
+a description
+our data collection
+use
+disclosure
+practices
+this privacy policy
+its entirety
+Vicor
+personal data
+sale
+the CCPA
+its implementing regulations
+The sources
+personal data
+“Data Vicor Collects
+Data
+personal data
+this policy
+marketing
+promotional purposes
+our services
+other purposes
+Data
+“Email Settings
+Information Processing
+Security
+“Cross-Border Transfers
+California law
+California residents
+the right
+the following requests
+regard
+certain information
+the right
+a copy
+personal data
+a business purpose
+the past 12 months
 the right
 deletion
-erasure
-their personal information
-a number
-circumstances
-law
-the personal information
-the purposes
-the individual
-consent
-legitimate interests
-a legal basis
-the individual’s rights
-our legitimate interests
-Individuals
+personal data
+certain exemptions
 the right
+personal data
 a copy
-the personal information
-a structured machine-readable format
-another controller
-your consent
-performance
-a contract
-our legal basis
-the processing
-a Complaint
-Individuals
-the right
-a complaint
-our personal information
-practices
-their local data protection authority
-your legal rights
-this Section
-questions
-this Section
-our data handling practices
-our interactive webform
-the details
-sufficient details
-any requests
-accordance
-applicable law
-a reasonable period
-time
-the identity
-the individual
-a request
-such request
-the request
-our customers
-the SmartBear Sites
-Services
-the request
-that customer
-the request
-SmartBear customers
-certain information
-the profile information
-compliance
-the Privacy Shield Principles
-SmartBear
-complaints
-our collection
-use
-your Personal Data
-Residents
-a country
-the Privacy Shield Framework
-any questions
-complaints
-our Privacy Shield compliance
-our Privacy Shield and Data Protection Contact
-your issue
-a concern
-data
-the Privacy Shield Framework
-a timely manner
-the concern
-our U.S.-based dispute resolution provider
-no cost
-neither SmartBear
-our independent dispute resolution provider
-your complaint
-the possibility
-binding arbitration
-the Privacy Shield Panel
-such arbitration
-a resident
-a country
-the Privacy Shield Framework
-the opportunity
-the issue
-assistance
-our designated independent dispute resolution provider
-(3) contact
-the U.S. Department
-Commerce
-a European DPA
-Commerce
-the issue
-binding arbitration
-each party
-its own attorney
-fees
-the Privacy Shield
-individual-specific, non-monetary, equitable relief
-any violation
-the Privacy Shield Principles
-respect
-the resident
-U.S. Federal Trade Commission Enforcement
-SmartBear
-commitments
-the Privacy Shield
-the investigatory and enforcement powers
-the United States Federal Trade Commission
-Compelled Disclosures
-SmartBear
-Personal Data
-response
-lawful requests
-public authorities
-national security or law enforcement requirements
-Privacy Shield and Data Protection Contact
-the data controller
-personal information
-the SmartBear Products
-Services
-the SmartBear customer
-such Services
-SmartBear
-the processor
-such data
-such customer
-certain cases
-SmartBear
-the controller
-aggregated, anonymous or pseudonymous data
-the SmartBear Products
-Services
-Our Privacy Shield and Data Protection Contact
-the personal information
-connection
-the SmartBear Products
-Services
-Attn
-General Counsel
-Legal Dept
-SmartBear Software Inc.
-
-450 Artisan Way
-
-Somerville
-MA
-Phone
-California Privacy Rights
-the above categories
-personal information
-the a matrix
-the sources
-purposes
-any sharing
-each category
-that matrix
-Table
-this Privacy Policy
-personal information
-personal information
-third parties
-service providers
-information
-services
-our behalf
-the following categories
-personal information
-a business purpose
-Identifiers
-Commercial information
-Information
-Internet activity
-other electronic network activity
-Educational information
-Professional information
-Geolocation data
-Audio, electronic, or visual information
-Characteristics
-protected classifications
-California
-federal law
-Other information
-Your Rights
-California Law
-a California resident
-applicable law
-the following rights
-California law
-respect
-your personal information
-the right
-what personal information
-the right
-the deletion
-your personal information
-Non-Discrimination
-the right
-discriminatory treatment
-the exercise
-the privacy rights
-the above rights
-your behalf
-order
-another person
-your rights
-California law
-respect
-your personal information
-(i
-written permission
-the person
-your behalf
-your identity
-SmartBear
-the methods
-this Privacy Policy
-information
-your minor child
-the above rights
-behalf
-your minor child
-The above rights
-your identity
-authority
-these requests
-These rights
-various exclusions
-exceptions
-applicable laws
-a California resident
-these rights
-the following ways
-Interactive webform
-Mail
-General Counsel
-SmartBear Software
-450 Artisan Way
-Somerville
-MA
-the other sections
-our Privacy Policy
-further information
-our practices
-your personal information
-Shine
-the Light Law
-California
-the Light” law
-California residents
-personal information
-products
-services
-family
-household use
-calendar year
-customer information
-other businesses
-this information
-the categories
-resident information
-the names
-addresses
-those businesses
-such resident information
-the immediately prior calendar year
-this information
-sufficient personal identification information
-the request
-a California resident
-8.3 Canadian Residents
-Canadian residents
-additional rights
-Canadian law
+deletion
+right-to-know request
+Vicor
 the information
-the Office
-the Privacy Commissioner
-Canada
-additional details
-our wish
-this document
-all other related documents
-English
-Vous reconnaissent avoir
-exigé
-la rédaction
-du présent document ainsi que tous les documents
-qui
-s'y rattachent
-SMARTBEAR PRODUCTS
-SERVICES OBTAINED
-THE ATLASSIAN MARKETPLACE
-all authorized SmartBear Services
-the Atlassian Marketplace
-http://marketplace.atlassian.com
-any other webpage
-application
-interface
-service
-product
-Atlassian Pty Ltd
-available cloud
-applications
-plug-ins
-extensions
-Atlassian’s own software and cloud offerings
-(“Atlassian Marketplace
-Atlassian
-the privacy
-security
-integrity
-Your data
-SmartBear
-the SmartBear Products
-Services
-the Atlassian Marketplace
-QUESTIONS
-COMPLAINTS
-DISPUTES
-any questions
-this Privacy Policy
-our collection
+first name
+last name
+email address
+company
+state / province
+country
+our records
+the request
+an authorized agent
+a consumer rights request
+your behalf
+the methods
+Vicor
+the authorized agent
+signed permission
+the request
+your behalf
+your identity
+this request
+your permission
+Vicor
+your rights
+financial incentives
+the use
+your personal data
+China residents
+Vicor
+all applicable data privacy and security regulations
+the People
+Republic
+China
+PRC
+namely the Personal Information Protection Law
+“PIPL
+these three laws
+Chinese residents’ data
+many circumstances
+its subject
+the specific terms
+said collection
 use
-sharing
-storage
-information
-email
-our interactive webform
-the following address
-Attn
-General Counsel
-Legal Dept
-SmartBear Software
-450 Artisan Way
-Somerville
-MA
-Phone
-SmartBear
-this Privacy Policy
-time
-time
-our sole discretion
-changes
-our information and privacy practices
-SmartBear
-any updated Privacy Policy
-this page
-https://smartbear.com/privacy/
-the SmartBear Products
-Services
-any notice
-individual users
-applicable law
-SmartBear
-this Privacy Policy
+request
+its subject
+default
+China
+other measures
+a resident
+the PRC
+the use
+your data
+access
+the data
+Vicor
+your data
+another inquiry
+comment
+Data retention
+personal data
+an ongoing legitimate business
+applicable legal, tax or accounting requirements
+our agreements
+our legal obligations
+our personal computing and electronic communications networks
+your personal data
+backup archives
+your personal data
+further processing
+deletion
+Children
+online privacy
+our website
+minors
+personal data
+children
+local legal requirements
+personal data
+a child
+appropriate consent
+any information
+a child
+Changes
+this policy
 any changes
-The date
-last revision
-the “Last Updated” legend
-the top
+our privacy policy
 this page
-Explore SmartBear Products
-AlertSite
-AQTime
-Pro
-BitBar
-Bugsnag
-Capture
-Jira
-Collaborator
-Cucumber
-Jira
-CucumberStudio
-Cucumber Open
-LoadNinja
-SoapUI
-Swagger
-SwaggerHub
-TestComplete
-TestEngine
-TestLeft
-Zephyr
-|
-Careers
-| 
-Solutions
-|
-Partners
+the website home page
+this privacy policy
+the changes
+your personal data
+reasonable efforts
+email
+the primary email address
+your account
+a notice
+the website home page
+any updates
+changes
+our privacy policy
+This privacy policy
+Nov.
 Contact Us
-|
-|
-+353
-AUS
-© 2021 SmartBear Software
-All Rights
+the Company
+Press Room
+Careers
+Investor Relations
+Quality Center
+Accessibility Statement
 Privacy
-|
-Terms
-Use
-| 
+Cookie Policy
 Site Map
-Website Terms
-Use
-your product
-AlertSite
-CucumberStudio 
-
-
- 
-LoadNinja 
-
-
- 
-QAComplete
-SwaggerHub 
-
-
-
-
-SmartBear
-Community
-Management Portal
-License System
+Shanghai ICP No.17013922
+Shanghai Public Security Network No.
+营业执照
+技术热线
+繁體中文
+简体中文
+日本語
+©
+Vicor Corporation
+cookies
+analytics
+advertising
+our site
+our use
+cookies
+this message box
+our site
+our Cookie Policy

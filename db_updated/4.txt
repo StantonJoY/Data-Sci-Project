@@ -1,195 +1,198 @@
-legal grounds
-legal obligations
-the attendee
-instance
-the websites
-logs
-mailing
-processing
+(ip
+7 years
+a 3rd-party website
+a copy
+a link
+a mailing list
+a minimum
 a payment
 a registered user
+a reimbursement request
+a report
+a request
+a successful ticket purchase
+a support email
+a username and email address
+a web service
+a wordpress.org website
+a wp.org account
+access
+accessibility
+administrators
+affiliated organizations
+aggregated statistics
+all measures
+all wordcamp attendee-provided data
+an account
+an email
+any change
+any questions
+api.wordpress.org
+archival records
+archives
+associated data
+attendee names
+auditors
+banking/financial data
+bbpress.org
+behalf
+blog
+bookkeepers
+buddypress
+certain other services
+certain visitors
+certain website-related activities
+click
+code
+contractors
+cookies
+data
+data protection law
+destruction
+developers
+development
+domains
+donate
+dpo@wordpress.org
+each visitor request
+email
+email addresses
+employees
+essential systems
+gnu public license
+how many times
+https://wordpress.org/about/privacy/data-export-request/.
+instance
+interaction
+invoices
+its privacy policy
+its visitors
+its website
+its websites
+language preference
+law
+legal grounds
+legal obligations
+links
+live systems
+logs
+mailing
+marketing
+marketing purposes
+matt
+mobile
+most website operators
+new features
+new versions
+newsletters
+non-essential data
+notifications
+object
+organizers
+other users
+other websites
+our ability
+our blog
+our control
+our cookie policy
+our feedback mechanisms
+our forums
+our live systems
+our privacy policy
+our processing
+our systems
+our website
+personal data
+plugins
 privacy
 privacy policy
-the email
-wordcamp.org sites
-cookies
-(ip
-law
-the “edit” link
-a successful ticket purchase
-their banking details
-the wordpress
-the bottom
-this privacy policy
-such processing
-all wordcamp attendee-provided data
-the website
-email addresses
-administrators
-code
-wordpress
-links
-the transfer
-the wordpress open source project
-the personal information
-the logs
-wordcamp attendee data
-certain website-related activities
-our ability
-attendee names
-statistics
-certain other services
-associated data
-sites
-email
-this document
-a report
-any change
-our live systems
-that web browsers
-the close
-their own privacy policies
-your computer
-archives
-third party links
-new versions
-your email address
-data protection law
-our blog
-this policy
-a 3rd-party website
-the instructions
-archival records
-https://wordpress.org/about/privacy/data-export-request/.
-the following processing conditions
-buddypress
-the usage
-a web service
-any questions
-the amount
-a wordpress.org website
-mobile
-our privacy policy
-our forums
-the unsubscribe link
-themes
-bookkeepers
-click
-the access token url
-wordpress.org
-such change
+processing
 project administrators
-essential systems
-other users
-these steps
-a link
-personal data
-the browser type
-gnu public license
-a minimum
-object
-newsletters
-behalf
-this privacy statement
-language preference
-email marketing communication
-all measures
-a wp.org account
-organizers
-a support email
-donate
-most website operators
-your acceptance
-our systems
-purpose
-skip
-bbpress.org
-each visitor request
-affiliated organizations
-banking/financial data
-those employees
-supportdocumentationforums
-the data
-services
-the extent
-an email
-visitors
-other websites
-domains
-a username and email address
-non-essential data
 publicly accessible sites
-aggregated statistics
-marketing purposes
-third parties
-the public
-type
-marketing
-site
-employees
-the 7-day retention period
-the aggregate
-api.wordpress.org
-the request
-a copy
-our feedback mechanisms
-its privacy policy
-“cookies
-accessibility
-our events
-that third party
+purpose
 records
-the purpose
-our control
-developers
-plugins
-contractors
-a reimbursement request
-matt
-how many times
-certain visitors
-the same circumstances
-wordcamp
-your privacy
-new features
-invoices
-our cookie policy
-wordpress.org websites
-the property
-auditors
+relation
+rights
 servers
-wordpress.org, third parties
-the programs
-our website
-notifications
-the unauthorized access
-a request
-an account
-blog
-development
-wordcamp expenses
-tv
-its website
-live systems
-this site
-toggle menu
-this type
-access
-website activity
+services
+site
+sites
+skip
+statistics
+such change
+such processing
 support
-your request
-the sort
-your account data
-its websites
-our processing
-dpo@wordpress.org
-the success
-text files
-its visitors
+supportdocumentationforums
 survey
-wordpressabout wordpresswordpress.orgdocumentationsupportfeedbacksearchlog
+text files
+that third party
+that web browsers
+the 7-day retention period
+the access token url
+the aggregate
+the amount
+the attendee
+the bottom
+the browser type
+the close
+the data
+the email
+the extent
+the following processing conditions
+the instructions
+the logs
+the programs
+the property
+the public
+the purpose
+the request
+the same circumstances
+the sort
+the success
+the transfer
+the unauthorized access
+the unsubscribe link
+the usage
+the website
+the websites
+the wordpress
+the wordpress open source project
+the “edit” link
+their banking details
+their own privacy policies
+themes
+these steps
+third parties
+third party links
+this document
+this policy
+this privacy policy
+this privacy statement
+this site
+this type
+those employees
+toggle menu
+tv
+type
+visitor use
+visitors
+website activity
 website visitors
-a mailing list
-your account
+wordcamp
+wordcamp attendee data
+wordcamp expenses
+wordcamp.org sites
+wordpress
 wordpress installations
-data
+wordpress.org
+wordpress.org websites
+wordpress.org, third parties
+wordpressabout wordpresswordpress.orgdocumentationsupportfeedbacksearchlog
+your acceptance
+your account
+your account data
+your computer
+your email address
+your privacy
+your request
+“cookies

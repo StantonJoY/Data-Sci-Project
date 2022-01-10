@@ -1,7 +1,7 @@
 if __name__=='__main__':
     for i in range(1,76):
         filename="C:\\Users\\LostPromise\\Desktop\\Data-Sci-Project\\db\\{}.txt".format(i)
-        filename1 = "C:\\Users\\LostPromise\\Desktop\\privacy policy\\{}.txt".format(i)
+        filename1 = "C:\\Users\\LostPromise\\Desktop\\Data-Sci-Project\\db_updated\\{}.txt".format(i)
         with open(filename,mode='r+',encoding='utf-8') as f:
             context=f.readlines()
             result=[]
@@ -13,11 +13,10 @@ if __name__=='__main__':
             for k in range(len(result)):
                 result[k]=result[k].lower()#lower
 
-            result.sort(reverse=False)#sort
-
             result=list(set(result))#list
 
-            with open("C:\\Users\\LostPromise\\Desktop\\stopwords.txt",mode='r+',encoding='utf-8') as f_stopwords:
+            result.sort(reverse=False)#sort
+            with open("C:\\Users\\LostPromise\\Desktop\\Data-Sci-Project\\stopwords.txt",mode='r+',encoding='utf-8') as f_stopwords:
                 stopwords=f_stopwords.readlines()
                 for it in stopwords:
                     for it2 in result:

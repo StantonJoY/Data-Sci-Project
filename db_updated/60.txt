@@ -1,195 +1,195 @@
-rent
-secure data transfer
+(xss
+3rd party services
+a few useful tools
+a user
+a web browser
+accounting purposes
+additional cookies
+additional profile data
+ads
+adsense panel
+adsense servers
+advertising
+all registration data
+all the attached files
+all user-created sites
 also url address
-user's acceptance
-any advertising partners
-email address
-the content
-private sites
-privacy policy
-the privacy
-your site
-user email addresses
-purposes
-ssl
-cookies
-security
-selected html code portions
-law
-plain-text transport
-wikidot.com servers
-other third party servers
-this privacy policy
-such a user
-headings
-email addresses
-profiles
-official wikidot blog
-wikidot.com services
-users purchasing upgrades
 an "edit" link
-links
+an identifier
+an individual
+an unauthorized user
 analytics
-at least 128-bit ssl certificates
-the services
-pro wiki
-create account
-user
-users
+and also activity
+anonymous users
+anonymous visitors
+another user
+any advertising partners
 any content
-whose email address
-instant messaging contact info
-other third party services
-removal
-ip address
-the account settings
-the privacy policies
-wikidot services
+any questions
+any third party
+any wiki sites
+append content
+at least 128-bit ssl certificates
+both registered users
+breadcrumbs
+browser type
+click
+community
+content
+cookies
+cookies usage
+copyright ©
+create account
+cross server
+data
+default system
+editing
 email
-particular user account
-this document
-other payment services
+email address
+email addresses
+employees
+every such information transfer
+features
+forum
+forum discussions
+gender
+gift shop
+hacking activity
+headings
 http://www.wikidot.com/legal:privacy-policy
 individual sections
-these partners
-user profile data
-your email address
-community
-the wiki site
-adsense panel
+individual users
+individual wiki sites
+instant messaging contact info
+ip address
 its authorized users
-accounting purposes
-the wiki sites
-cross server
-their billing address
-an individual
-copyright ©
-messages
-security measures
-sign
-the ad server
-the wikidot.com services users
-content
-any questions
-questions
-these 3rd party services
-anonymous users
-append content
-view wiki source
-adsense servers
+law
 level
-click
-opinions
-and also activity
-our users
-service
-browser type
-these aggregate data
-user acceptance
-other users
-another user
-personal data
-wikidot
-default system
+links
+messages
+moc.todikiw|ycavirp#moc.todikiw|ycavirp
+more relevant services
 my account panel
-these sites
+no responsibility
+official wikidot blog
+only selected users
+opinions
+other factors
+other payment services
+other sites
+other social sites
+other third party servers
+other third party services
+other users
+other web sites
+our advertising partners
+our control
+our database servers
+our databases
+our users
+particular user account
+password-recovery forms
+people
+personal data
+plain-text transport
+possibly the category
+posting content
+pricing
+privacy policy
+private sites
+pro wiki
+profiles
+proper user account handling
+public computers
+purpose
+purposes
+questions
+removal
+rent
+rss feed import
+rules
+secure data transfer
+secure transport
+security
+security and monitoring purposes
+security measures
+selected html code portions
+service
+sign
+site
+some sites
+ssl
+ssl transport
+such a user
+sufficient security measures
+technical purposes
+terms
+the account settings
+the ad server
+the browser
+the content
+the data
+the https protocol
+the login form data
+the moment
+the policy
+the privacy
+the privacy policies
+the privacy policy
+the public
+the public wiki sites
+the same sites
+the security
+the services
+the site
+the sites
+the user
+the users
+the web
+the whole page source
+the wiki site
+the wiki sites
+the wikidot services
+the wikidot.com services
+the wikidot.com services users
+their billing address
 their browsers
 their data
-additional profile data
-(xss
-forum
-3rd party services
-possibly the category
-hacking activity
-public computers
-the wikidot.com services
-user agreement
-rss feed import
-the browser
-our databases
-the sites
-sufficient security measures
-posting content
-no responsibility
-gift shop
-ssl transport
-the data
-security and monitoring purposes
-advertising
+their parsonal data
+these 3rd party services
+these aggregate data
+these partners
+these sites
 third-parties
-the security
-visitors
-the wikidot services
-all registration data
-our advertising partners
-an identifier
-terms
-every such information transfer
-the public
-features
-password-recovery forms
-your contact list
-rules
-site
-a few useful tools
-employees
-any third party
-traffic
-anonymous visitors
-any wiki sites
-watch
-all the attached files
-our control
-additional cookies
-the policy
-the user
-the privacy policy
 this address
 this data
-your ip address
-various techniques
-our database servers
-other factors
-all user-created sites
-more relevant services
-ads
-proper user account handling
-pricing
-cookies usage
-other social sites
-a user
-some sites
-the site
-unauthorized access
-forum discussions
-an unauthorized user
-the users
-this site
-people
-only selected users
-their parsonal data
-moc.todikiw|ycavirp#moc.todikiw|ycavirp
-secure transport
-the https protocol
-the moment
-breadcrumbs
-the web
-gender
-the public wiki sites
-updates
-a web browser
-the same sites
-wikidot newsletter
-both registered users
-other web sites
-the login form data
-user's website
-individual wiki sites
-other sites
+this document
 this privacy
-editing
-technical purposes
-individual users
-purpose
-the whole page source
-data
+this privacy policy
+this site
+traffic
+unauthorized access
+updates
+user
+user acceptance
+user agreement
+user email addresses
+user profile data
+user's acceptance
+user's website
+users
+users purchasing upgrades
+various techniques
+view wiki source
+visitors
+watch
+whose email address
+wikidot
+wikidot newsletter
+wikidot services
+wikidot.com servers
+wikidot.com services
+your contact list
+your email address
+your ip address
+your site

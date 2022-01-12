@@ -1,0 +1,12 @@
+- name and physical address, email addresses, and telephone numbers;
+- demographic attributes, when tied to personal information that identifies you;
+- photographs that identify you and testimonials;
+- transactional data, including products and services ordered, financial details and payment methods;
+- company data such as the name, size and location of the company you work for and your role within the company as well as publicly available company information and activity associated with company data;
+- data from surveys conducted by Oracle or by third parties on behalf of Oracle and publicly available information, such as social media posts;
+- call recording and chat transcript data from Sales and customer support calls and live chat sessions or interviews;
+- unique IDs such as your mobile device identifier or cookie ID on your browser;
+- IP address and information that may be derived from IP address, such as geographic location;
+- information about a device you use, such as browser, device type, operating system, the presence or use of “apps”, screen resolution, and the preferred language;
+- certain location or geolocation information you provide directly or through automated means, if you choose to enable location based services from your device or Oracle app; and
+- behavioral data of the internet connected computer or device you use when interacting with the sites, such as advertisements clicked or viewed, sites and content areas, date and time of activities or the web search used to locate and navigate to a site.

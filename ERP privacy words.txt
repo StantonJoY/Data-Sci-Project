@@ -1,0 +1,78 @@
+Curriculum Vitae
+GPS
+IP address
+Wi-Fi access points
+account history
+application version number
+billing information
+bluetooth-enabled devices
+bot usage data
+browse history
+browser language
+browser platform
+browser settings
+browser type
+browser version 
+business sector
+business tax ID
+call recording
+carrier name
+cell towers
+chat transcript data 
+commands
+company logocompany name
+configuration data
+contacts
+cookie ID 
+country
+credit card
+customers
+demographic attributes
+deployment key
+email address
+employment history error reports
+favorites
+financial details 
+gender
+geolocation
+health information
+interactions with apps
+interests
+introduction letter
+job title
+licensing data
+list of employees
+live chat interviews
+live chat sessions 
+messages
+mobile network information
+mobile operating system
+name
+operating system
+password hints
+payment history 
+payment methods
+personal password
+phone number
+pictures
+postal address
+preferred language
+referrer URL of request
+region
+role within the company
+safety information
+searches 
+sensor data from device
+social media posts
+subscription data
+terms search for
+time and date of visit
+troubleshooting data
+type of mobile device
+unique device identifiers
+usage data
+videos
+voice data
+web hooks
+web page referred
+what is visible on the screen

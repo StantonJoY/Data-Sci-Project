@@ -1,6 +1,6 @@
 if __name__=='__main__':
-    filename="C:\\Users\\LostPromise\\Desktop\\Data-Sci-Project\\ERP privacy words.txt"#file you want to sort
-    filename1="C:\\Users\\LostPromise\\Desktop\\Data-Sci-Project\\ERP privacy words1.txt"#result file you want to store
+    filename=""#file you want to sort
+    filename1=""#result file you want to store
     with open(filename,'r+',encoding='utf-8') as f:
         result=f.readlines()
         result.sort()

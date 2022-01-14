@@ -5,9 +5,9 @@ import sys
 import astpretty
 import shutil
 
-def search(filepath, str):
+def search(filepath):
     code = open(filepath, "r", encoding='utf-8').read()
-    if (re.search("str", code) != None):
+    if (re.search("ip_address", code) != None):
         print(filepath)
 
 def getAllFile(filepath):
@@ -16,7 +16,7 @@ def getAllFile(filepath):
     pathDir.sort()
     for file in pathDir: # 对于.py文件 在对应ast_目录中创建ast文件
         if (os.path.isfile(filepath + "/" + file) and re.match("ast_", file) != None):
-                search(filepath + "/" + file)
+            search(filepath + "/" + file)
         else:
             if (os.path.isdir(filepath + '/' + file)): # 递归遍历目录
                 getAllFile(filepath + "/" + file)

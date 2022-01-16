@@ -5,9 +5,10 @@ import sys
 import astpretty
 import shutil
 
+
 def search(filepath):
     code = open(filepath, "r", encoding='utf-8').read()
-    if (re.search("def execute", code) != None):
+    if (re.search("WHERE id=%s", code) != None):
         print(filepath)
 
 def getAllFile(filepath):
@@ -24,5 +25,5 @@ def getAllFile(filepath):
 
 if __name__ == '__main__':
     current_filepath = os.getcwd()
-    filepath = "/Users/hare/Documents/GitHub/Data-Sci-Project/" + "odoo-15.0"
+    filepath = os.getcwd() + os.sep + "odoo-15.0"
     getAllFile(filepath)

@@ -1,0 +1,29 @@
+GPS
+IP address
+Wi-Fi access points
+bluetooth-enabled devices
+browse history
+browser language
+browser platform
+browser settings
+browser type
+browser version 
+cookie ID
+mobile network information
+mobile operating system
+operating system
+preferred language
+referrer URL of request
+device type
+web hooks
+web page referred
+sensor data from device
+type of mobile device
+unique device identifiers
+account history
+application version number
+configuration data
+interactions with apps
+terms search for
+searches
+licensing data

@@ -1,0 +1,16 @@
+address
+age
+email address
+gender
+health information
+geolocation
+name
+phone number
+telephone
+demographic attributes
+country
+favorites
+postal address
+interests
+region
+religion

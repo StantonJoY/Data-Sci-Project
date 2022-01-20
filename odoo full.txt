@@ -1,0 +1,251 @@
+How we protect your privacy
+on Odoo.com and when you use our services
+
+Odoo SA and its affiliates offer many services to help you run your business, including a platform to host your own Odoo database. As part of running those services we collect data about you and your business. This data is not only essential to run our services, but also critical for the safety of our services and all our users.
+This policy explains what information is collected, why it is collected, and how we use it.
+
+Information we collect
+Most of the personal data we collect is directly provided by our users when they register and use our services. Other data is collected by recording interactions with our services.
+
+Account & Contact Data: When you register on our website to use or download one of our products, or to subscribe to one of our services (Odoo Online, Free Trial, Odoo Apps, Odoo.sh, etc.), or fill in one of our contact forms, you voluntarily give us certain information. This typically includes your name, company name, email address, and sometimes your phone number, postal address (when an invoice or delivery is required),your business sector and interest in Odoo, as well as a personal password.
+We never record or store credit card information from our customers, and always rely on trusted third-party PCI-DSS-compliant payment processors for credit card processing, including for recurring payment processing.
+
+Job Application Data: When you apply for a job on our website or via an employment agency, we usually collect your contact information (name, email, phone) and any information you choose to share with us in your introduction letter and Curriculum Vitae. If we decide to send you a job proposition, we will also ask you to provide extra personal details as required to fulfill our legal obligations and personnel management requirements.
+We will not ask you to provide information that is not necessary for the recruitment process. In particular, we will never collect any information about your racial or ethnic origin, political opinions, religious beliefs, trade union membership or sexual life.
+
+Browser Data: When you visit our website and access our online services, we detect and store your browser language and geolocation in order to customize your experience according to your country and preferred language. Our servers also passively record a summary of the information sent by your browser for statistical, security and legal purposes: your IP address, the time and date of your visit, your browser version and platform, and the web page that referred you to our website.
+Your browser may also be used to store and retrieved your current session data, with the help of a session cookie (see also the Cookie section for more details).
+
+Form protection: some forms on our website may be protected by Google reCAPTCHA. This technology relies on heuristics that are based on technical characteristics of your browser and device, and may also use specific Google cookies. See also Google Privacy Policy and Terms of Use in the Third Party Service Providers section below.
+
+Customer Databases: When you subscribe to an Odoo Cloud service and create your own Odoo database (for example by starting a Free Trial), any information or content you submit or upload into your database is your own, and you control it fully.
+Similarly, when you upload an on-premises database to the Odoo Upgrade website, you own the data in it.
+This data will often include personal information, for example: your list of employees, your contacts and customers, your messages, pictures, videos, etc. We only ever collect this information on your behalf, and you always retain ownership and full control on this data.
+
+Free Trial Session Recording: When you start a free trial on our Odoo Cloud service, you may be offered the possibility to consent to the recording of the beginning for your free trial session in order to help us improve the user experience of our products.
+If you consent, the information that is collected includes what is visible on the screen during the first 2 hours of your free trial, as well as your interactions with our apps (where you click, which menu you open, etc.). This data is consolidated in the form of a video that our User Experience experts can watch for a limited time.
+This will likely include some personal data such as names, emails, phone numbers, pictures, depending on what real-world information you input into your database during the recording period. Password fields and other sensitive fields are automatically excluded from the recording, but we cannot entirely exclude the possibility that some sensitive information may be recorded, depending on where you type it.
+The other sections of this Policy explain:
+
+how we process this data,
+how long we keep it,
+and how you can access or request deletion of this data
+and which third-party service providers are involved.
+
+If you do not consent or if we do not offer you the option to opt-in, your trial session will not be recorded and no data will be collected for this purpose.
+Github.com Account Data: When you subscribe to the Odoo.SH platform and create your project, the platform requires authorization to access your Github.com account, which includes an OAuth token granting access to your account, and later, the contents of your project repository.
+
+In-App Purchase (IAP) Transaction Data: When you use Odoo on the Odoo Cloud or on your own self-hosted deployments, some optional "In-App Purchase" services may be active by default. This typically includes auto-completion features to help you quickly input client and supplier info, as well as integration with third-party service providers for sending and receiving SMS, paper letters, etc.
+When you use these services, with our without payment, some necessary transaction data is transmitted to Odoo Cloud services and have to be communicated to third-party services for the purpose of executing the service. You can find the detailed privacy policy for each service on the IAP Privacy Policy page.
+
+ The IAP services are always optional, even when enabled by default, and the IAP Privacy Policy also explains how you can opt-out of those services.
+
+How we use this information
+Account & Contact Data: We use your contact information in order to provide our services, to answer your requests, and for billing and account management reasons. We may also use this information for marketing and communication purposes (our marketing messages always come with a way for you to opt-out at any time). We also use this data in aggregated/anonymised form in order to analyze service trends.
+If you have registered to participate in an event published on our website, we may transfer your name, email address, phone number and company name to our local organizer and to the sponsors of the event for both direct marketing purposes and in order to facilitate the preparations and booking for the event.
+If you have expressed interest in using Odoo or otherwise asked to be contacted by an Odoo service provider, we may also transfer your name, email address, phone number and company name to one of our official Partners in your country or region, for the purpose of contacting you to offer their local assistance and services.
+
+Job Application Data: We will only process this information for our recruitment process, in order to evaluate and follow-up with your application, and in the course of preparing your contract, if we decide to send you a job proposition. You may contact us at any time to request the deletion of your information.
+
+Browser Data: This automatically recorded data is anonymously analyzed in order to maintain and improve our services. Google reCAPTCHA may also be used for security purposes, in order to prevent abuse of our services. In that case we only process the anonymous score that reCAPTCHA determines based on your browser and device.
+We will only correlate this data with your personal data when required by law or for security purposes, if you have violated our Acceptable Use Policy.
+
+Customer Database: We only collect and process this data on your behalf, in order to perform the services you have subscribed to, and based on the instructions you explicitly gave when you registered or configured your service and your Odoo database.
+Our Helpdesk staff and engineers may access this information in a limited and reasonable manner in order to solve any issue with our services, or at your explicit request for support reasons, or as required by law, or to ensure the security of our services in case of violation of our Acceptable Use Policy in order to keep our services secure.
+
+Free Trial Session Recording: The purpose of these recordings is to improve our products: they will be seen and analysed solely by our R&D Usability team, who will treat your data as strictly confidential information. By watching the recordings they will be able to see a tangible representation of a user’s first steps into Odoo and improve the User Experience accordingly.
+The recordings are processed and stored with tools provided by FullStory (cf. our list of service providers), under strict confidentiality terms.
+The other sections of this Policy explain :
+
+what is recorded,
+how long we keep it,
+and how you can access or request deletion of this data.
+Github.com Account Data: During the configuration phase of your Odoo.SH project, the platform uses your OAuth token to setup the Github.com project you will use for Odoo.SH, including the necessary web hooks and deployment key to allow Odoo.SH to detect every commit you push to your project repository. The OAuth token is not stored and is deleted as soon as you close your Odoo.SH session, or after 2 days.
+The contents of your project repository is stored as long as your Odoo.SH subscription is active in order to provide the service itself.
+Our Helpdesk staff and engineers may access this information in a limited and reasonable manner in order to solve any issue with our services, or at your explicit request for support reasons, or as required by law, or to ensure the security of our services in case of violation of our Acceptable Use Policy in order to keep our services secure.
+
+In-App Purchase (IAP) Transaction Data: You can find the detailed privacy policy for each service on the IAP Privacy Policy page.
+
+Accessing, Updating or Deleting Your Personal Information
+Account & Contact Data: You have the right to access and update personal data you have previously provided to us. You can do so at any time by connecting to your personal account on Odoo.com. If you wish to permanently delete your account or personal information for a legitimate purpose, please contact our Helpdesk to request so. We will take all reasonable steps to permanently delete your personal information, except when we are required to keep it for legal reasons (typically, for administration, billing and tax reporting reasons).
+
+Job Application Data: You may contact us at any time to request access, updates or deletion of your application information. The easiest way to do it is to reply to the last message you exchanged with our Human Resource personnel.
+
+Customer Database:You can manage any data collected in your databases hosted on Odoo.com at any time, using your administration credentials, including modifying or deleting any personal data stored therein.
+At any time you can export a complete backup of your database via our control panel, in order to transfer it, or to manage your own backups/archive. You are responsible for processing this data in compliance with all privacy regulations.
+You may also request the deletion of your entire database via your control panel, at any time.
+When you use the Odoo Database Upgrade service, your data is automatically deleted after your upgrade was successfully completed, and may also be deleted upon request from you.
+
+Free Trial Session Recording: You may contact us at any time to request access to or deletion of the recording of your trial session (see contact info below). Please remember to include the name or the URL of your database (e.g. mydatabase.odoo.com) to allow us to retrieve your specific recording. Recordings are automatically destroyed after 2 months, so if your trial is older than that the data does not exist anymore.
+The other sections of this Policy explain :
+
+what is recorded,
+how we process this data,
+how long we keep it
+and which third-party service providers are involved.
+Github.com Account Data: You can view and manage the project repository data collected from your Github.com account directly on Odoo.SH.
+You may request the deletion of this information via your control panel on Odoo.SH, at any time.
+You can also request the deletion of your Github.com OAuth token by simply logging out from Odoo.SH.
+
+In-App Purchase (IAP) Transaction Data: You can find the detailed privacy policy for each service on the IAP Privacy Policy page.
+
+ Safety Retention Period: we retain a copy of your data in our backups for safety reasons, even after they are destroyed from our live systems. See Data Retention for more details.
+
+Security
+We realize how important and sensitive your personal data is, and we take a great number of measures to ensure that this information is securely processed, stored and preserved from data loss and unauthorized access. Our technical, administrative and organizational security measures are described in details in our Security Policy.
+
+Third Party Service Providers / Subprocessors
+In order to support our operations we rely on several Service Providers. They help us with various services such as payment processing, web audience analysis, cloud hosting, marketing and communication, etc.
+
+Whenever we share data with these Service Providers, we make sure that they use it in compliance with Data Protection legislation, and that the processing they carry out for us is limited to our specific purpose and covered by a specific data processing contract.
+
+Below is a list of the Service Providers we are currently using, why we use them, and what kind of data we share with them.
+
+In-App Purchase (IAP): The list of third-party service providers for each IAP service is available on the IAP Privacy Policy page.
+
+A. Subprocessors
+These third-party service providers are processing data for which Odoo is Controller or Processor, on behalf of Odoo.
+ Important: due to the great variability in resources and services provided by these subprocessors, Odoo Customers cannot select the subprocessor that will be used to process their data. They can however choose their main hosting region (see the Data Location section).
+
+Subprocessors	Purpose	Shared Data
+OVHCloud SAS
+Privacy & Security	Infrastructure and hosting of Odoo.com (production + backups), Odoo SaaS (production + backups), Odoo.SH (backups), DDOS Protection.	Currently hosted by OVHCloud: Production data from Odoo.com and its affiliate services, including Odoo Online (SaaS) Customer Databases, and the Odoo Database Upgrade services, including Customer databases currently being upgraded; Backup data for all Odoo cloud services.
+Data Center Certifications: ISO 27001, SOC 1 TYPE II, SOC 2 TYPE II, PCI-DSS, CISPE, SecNumCloud, CSA STAR.
+Google Cloud EMEA Ltd
+Privacy & Security	Infrastructure and hosting of Odoo.com (production + backups), Odoo SaaS (production + backups), Odoo.SH (production + backups), DDOS Protection.	Currently hosted by Google: Production data from Odoo.com and its affiliate services, including Odoo Online (SaaS) and Odoo.SH (PaaS) Customer Databases and the Odoo Database Upgrade services, including Customer databases currently being upgraded; Backup data for all Odoo cloud services.
+Data Center Certifications: ISO 27001, ISO 27017, ISO 27018, SOC 1, SOC 2, SOC3, PCI-DSS, HIPAA, CISPE, CSA STAR .
+Amazon Web Services, Inc.
+Privacy & Security	Infrastructure and hosting (legacy)	Currently hosted by AWS: The Odoo Database Upgrade services for Customer Databases that are uploaded on the legacy web-based upgrade platform, or that were previously started on that legacy platform with custom scripts, or that are started from the end-of-life version OpenERP v6.1. Newer upgrades started with the command-line script or the new web-based form are not processed on AWS.
+Data Center Certifications: ISO 9001, ISO 27001, ISO 27017, ISO 27018, SOC 1, SOC 2, SOC3, PCI-DSS, HIPAA, CISPE, CSA STAR
+FullStory
+Security & Privacy
+GDPR Info
+Cookie Policy	Temporary free trial recordings for users who consent to the UX improvement program.	Shared with FullStory: video-like recording of your screen during the first 2h of your free trial session + FullStory cookie.
+B. Third-party Processors and Controllers
+These third-party service providers are processing data for which Odoo is a Controller, as Processors, on behalf of Odoo, or they are receiving such data as Controllers, for the specific purpose of performing the services they have been contracted to provide.
+
+Service Provider	Purpose	Shared Data
+Paypal
+(PCI-DSS compliant)
+Privacy & Security	Payment processing on Odoo.com.	Shared with Paypal: Order details (amount, description, reference), Customer name and email.
+Only stored by Paypal: credit card info.
+Ingenico Payment Services
+(PCI-DSS compliant)
+Privacy	Payment processing on Odoo.com.	Shared with Ingenico:Order details (amount, description, reference), Customer name and email.
+Only stored by Ingenico: credit card info.
+Stripe
+(PCI-DSS compliant)
+Privacy & Security	Payment processing on Odoo.com.	Shared with Stripe: Order details (amount, description, reference), Customer name and email.
+Only stored by Stripe: credit card info.
+OneSignal
+Privacy & Security	In-browser push notifications for Odoo.com visitors.	Shared with OneSignal: Non-personal browser data, geolocation info, language (no identifiable information).
+Only stored by OneSignal: browser/mobile device IDs.
+Google Analytics
+Privacy & Security
+Types of cookies	Anonymous website audience analysis.
+Opt-out	Shared with Google Analytics: Non-personal browser data, anonymized IP, geolocation info, language (no identifiable information).
+Google reCAPTCHA
+Privacy & Security	Form protection.	Used by Google reCAPTCHA: Browser and device characteristics, Google cookies.
+Acuity Scheduling
+Privacy & Security	Scheduling of demo/meeting on Odoo.com.	Shared with Acuity: Any personal info entered by the user in the scheduling form: name and contact info, reason for request, etc.
+Clearbit
+Privacy & Security	Retrieval of business info for prospection reasons.	Retrieved from Clearbit for visitors coming from EU companies: name, sector, est. size, est. revenue, website, social media and general contact info.
+Retrieved from Clearbit for visitors coming from non-EU companies: same as for EU companies, plus contact info for company executives, if known.
+CloudFlare
+Security & Privacy
+Cookie Policy	Distributed caching of static resources and images of Odoo.com.	Used by CloudFlare: Browser and device characteristics, CloudFlare cookies.
+Data Retention
+Account & Contact Data: we will only retain such data as long as necessary for the purpose for which it was collected, as laid out in this policy, including any legal retention period, or as long as necessary to carry out a legitimate and reasonable promotion of our products and services.
+
+Job Application Data: If we do not hire you, we may keep the information you provide for up to 3 years in order to contact you again for any new job proposition that may come up, unless you ask us not to do so. If we hire you, your personal information will be stored for the duration of your employment contract with us, and afterwards, during the applicable legal retention period that applies in the country where we employed you.
+
+Browser Data: we may retain this data for a maximum of 12 months, unless we need to keep it in relation with a legitimate concern related to the security or performance of our services, or as required by law. Any server-side session information is kept only for 3 months when it is actively used, otherwise it is discarded after 7 days.
+
+Customer Database: we will only retain this data as long as necessary for providing the services you subscribed to. For databases hosted on the Odoo Cloud, if you cancel the service your database is kept deactivated for 3 weeks (the grace period during which you can change your mind), and then destroyed. For databases uploaded to the Odoo Database Upgrade website, your database is kept for up to 4 months after the last successful upgrade, and may be deleted earlier upon request.
+
+Free Trial Session Recording: The recordings are automatically deleted after 2 months, and may be deleted earlier once they have been processed, or considered irrelevant, or upon request.
+
+Github.com Account Data: we keep this data as long as your Odoo.SH subscription is active, except the OAuth token which is deleted after 2 days, or as soon as you logout from Odoo.SH.
+
+In-App Purchase (IAP) Transaction Data:You can find the detailed privacy policy for each service on the IAP Privacy Policy page.
+
+ Safety Retention Period: As part of our Security Policy, we always try to preserve your data from accidental or malicious deletion. As a result, after we delete any of your personal information (Account & Contact Data) from our database upon request from you, or after you delete any personal information from your database (Customer Database), or if you delete your entire database, it is not immediately deleted from our backup systems, which are secured and inalterable. The personal data could remain stored for up to 12 months in those backups, until they are automatically destroyed.
+We commit not to use those backup copies of your deleted data for any purpose except for maintaining the integrity of our backups, unless you or the law require us to do so.
+
+Physical Data Location / Data Transfers
+Hosting Services
+Hosting Locations: customer databases are hosted in the Odoo Cloud Region closest to where they are based, and can request a change of region (subject to availability):
+
+americas (Canada , United States)
+asia (Singapore, Taiwan)
+europe (France , Belgium )
+Backup Locations: backups are replicated on multiple continents in order to meet our Disaster Recovery objectives, and are located in the following countries, regardless of the original hosting region:
+
+Canada  + France  + Belgium 
+Note: it is not possible to choose or restrict the backup locations, backups are replicated on all the locations. Hosting data only within EU is not supported.
+
+For more details regarding our hosting services, see our Cloud Hosting SLA.
+Odoo Database Upgrade Locations: Customer databases are upgraded on their current hosting locations (see above) or on an upgrade server located in France  or Belgium . Database upgrades started from the end-of-life version OpenERP v6.1 may be upgraded on our legacy upgrade service in Ireland  (AWS).
+
+: For customers concerned about EU data protection regulations, countries with a  sign in the above lists are in EU or currently subject to an adequacy decision from EU authorities.
+
+In-App Purchase (IAP) Transaction Data: You can find the detailed privacy policy for each service on the IAP Privacy Policy page.
+
+Free Trial Session Recording: The recording data is processed by FullStory (see our Service Providers) in Google Cloud data centers located in the United States. As a reminder, this data is only recorded if you opt-in and is only kept for a very limited time.
+
+International Staff
+In some cases, the personal data mentioned in this Privacy Policy may be accessed by staff members of Odoo SA subsidiaries in other countries. Such access will always be done for the same purposes and with the same privacy and security precautions as if it was done by our own local staff, so all the guarantees we provide still apply.
+We use EU Standard Contractual Clauses to bind our subsidiaries in a way that offers sufficient safeguards on data protection for the limited and temporary data transfers that occur for such access.
+
+Third Party Disclosure
+Except as explicitly mentioned above, we do not sell, trade, or otherwise transfer your personal data to third parties. We may share or disclose aggregated or de-identified information, for research purposes, or to discuss trends or statistics with third-parties.
+
+Cookies
+Cookies are small bits of text sent by our servers to your computer or device when you access our services. They are stored in your browser and later sent back to our servers so that we can provide contextual content. Without cookies, using the web would be a much more frustrating experience. We use them to support your activities on our website, for example your session (so you don't have to login again) or your shopping cart.
+
+Cookies are also used to help us understand your preferences based on previous or current activity on our website (the pages you have visited), your language and country, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+We also use third-party services such as Google Analytics, who set and use their own cookies to identify visitors and provide their own contextual services. For more information regarding those third-party providers and their Cookie Policy, please see the relevant references in the Third-Party Service Providers section.
+
+Here is an overview of the cookies that may be stored on your device when you visit our website:
+
+Category of Cookie	Purpose	Cookies
+Session & Security	Authenticate users, protect user data and allow the website to deliver the services users expect, such as maintaining the content of their cart, or allowing file uploads.
+
+The website will not work properly if you reject or discard those cookies.	session_id (Odoo)
+fileToken (Odoo)
+__cfduid (CloudFlare)
+Preferences	Remember information about the preferred look or behavior of the website, such as your preferred language, region and timezone. Your experience may be degraded if you discard those cookies, but the website will still work.	frontend_lang (Odoo)
+odoo_no_push (Odoo)
+tz (Odoo)
+Interaction History	Used to collect information about your interactions with the website, the pages you've seen, and any specific marketing campaign that brought you to the website. We may not be able to provide the best service to you if you reject those cookies, but the website will work.	im_livechat_history (Odoo)
+im_livechat_previous_operator_pid (Odoo)
+utm_campaign (Odoo)
+utm_source (Odoo)
+utm_medium (Odoo)
+fs_uid (FullStory)
+Advertising & Marketing	Used to make advertising more engaging to users and more valuable to publishers and advertisers, such as providing more relevant ads when you visit other websites that display ads or to improve reporting on ad campaign performance.
+
+Note that some third-party services may install additional cookies on your browser in order identify you.
+
+You may opt out of a third-party's use of cookies by visiting the Network Advertising Initiative opt-out page. The website will still work if you reject or discard those cookies.	__gads (Google)
+__gac (Google)
+_fbp (Facebook)
+Analytics	Understand how visitors engage with our website, via Google Analytics. Learn more about Analytics cookies and privacy information.
+
+The website will still work if you reject or discard those cookies.	_ga (Google)
+_gat (Google)
+_gid (Google)
+_gac_* (Google)
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies, or look at the links below.
+
+Chrome: https://support.google.com/chrome/answer/95647?hl=en
+Edge: https://support.microsoft.com/en-us/help/4468242/microsoft-edge-browsing-data-and-privacy
+Firefox: https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer
+Safari: https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac
+Opera: https://help.opera.com/en/latest/web-preferences/#cookies
+We do not currently support Do Not Track signals, as there is no industry standard for compliance.
+
+Policy Updates
+We may update this Privacy Policy from time to time, in order to clarify it, to reflect any changes to our website, or to comply with legal obligations. The "Last Updated" mention at the top of the policy indicates the last revision, which is also the effective date of those changes. We give you access to archived versions of this policy, so you can review the changes.
+

@@ -1,0 +1,9 @@
+call recording
+chat transcript data
+contacts
+live chat sessions
+usage data
+bot usage data
+interests
+favourites
+preferences

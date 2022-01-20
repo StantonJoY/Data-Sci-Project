@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.5.29)  11 DEC 2021 15:16
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.5.29)  21 JAN 2022 01:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1426,7 +1426,7 @@ Package logreq Info: Writing requests to 'Data-Sci-Project.run.xml'.
 Here is how much of TeX's memory you used:
  33258 strings out of 476919
  707928 string characters out of 5821840
- 1261060 words of memory out of 5000000
+ 1261059 words of memory out of 5000000
  52618 multiletter control sequences out of 15000+600000
  403990 words of font info for 53 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

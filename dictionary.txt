@@ -34,6 +34,7 @@ license
 list of employees
 live chat interviews
 live chat sessions
+marital
 messages
 name
 network
@@ -48,6 +49,7 @@ postal address
 preferred language
 referrer URL of request
 region
+religion
 resume
 role within the company
 safety information

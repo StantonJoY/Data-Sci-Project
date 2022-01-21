@@ -1,0 +1,1340 @@
+','.join((frequency_fields - fields_to_remove).mapped('field_id.name'))
+
+'\n'.join([_('Cannot rename/delete fields that are still present in views:'), _('Fields: %s') % ', '.join((str(f) for f in fields)), _('View: %s', view.name)])
+
+(answer_own | answer_other | self.answer_0).unlink()
+
+(bnk3 + bnk1).unlink()
+
+(frequency_fields - fields_to_remove).mapped('field_id.name')
+
+(order.order_line - sol1).unlink()
+
+(p1 + p2).with_user(user).unlink()
+
+(rec_line_2016 + rec_line_2017).remove_move_reconcile()
+
+(self.calendar_event_ids - base_event_id).unlink()
+
+(self.survey | survey).unlink()
+
+ACL.search([('model_id', '=', m.id)]).unlink()
+
+AdjustementLines.search([('cost_id', 'in', self.ids)]).unlink()
+
+Command.delete(discussion3.messages[2].id)
+
+Command.delete(line.id)
+
+Command.delete(line1.id)
+
+Command.delete(new_line.id)
+
+Command.delete(reg.id)
+
+Command.delete(tag.id)
+
+Command.unlink(group_multi_company_id)
+
+Command.unlink(line.id)
+
+Command.unlink(partner.id)
+
+Command.unlink(partner_id)
+
+Command.unlink(payment_method)
+
+Command.unlink(self.env.user.partner_id.id)
+
+Command.unlink(self.grp_internal.id)
+
+Command.unlink(self.grp_public.id)
+
+Command.unlink(tag.id)
+
+Command.unlink(user.id)
+
+Form(self.env['mail.compose.message'].with_context(self._get_web_context(self.test_records, add_web=True, default_template_id=self.template.id, default_auto_delete_message=True)))
+
+IrDefault.search([('field_id.model', '=', 'res.partner')]).unlink()
+
+MissingError(_('One of the documents you are trying to access has been deleted, please try again after refreshing.') + '\n\n({} {}, {} {}, {} {}, {} {})'.format(_('Document type:'), self._name, _('Operation:'), operation, _('Records:'), invalid.ids[:6], _('User:'), self._uid))
+
+OR([delete_domain, [('company_id', '=', company.id), ('date', '<', start_date)]])
+
+Product._patch_method('unlink', unlink)
+
+Product._revert_method('unlink')
+
+Route.search([('supplied_wh_id', '=', warehouse.id), ('supplier_wh_id', 'in', to_remove.ids), ('active', '=', False)])
+
+Route.search([('supplied_wh_id', '=', warehouse.id), ('supplier_wh_id', 'in', to_remove.ids), ('active', '=', True)])
+
+UserError('\n'.join([_('Cannot rename/delete fields that are still present in views:'), _('Fields: %s') % ', '.join((str(f) for f in fields)), _('View: %s', view.name)]))
+
+UserError(_("You can't delete a payment method that is linked to an acquirer in the enabled or test state.\nLinked acquirer(s): %s", ', '.join((a.display_name for a in acquirers))))
+
+UserError(_("You can't unlink an attachment being an EDI document sent to the government."))
+
+UserError(_('Please remove existing tasks in the project linked to the accounts you want to delete.'))
+
+UserError(_('The Google Template cannot be found. Maybe it has been deleted.'))
+
+UserError(_('The scheduled action "Product Images: Get product images from Google" has been deleted. Please contact your administrator to have the action restored or to reinstall the module "product_images".'))
+
+UserError(_('You can not delete a Bill of Material with running manufacturing orders.\nPlease close or cancel it first.'))
+
+UserError(_('You can not delete payment terms as other records still reference it. However, you can archive it.'))
+
+UserError(_('You cannot change the type of a sale order line. Instead you should delete the current line and create a new line of the proper type.'))
+
+UserError(_('You cannot delete a view that is used by a payment acquirer.'))
+
+UserError(_('You cannot remove the bank account from the journal once set.'))
+
+UserError(_('You still have some active reordering rules on this product. Please archive or delete them first.'))
+
+ValidationError(_("You can not archive a journal containing draft journal entries.\n\nTo proceed:\n1/ click on the top-right button 'Journal Entries' from this journal form\n2/ then filter on 'Draft' entries\n3/ select them all and post or delete them through the action menu"))
+
+ValidationError(_('You cannot delete contacts linked to an active user.\nAsk an administrator to archive their associated user first.\n\nLinked active users :\n%(names)s', names=', '.join([u.display_name for u in users])))
+
+ValueError('No record found for unique ID %s. It may have been deleted.' % view_id)
+
+_("Due to security restrictions, you are not allowed to delete '%(document_kind)s' (%(document_model)s) records.", document_kind=description, document_model=model)
+
+_("The field '%s' cannot be removed because the field '%s' depends on it.")
+
+_("You are not allowed to delete '%(document_kind)s' (%(document_model)s) records.", document_kind=document_kind, document_model=model)
+
+_("You can not archive a journal containing draft journal entries.\n\nTo proceed:\n1/ click on the top-right button 'Journal Entries' from this journal form\n2/ then filter on 'Draft' entries\n3/ select them all and post or delete them through the action menu")
+
+_("You can't delete a payment method that is linked to an acquirer in the enabled or test state.\nLinked acquirer(s): %s", ', '.join((a.display_name for a in acquirers)))
+
+_("You can't unlink an attachment being an EDI document sent to the government.")
+
+_('Adding %(user_name)s in this team would remove him/her from its current team %(team_name)s.', user_name=other_memberships.user_id.name, team_name=other_memberships.crm_team_id.name)
+
+_('Adding %(user_name)s in this team would remove him/her from its current teams %(team_names)s.', user_name=member.user_id.name, team_names=', '.join(remaining.mapped('name')))
+
+_('Adding %(user_names)s in this team would remove them from their current teams (%(team_names)s).', user_names=', '.join(other_memberships.mapped('user_id.name')), team_names=', '.join(other_memberships.mapped('crm_team_id.name')))
+
+_('Cannot rename/delete fields that are still present in views:')
+
+_('One of the documents you are trying to access has been deleted, please try again after refreshing.')
+
+_('Please remove existing tasks in the project linked to the accounts you want to delete.')
+
+_('The Google Template cannot be found. Maybe it has been deleted.')
+
+_('The scheduled action "Product Images: Get product images from Google" has been deleted. Please contact your administrator to have the action restored or to reinstall the module "product_images".')
+
+_('There are still unposted entries in the period you want to lock. You should either post or delete them.')
+
+_('There are still unreconciled bank statement lines in the period you want to lock.You should either reconcile or delete them.')
+
+_('You can not delete a Bill of Material with running manufacturing orders.\nPlease close or cancel it first.')
+
+_('You can not delete payment terms as other records still reference it. However, you can archive it.')
+
+_('You cannot change the type of a sale order line. Instead you should delete the current line and create a new line of the proper type.')
+
+_('You cannot delete a view that is used by a payment acquirer.')
+
+_('You cannot delete an employee that may be used in an active PoS session, close the session(s) first: \n')
+
+_('You cannot delete contacts linked to an active user.\nAsk an administrator to archive their associated user first.\n\nLinked active users :\n%(names)s', names=', '.join([u.display_name for u in users]))
+
+_('You cannot delete contacts linked to an active user.\nYou should rather archive them after archiving their associated user.\n\nLinked active users : %(names)s', names=', '.join([u.display_name for u in users]))
+
+_('You cannot remove a floor that is used in a PoS session, close the session(s) first: \n')
+
+_('You cannot remove a table that is used in a PoS session, close the session(s) first.')
+
+_('You cannot remove the bank account from the journal once set.')
+
+_('You still have some active reordering rules on this product. Please archive or delete them first.')
+
+_logger.info('Failed operation on deleted record(s): %s, uid: %s, model: %s', operation, self._uid, self._name)
+
+_logger.info('ir.model.data could not be deleted (%s)', undeletable_ids)
+
+_logger.warning('Impossible to create an attachment out of badly formated base64 embedded image. Image has been removed.')
+
+_logger.warning('The following fields were force-deleted to prevent a registry crash ' + ', '.join((str(f) for f in fields)) + ' the following view might be broken %s' % view.name)
+
+_remove_reward()
+
+a2.unlink()
+
+a4.unlink()
+
+accesses.write(dict.fromkeys(['perm_read', 'perm_write', 'perm_create', 'perm_unlink'], False))
+
+all_moves.with_context(force_delete=True)
+
+all_moves.with_context(force_delete=True).unlink()
+
+all_we_to_unlink.unlink()
+
+answer_own.unlink()
+
+answers.unlink()
+
+any((field in cleaned_vals for field in ACCOUNTING_FIELDS))
+
+any((field in cleaned_vals for field in BUSINESS_FIELDS))
+
+any((field_name in cleaned_vals for field_name in ('debit', 'credit')))
+
+api.ondelete(at_uninstall=False)
+
+applicants.message_post_with_template(self.template_id.id, **{'auto_delete_message': True, 'subtype_id': self.env['ir.model.data']._xmlid_to_res_id('mail.mt_note'), 'email_layout_xmlid': 'mail.mail_notification_light'})
+
+approver_group.sudo().write({'users': [(3, manager_id) for manager_id in responsibles_to_remove_ids]})
+
+attachment.unlink()
+
+attachments_to_unlink.unlink()
+
+attendance.unlink()
+
+automated_action.unlink()
+
+b.unlink()
+
+backorders.move_raw_ids.move_line_ids.filtered(lambda ml: ml.product_id.tracking == 'serial' and ml.product_qty == 0).unlink()
+
+bl_record.unlink()
+
+c1.unlink()
+
+challenges_to_delete.mapped('line_ids')
+
+challenges_to_delete.mapped('line_ids').mapped('definition_id')
+
+challenges_to_delete.unlink()
+
+channel._action_remove_members(self.test_partner)
+
+channel_1.unlink()
+
+channel_partners.with_user(self.user_2).unlink()
+
+channel_partners.with_user(self.user_portal).unlink()
+
+clean(prop.get_by_record())
+
+clean(result.get(id, default))
+
+clean(self._get(name, model))
+
+clean(values[id])
+
+clean_context(self._context)
+
+clean_context(self.env.context)
+
+cleaned_vals.update({'amount_currency': vals.get('debit', 0.0) - vals.get('credit', 0.0)})
+
+credit_aml.remove_move_reconcile()
+
+custom_view.unlink()
+
+data.get('to_delete')
+
+delete(records[:half_size])
+
+delete(records[half_size:])
+
+delete(self.env['ir.model'].browse(unique(model_ids)))
+
+delete(self.env['ir.model.constraint'].browse(unique(constraint_ids)))
+
+delete(self.env['ir.model.fields'].browse(unique(field_ids)))
+
+delete(self.env['ir.model.fields.selection'].browse(unique(selection_ids)).exists())
+
+delete(self.env[model].browse((item[1] for item in items)))
+
+description.unlink()
+
+detached_events.unlink()
+
+dict(message_type=wizard.message_type, subtype_id=subtype_id, email_layout_xmlid=notif_layout, add_sign=not bool(wizard.template_id), mail_auto_delete=wizard.template_id.auto_delete if wizard.template_id else self._context.get('mail_auto_delete', True), model_description=model_description)
+
+dict.fromkeys(['perm_read', 'perm_write', 'perm_create', 'perm_unlink'], False)
+
+discussion3.write({'messages': [Command.link(discussion3.messages[0].id), Command.update(discussion3.messages[1].id, {'author': user_root.id}), Command.delete(discussion3.messages[2].id)]})
+
+draft_moves.unlink()
+
+dummy_50_perc_tax.unlink()
+
+event._google_delete(google_service, event.google_id)
+
+event._microsoft_delete(microsoft_service, event.microsoft_id)
+
+event.menu_id.child_id.filtered(lambda menu: menu.name == 'Introduction').unlink()
+
+event.unlink()
+
+event_type.unlink()
+
+events.unlink()
+
+existing_accounts.unlink()
+
+existing_policy_page.unlink()
+
+expression.OR([removed_slide_partner_domain, [('partner_id', '=', channel_partner.partner_id.id), ('slide_id', 'in', channel_partner.channel_id.slide_ids.ids)]])
+
+f.m2m.remove(id=a.id)
+
+f.m2m.remove(index=0)
+
+f.subs.remove(index=0)
+
+field.selection_ids[0].unlink()
+
+field.unlink()
+
+field.with_context(_force_unlink=True)
+
+field.with_context(_force_unlink=True).unlink()
+
+first_method.unlink()
+
+forum_menu.unlink()
+
+full_to_unlink.unlink()
+
+gift_card.redeem_line_ids.filtered(lambda redeem: redeem.state != 'sale').unlink()
+
+global_time_off.unlink()
+
+goals_to_delete.unlink()
+
+google.delete(event.google_id, token=token)
+
+group_groups.unlink()
+
+group_user.write({'users': [Command.unlink(user.id)]})
+
+groups.append(odoo.Command.unlink(group_id))
+
+groups_value.append(odoo.Command.unlink(group_id))
+
+icp_validity.unlink()
+
+index_to_remove.append(index)
+
+india_channel.unlink()
+
+introduction_menu.unlink()
+
+invitation_notifications.append((target, 'mail.channel/insert', {'id': self.id, 'rtcInvitingSession': [('unlink',)]}))
+
+ir_model_field.with_context(_force_unlink=True)
+
+ir_model_field.with_context(_force_unlink=True).unlink()
+
+journal.write({'available_payment_method_ids': [Command.unlink(payment_method) for payment_method in to_remove]})
+
+k0.remove()
+
+k1.with_user(self.env.ref('base.user_admin')).remove()
+
+k2.with_user(u).remove()
+
+key_to_remove.append((qty['id'], warehouse.id))
+
+lead_unlink_ids.update(assign_res['duplicates'])
+
+leads._merge_opportunity(auto_unlink=False, max_length=None)
+
+leave.unlink()
+
+letter.attachment_id.unlink()
+
+line._remove_tags_used_only_by_self()
+
+line.move_id._cleanup_write_orm_values(line, vals)
+
+lines.remove_move_reconcile()
+
+lines_to_unlink_ids.add(op.id)
+
+m2o_field.unlink()
+
+m2o_field.with_context(_force_unlink=True)
+
+m2o_field.with_context(_force_unlink=True).unlink()
+
+mail.sudo().unlink()
+
+mail.unlink()
+
+mail_values.append({'auto_delete': True, 'attachment_ids': message.attachment_ids.ids, 'body_html': member_body, 'email_from': message.email_from, 'email_to': email_member, 'headers': json.dumps(headers), 'mail_message_id': message.mail_message_id.id, 'message_id': message.mail_message_id.message_id, 'model': 'mail.group', 'reply_to': message.mail_message_id.reply_to, 'res_id': self.id, 'subject': message.subject})
+
+mail_values.update(is_notification=not self.auto_delete_message, model=self.model, res_id=res_id, record_name=False)
+
+mail_values.update({'mailing_id': mass_mailing.id, 'mailing_trace_ids': [(0, 0, trace_vals)], 'is_notification': mass_mailing.reply_to_mode == 'update', 'auto_delete': not mass_mailing.keep_archives})
+
+mails_sudo.unlink()
+
+make_unlink()
+
+man_order.unlink()
+
+meeting_room.unlink()
+
+member.unlink()
+
+member_1.unlink()
+
+member_2.unlink()
+
+membership.unlink()
+
+menu.unlink()
+
+menus.unlink()
+
+message.sudo().unlink()
+
+message.unlink()
+
+microsoft.delete(event.microsoft_id, token=token)
+
+middle.unlink()
+
+ml_ids_to_delete.add(ml.id)
+
+ml_reserved.unlink()
+
+ml_to_unlink.add(ml.id)
+
+ml_to_unlink.unlink()
+
+mls_to_delete.unlink()
+
+mo.move_raw_ids.move_line_ids.unlink()
+
+mo.workorder_ids[0].unlink()
+
+module_data.unlink()
+
+modules._remove_copied_views()
+
+move.line_ids.remove_move_reconcile()
+
+move_form.invoice_line_ids.remove(1)
+
+moves_ids_to_unlink.add(move.id)
+
+moves_to_unlink._action_cancel()
+
+moves_to_unlink._clean_merged()
+
+moves_to_unlink.sudo()
+
+moves_to_unlink.sudo().unlink()
+
+mute_logger('odoo.addons.base.models.ir_rule', 'odoo.models', 'odoo.models.unlink')
+
+mute_logger('odoo.addons.mail.models.mail_mail', 'odoo.models.unlink')
+
+mute_logger('odoo.addons.mail.models.mail_mail', 'odoo.models.unlink', 'odoo.addons.mass_mailing.models.mailing')
+
+mute_logger('odoo.addons.mail.models.mail_mail', 'odoo.models.unlink', 'odoo.tests')
+
+mute_logger('odoo.addons.mail.models.mail_thread', 'odoo.addons.mail_group.models.mail_group_message', 'odoo.models.unlink')
+
+mute_logger('odoo.addons.mail.models.mail_thread', 'odoo.models.unlink', 'odoo.addons.mail.models.mail_mail')
+
+mute_logger('odoo.models.unlink')
+
+mute_logger('odoo.models.unlink', 'odoo.addons.base.models.ir_model')
+
+mute_logger('odoo.models.unlink', 'odoo.addons.crm.models.crm_team', 'odoo.addons.crm.models.crm_team_member')
+
+mute_logger('odoo.models.unlink', 'odoo.addons.mail.models.mail_mail')
+
+mute_logger('odoo.models.unlink', 'odoo.addons.mail_group.models.mail_group_message')
+
+mute_logger('odoo.tests', 'odoo.addons.mail.models.mail_mail', 'odoo.models.unlink')
+
+new_vals_list.append(self._remove_reified_groups(values))
+
+node.getparent().remove(node)
+
+node.remove(child)
+
+notif.unlink()
+
+odoo.Command.unlink(group_id)
+
+old_answers.sudo().unlink()
+
+old_managers._clean_leave_responsible_users()
+
+opening_move.write({'line_ids': merge_write_cmd + unlink_write_cmd})
+
+opening_move_line.with_context(check_move_validity=False).unlink()
+
+opportunities_tail.sudo().unlink()
+
+order.order_line.filtered('is_reward_line').unlink()
+
+order.order_line.filtered(lambda l: '10%' in l.name)[0].unlink()
+
+order.order_line.filtered(lambda l: l.is_reward_line).unlink()
+
+order.order_line.filtered(lambda x: 'Discount' in x.name).unlink()
+
+order.order_line[3:].unlink()
+
+order.write({'line_ids': [Command.link(line0.id), Command.delete(line1.id), Command.link(line2.id)]})
+
+order_bank_statement_lines.unlink()
+
+order_line.unlink()
+
+orderpoints._unlink_processed_orderpoints()
+
+orphans.unlink()
+
+outdated.unlink()
+
+overtime.unlink()
+
+overtime_to_unlink.sudo()
+
+overtime_to_unlink.sudo().unlink()
+
+p1.unlink()
+
+p1.with_user(user).unlink()
+
+p2.unlink()
+
+package_level.move_line_ids.filtered(lambda ml: ml.product_qty == 0).unlink()
+
+package_level.unlink()
+
+parent.unlink()
+
+partial.unlink()
+
+partner_iap.unlink()
+
+patch(Model, 'unlink', make_unlink())
+
+patch.object(MailMail, 'unlink', lambda self: None)
+
+payment_method_line.unlink()
+
+picking.move_ids_without_package.remove(0)
+
+picking1.unlink()
+
+picking2.unlink()
+
+picking3.unlink()
+
+picking_client.move_line_ids.unlink()
+
+picking_form.package_level_ids.remove(0)
+
+pls_fields.remove('tag_id')
+
+pls_team.unlink()
+
+pls_update_wizard.pls_fields.remove(field.id)
+
+po_line.order_id.unlink()
+
+portal_user.unlink()
+
+pos_order.lines.unlink()
+
+product_red.unlink()
+
+product_template.product_variant_ids[0].unlink()
+
+purchase_order_1.unlink()
+
+purchase_order_2.unlink()
+
+purchase_order_3.unlink()
+
+quant.with_user(self.demo_user).unlink()
+
+quant.with_user(self.stock_user).unlink()
+
+quant_ids.sudo().unlink()
+
+re.sub('[^\\w+.]+', '-', remove_accents(name).lower())
+
+reaction.unlink()
+
+rec1.write({'line_ids': [Command.delete(line.id) for line in lines[0]]})
+
+rec1.write({'line_ids': [Command.delete(line.id) for line in lines[1:]]})
+
+rec1.write({'line_ids': [Command.unlink(line.id) for line in lines[0]]})
+
+rec1.write({'line_ids': [Command.unlink(line.id) for line in lines[1:]]})
+
+rec1.write({'tag_ids': [Command.delete(tag.id) for tag in tags[0]]})
+
+rec1.write({'tag_ids': [Command.delete(tag.id) for tag in tags[1:]]})
+
+rec1.write({'tag_ids': [Command.unlink(tag.id) for tag in tags[0]]})
+
+rec1.write({'tag_ids': [Command.unlink(tag.id) for tag in tags[1:]]})
+
+record.unlink()
+
+record.with_context({}).message_post(body='<p>Test body <img src="cid:cid1"> <img src="cid:cid2"></p>', subject='Test Subject', message_type='notification', subtype_xmlid=None, partner_ids=partner_ids, parent_id=False, attachments=attachements, attachment_ids=attachement_ids, add_sign=True, model_description=False, mail_auto_delete=True)
+
+record_a.unlink()
+
+record_b.unlink()
+
+records.sudo().unlink()
+
+records.unlink()
+
+records_to_link.write({'tag_name': tag_name_postponed, 'tag_ids': [(2, tag.id) for tag in tags_to_remove] + [(6, 0, existing_tags.ids)]})
+
+registration.unlink()
+
+remove_accents(name)
+
+remove_accents(name).lower()
+
+remove_signature(attachment.content)
+
+report.unlink_action()
+
+res.with_context(force_delete=True)
+
+res.with_context(force_delete=True).unlink()
+
+reversed(index_to_remove)
+
+rewards.unlink()
+
+root.unlink()
+
+rows_to_remove.append(cur_row['id'])
+
+rules.unlink()
+
+sale_order.unlink()
+
+second_method.unlink()
+
+self._clean_email_body(body)
+
+self._clean_livechat_sessions()
+
+self._clean_website(vals['website'])
+
+self._context.get('mail_auto_delete', True)
+
+self._delete_tags_from_taxes(line_tags.ids)
+
+self._get_web_context(self.test_records, add_web=True, default_template_id=self.template.id, default_auto_delete_message=True)
+
+self._postprocess_iap_sent_sms([{'res_id': sms.id, 'state': 'server_error'} for sms in self], unlink_failed=unlink_failed, unlink_sent=unlink_sent)
+
+self._postprocess_iap_sent_sms(iap_results, unlink_failed=unlink_failed, unlink_sent=unlink_sent)
+
+self._remove_reified_groups(values)
+
+self._theme_cleanup(model_name, website)
+
+self._theme_remove(website)
+
+self._unlink_option(self.MODEL_BASE, 'ham')
+
+self._unlink_option(self.MODEL_BASE, 'quux')
+
+self._unlink_option(self.MODEL_NONSTORED, 'foo')
+
+self._unlink_option(self.MODEL_REQUIRED, 'bacon')
+
+self._unlink_option(self.MODEL_REQUIRED, 'baz')
+
+self._unlink_option(self.MODEL_REQUIRED, 'eevee')
+
+self._unlink_option(self.MODEL_REQUIRED, 'eggs')
+
+self._unlink_option(self.MODEL_REQUIRED, 'foo')
+
+self._unlink_option(self.MODEL_REQUIRED, 'knickers')
+
+self._unlink_option(self.MODEL_REQUIRED, 'pikachu')
+
+self._unlink_option(self.MODEL_WRITE_OVERRIDE, 'divinity')
+
+self.answer_0.with_user(self.env.user).unlink()
+
+self.answer_0_0.with_user(self.env.user).unlink()
+
+self.assertBus([(self.cr.dbname, 'mail.guest', test_guest.id), (self.cr.dbname, 'mail.channel', channel.id), (self.cr.dbname, 'mail.channel', channel.id)], [{'type': 'mail.channel/insert', 'payload': {'id': channel.id, 'rtcInvitingSession': [('unlink',)]}}, {'type': 'mail.channel/insert', 'payload': {'id': channel.id, 'invitedGuests': [('insert-and-unlink', [{'id': test_guest.id}])]}}, {'type': 'mail.channel/rtc_sessions_update', 'payload': {'id': channel.id, 'rtcSessions': [('insert', [{'id': channel_partner.rtc_session_ids.id + 2, 'isCameraOn': False, 'isDeaf': False, 'isMuted': False, 'isScreenSharingOn': False, 'guest': [('insert', {'id': test_guest.id, 'name': 'Test Guest'})]}])]}}])
+
+self.assertBus([(self.cr.dbname, 'mail.guest', test_guest.id), (self.cr.dbname, 'mail.channel', channel.id)], [{'type': 'mail.channel.rtc.session/ended', 'payload': {'sessionId': test_session.id}}, {'type': 'mail.channel/rtc_sessions_update', 'payload': {'id': channel.id, 'rtcSessions': [('insert-and-unlink', [{'id': test_session.id}])]}}])
+
+self.assertBus([(self.cr.dbname, 'mail.guest', test_guest.id), (self.cr.dbname, 'mail.channel', channel.id)], [{'type': 'mail.channel/insert', 'payload': {'id': channel.id, 'rtcInvitingSession': [('unlink',)]}}, {'type': 'mail.channel/insert', 'payload': {'id': channel.id, 'invitedGuests': [('insert-and-unlink', [{'id': test_guest.id}])]}}])
+
+self.assertBus([(self.cr.dbname, 'res.partner', self.user_employee.partner_id.id), (self.cr.dbname, 'mail.channel', channel.id), (self.cr.dbname, 'mail.channel', channel.id)], [{'type': 'mail.channel.rtc.session/ended', 'payload': {'sessionId': channel_partner.rtc_session_ids.id}}, {'type': 'mail.channel/rtc_sessions_update', 'payload': {'id': channel.id, 'rtcSessions': [('insert-and-unlink', [{'id': channel_partner.rtc_session_ids.id}])]}}, {'type': 'mail.channel/rtc_sessions_update', 'payload': {'id': channel.id, 'rtcSessions': [('insert', [{'id': channel_partner.rtc_session_ids.id + 1, 'isCameraOn': False, 'isDeaf': False, 'isMuted': False, 'isScreenSharingOn': False, 'partner': [('insert', {'id': self.user_employee.partner_id.id, 'name': 'Ernest Employee'})]}])]}}])
+
+self.assertBus([(self.cr.dbname, 'res.partner', self.user_employee.partner_id.id), (self.cr.dbname, 'mail.channel', channel.id)], [{'type': 'mail.channel.rtc.session/ended', 'payload': {'sessionId': channel_partner.rtc_session_ids.id}}, {'type': 'mail.channel/rtc_sessions_update', 'payload': {'id': channel.id, 'rtcSessions': [('insert-and-unlink', [{'id': channel_partner.rtc_session_ids.id}])]}}])
+
+self.assertBus([(self.cr.dbname, 'res.partner', self.user_employee.partner_id.id), (self.cr.dbname, 'res.partner', test_user.partner_id.id), (self.cr.dbname, 'mail.guest', test_guest.id), (self.cr.dbname, 'mail.channel', channel.id), (self.cr.dbname, 'mail.channel', channel.id)], [{'type': 'mail.channel.rtc.session/ended', 'payload': {'sessionId': channel_partner.rtc_session_ids.id}}, {'type': 'mail.channel/insert', 'payload': {'id': channel.id, 'rtcInvitingSession': [('unlink',)]}}, {'type': 'mail.channel/insert', 'payload': {'id': channel.id, 'rtcInvitingSession': [('unlink',)]}}, {'type': 'mail.channel/insert', 'payload': {'id': channel.id, 'invitedGuests': [('insert-and-unlink', [{'id': test_guest.id}])], 'invitedPartners': [('insert-and-unlink', [{'id': test_user.partner_id.id}])]}}, {'type': 'mail.channel/rtc_sessions_update', 'payload': {'id': channel.id, 'rtcSessions': [('insert-and-unlink', [{'id': channel_partner.rtc_session_ids.id}])]}}])
+
+self.assertBus([(self.cr.dbname, 'res.partner', test_user.partner_id.id), (self.cr.dbname, 'mail.channel', channel.id), (self.cr.dbname, 'mail.channel', channel.id)], [{'type': 'mail.channel/insert', 'payload': {'id': channel.id, 'rtcInvitingSession': [('unlink',)]}}, {'type': 'mail.channel/insert', 'payload': {'id': channel.id, 'invitedPartners': [('insert-and-unlink', [{'id': test_user.partner_id.id}])]}}, {'type': 'mail.channel/rtc_sessions_update', 'payload': {'id': channel.id, 'rtcSessions': [('insert', [{'id': channel_partner.rtc_session_ids.id + 1, 'isCameraOn': False, 'isDeaf': False, 'isMuted': False, 'isScreenSharingOn': False, 'partner': [('insert', {'id': test_user.partner_id.id, 'name': 'Test User'})]}])]}}])
+
+self.assertBus([(self.cr.dbname, 'res.partner', test_user.partner_id.id), (self.cr.dbname, 'mail.channel', channel.id)], [{'type': 'mail.channel/insert', 'payload': {'id': channel.id, 'rtcInvitingSession': [('unlink',)]}}, {'type': 'mail.channel/insert', 'payload': {'id': channel.id, 'invitedPartners': [('insert-and-unlink', [{'id': test_user.partner_id.id}])]}}])
+
+self.assertEqual([], cs[0].read(['name']), 'read() should skip deleted records')
+
+self.assertEqual([{'id': c2.id, 'name': 'Y'}], cs.read(['name']), 'read() should skip deleted records')
+
+self.assertEqual(coupon.state, 'new', "The coupon should be reset to Valid as it's reward got removed")
+
+self.assertEqual(existing_plsteam.exists(), self.env['crm.lead.scoring.frequency'], 'Frequencies of unlinked teams should be unlinked (cascade)')
+
+self.assertEqual(len(challenge), 0, 'The challenge should be deleted if the certification badge is unset from the certification survey')
+
+self.assertEqual(len(challenge_line), 0, 'The challenge_line should be deleted if the certification badge is unset from the certification survey')
+
+self.assertEqual(len(challenge_lines), 0, 'The 3 challenge_lines should be deleted')
+
+self.assertEqual(len(challenges), 0, 'The 3 challenges should be deleted')
+
+self.assertEqual(len(generated_coupon), 1, 'No more coupon should have been generated and the existing one should not have been deleted')
+
+self.assertEqual(len(goal), 0, 'The goal should be deleted if the certification badge is unset from the certification survey')
+
+self.assertEqual(len(goals), 0, 'The 3 goals should be deleted')
+
+self.assertEqual(len(new_visitor), 0, 'The new visitor should be deleted when visitor authenticate once again.')
+
+self.assertEqual(len(order.applied_coupon_ids), 0, "The coupon should've been removed from the order as more than 4 days")
+
+self.assertEqual(len(order.applied_coupon_ids), 1, "The coupon shouldn't have been removed from the order no more than 4 days")
+
+self.assertEqual(len(order.applied_coupon_ids), 1, "The coupon shouldn't have been removed from the order the order is 4 days old but icp validity is 5 days")
+
+self.assertEqual(len(order.order_line), 3, 'The promotion program should be removed')
+
+self.assertEqual(len(order.order_line.ids), 1, "Reduction should be removed since we deleted it and it is now a promo code usage, it shouldn't be automatically reapplied")
+
+self.assertEqual(len(order.order_line.ids), 1, 'Archiving the program should remove the program reward line')
+
+self.assertEqual(len(order.order_line.ids), 1, 'Free Large Cabinet should have been removed')
+
+self.assertEqual(len(order.order_line.ids), 1, 'Program should have been removed')
+
+self.assertEqual(len(order.order_line.ids), 1, 'The promotion lines should have been removed')
+
+self.assertEqual(len(order.order_line.ids), 2, "The discount line should have been removed as we don't meet the program requirements")
+
+self.assertEqual(len(order.order_line.ids), 9, 'All of the 10% discount line per tax should be removed')
+
+self.assertEqual(len(pages), Website.search_count([]) - 1, 'A specific page for every website should have been created, except for the one from where we deleted the generic one.')
+
+self.assertEqual(len(self._get_tax_tags()), tag_nber_before - 2, 'No new tag should have been created, and the two that were assigned to the report line should have been removed.')
+
+self.assertEqual(len(self._new_mails.exists()), 2, 'Should not have deleted mail.mail records')
+
+self.assertEqual(len(self.sale_order.order_line), 1, 'No SO line should have been created (or removed) when validating vendor bill')
+
+self.assertEqual(len(surviving_tags), 0, 'All former tags should have been deleted')
+
+self.assertEqual(len(translations), 0, 'Translations were not removed')
+
+self.assertEqual(order.amount_total, 65.0, 'The coupon should not be removed from the order')
+
+self.assertEqual(order.amount_total, 65.0, 'The promotion program should not be removed after recomputation')
+
+self.assertEqual(order.amount_total, 82.5, 'The promotion programs should have been removed from the order to avoid negative amount')
+
+self.assertEqual(p1_prop, False, 'p1_prop should have been deleted')
+
+self.assertEqual(record.message_ids, self.env['mail.message'], 'Should have deleted mail.message records')
+
+self.assertEqual(res, {'iceServers': False, 'rtcSessions': [('insert', [{'id': channel_partner.rtc_session_ids.id, 'isCameraOn': False, 'isDeaf': False, 'isMuted': False, 'isScreenSharingOn': False, 'partner': [('insert', {'id': self.user_employee.partner_id.id, 'name': 'Ernest Employee'})]}]), ('insert-and-unlink', [{'id': channel_partner.rtc_session_ids.id - 1}])], 'sessionId': channel_partner.rtc_session_ids.id})
+
+self.assertEqual(self._new_mails.exists(), self.env['mail.mail'], 'Should have deleted mail.mail records')
+
+self.assertEqual(self.env['crm.reveal.view'].search([('reveal_ip', 'in', ['90.80.70.60', '90.80.70.61', '90.80.70.70'])]), self.env['crm.reveal.view'], 'Views should have been unlinked after completion')
+
+self.assertEqual(set((r['name'] for r in event.event_booth_ids)), set(('Custom Standard Booth 2', 'Standard Booth', 'Premium Booth')), 'Should keep booths with reservation, remove unused ones and add type ones')
+
+self.assertEqual(status, 404, 'no access for deleted attachment')
+
+self.assertEqual(status, 404, 'no access with access token for deleted attachment')
+
+self.assertFalse(events, 'It should remove all events')
+
+self.assertFalse(events.exists(), 'All events should be deleted')
+
+self.assertFalse(hasattr(self.env.registry, 'populated_models'), 'populated_models flag has been removed from registry')
+
+self.assertFalse(leave.overtime_id.exists(), 'Overtime should be deleted')
+
+self.assertFalse(mo4.bom_id, 'BoM should have been removed')
+
+self.assertFalse(overtime, 'Overtime entry should be unlinked since both overtime cancel each other.')
+
+self.assertFalse(recurrence, 'It should remove recurrence')
+
+self.assertFalse(recurrence.exists(), 'The recurrence should be deleted')
+
+self.assertFalse(self.env['product.supplierinfo'].search([('id', '=', supplierinfo09.id)]), 'The supplier info should be removed')
+
+self.assertFalse(self.env['product.supplierinfo'].search([('id', '=', supplierinfo13.id)]), 'The supplier info should be removed')
+
+self.assertFalse(to_delete.active)
+
+self.assertNotEqual(so.pricelist_id, eur_pl, 'Pricelist should be removed when sending an empty pl code')
+
+self.assertNotIn('Test remove footer', result, 'Should have removed the mailing list footer')
+
+self.assertNotIn('o_mg_message_footer', result, 'Should have removed the entire HTML element')
+
+self.assertNotIn(india_channel.id, self.env['crm.team'].search([]).ids, 'Sales manager should be able to delete a Sales Team')
+
+self.assertNotIn(self.order.id, SaleOrder.search([]).ids, 'Sales manager should be able to delete the SO')
+
+self.assertNotIn(self.partner, self.event.attendee_ids.partner_id, 'It should have removed the attendee')
+
+self.assertRaises(UserError, msg="can't delete attribute used on product")
+
+self.assertRaises(UserError, msg="can't delete value used on product")
+
+self.assertTrue(c1.unlink(), 'Re-deleting should be a no-op')
+
+self.assertTrue(field.unlink())
+
+self.assertTrue(overtime.exists(), 'Overtime should not be deleted')
+
+self.assertTrue(remove_res is True)
+
+self.assertTrue(to_delete)
+
+self.assertTrue(website_id not in pages.mapped('website_id').ids, 'The website from which we deleted the generic page should not have a specific one.')
+
+self.attachment_ids.unlink()
+
+self.bank_line_2.unlink()
+
+self.batch.unlink()
+
+self.bl_rec.with_user(self.env.user).unlink()
+
+self.bom_1.bom_line_ids.filtered(lambda x: x.product_id == self.product_1).unlink()
+
+self.bom_3.bom_line_ids.filtered(lambda x: x.product_id == self.product_5).unlink()
+
+self.browse().union(*to_unlink)
+
+self.browse().union(*to_unlink).unlink()
+
+self.browse(bad_imd_ids).unlink()
+
+self.browse(mail_to_delete_ids)
+
+self.browse(mail_to_delete_ids).sudo()
+
+self.browse(mail_to_delete_ids).sudo().unlink()
+
+self.browse(moves_ids).with_context(clean_context(self.env.context))
+
+self.browse(moves_ids).with_context(clean_context(self.env.context))._assign_picking()
+
+self.browse(rows_to_remove)
+
+self.browse(rows_to_remove).unlink()
+
+self.browse(to_delete)
+
+self.browse(to_delete).unlink()
+
+self.channel_id.rtc_session_ids._delete_inactive_rtc_sessions()
+
+self.channel_partner.with_user(self.user_officer).unlink()
+
+self.clean_attachments(extension)
+
+self.cron_id.unlink()
+
+self.env.cr.execute('\n            delete from account_account_tag_account_tax_repartition_line_rel\n            where account_account_tag_id in %(tag_ids_to_delete)s;\n\n            delete from account_account_tag_account_move_line_rel\n            where account_account_tag_id in %(tag_ids_to_delete)s;\n        ', {'tag_ids_to_delete': tuple(tag_ids_to_delete)})
+
+self.env.cr.execute('delete from test_performance_base where id not in %s', (tuple(initial_records.ids),))
+
+self.env.ref('base.action_partner_merge').unlink()
+
+self.env.ref('project.project_delete_wizard_form')
+
+self.env['account.account.tag'].browse(tag_ids_to_delete)
+
+self.env['account.account.tag'].browse(tag_ids_to_delete).unlink()
+
+self.env['account.move.line'].browse(context.get('active_ids')).remove_move_reconcile()
+
+self.env['base.automation']._get_actions(self, ['on_unlink'])
+
+self.env['bus.bus']._sendone(activity.user_id.partner_id, 'mail.activity/updated', {'activity_deleted': True})
+
+self.env['bus.bus']._sendone(partner, 'mail.activity/updated', {'activity_deleted': True})
+
+self.env['bus.bus']._sendone(self, 'mail.channel/insert', {'id': self.id, 'memberCount': self.member_count, 'members': [('insert-and-unlink', {'id': partner.id})]})
+
+self.env['bus.bus']._sendone(self, 'mail.message/insert', {'id': message.id, 'messageReactionGroups': [('insert' if len(reactions) > 0 else 'insert-and-unlink', {'messageId': message.id, 'content': content, 'count': len(reactions), 'guests': guests, 'partners': partners})]})
+
+self.env['bus.bus']._sendone(self.env.user.partner_id, 'mail.message/delete', {'message_ids': message.ids})
+
+self.env['bus.bus']._sendone(self.env['mail.channel'].browse(attachment.res_id), 'ir.attachment/delete', {'id': attachment.id})
+
+self.env['bus.bus'].search([]).unlink()
+
+self.env['bus.bus'].sudo().search([]).unlink()
+
+self.env['calendar.attendee'].search([('event_id', 'in', self.ids), ('partner_id', 'in', removed_partner_ids)])
+
+self.env['crm.lead'].browse(lead_unlink_ids)
+
+self.env['crm.lead'].browse(lead_unlink_ids).unlink()
+
+self.env['crm.lead.scoring.frequency'].sudo().search([('team_id', '=', False)]).unlink()
+
+self.env['crm.reveal.view'].search([('reveal_ip', '=', res['ip'])]).unlink()
+
+self.env['crm.reveal.view'].search([('reveal_ip', 'in', [lead.reveal_ip for lead in leads])]).unlink()
+
+self.env['event.mail'].search([]).unlink()
+
+self.env['event.registration'].search([('sale_order_line_id', 'in', self.ids)]).unlink()
+
+self.env['gamification.goal'].search([('challenge_id', 'in', self.ids), ('state', '=', 'inprogress')]).unlink()
+
+self.env['hr.attendance.overtime'].search(delete_domain)
+
+self.env['hr.attendance.overtime'].search(delete_domain).unlink()
+
+self.env['ir.asset'].create({'name': 'test_jsfile4', 'bundle': 'test_assetsbundle.manifest2', 'directive': 'remove', 'path': 'test_assetsbundle/static/src/**/*'})
+
+self.env['ir.asset'].create({'name': 'test_jsfile4', 'bundle': 'test_assetsbundle.manifest5', 'directive': 'remove', 'path': 'test_assetsbundle/static/src/js/test_jsfile2.js'})
+
+self.env['ir.asset'].create({'name': 'test_jsfile4', 'bundle': 'test_assetsbundle.remove_error', 'directive': 'remove', 'path': 'test_assetsbundle/static/src/js/test_doesntexist.js'})
+
+self.env['ir.asset'].create({'name': 'test_jsfile4', 'bundle': 'test_assetsbundle.remove_error', 'path': '/test_assetsbundle/static/src/js/test_jsfile1.js'})
+
+self.env['ir.attachment']._file_delete(fname)
+
+self.env['ir.attachment'].search([('res_model', '=', self._name), ('res_id', '=', 0), ('create_date', '<', limit_date), ('write_date', '<', limit_date)]).unlink()
+
+self.env['ir.attachment'].search(domain).unlink()
+
+self.env['ir.attachment'].with_context(clean_context(self._context))
+
+self.env['ir.config_parameter'].search([('key', '=', 'mail.catchall.alias')]).unlink()
+
+self.env['ir.config_parameter'].search([('key', '=', 'mail.catchall.domain')]).unlink()
+
+self.env['ir.config_parameter'].search([('key', 'ilike', 'base.image_autoresize%')]).unlink()
+
+self.env['ir.mail_server'].search([]).unlink()
+
+self.env['ir.model.data']._module_data_uninstall(modules_to_remove)
+
+self.env['ir.model.fields']._get('x_bananas', 'x_name').unlink()
+
+self.env['ir.model.fields'].search([('relation', 'in', self.mapped('model'))]).unlink()
+
+self.env['ir.model.fields.selection'].search([('field_id.model', '=', model), ('field_id.name', '=', 'my_selection'), ('value', '=', option)], limit=1).unlink()
+
+self.env['ir.model.fields.selection'].search([('field_id.model', '=', self.MODEL_ABSTRACT), ('field_id.name', '=', 'state'), ('value', '=', 'confirmed')], limit=1).unlink()
+
+self.env['ir.module.module']._theme_remove(website)
+
+self.env['ir.module.module'].search([('name', 'in', modules_to_remove)])
+
+self.env['ir.property'].search([('res_id', '=', 'res.partner,%s' % self.env.user.partner_id.id)]).unlink()
+
+self.env['ir.property'].sudo().search([('value_reference', 'in', prop_values)]).unlink()
+
+self.env['ir.rule'].create({'name': name, 'model_id': self.model.id, 'groups': [] if global_ else [Command.link(self.group2.id)], 'domain_force': domain, 'perm_read': False, 'perm_write': False, 'perm_create': False, 'perm_unlink': False, 'perm_' + attr: True})
+
+self.env['ir.rule'].search([('groups', '=', False)]).unlink()
+
+self.env['ir.rule'].search([]).unlink()
+
+self.env['ir.translation'].search([('lang', '=', 'fr_FR'), ('module', '=', 'test_translation_import')]).unlink()
+
+self.env['ir.translation'].search([('lang', '=', language.code)]).unlink()
+
+self.env['link.tracker'].search([('url', '=', link)]).unlink()
+
+self.env['mail.alias']._clean_and_check_unique([vals.get('value')])
+
+self.env['mail.blacklist']._remove('Arya.Stark@EXAMPLE.com')
+
+self.env['mail.blacklist'].action_remove_with_reason(recipients[2].email_normalized, 'human error')
+
+self.env['mail.blacklist'].action_remove_with_reason(self.email, self.reason)
+
+self.env['mail.channel'].browse(self.group_private.id).unlink()
+
+self.env['mail.channel'].browse(self.group_public.id).unlink()
+
+self.env['mail.channel'].search([('id', '!=', channel_general.id)]).unlink()
+
+self.env['mail.compose.message'].with_context(self._get_web_context(self.test_record), mail_auto_delete=False)
+
+self.env['mail.compose.message'].with_context(self._get_web_context(self.test_record), mail_auto_delete=False).create({'body': '<p>Test Body</p>', 'partner_ids': [(4, self.partner_1.id), (4, self.partner_2.id)]})
+
+self.env['mail.compose.message'].with_context(self._get_web_context(self.test_records, add_web=True, default_template_id=self.template.id, default_auto_delete_message=True))
+
+self.env['mail.compose.message'].with_context({'default_composition_mode': 'comment', 'default_model': test_record._name, 'default_res_id': test_record.id, 'mail_auto_delete': False})
+
+self.env['mail.compose.message'].with_context({'default_composition_mode': 'comment', 'default_model': test_record._name, 'default_res_id': test_record.id, 'mail_auto_delete': False}).create({'body': '<p>Test Body</p>', 'partner_ids': [(4, customer_id)]})
+
+self.env['mail.followers'].sudo().search([('res_model', '=', self._name), ('res_id', 'in', self.ids)]).unlink()
+
+self.env['mail.group']._clean_email_body(body)
+
+self.env['mail.group.member'].search([('mail_group_id', '=', self.id), ('email_normalized', '=', email_normalize(email))]).unlink()
+
+self.env['mail.mail'].sudo().create({'author_id': self.env.user.partner_id.id, 'auto_delete': True, 'body_html': body_html, 'email_from': self.env.user.email_formatted or self.env.company.catchall_formatted, 'email_to': message.email_from, 'references': message.mail_message_id.message_id, 'subject': subject, 'state': 'outgoing'})
+
+self.env['mail.mail'].sudo().create({'author_id': self.env.user.partner_id.id, 'auto_delete': True, 'body_html': group_message.mail_group_id.moderation_notify_msg, 'email_from': self.env.user.company_id.catchall_formatted or self.env.user.company_id.email_formatted, 'email_to': email_from, 'subject': 'Re: %s' % (subject or ''), 'state': 'outgoing'})
+
+self.env['mail.mail'].sudo().create({'email_from': self.env.user.email_formatted, 'author_id': self.env.user.partner_id.id, 'body_html': body, 'subject': 'Re: %s' % msg_dict.get('subject', ''), 'email_to': msg_dict.get('email_from', False), 'auto_delete': True, 'references': msg_dict.get('message_id')})
+
+self.env['mail.mail'].sudo().create({'email_from': self.env.user.email_formatted, 'author_id': self.env.user.partner_id.id, 'body_html': body, 'subject': 'Re: %s' % msg_dict.get('subject', ''), 'email_to': msg_dict.get('email_from', False), 'auto_delete': True, 'references': msg_dict.get('message_id')}).send()
+
+self.env['mail.mail'].sudo().with_context(clean_context(self._context))
+
+self.env['mail.message'].browse(mail_msg_cascade_ids).unlink()
+
+self.env['mail.message'].search([('model', '=', self._name), ('res_id', 'in', self.ids)]).sudo().unlink()
+
+self.env['mail.message'].search([('rating_ids', 'in', self.ids)]).unlink()
+
+self.env['mail.message'].search([]).unlink()
+
+self.env['mail.notification'].search([('sms_number', 'in', sanitized_numbers)]).unlink()
+
+self.env['mail.notification'].sudo().with_context(clean_context(self._context))
+
+self.env['mail.template'].browse(email_ctx.get('default_template_id')).copy({'auto_delete': False})
+
+self.env['mail.template'].create({'name': 'SPECIAL CONTENT UNLOCKED', 'subject': 'SPECIAL CONTENT UNLOCKED', 'model_id': self.env.ref('test_mail.model_mail_test_container').id, 'auto_delete': True, 'body_html': '<div>WOOP WOOP</div>'})
+
+self.env['mail.template'].create({'name': 'Test template', 'partner_to': '${object.id}', 'lang': '${object.lang}', 'auto_delete': True, 'model_id': self.ref('base.model_res_partner')})
+
+self.env['mail.template'].create({'name': 'Test template', 'partner_to': '{{ object.id }}', 'lang': '{{ object.lang }}', 'auto_delete': True, 'model_id': self.ref('base.model_res_partner')})
+
+self.env['mail.template'].search([('model', '=', 'event.registration')]).unlink()
+
+self.env['phone.blacklist'].action_remove_with_reason(self.phone, self.reason)
+
+self.env['phone.blacklist'].sudo().remove(self.test_numbers_san[1])
+
+self.env['pos.payment.method'].search([('company_id', '=', company.id)]).unlink()
+
+self.env['procurement.group'].with_context(clean_context(self.env.context))
+
+self.env['procurement.group'].with_context(clean_context(self.env.context)).run([self.env['procurement.group'].Procurement(self.product_id, self.quantity, uom_reference, self.warehouse_id.lot_stock_id, _('Manual Replenishment'), _('Manual Replenishment'), self.warehouse_id.company_id, self._prepare_run_values())])
+
+self.env['product.product'].create({'name': 'other first serial to remove with repair', 'tracking': 'serial'})
+
+self.env['product.product'].create({'product_tmpl_id': template.id, 'image_1920': green_image}).unlink()
+
+self.env['product.supplierinfo'].search([('product_tmpl_id', '=', self.product_1.product_tmpl_id.id)]).unlink()
+
+self.env['product.template'].search([('purchase_ok', '=', False), ('sale_ok', '=', False)]).unlink()
+
+self.env['project.delete.wizard'].create({'project_ids': self.ids})
+
+self.env['repair.line'].browse(lines_to_unlink_ids)
+
+self.env['repair.line'].browse(lines_to_unlink_ids).sudo()
+
+self.env['repair.line'].browse(lines_to_unlink_ids).sudo().unlink()
+
+self.env['res.currency.rate'].search([('currency_id', '=', self.env.company.currency_id.id)]).unlink()
+
+self.env['res.currency.rate'].search([]).unlink()
+
+self.env['res.partner']._clean_website(vals['website'])
+
+self.env['res.partner']._clean_website(vals['website_cta_url'])
+
+self.env['res.partner']._clean_website(values['website_cta_url'])
+
+self.env['res.partner'].sudo().search([('email', '=', 'nopartner.test@example.com')]).unlink()
+
+self.env['res.partner.iap'].search([('partner_id', '=', partner.id)]).unlink()
+
+self.env['resource.calendar.leaves'].search([('holiday_id', 'in', self.ids)]).unlink()
+
+self.env['slide.slide.partner'].search(removed_slide_partner_domain)
+
+self.env['slide.slide.partner'].search(removed_slide_partner_domain).unlink()
+
+self.env['sms.sms'].browse(self.sms_all.ids).send(unlink_failed=False, unlink_sent=False, raise_exception=False)
+
+self.env['sms.sms'].browse(self.sms_all.ids).send(unlink_failed=False, unlink_sent=True, raise_exception=False)
+
+self.env['sms.sms'].browse(self.sms_all.ids).send(unlink_failed=True, unlink_sent=False, raise_exception=False)
+
+self.env['sms.sms'].browse(self.sms_all.ids).send(unlink_failed=True, unlink_sent=True, raise_exception=False)
+
+self.env['sms.sms'].search([('number', 'in', sanitized_numbers)]).unlink()
+
+self.env['stock.move'].browse(moves_ids_to_unlink)
+
+self.env['stock.move'].browse(moves_ids_to_unlink).sudo()
+
+self.env['stock.move'].browse(moves_ids_to_unlink).sudo().unlink()
+
+self.env['stock.move.line'].browse(ml_ids_to_delete)
+
+self.env['stock.move.line'].browse(ml_to_unlink)
+
+self.env['stock.move.line'].browse(to_unlink_candidate_ids)
+
+self.env['stock.move.line'].browse(to_unlink_candidate_ids).unlink()
+
+self.env['stock.production.lot'].create({'name': 'B2', 'product_id': product_to_remove.id, 'company_id': self.env.user.company_id.id})
+
+self.env['stock.warehouse.orderpoint'].search([]).unlink()
+
+self.env[self.model].browse(self.res_id)._message_remove_reaction_after_hook(message=self, content=content)
+
+self.extension_view.unlink()
+
+self.mailing_list_1.contact_ids.message_ids.unlink()
+
+self.make_asset_view('test_assetsbundle.remove_error')
+
+self.mockSMSGateway(sms_allow_unlink=True, nbr_t_error={'+32456000011': 'wrong_number_format', '+32456000022': 'credit', '+32456000033': 'server_error', '+32456000044': 'unregistered'})
+
+self.mockSMSGateway(sms_allow_unlink=True, nbr_t_error={'+32456000011': 'wrong_number_format', '+32456000022': 'wrong_number_format'})
+
+self.mockSMSGateway(sms_allow_unlink=True, sim_error='jsonrpc_exception')
+
+self.mock_mail_gateway(mail_unlink_sent=False)
+
+self.mock_mail_gateway(mail_unlink_sent=True)
+
+self.move_id.line_ids.analytic_line_ids.unlink()
+
+self.move_id.sudo().unlink()
+
+self.move_id.with_context(check_move_validity=False, skip_account_move_synchronization=True, force_delete=True)
+
+self.move_id.with_context(check_move_validity=False, skip_account_move_synchronization=True, force_delete=True).write({'line_ids': to_delete_commands + to_create_commands, 'to_check': to_check})
+
+self.opener.post(url='%s/portal/attachment/remove' % self.base_url, json={'params': {'attachment_id': attachment.id, 'access_token': attachment.access_token}})
+
+self.opener.post(url='%s/portal/attachment/remove' % self.base_url, json={'params': {'attachment_id': create_res['id'], 'access_token': 'wrong'}})
+
+self.opener.post(url='%s/portal/attachment/remove' % self.base_url, json={'params': {'attachment_id': create_res['id'], 'access_token': create_res['access_token']}})
+
+self.order.unlink()
+
+self.order.with_user(self.company_data['default_user_employee']).unlink()
+
+self.order.with_user(self.company_data['default_user_portal']).unlink()
+
+self.order.with_user(self.company_data['default_user_salesman_2']).unlink()
+
+self.page_0.with_user(self.env.user).unlink()
+
+self.page_1.with_context(website_id=website_id).unlink()
+
+self.partner.unlink()
+
+self.product_id_2.write({'seller_ids': [(2, id_to_remove, False)]})
+
+self.question_ft.with_user(self.env.user).unlink()
+
+self.ram_32.unlink()
+
+self.ram_attribute.unlink()
+
+self.recurrence_id.unlink()
+
+self.rtc_session_ids.unlink()
+
+self.sale_order.order_line.unlink()
+
+self.sale_order.unlink()
+
+self.search([('module', 'in', modules_to_remove)], order='id DESC')
+
+self.search(domain).unlink()
+
+self.start_tour('/', 'tour_shop_deleted_archived_variants', login='portal')
+
+self.sudo().write({'starred_partner_ids': [Command.unlink(self.env.user.partner_id.id)]})
+
+self.survey.with_user(self.env.user).unlink()
+
+self.task_id.user_timer_id.unlink()
+
+self.template.write({'auto_delete': False, 'attachment_ids': [(0, 0, a) for a in attachment_data], 'email_to': '%s, %s, %s' % (email_to_1, email_to_2, email_to_3), 'email_cc': email_cc_1, 'partner_to': '%s, {{ object.customer_id.id if object.customer_id else "" }}' % self.partner_admin.id, 'report_name': 'TestReport for {{ object.name }}', 'report_template': self.test_report.id})
+
+self.test_record.activity_unlink(['test_mail.mail_act_test_meeting'])
+
+self.test_user.write({'groups_id': [Command.unlink(self.grp_internal.id), Command.unlink(self.grp_public.id), Command.link(self.grp_portal.id)]})
+
+self.unlink()
+
+self.user_employee_nomail.unlink()
+
+self.wh.reception_route_id.rule_ids.unlink()
+
+self.write({'channel_partner_ids': [Command.unlink(partner.id)]})
+
+seq.unlink()
+
+seqs.unlink()
+
+sms_template.unlink()
+
+sol2.unlink()
+
+stage.unlink()
+
+starred_messages.write({'starred_partner_ids': [Command.unlink(partner_id)]})
+
+super()._message_remove_reaction_after_hook(message=message, content=content)
+
+super().unlink()
+
+super(AccountGroup, self).unlink()
+
+super(AccountMoveLine, line).write(cleaned_vals)
+
+super(AccountPaymentMethodLine, unused_payment_method_lines).unlink()
+
+super(ChannelUsersRelation, self).unlink()
+
+super(IrActions, self).unlink()
+
+super(IrModel, self).unlink()
+
+super(Lang, self).unlink()
+
+super(MailActivity, self).unlink()
+
+super(MailMail, self).unlink()
+
+super(MailThread, self).unlink()
+
+super(Menu, menus_to_remove)
+
+super(Menu, menus_to_remove).unlink()
+
+super(Product, self - self.browse(linked_product_ids))._filter_to_unlink()
+
+super(ProductProduct, self - self.browse(linked_product_ids))._filter_to_unlink()
+
+super(Rating, self).unlink()
+
+super(SaleOrderLine, self | related_program_lines).unlink()
+
+super(StockMoveLine, self).unlink()
+
+super(Team, self).unlink()
+
+super(View, self + specific_views).unlink()
+
+super(Website, self).unlink()
+
+super(WebsiteMenu, self).unlink()
+
+survey.unlink()
+
+tag2.unlink()
+
+tags_to_remove.mapped('tax_report_line_ids')
+
+tags_to_remove.mapped('tax_report_line_ids')._remove_tags_used_only_by_self()
+
+task.timesheet_ids.unlink()
+
+task.unlink()
+
+task_form.child_ids.remove(0)
+
+template._render({'group_url': 'Test remove footer'}, engine='ir.qweb', minimal_qcontext=True)
+
+test.unlink()
+
+test_record.activity_ids.unlink()
+
+test_record.with_user(self.user_portal).message_post(body='<p>This is Second Message</p>', subject='Subject', parent_id=message.id, message_type='comment', subtype_xmlid='mail.mt_comment', mail_auto_delete=False)
+
+test_user.unlink()
+
+timelines_to_unlink.unlink()
+
+timesheet1.unlink()
+
+timesheet2.unlink()
+
+title.unlink()
+
+tmp_task.with_user(self.user_projectuser).unlink()
+
+to_delete.unlink()
+
+to_remove.append(payment_method.id)
+
+to_unlink_candidate_ids.add(candidate.id)
+
+todos.unlink()
+
+traces.unlink()
+
+track_5_visitor.unlink()
+
+tracked_project.analytic_account_id.unlink()
+
+translations.unlink()
+
+tuple(tag_ids_to_delete)
+
+unlink.origin(self, **kwargs)
+
+unlinked_attendee.unlink()
+
+user.write({'groups_id': [Command.unlink(group_multi_company_id)]})
+
+values.update({'author_id': author_id, 'body': self._clean_email_body(body), 'email_from': email_from, 'model': self._name, 'partner_ids': [], 'res_id': self.id, 'subject': subject})
+
+variant.unlink()
+
+variants_to_unlink._unlink_or_archive()
+
+visitor_track.unlink()
+
+website_2.unlink()
+
+website_event_menus.unlink()
+
+work_entries.unlink()
+
+workorder_ids.leave_id.unlink()
+

@@ -53,7 +53,7 @@ def getAllFile(filepath, ast_filepath):
     return flag
 
 if __name__ == '__main__':
-    filepath = "../odoo-15.0"
+    filepath = "\\Users\\LostPromise\\Documents\\GitHub\\Data-Sci-Project\\src\\ast_odoo-15.0"
     current_filepath = os.getcwd()
     ast_filepath = current_filepath + "/" + "ast_odoo-15.0"
     if (os.path.exists(ast_filepath)):

@@ -8,7 +8,7 @@ import shutil
 
 def search(filepath):
     code = open(filepath, "r", encoding='utf-8').read()
-    if (re.search("WHERE id=%s", code) != None):
+    if (re.search("hmac", code) != None):
         print(filepath)
 
 def getAllFile(filepath):

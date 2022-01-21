@@ -5,8 +5,8 @@ import ast
 
 # 修改re.search中的内容搜索execute中的sql
 def check(node):
-    if (isinstance(node.func, ast.Attribute) and len(node.args) != 0 and isinstance(node.args[0], ast.Constant)):
-        if (node.func.attr == 'execute' and re.search("password", node.args[0].value) != None):
+    if (isinstance(node.func, ast.Attribute) and isinstance(node.func.value, ast.Name)):
+        if (node.func.value.id == 'hashlib' or node.func.value.id == 'hmac'):
             return True
 
 
@@ -18,7 +18,10 @@ def search(filepath):
     for node in ast.walk(ast_root):
         if (isinstance(node, ast.Call)):
             if (check(node) == True):
-                print(filepath)
+                res.write(ast.unparse(node) + os.linesep)
+                res.write(filepath + os.linesep)
+                res.write('lineno = ' + str(node.lineno) + os.linesep)
+                res.write(os.linesep)
                 break
 
 
@@ -37,7 +40,7 @@ def getAllFile(filepath):
 
 
 if __name__ == '__main__':
-    targetFilepath = os.getcwd() + os.sep + "odoo-15.0"
+    targetFilepath = "../odoo-15.0"
     resFilepath = os.getcwd() + os.sep + "res.txt"
 
     res = open(resFilepath, encoding='utf-8', mode="w+")

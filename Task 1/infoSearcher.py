@@ -66,9 +66,9 @@ def getAllFile(filepath):
 
 if __name__ == '__main__':
     nlp = spacy.load("en_core_web_lg")
-    targetFilepath = os.getcwd() + os.sep + "odoo-15.0"
+    targetFilepath = "../odoo-15.0"
     resFilepath = os.getcwd() + os.sep + "res.txt"
-    dictFilepath = os.getcwd() + os.sep + "dictionary.txt"
+    dictFilepath = "../dictionary.txt"
 
     # 获取词典
     dictionary = open(dictFilepath, encoding='utf-8')

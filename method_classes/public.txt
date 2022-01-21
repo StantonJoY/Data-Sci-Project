@@ -1,0 +1,9 @@
+js
+json
+css
+xml
+html
+report
+post
+render
+submit

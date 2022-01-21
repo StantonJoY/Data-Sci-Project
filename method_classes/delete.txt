@@ -1,0 +1,5 @@
+clean
+unlink
+delete
+remove
+discard

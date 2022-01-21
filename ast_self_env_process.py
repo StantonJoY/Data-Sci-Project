@@ -1,10 +1,10 @@
 import ast
 import re
 import os
-res_ast_self_env_process='C:\\Users\\LostPromise\\Desktop\\Data-Sci-Project 1.1\\res_ast_self_env_process.txt'
+res_ast_self_env_process=os.getcwd()+os.sep+'res_ast_self_env_process.txt'
 
 def search(filepath):
-    with open(res_ast_self_env_process,'a+',encoding='utf-8') as f1:#Warning! Please ensure that the file'res_ast_self_env_process.txt' is clear or doesn't exist before you run this program every time!. Otherwise,the program will write new content after the content already exists in the file'res_ast_self_env_process.txt'!
+    with open(res_ast_self_env_process,'a+',encoding='utf-8') as f1:#Warning! Please ensure that the txt 'res_ast_self_env_process.txt' is clear or doesn't exist before you run this program every time!. Otherwise,the program will write new content after the content already exists in the txt 'res_ast_self_env_process.txt'!
         with open(filepath,'r+',encoding='utf-8') as f:
             code=f.read()
             ast_root=ast.parse(code,mode='exec')

@@ -24,7 +24,7 @@ def sort(filepath, targetfilepath):
         f1.write(words + '\n')
 
 
-if __name__ == '__main__':
+def work():
     sort(filepath_acquire, filepath_acquire_sorted)
     sort(filepath_delete, filepath_delete_sorted)
     sort(filepath_process, filepath_process_sorted)

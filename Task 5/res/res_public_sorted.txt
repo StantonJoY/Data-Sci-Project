@@ -1,0 +1,6 @@
+base64.b64encode(report[0])
+base64.b64encode(xml.encode())
+base64.b64encode(xml.encode()).decode()
+self.env['ir.attachment'].create({'name': 'CustomJscode.js', 'mimetype': 'text/javascript', 'datas': base64.b64encode(code)})
+self.env['ir.attachment'].create({'name': 'EditorExtension.js', 'mimetype': 'text/javascript', 'datas': base64.b64encode(code)})
+self.env['ir.attachment'].create({'name': filename, 'type': 'binary', 'datas': base64.b64encode(report[0]), 'store_fname': filename, 'res_model': 'pos.order', 'res_id': self.ids[0], 'mimetype': 'application/x-pdf'})

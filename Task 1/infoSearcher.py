@@ -6,7 +6,7 @@ from spacy.matcher import Matcher
 import ast
 import shutil
 import res_processer
-min_similarity = 0.82
+min_similarity = 0.9
 hashset = []
 
 
@@ -45,25 +45,6 @@ def getAllFile(filepath):
             if (os.path.isdir(filepath + os.sep + file)):  # 递归遍历目录
                 getAllFile(filepath + os.sep + file)
 
-
-# def process():
-#     resFilepath = os.getcwd() + os.sep + "res.txt"
-#     res = open(resFilepath, encoding='utf-8', mode="r")
-#     result = res.read()
-#     res.close()
-#     resupd = open(os.getcwd() + os.sep + "res.txt", mode="w+")
-#     lst = result.split(os.linesep)
-#     for i in range(len(lst)): lst[i] = lst[i].lower()
-#     lst = list(set(lst))
-#     lst.sort()
-#     for word in lst:
-#         if word == "": continue
-#         resupd.write(word + os.linesep)
-#     resupd.close()
-#
-
-
-
 if __name__ == '__main__':
     nlp = spacy.load("en_core_web_lg")
     targetFilepath = "../odoo-15.0"
@@ -78,10 +59,6 @@ if __name__ == '__main__':
 
     res = open(resFilepath, encoding='utf-8', mode="w+")
 
-    # init matcher
-    # matcher = Matcher(nlp.vocab)
-    # pattern = [{'POS': 'ADJ', 'OP': '*'}, {'POS': 'NOUN', 'OP': '+'}]
-    # matcher.add("var", [pattern])
     getAllFile(targetFilepath)
     res.close()
     res_processer.processs()

@@ -30,8 +30,7 @@ def getAllFile(filepath):
                 getAllFile(filepath + os.sep + file)
 
 
-if __name__=='__main__':
-    targetFilepath = os.getcwd() + os.sep + "odoo-15.0"
+def work():
+    targetFilepath = "../odoo-15.0"
     getAllFile(targetFilepath)
-    print('finished!')
 

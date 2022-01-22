@@ -61,7 +61,7 @@ def get_words(filepath):
     return words
 
 
-if __name__ == '__main__':
+def work():
     acquire_words = get_words(method_classes_acquire)
     delete_words = get_words(method_classes_delete)
     processing_words = get_words(method_classes_processing)
@@ -79,4 +79,3 @@ if __name__ == '__main__':
         getAllFile(targetFilepath, word)
     for word in save_words:
         getAllFile(targetFilepath, word)
-    print('finished!')
